@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario uses /dev/null as STDIN.
-- To Mario, everything contains a vulnerability.
+- The compiler fixes its own mistakes and never warns Chuck about anything.
+- Mario exits vim by typing "exit"
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
+> Hinter jedem lustigen Mann steht eine Frau, die ihre Augen verdreht.
 
 ---
 
