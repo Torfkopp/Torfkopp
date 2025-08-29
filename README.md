@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToChuck error.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Lerne lachen ohne zu weinen.
+> Der Opi der nahm Opium; bums, da fiel der Opi um.
 
 ---
 

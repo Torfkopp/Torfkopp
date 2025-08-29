@@ -4,10 +4,7 @@ with open("../README.md", "r") as file: readme = file.readlines()
 
 with open("chuck.txt", "r", encoding="utf8") as file: chuck_lines = file.readlines()
 
-about_me = []
-for i in range(3):
-    l = random.choice(chuck_lines).strip()
-    about_me.append(l.replace("Chuck Norris", "Mario"))
+about_me = [l.replace("Chuck Norris", "Mario").strip() for l in random.sample(chuck_lines, 3)]
 
 readme[7] = f"- {about_me[0]}\n"
 readme[8] = f"- {about_me[1]}\n"
