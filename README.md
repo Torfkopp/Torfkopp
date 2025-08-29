@@ -6,13 +6,13 @@
 
 ### About Mario
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario throws an exception it's either across the room or out the window.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can access the DB from the UI.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Frech gesagt ist halb gefeuert.
+> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
 
 ---
 
