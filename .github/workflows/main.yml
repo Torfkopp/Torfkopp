@@ -2,7 +2,7 @@ name: Change About and Quote
 run-name: Changing
 on:
   schedule:
-    - cron: "0 8-18*/2 * * *"
+    - cron: "28 8-18/2 * * *"
 jobs:
   change_job:
     runs-on: ubuntu-latest
