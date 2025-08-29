@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.  
-- When Mario drops a table it's bloody but silent.  
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.  
+- Mario can write to ROM.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToChuck error.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Eine Kuh macht muh; viele Kühe machen Mühe.
+> Lerne lachen ohne zu weinen.
 
 ---
 
