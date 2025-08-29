@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- 404 errors simply mean that Mario has been there before you.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws an exception it's either across the room or out the window.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Lieber Himbeergeist als Männerverstand.
+> Frech gesagt ist halb gefeuert.
 
 ---
 
