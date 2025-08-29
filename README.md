@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Chuck about anything.
-- Mario exits vim by typing "exit"
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Hinter jedem lustigen Mann steht eine Frau, die ihre Augen verdreht.
+> Lieber Himbeergeist als Männerverstand.
 
 ---
 
