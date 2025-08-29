@@ -12,7 +12,7 @@
 ---
 
 ### German Wisdom
-> *Eine Kuh macht muh; viele Kühe machen Mühe.*  
+> Eine Kuh macht muh; viele Kühe machen Mühe.
 
 ---
 
