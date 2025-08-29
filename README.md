@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario can write to ROM.
+- Mario uses /dev/null as STDIN.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Der Opi der nahm Opium; bums, da fiel der Opi um.
+> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
 
 ---
 
