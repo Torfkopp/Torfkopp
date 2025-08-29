@@ -14,5 +14,6 @@ readme[8] = f"- {about_me[1]}\n"
 readme[9] = f"- {about_me[2]}\n"
 
 response = requests.get("https://raw.githubusercontent.com/Torfkopp/LapisDiscordBot/refs/heads/master/resources/wisdom.txt")
-readme[14] = "> *" + random.choice(response.text.split('\n')) + "*\n"
+readme[14] = "> " + random.choice(response.text.split('\n')) + "\n"
 with open("../README.md", "w", encoding="utf8") as file: file.writelines(readme)
+
