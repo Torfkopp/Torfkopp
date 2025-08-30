@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario writes code that optimizes itself.
-- Mario plugs in USB sticks perfectly the first time every time
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- To Mario, everything contains a vulnerability.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Warum in die Ferne schweifen, wenn im Dorf die Mädels reifen.
+> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
 
 ---
 
