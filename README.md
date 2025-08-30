@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- To Mario, everything contains a vulnerability.
-- When Mario drops a table it's bloody but silent.
+- Mario can't test for equality because he has no equal.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
+> Ein Schwein kommt selten allein.
 
 ---
 
