@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can binary search unsorted data.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Zum Leben muss man geboren sein.
+> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
 
 ---
 
