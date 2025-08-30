@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can binary search unsorted data.
-- Weird, it always works on Mario's machine.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Aller Mannfang ist schwer.
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
