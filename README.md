@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't make http requests. He makes http demands.
+- Windows 7 was Mario's idea.
+- Mario writes code that optimizes itself.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Warum in die Ferne schweifen, wenn im Dorf die Mädels reifen.
 
 ---
 
