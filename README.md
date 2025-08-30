@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Parent is the child of Mario.
+- Mario programs do not accept input.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Der Dschingis Khan, wenn er nur will.
+> Ein Masochist, der zurückhaut, ist pervers.
 
 ---
 
