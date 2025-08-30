@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Wolle. (Strickwarenfabrikant)
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
