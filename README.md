@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Ein Schwein kommt selten allein.
+> Blumen, die nicht wachsen, nennt man Wachsblumen.
 
 ---
 
