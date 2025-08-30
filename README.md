@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Weird, it always works on Mario's machine.
-- Mario develops in prod.
+- When Mario point to NULL, Null scares.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Niemand verschönt den Betriebsausflug so wie die, die nicht dabei sind.
+> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
 
 ---
 
