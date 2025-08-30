@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can binary search unsorted data.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Weird, it always works on Mario's machine.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
+> Niemand verschönt den Betriebsausflug so wie die, die nicht dabei sind.
 
 ---
 
