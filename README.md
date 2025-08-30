@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can access the DB from the UI.
-- Mario programs do not accept input.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- To Mario, everything contains a vulnerability.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
+> Wer rennt und lacht, kommt in Verdacht.
 
 ---
 
