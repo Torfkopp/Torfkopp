@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
-- Mario doesn't make http requests. He makes http demands.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Blumen, die nicht wachsen, nennt man Wachsblumen.
+> Zum Leben muss man geboren sein.
 
 ---
 
