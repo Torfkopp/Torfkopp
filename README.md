@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- To Mario, everything contains a vulnerability.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario CAN divide by 0.
+- Mario does not code in cycles, he codes in strikes.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer rennt und lacht, kommt in Verdacht.
+> Trockener Humor kann nie überflüssig sein.
 
 ---
 
