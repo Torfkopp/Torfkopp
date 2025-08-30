@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario does not code in cycles, he codes in strikes.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario point to NULL, Null scares.
+- Mario can binary search unsorted data.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Trockener Humor kann nie überflüssig sein.
+> Aller Mannfang ist schwer.
 
 ---
 
