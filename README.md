@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Mich kennen heißt mich lieben.
+> Lieber Wurstfinger als Knoblauchzehen.
 
 ---
 
