@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Parent is the child of Mario.
+- Mario can access the DB from the UI.
+- Mario never has to use the -f option when deleting files.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Abgeordnete sind immer zu tausend Spesen aufgelegt.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
