@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario develops in prod.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario uses /dev/null as STDIN.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Selten Dumme sind nicht selten, aber dumm.
+> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
 
 ---
 
