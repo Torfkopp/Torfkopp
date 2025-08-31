@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws an exception it's either across the room or out the window.
 - Mario can access the DB from the UI.
-- Mario never has to use the -f option when deleting files.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
+> In der Disco ist was los, wenn ich tanze nackt und bloß.
 
 ---
 
