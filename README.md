@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario hosting is 105% uptime guaranteed.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Galle. (G. Stein)
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
