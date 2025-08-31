@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario hosting is 105% uptime guaranteed.
-- 404 errors simply mean that Mario has been there before you.
+- Parent is the child of Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
+> Frisch verzagt ist halb verzweifelt.
 
 ---
 
