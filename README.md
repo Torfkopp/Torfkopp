@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can access the DB from the UI.
+- 404 errors simply mean that Mario has been there before you.
+- Mario does not code in cycles, he codes in strikes.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> In der Disco ist was los, wenn ich tanze nackt und bloß.
+> Zu viel Eisbein schadet dem Steißbein.
 
 ---
 
