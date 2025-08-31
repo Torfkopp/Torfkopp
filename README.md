@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 - Parent is the child of Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Frisch verzagt ist halb verzweifelt.
+> Abgeordnete sind immer zu tausend Spesen aufgelegt.
 
 ---
 
