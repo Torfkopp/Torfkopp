@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can write to ROM.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Viele Stoppschilder bringen den Fahrer zum Rasen.
+> Die größte Offenbarung ist die Galle. (G. Stein)
 
 ---
 
