@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario uses /dev/null as STDIN.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws exceptions, it's across the room.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
