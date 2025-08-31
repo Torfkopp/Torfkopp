@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can write to ROM.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Faulenzen schafft Arbeitsplätze.
+> Die größte Offenbarung ist die Galle. (G. Stein)
 
 ---
 
