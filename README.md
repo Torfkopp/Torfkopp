@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- To Mario, everything contains a vulnerability.
-- Mario can compile syntax errors.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario develops in prod.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
+> Selten Dumme sind nicht selten, aber dumm.
 
 ---
 
