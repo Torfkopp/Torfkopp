@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When Mario throws exceptions, it's across the room.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario exits vim by typing "exit"
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Viele Stoppschilder bringen den Fahrer zum Rasen.
 
 ---
 
