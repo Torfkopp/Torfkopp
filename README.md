@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario can write to ROM.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Galle. (G. Stein)
+> Faulenzen schafft Arbeitsplätze.
 
 ---
 
