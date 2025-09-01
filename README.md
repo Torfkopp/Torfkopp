@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Weird, it always works on Mario's machine.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can delete the Recycle Bin.
+- Mario writes code that optimizes itself.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Willst du dir den Tag versauen, musst du in den Spiegel schauen.
+> Wie man sich fettet, so riecht man.
 
 ---
 
