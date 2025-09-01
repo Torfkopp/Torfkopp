@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Parent is the child of Mario.
-- Mario can write to ROM.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> Rote Haare, Sommersprossen sind die besten Bettgenossen.
 
 ---
 
