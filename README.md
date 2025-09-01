@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws exceptions, it's across the room.
+- Parent is the child of Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Hinter jedem lustigen Mann steht eine Frau, die ihre Augen verdreht.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
