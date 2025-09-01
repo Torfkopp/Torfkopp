@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Volkstrauertag: das ist das Erntedankfest der Rüstungsindustrie.
 
 ---
 
