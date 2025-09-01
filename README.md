@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario programs do not accept input.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario drops a table it's bloody but silent.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
+> Der Mond ist voll, und ich hab auch schon Durst.
 
 ---
 
