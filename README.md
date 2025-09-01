@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can access the DB from the UI.
-- Mario CAN divide by 0.
+- Mario hosting is 105% uptime guaranteed.
+- Weird, it always works on Mario's machine.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Wer ein langes Gesicht macht, hat mehr zu rasieren.
+> Willst du dir den Tag versauen, musst du in den Spiegel schauen.
 
 ---
 
