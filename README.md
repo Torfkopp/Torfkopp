@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Weird, it always works on Mario's machine.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Lieber Wurstfinger als Knoblauchzehen.
+> In der Not legt der Teufel Fliesen.
 
 ---
 
