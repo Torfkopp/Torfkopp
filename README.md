@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Mario doesn't make http requests. He makes http demands.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never has to use the -f option when deleting files.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Es gibt Fach- und Mehrfachidioten.
+> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
 
 ---
 
