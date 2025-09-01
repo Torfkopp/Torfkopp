@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> In der Not legt der Teufel Fliesen.
+> Wir wollen Männer, keine Ersatzteile.
 
 ---
 
