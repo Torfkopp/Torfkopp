@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario writes code that optimizes itself.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- To Mario, everything contains a vulnerability.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wie man sich fettet, so riecht man.
+> Lieber Glück im Unglück als Pech in der Strähne.
 
 ---
 
