@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When Mario drops a table it's bloody but silent.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Windows 7 was Mario's idea.
+- Mario can access the DB from the UI.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Der Mond ist voll, und ich hab auch schon Durst.
+> Wer ein langes Gesicht macht, hat mehr zu rasieren.
 
 ---
 
