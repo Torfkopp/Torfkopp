@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws exceptions, it's across the room.
+- Mario programs do not accept input.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Lieber aussteigen als eingehen.
+> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
 
 ---
 
