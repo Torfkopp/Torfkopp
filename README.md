@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- 404 errors simply mean that Mario has been there before you.
 - Mario writes code that optimizes itself.
+- To Mario, everything contains a vulnerability.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Hier spraye ich und kann nicht anders.
+> Wir wollen endlich alle Kanzler werden!
 
 ---
 
