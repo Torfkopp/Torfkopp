@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario develops in prod.
+- Mario can't test for equality because he has no equal.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Die meisten Menschen werden kleiner, wenn man sie unter die Lupe nimmt.
+> Haben Krawattenträger nicht schon genug am Halse?
 
 ---
 
