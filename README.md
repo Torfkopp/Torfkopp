@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never has to use the -f option when deleting files.
-- When Mario throws exceptions, it's across the room.
+- Windows 7 was Mario's idea.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Sitzt der Hahn auf einer Krähe, war kein Huhn in seiner Nähe.
+> Die meisten Menschen werden kleiner, wenn man sie unter die Lupe nimmt.
 
 ---
 
