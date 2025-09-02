@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario writes code that optimizes itself.
+- To Mario, everything contains a vulnerability.
+- Mario can't test for equality because he has no equal.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Rote Haare, Sommersprossen sind die besten Bettgenossen.
+> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
 
 ---
 
