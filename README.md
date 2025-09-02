@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario CAN divide by 0.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never has to use the -f option when deleting files.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
+> Sitzt der Hahn auf einer Krähe, war kein Huhn in seiner Nähe.
 
 ---
 
