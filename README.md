@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario can compile syntax errors.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Auch Monster brauchen Liebe.
+> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
 
 ---
 
