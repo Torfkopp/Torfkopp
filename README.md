@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
+> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
 
 ---
 
