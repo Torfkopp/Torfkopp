@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can compile syntax errors.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
+> Genitiv ins Wasser, weil es Dativ ist.
 
 ---
 
