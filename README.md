@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario uses /dev/null as STDIN.
+- Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
+> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
 
 ---
 
