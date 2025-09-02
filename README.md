@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can't test for equality because he has no equal.
-- Mario can write to ROM.
+- Mario can compile syntax errors.
+- Mario plugs in USB sticks perfectly the first time every time
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Mit den Händen in den Taschen kann man keine Fliegen haschen.
 
 ---
 
