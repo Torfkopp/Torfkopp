@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can't test for equality because he has no equal.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
+> Ich muss die Nase meiner Ollen an jeder Grenze neu verzollen.
 
 ---
 
