@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- To Mario, everything contains a vulnerability.
-- Mario can access the DB from the UI.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario develops in prod.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden!
+> Liebe beginnt mit Fieber und endet mit Gähnen.
 
 ---
 
