@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario programs do not accept input.
+- 404 errors simply mean that Mario has been there before you.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Ich muss die Nase meiner Ollen an jeder Grenze neu verzollen.
+> Tausche betonierte Zukunft gegen blühende Vergangenheit.
 
 ---
 
