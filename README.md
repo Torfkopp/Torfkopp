@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can compile syntax errors.
+- Mario CAN divide by 0.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
+> Ich bin zutiefst gerührt, sprach der Teig.
 
 ---
 
