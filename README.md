@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario programs do not accept input.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
+> Advent, Advent, das Kraftwerk brennt, und sind die Strahlen erst mal hier, wird bald ein Engelein aus dir.
 
 ---
 
