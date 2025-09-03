@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Weird, it always works on Mario's machine.
+- When Mario throws exceptions, it's across the room.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
+> Auch stille Wasser sind nass.
 
 ---
 
