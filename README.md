@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Mario doesn't make http requests. He makes http demands.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
+> "Die Milch wird sauer, das Bier wird schal - im Fernsehn spricht der Löwenthal ..."
 
 ---
 
