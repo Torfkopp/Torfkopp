@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't make http requests. He makes http demands.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Alles ist so, wie es ist, nur schlechter.
+> Man soll die Gäste feuern, wie sie fallen.
 
 ---
 
