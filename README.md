@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> "Die Milch wird sauer, das Bier wird schal - im Fernsehn spricht der Löwenthal ..."
+> Lieber Glück im Unglück als Pech in der Strähne.
 
 ---
 
