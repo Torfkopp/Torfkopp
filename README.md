@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can access the DB from the UI.
+- Mario does not code in cycles, he codes in strikes.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Man soll die Gäste feuern, wie sie fallen.
+> Die größte Offenbarung ist die Falle. (Trapper)
 
 ---
 
