@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario programs do not accept input.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario develops in prod.
+- Mario plugs in USB sticks perfectly the first time every time
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
+> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
 
 ---
 
