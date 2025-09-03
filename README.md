@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario CAN divide by 0.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Ich bin zutiefst gerührt, sprach der Teig.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
