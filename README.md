@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario develops in prod.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Liebe beginnt mit Fieber und endet mit Gähnen.
+> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
 
 ---
 
