@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario does not code in cycles, he codes in strikes.
+- Mario writes code that optimizes itself.
 - Mario CAN divide by 0.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Falle. (Trapper)
+> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
 
 ---
 
