@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When Mario throws exceptions, it's across the room.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Alles ist so, wie es ist, nur schlechter.
 
 ---
 
