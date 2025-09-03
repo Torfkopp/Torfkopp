@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can delete the Recycle Bin.
-- Mario CAN divide by 0.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario programs do not accept input.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
+> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
 
 ---
 
