@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Advent, Advent, das Kraftwerk brennt, und sind die Strahlen erst mal hier, wird bald ein Engelein aus dir.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
