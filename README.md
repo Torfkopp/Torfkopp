@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can delete the Recycle Bin.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
 
 ---
 
