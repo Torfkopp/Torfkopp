@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario plugs in USB sticks perfectly the first time every time
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
+> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
 
 ---
 
