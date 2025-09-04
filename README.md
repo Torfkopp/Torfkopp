@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can access the DB from the UI.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Vater Staat bringt uns noch alle unter Mutter Erde.
+> Schafft Weihnachten ab! Josef [nicht: Fischer] hat alles zugegeben.
 
 ---
 
