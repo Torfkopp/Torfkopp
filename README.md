@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario does not code in cycles, he codes in strikes.
-- When Mario throws exceptions, it's across the room.
+- When Mario throws an exception it's either across the room or out the window.
+- When Mario point to NULL, Null scares.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
+> Behaltet euer Tränengas - es gibt genug zum Heulen.
 
 ---
 
