@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario point to NULL, Null scares.
-- Mario programs do not accept input.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
+> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
 
 ---
 
