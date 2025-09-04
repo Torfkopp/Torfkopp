@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wenn der Kuchen spricht, schweigt der Krümel.
+> Vater Staat bringt uns noch alle unter Mutter Erde.
 
 ---
 
