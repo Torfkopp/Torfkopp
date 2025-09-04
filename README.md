@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario CAN divide by 0.
-- 404 errors simply mean that Mario has been there before you.
+- Mario can store the value 256 in one byte
+- Mario doesn't make http requests. He makes http demands.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
+> Kann denn Sprühen Sünde sein?
 
 ---
 
