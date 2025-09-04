@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario writes code that optimizes itself.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
+> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
