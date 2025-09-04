@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- When Mario throws exceptions, it's across the room.
-- Mario can't test for equality because he has no equal.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
+> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
 
 ---
 
