@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Weird, it always works on Mario's machine.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario point to NULL, Null scares.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Gott ist allmächtig, nur nicht auf der Erde.
+> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
 
 ---
 
