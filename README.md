@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
+> Wem du's heute kannst besorgen, den verschone nicht bis morgen.
 
 ---
 
