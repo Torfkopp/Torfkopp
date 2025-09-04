@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Weird, it always works on Mario's machine.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario CAN divide by 0.
-- When Mario throws exceptions, it's across the room.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Sauer macht lustig, der Wald lacht sich schon kaputt.
+> Planung ist der Ersatz des Zufalls durch den Irrtum.
 
 ---
 
