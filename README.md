@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario writes code that optimizes itself.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
+> Wenn der Kuchen spricht, schweigt der Krümel.
 
 ---
 
