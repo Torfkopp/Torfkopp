@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Schafft Weihnachten ab! Josef [nicht: Fischer] hat alles zugegeben.
+> Lieber fünf Minuten feige als ein Leben lang tot.
 
 ---
 
