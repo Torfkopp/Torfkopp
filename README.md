@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario CAN divide by 0.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wem du's heute kannst besorgen, den verschone nicht bis morgen.
+> Sauer macht lustig, der Wald lacht sich schon kaputt.
 
 ---
 
