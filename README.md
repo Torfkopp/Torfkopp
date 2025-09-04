@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't make http requests. He makes http demands.
-- Mario exits vim by typing "exit"
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Kann denn Sprühen Sünde sein?
+> Gott ist allmächtig, nur nicht auf der Erde.
 
 ---
 
