@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- When Mario point to NULL, Null scares.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can delete the Recycle Bin.
+- When Mario throws exceptions, it's across the room.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Behaltet euer Tränengas - es gibt genug zum Heulen.
+> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
 
 ---
 
