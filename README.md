@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't make http requests. He makes http demands.
-- When Mario throws an exception it's either across the room or out the window.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never has to use the -f option when deleting files.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Ein Taucher, der nicht taucht, taucht nix.
+> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
 
 ---
 
