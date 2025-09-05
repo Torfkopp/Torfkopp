@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario uses /dev/null as STDIN.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Nur Idioten halten Ordnung; ein Genie beherrscht das Chaos.
+> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
 
 ---
 
