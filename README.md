@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never has to use the -f option when deleting files.
+- Mario exits vim by typing "exit"
 - Windows 7 was Mario's idea.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
+> Lieber Schweißperlen als gar keinen Schmuck.
 
 ---
 
