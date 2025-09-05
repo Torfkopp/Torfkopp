@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario CAN divide by 0.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Je tiefer das Loch, desto plumps.
+> Was keiner kann, das kann ich auch.
 
 ---
 
