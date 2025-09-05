@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario uses /dev/null as STDIN.
-- Mario can store the value 256 in one byte
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can compile syntax errors.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
+> Für einen Anlass gibt es immer eine Gelegenheit.
 
 ---
 
