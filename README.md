@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber oberaffengeil als unterallersau.
+> Nur Idioten halten Ordnung; ein Genie beherrscht das Chaos.
 
 ---
 
