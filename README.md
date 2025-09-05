@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Windows 7 was Mario's idea.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
+> Ich wollte die Einschulung aus Gewissensgründen verweigern.
 
 ---
 
