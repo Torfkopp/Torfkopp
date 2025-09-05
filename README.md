@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can binary search unsorted data.
+- Mario writes code that optimizes itself.
+- When Mario throws an exception it's either across the room or out the window.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber fünf Minuten feige als ein Leben lang tot.
+> Mädchen, schützt euch - esst Knoblauch.
 
 ---
 
