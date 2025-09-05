@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can compile syntax errors.
-- Mario can write to ROM.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Für einen Anlass gibt es immer eine Gelegenheit.
+> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
 
 ---
 
