@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can store the value 256 in one byte
+- When Mario throws an exception it's either across the room or out the window.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Was keiner kann, das kann ich auch.
+> Wer sündigt, schläft nicht.
 
 ---
 
