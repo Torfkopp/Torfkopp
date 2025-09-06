@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Weird, it always works on Mario's machine.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
+> Liebe deinen Nächsten, aber lass dich nicht erwischen.
 
 ---
 
