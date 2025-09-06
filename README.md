@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
+> Hunde, die schielen, beißen daneben.
 
 ---
 
