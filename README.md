@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario never has to use the -f option when deleting files.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can delete the Recycle Bin.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Gefährlich wird es, wenn die Dummen fleißig werden.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
