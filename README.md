@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario programs occupy 150% of CPU, even when they are not executing.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can delete the Recycle Bin.
-- When Mario throws exceptions, it's across the room.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
 
 ---
 
