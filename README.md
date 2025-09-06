@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When Mario throws exceptions, it's across the room.
-- Mario programs do not accept input.
+- Mario can compile syntax errors.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Der direkteste Weg der Listigen ist die Schlangenlinie.
+> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
 
 ---
 
