@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can store the value 256 in one byte
-- Mario develops in prod.
+- Mario can write to ROM.
+- Mario never has to use the -f option when deleting files.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wer für die Katz arbeitet, kommt auf den Hund.
+> Gefährlich wird es, wenn die Dummen fleißig werden.
 
 ---
 
