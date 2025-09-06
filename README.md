@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- To Mario, everything contains a vulnerability.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Manche halten zehnmal leichter eine Rede als einmal ihr Wort.
+> Wer glaubt, er wisse, muss wissen, er glaubt.
 
 ---
 
