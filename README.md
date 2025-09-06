@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can store the value 256 in one byte
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Computer lösen die Probleme, die wir ohne sie nicht hätten.
+> Wer für die Katz arbeitet, kommt auf den Hund.
 
 ---
 
