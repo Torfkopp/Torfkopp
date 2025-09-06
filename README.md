@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can binary search unsorted data.
-- Mario can't test for equality because he has no equal.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario throws exceptions, it's across the room.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Unrecht Gut gedeiht, nicht?
+> Der direkteste Weg der Listigen ist die Schlangenlinie.
 
 ---
 
