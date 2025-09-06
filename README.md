@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Windows 7 was Mario's idea.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Hunde, die schielen, beißen daneben.
+> Wenn die Erde schreien könnte, wären wir alle taub.
 
 ---
 
