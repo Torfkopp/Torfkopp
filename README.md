@@ -6,13 +6,13 @@
 
 ### About Mario
 - The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario does not code in cycles, he codes in strikes.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Drinnen ist es wie draußen: bloß anders.
+> Nostalgie genügt nicht; du musst auch jünger werden!
 
 ---
 
