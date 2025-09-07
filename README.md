@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario uses /dev/null as STDIN.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
+> Ihr habt das Land, doch wir haben die Wand.
 
 ---
 
