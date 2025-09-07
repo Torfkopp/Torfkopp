@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can delete the Recycle Bin.
-- Weird, it always works on Mario's machine.
+- Mario writes code that optimizes itself.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Lieber hoch zu Ross als unter aller Sau.
 
 ---
 
