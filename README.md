@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario drops a table it's bloody but silent.
 - Mario can delete the Recycle Bin.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Viele Stoppschilder bringen den Fahrer zum Rasen.
+> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
 
 ---
 
