@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Weird, it always works on Mario's machine.
-- When Mario point to NULL, Null scares.
+- Mario can compile syntax errors.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Liebe deinen Nächsten, aber lass dich nicht erwischen.
+> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
 
 ---
 
