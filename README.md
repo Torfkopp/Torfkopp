@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario can delete the Recycle Bin.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario point to NULL, Null scares.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
+> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
 
 ---
 
