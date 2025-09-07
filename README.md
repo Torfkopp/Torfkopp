@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario never has to use the -f option when deleting files.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Der Dschingis Khan, wenn er nur will.
+> Manche sind wie die Erde: immer auf Achse und trotzdem rund.
 
 ---
 
