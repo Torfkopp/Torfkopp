@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Windows 7 was Mario's idea.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die Schlankheitskur verliert den Schrecken, lässt du dir alles weiter schmecken.
+> Gute Mädchen kommen in den Himmel; böse überallhin.
 
 ---
 
