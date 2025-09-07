@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can delete the Recycle Bin.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Manche sind wie die Erde: immer auf Achse und trotzdem rund.
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
