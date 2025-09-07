@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can't test for equality because he has no equal.
+- When Mario point to NULL, Null scares.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
+> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
 
 ---
 
