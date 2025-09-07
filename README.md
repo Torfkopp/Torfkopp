@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario drops a table it's bloody but silent.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Ohne Fleiß kein Preis; ohne Leim kein Reim.
+> Drinnen ist es wie draußen: bloß anders.
 
 ---
 
