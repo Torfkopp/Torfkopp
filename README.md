@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario throws exceptions, it's across the room.
+- Mario never has to use the -f option when deleting files.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario point to NULL, Null scares.
-- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
