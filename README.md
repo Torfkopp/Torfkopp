@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Parent is the child of Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario writes code that optimizes itself.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Nostalgie genügt nicht; du musst auch jünger werden!
+> Narrenhände betatschen Brust und Lende.
 
 ---
 
