@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario can access the DB from the UI.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
+> Früher haben wir uns vor der Arbeit gedrückt, heute schauen wir stundenlang zu.
 
 ---
 
