@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario CAN divide by 0.
-- Mario can access the DB from the UI.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- To Mario, everything contains a vulnerability.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Gescheit, gescheiter, gescheitert.
+> Pessimisten finden auch in der Fischsuppe ein Haar.
 
 ---
 
