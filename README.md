@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario CAN divide by 0.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Früher haben wir uns vor der Arbeit gedrückt, heute schauen wir stundenlang zu.
+> Gescheit, gescheiter, gescheitert.
 
 ---
 
