@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- To Mario, everything contains a vulnerability.
-- Mario CAN divide by 0.
+- Mario can write to ROM.
+- Mario can access the DB from the UI.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Legt die Nordsee trocken, wir wollen nach England.
+> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
 
 ---
 
