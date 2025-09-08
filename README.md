@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- Parent is the child of Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can delete the Recycle Bin.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
+> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
 
 ---
 
