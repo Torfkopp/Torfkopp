@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario exits vim by typing "exit"
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can access the DB from the UI.
+- Parent is the child of Mario.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
+> Die dämlichsten Herren haben oft die herrlichsten Damen.
 
 ---
 
