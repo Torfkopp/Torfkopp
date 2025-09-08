@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Parent is the child of Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Kolle. (Aufklärer)
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
