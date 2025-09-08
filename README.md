@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can't test for equality because he has no equal.
+- To Mario, everything contains a vulnerability.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Jedem Analphabeten sein Diktiergerät!
+> Legt die Nordsee trocken, wir wollen nach England.
 
 ---
 
