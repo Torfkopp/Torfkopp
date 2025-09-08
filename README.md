@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can't test for equality because he has no equal.
+- Mario does not code in cycles, he codes in strikes.
+- Mario exits vim by typing "exit"
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
+> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
 
 ---
 
