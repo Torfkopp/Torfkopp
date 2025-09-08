@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can delete the Recycle Bin.
-- Mario can access the DB from the UI.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
+> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
 
 ---
 
