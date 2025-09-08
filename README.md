@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario writes code that optimizes itself.
-- Mario programs do not accept input.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Narrenhände betatschen Brust und Lende.
+> Die größte Offenbarung ist der Kolle. (Aufklärer)
 
 ---
 
