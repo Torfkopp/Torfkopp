@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can binary search unsorted data.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Ehelich währt am längsten, doch vorehelich ist spannender.
+> Jedem Analphabeten sein Diktiergerät!
 
 ---
 
