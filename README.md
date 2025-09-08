@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Parent is the child of Mario.
-- To Mario, everything contains a vulnerability.
+- Mario can write to ROM.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Die dämlichsten Herren haben oft die herrlichsten Damen.
+> Ehelich währt am längsten, doch vorehelich ist spannender.
 
 ---
 
