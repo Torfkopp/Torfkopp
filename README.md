@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario writes code that optimizes itself.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can access the DB from the UI.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
+> Wo wir sind, geht alles schief. Aber wir können ja nicht überall sein (Losung der mobilen Einsatzkommandos)
 
 ---
 
