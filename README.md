@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
 - Mario never has to use the -f option when deleting files.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Wenn eine Schraube locker ist, hat das Leben etwas mehr Spiel.
+> Wir schießen die Politiker auf den Mond, damit sich Raumfahrt wieder lohnt.
 
 ---
 
