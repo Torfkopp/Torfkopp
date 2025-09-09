@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario plugs in USB sticks perfectly the first time every time
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Sauer macht lustig, der Wald lacht sich schon kaputt.
+> Haben Krawattenträger nicht schon genug am Halse?
 
 ---
 
