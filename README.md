@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Windows 7 was Mario's idea.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lieber natürliche Dummheit als künstliche Intelligenz.
+> Mancher fasst sich an den Kopf - und greift ins Leere.
 
 ---
 
