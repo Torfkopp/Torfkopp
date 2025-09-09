@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario programs do not accept input.
-- Mario writes code that optimizes itself.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Lieber am Po als am Arsch (Touristenwerbung).
+> Nur die Harten kommen in den Garten.
 
 ---
 
