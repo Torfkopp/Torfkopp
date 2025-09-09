@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can access the DB from the UI.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wo wir sind, geht alles schief. Aber wir können ja nicht überall sein (Losung der mobilen Einsatzkommandos)
+> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
 
 ---
 
