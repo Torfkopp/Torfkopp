@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Weird, it always works on Mario's machine.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Wir fordern Haftpflicht für künstliche Gebisse.
+> Raritäten, die in Massen auftreten, sind besonders selten.
 
 ---
 
