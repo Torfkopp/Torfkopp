@@ -5,9 +5,9 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - When Mario point to NULL, Null scares.
+- Weird, it always works on Mario's machine.
 
 ---
 
