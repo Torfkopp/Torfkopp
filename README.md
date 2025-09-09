@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can access the DB from the UI.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario writes code that optimizes itself.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Fettflecke werden wie neu, wenn man sie regelmäßig mit Butter bestreicht.
+> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
 
 ---
 
