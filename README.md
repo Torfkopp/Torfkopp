@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
+> Schützt die Glühbirnen vor dem Lampenfieber.
 
 ---
 
