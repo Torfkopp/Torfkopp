@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario CAN divide by 0.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Raritäten, die in Massen auftreten, sind besonders selten.
+> Wenn eine Schraube locker ist, hat das Leben etwas mehr Spiel.
 
 ---
 
