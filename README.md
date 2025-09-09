@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can access the DB from the UI.
+- Mario programs do not accept input.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Mancher fasst sich an den Kopf - und greift ins Leere.
+> Lieber am Po als am Arsch (Touristenwerbung).
 
 ---
 
