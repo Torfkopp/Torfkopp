@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- To Mario, everything contains a vulnerability.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Pessimisten finden auch in der Fischsuppe ein Haar.
+> Fettflecke werden wie neu, wenn man sie regelmäßig mit Butter bestreicht.
 
 ---
 
