@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never has to use the -f option when deleting files.
+- Mario writes code that optimizes itself.
+- Weird, it always works on Mario's machine.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Nur die Harten kommen in den Garten.
+> Wir fordern Haftpflicht für künstliche Gebisse.
 
 ---
 
