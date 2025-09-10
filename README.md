@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can compile syntax errors.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
+> Die größte Offenbarung ist die Delle. (Kfz-Reparaturwerkstatt)
 
 ---
 
