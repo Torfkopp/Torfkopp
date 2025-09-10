@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can delete the Recycle Bin.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can binary search unsorted data.
+- Parent is the child of Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Lerne lachen ohne zu weinen.
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
