@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario drops a table it's bloody but silent.
-- Mario CAN divide by 0.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Ich bin ein Vampir: wasch dir den Hals!
+> Lieber fünf vor zwölf als keine nach eins.
 
 ---
 
