@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario exits vim by typing "exit"
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Die Basis des Fundamentalen ist das Grundlegende.
+> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
 
 ---
 
