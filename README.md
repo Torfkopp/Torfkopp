@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario CAN divide by 0.
-- Mario hosting is 105% uptime guaranteed.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario throws exceptions, it's across the room.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Faulheit ist: sich ausruhen, bevor man müde wird.
+> Keine Angst: wir kommen nicht in die Hölle. Wir leben schon drin.
 
 ---
 
