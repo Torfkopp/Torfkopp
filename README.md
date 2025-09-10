@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario drops a table it's bloody but silent.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Delle. (Kfz-Reparaturwerkstatt)
+> Ich bin ein Vampir: wasch dir den Hals!
 
 ---
 
