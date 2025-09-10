@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario point to NULL, Null scares.
-- Weird, it always works on Mario's machine.
+- Mario can access the DB from the UI.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wir schießen die Politiker auf den Mond, damit sich Raumfahrt wieder lohnt.
+> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
 
 ---
 
