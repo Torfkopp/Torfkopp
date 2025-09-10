@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario throws exceptions, it's across the room.
-- Mario writes code that optimizes itself.
+- To Mario, everything contains a vulnerability.
+- Mario can delete the Recycle Bin.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
 
 ---
 
