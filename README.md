@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario throws exceptions, it's across the room.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
+> Sie war "von und zu", er "auf und davon".
 
 ---
 
