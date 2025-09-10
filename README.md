@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Parent is the child of Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
+> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
 
 ---
 
