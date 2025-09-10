@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario CAN divide by 0.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
+> Faulheit ist: sich ausruhen, bevor man müde wird.
 
 ---
 
