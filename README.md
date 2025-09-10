@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 - When Mario throws exceptions, it's across the room.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Keine Angst: wir kommen nicht in die Hölle. Wir leben schon drin.
+> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
 
 ---
 
