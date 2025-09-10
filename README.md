@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario throws exceptions, it's across the room.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
+> Die Basis des Fundamentalen ist das Grundlegende.
 
 ---
 
