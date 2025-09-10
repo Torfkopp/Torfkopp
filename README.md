@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario exits vim by typing "exit"
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
+> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
 
 ---
 
