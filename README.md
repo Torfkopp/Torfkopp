@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Windows 7 was Mario's idea.
+- Mario can compile syntax errors.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der einen Vogel hat, ist ein Star.
+> Computer lösen die Probleme, die wir ohne sie nicht hätten.
 
 ---
 
