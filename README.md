@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- To Mario, everything contains a vulnerability.
+- Mario hosting is 105% uptime guaranteed.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Was Vatikan, kann Mutti schon lange.
+> Bist du einsam und allein, sprüh dich mit Kontaktspray ein.
 
 ---
 
