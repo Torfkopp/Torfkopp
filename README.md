@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can compile syntax errors.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs do not accept input.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Computer lösen die Probleme, die wir ohne sie nicht hätten.
+> In einer guten Beziehung hat niemand die Hosen an. Die stören ja nur.
 
 ---
 
