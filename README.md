@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario invented binary by performing a roundhouse on the number 10.
-- When Mario throws an exception it's either across the room or out the window.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario writes code that optimizes itself.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> In einer guten Beziehung hat niemand die Hosen an. Die stören ja nur.
+> Arbeit ist der Untergang der trinkenden Klasse.
 
 ---
 
