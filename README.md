@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario never has to use the -f option when deleting files.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Frauen gemeinsam sind stark geschädigt.
+> Lieber Null Bock als keine Ziege.
 
 ---
 
