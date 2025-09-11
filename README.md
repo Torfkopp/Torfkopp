@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can delete the Recycle Bin.
-- Mario can compile syntax errors.
+- When Mario drops a table it's bloody but silent.
+- Mario CAN divide by 0.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
