@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario CAN divide by 0.
-- 404 errors simply mean that Mario has been there before you.
+- Mario never has to use the -f option when deleting files.
+- Mario can't test for equality because he has no equal.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
