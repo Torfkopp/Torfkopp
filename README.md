@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Parent is the child of Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario writes code that optimizes itself.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
+> Der Vater rülpst, die Kinder lachen: so ist billig Freude machen.
 
 ---
 
