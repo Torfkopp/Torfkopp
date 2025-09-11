@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Wir fordern Haftpflicht für künstliche Gebisse.
+> Was Vatikan, kann Mutti schon lange.
 
 ---
 
