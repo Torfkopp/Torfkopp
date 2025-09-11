@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario hosting is 105% uptime guaranteed.
-- Mario exits vim by typing "exit"
+- Mario plugs in USB sticks perfectly the first time every time
+- 404 errors simply mean that Mario has been there before you.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Bist du einsam und allein, sprüh dich mit Kontaktspray ein.
+> Stoßstangen sind aller Laster Anfang.
 
 ---
 
