@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario writes code that optimizes itself.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario CAN divide by 0.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Der Vater rülpst, die Kinder lachen: so ist billig Freude machen.
+> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
 
 ---
 
