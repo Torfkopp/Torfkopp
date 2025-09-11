@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario CAN divide by 0.
-- Mario can access the DB from the UI.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
