@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 - Mario never has to use the -f option when deleting files.
-- Mario can't test for equality because he has no equal.
-- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
+> Frauen gemeinsam sind stark geschädigt.
 
 ---
 
