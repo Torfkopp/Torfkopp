@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario point to NULL, Null scares.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario CAN divide by 0.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden!
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
