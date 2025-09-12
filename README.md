@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario develops in prod.
+- Mario uses /dev/null as STDIN.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Bist du einsam und allein, sprüh dich mit Kontaktspray ein.
+> Babypille fauler Zauber, Ajax macht das Becken sauber.
 
 ---
 
