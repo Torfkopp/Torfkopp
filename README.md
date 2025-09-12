@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can write to ROM.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
+> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
 
 ---
 
