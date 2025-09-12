@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pupille. (Optiker)
+> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
 
 ---
 
