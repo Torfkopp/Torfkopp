@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can access the DB from the UI.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden.
+> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
 
 ---
 
