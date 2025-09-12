@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can write to ROM.
-- To Mario, everything contains a vulnerability.
+- When Mario point to NULL, Null scares.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
+> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
 
 ---
 
