@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario CAN divide by 0.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Was Krupp in Essen sind wir im Trinken.
+> Lieber locker vom Hocker als hektisch übern Ecktisch.
 
 ---
 
