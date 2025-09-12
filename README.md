@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
+> Bist du einsam und allein, sprüh dich mit Kontaktspray ein.
 
 ---
 
