@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Windows 7 was Mario's idea.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Lieber locker vom Hocker als hektisch übern Ecktisch.
+> Lieber Ouzo als Juso.
 
 ---
 
