@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
+> Die größte Offenbarung ist die Pupille. (Optiker)
 
 ---
 
