@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can binary search unsorted data.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Lieber Ouzo als Juso.
+> Kein Fachmann ohne Flachmann.
 
 ---
 
