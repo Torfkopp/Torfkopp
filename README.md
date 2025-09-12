@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never has to use the -f option when deleting files.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
+> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
 
 ---
 
