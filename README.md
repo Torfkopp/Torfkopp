@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - When Mario point to NULL, Null scares.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
+> Wir wollen endlich alle Kanzler werden!
 
 ---
 
