@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Der Dschingis Khan, wenn er nur will.
+> Das Leben gibt's gratis, der Rest ist käuflich.
 
 ---
 
