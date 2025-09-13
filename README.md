@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
+- Parent is the child of Mario.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario drops a table it's bloody but silent.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Bulle. (cow in season)
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
