@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario uses /dev/null as STDIN.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 - Mario writes code that optimizes itself.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Babypille fauler Zauber, Ajax macht das Becken sauber.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
