@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't use web standards as the web will conform to him.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can store the value 256 in one byte
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
+> Die kluge Frau folgt ihrem Mann, wohin sie will.
 
 ---
 
