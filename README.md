@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario writes code that optimizes itself.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
+> Ein Bild von Meister Remmebrand das wär mir lieber an der Wand.
 
 ---
 
