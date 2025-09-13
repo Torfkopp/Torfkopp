@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario writes code that optimizes itself.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't make http requests. He makes http demands.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der einen Vogel hat, ist ein Star.
+> Durch Arbeit versaut man sich den ganzen Tag.
 
 ---
 
