@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario does not code in cycles, he codes in strikes.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
+> Je zwölfer der Mittag, desto knurrer der Magen.
 
 ---
 
