@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
+> Drum prüfe, wer sich ewig schindet ...
 
 ---
 
