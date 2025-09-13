@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario writes code that optimizes itself.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Wer lächeln kann, wenn's schiefgeht, der weiß, wen er verantwortlich machen kann.
+> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
 
 ---
 
