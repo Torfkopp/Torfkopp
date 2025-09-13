@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can't test for equality because he has no equal.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Je weniger Haare man hat, desto mehr Gesicht muss man waschen.
+> Wer lächeln kann, wenn's schiefgeht, der weiß, wen er verantwortlich machen kann.
 
 ---
 
