@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario does not code in cycles, he codes in strikes.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Je zwölfer der Mittag, desto knurrer der Magen.
+> Die größte Offenbarung ist der Bulle. (cow in season)
 
 ---
 
