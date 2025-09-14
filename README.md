@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario programs do not accept input.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Was tut das Volk? Es folgt!
+> Montagmorgen 10 nach 8, und die Woche nimmt kein Ende.
 
 ---
 
