@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can't test for equality because he has no equal.
-- Parent is the child of Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Manche sind wie die Erde: immer auf Achse und trotzdem rund.
+> Ich bin zutiefst gerührt, sprach der Teig.
 
 ---
 
