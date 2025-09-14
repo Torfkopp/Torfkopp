@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- When Mario point to NULL, Null scares.
-- Mario can delete the Recycle Bin.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Windows 7 was Mario's idea.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
+> Lieber eine Flinte im Korn als Waffen im Weltraum.
 
 ---
 
