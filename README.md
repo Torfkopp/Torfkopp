@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- When Mario point to NULL, Null scares.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
