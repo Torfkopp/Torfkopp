@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Windows 7 was Mario's idea.
-- Mario hosting is 105% uptime guaranteed.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flinte im Korn als Waffen im Weltraum.
+> EDV = Ende der Vernunft.
 
 ---
 
