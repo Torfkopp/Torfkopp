@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- To Mario, everything contains a vulnerability.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can store the value 256 in one byte
+- When Mario point to NULL, Null scares.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Meine Glotze ist kaputt, drum lern' ich lesen.
+> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
 
 ---
 
