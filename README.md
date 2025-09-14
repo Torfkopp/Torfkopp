@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can't test for equality because he has no equal.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ein Bild von Meister Remmebrand das wär mir lieber an der Wand.
+> Manche sind wie die Erde: immer auf Achse und trotzdem rund.
 
 ---
 
