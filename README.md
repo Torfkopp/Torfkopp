@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can't test for equality because he has no equal.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> EDV = Ende der Vernunft.
+> Wer langsam geht, kommt auch zu spät.
 
 ---
 
