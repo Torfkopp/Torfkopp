@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Die Basis des Fundamentalen ist das Grundlegende.
+> Kleine Bosheiten erhalten die Feindschaft.
 
 ---
 
