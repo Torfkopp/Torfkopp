@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Windows 7 was Mario's idea.
+- Mario develops in prod.
+- Mario can access the DB from the UI.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Arbeit macht das Leben süß; Faulheit stärkt die Glieder.
+> Gib mir Deinen Ausweis, und ich sage Dir, wer Du bist.
 
 ---
 
