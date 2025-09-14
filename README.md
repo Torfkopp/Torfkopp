@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario programs do not accept input.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Lieber Hahn im Korb als Hähnchen im Wienerwald.
+> Was tut das Volk? Es folgt!
 
 ---
 
