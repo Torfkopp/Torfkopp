@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can access the DB from the UI.
-- When Mario point to NULL, Null scares.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- To Mario, everything contains a vulnerability.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Gib mir Deinen Ausweis, und ich sage Dir, wer Du bist.
+> Meine Glotze ist kaputt, drum lern' ich lesen.
 
 ---
 
