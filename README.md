@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Kleine Bosheiten erhalten die Feindschaft.
+> Arbeit macht das Leben süß; Faulheit stärkt die Glieder.
 
 ---
 
