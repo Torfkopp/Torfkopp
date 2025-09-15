@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can write to ROM.
+- Mario programs do not accept input.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Trinkt der Bill viel Kölsch vom Fass, macht's auch mit Hilary wieder Spaß.
+> Kleine Bosheiten erhalten die Feindschaft.
 
 ---
 
