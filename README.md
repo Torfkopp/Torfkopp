@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can binary search unsorted data.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Parent is the child of Mario.
+- Mario uses /dev/null as STDIN.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Hau niemals ab - hau einfach zu!
+> Jedem Fiaker seine Viagra!
 
 ---
 
