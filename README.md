@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Weird, it always works on Mario's machine.
+- Mario writes code that optimizes itself.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
