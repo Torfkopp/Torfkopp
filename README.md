@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Windows 7 was Mario's idea.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario drops a table it's bloody but silent.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer sich nicht wehrt, endet am Herd.
+> Lieber Schweißperlen als gar keinen Schmuck.
 
 ---
 
