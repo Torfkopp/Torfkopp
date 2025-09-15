@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can compile syntax errors.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Lieber Kies in der Tasche als Sand im Koffer.
+> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
 
 ---
 
