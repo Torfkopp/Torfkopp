@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario programs do not accept input.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can binary search unsorted data.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Kleine Bosheiten erhalten die Feindschaft.
+> Hau niemals ab - hau einfach zu!
 
 ---
 
