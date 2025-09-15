@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Parent is the child of Mario.
-- Mario exits vim by typing "exit"
+- Mario can binary search unsorted data.
+- Mario can compile syntax errors.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Gülle. (Landwirt)
+> Lieber Kies in der Tasche als Sand im Koffer.
 
 ---
 
