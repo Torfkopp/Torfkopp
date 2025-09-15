@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can access the DB from the UI.
-- When Mario drops a table it's bloody but silent.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Jeder ist seines Glückes Störenfried.
+> Trinkt der Bill viel Kölsch vom Fass, macht's auch mit Hilary wieder Spaß.
 
 ---
 
