@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can binary search unsorted data.
+- Parent is the child of Mario.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
+> Die größte Offenbarung ist die Gülle. (Landwirt)
 
 ---
 
