@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can access the DB from the UI.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
+> Jeder ist seines Glückes Störenfried.
 
 ---
 
