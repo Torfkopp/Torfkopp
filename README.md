@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can store the value 256 in one byte
-- Mario uses /dev/null as STDIN.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Wer sich nicht wehrt, endet am Herd.
 
 ---
 
