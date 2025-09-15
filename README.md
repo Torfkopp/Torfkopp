@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can store the value 256 in one byte
 - Mario uses /dev/null as STDIN.
-- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Jedem Fiaker seine Viagra!
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
