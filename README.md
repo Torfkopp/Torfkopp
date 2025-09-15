@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Weird, it always works on Mario's machine.
+- Mario exits vim by typing "exit"
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
+> Ich finde alles Scheiße: wo ist das Fundbüro?
 
 ---
 
