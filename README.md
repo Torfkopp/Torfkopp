@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can delete the Recycle Bin.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario point to NULL, Null scares.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> It's öde to be blöde.
+> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
 
 ---
 
