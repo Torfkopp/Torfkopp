@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario hosting is 105% uptime guaranteed.
-- Mario CAN divide by 0.
+- Mario plugs in USB sticks perfectly the first time every time
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lerne lachen ohne zu weinen.
+> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
 
 ---
 
