@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario hosting is 105% uptime guaranteed.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can binary search unsorted data.
+- When Mario drops a table it's bloody but silent.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
+> Für manche Leute ist ein Gehirnschlag ein Schlag ins Leere.
 
 ---
 
