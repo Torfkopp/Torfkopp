@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario writes code that optimizes itself.
-- Mario can delete the Recycle Bin.
+- Mario can binary search unsorted data.
+- Mario can compile syntax errors.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Enthaltsamkeit ist aller Laster Anfang.
+> Was tut das Volk? Es folgt!
 
 ---
 
