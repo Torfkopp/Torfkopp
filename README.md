@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can compile syntax errors.
-- When Mario point to NULL, Null scares.
+- Weird, it always works on Mario's machine.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Was tut das Volk? Es folgt!
+> Spontaneität will wohlüberlegt sein.
 
 ---
 
