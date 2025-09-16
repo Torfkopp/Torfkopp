@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Parent is the child of Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
+> Lieber fünf vor zwölf als keine nach eins.
 
 ---
 
