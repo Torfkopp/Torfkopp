@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Windows 7 was Mario's idea.
+- Mario uses /dev/null as STDIN.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
 
 ---
 
