@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
+> Genitiv ins Wasser, weil es Dativ ist.
 
 ---
 
