@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- When Mario drops a table it's bloody but silent.
-- Weird, it always works on Mario's machine.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Für manche Leute ist ein Gehirnschlag ein Schlag ins Leere.
+> Gott ist allmächtig, nur nicht auf der Erde.
 
 ---
 
