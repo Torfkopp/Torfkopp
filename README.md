@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Gott ist allmächtig, nur nicht auf der Erde.
+> Die größte Offenbarung ist die Pupille. (Optiker)
 
 ---
 
