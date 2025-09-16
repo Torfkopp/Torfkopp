@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never has to use the -f option when deleting files.
+- Parent is the child of Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Spontaneität will wohlüberlegt sein.
+> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
 
 ---
 
