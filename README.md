@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't use web standards as the web will conform to him.
 - When Mario throws exceptions, it's across the room.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Ich finde alles Scheiße: wo ist das Fundbüro?
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
