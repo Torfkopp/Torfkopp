@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario point to NULL, Null scares.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario writes code that optimizes itself.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pupille. (Optiker)
+> Enthaltsamkeit ist aller Laster Anfang.
 
 ---
 
