@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario point to NULL, Null scares.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario hosting is 105% uptime guaranteed.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
+> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
 
 ---
 
