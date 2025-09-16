@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario hosting is 105% uptime guaranteed.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht; alles zahlt, ALDI lacht.
+> Lerne lachen ohne zu weinen.
 
 ---
 
