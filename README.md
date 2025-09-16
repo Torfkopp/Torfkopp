@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario uses /dev/null as STDIN.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Genitiv ins Wasser, weil es Dativ ist.
+> Kein Abriss unter dieser Nummer.
 
 ---
 
