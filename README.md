@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can write to ROM.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario writes code that optimizes itself.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Ein Bild von Meister Remmebrand das wär mir lieber an der Wand.
+> Was der Bauer nicht kennt, vergisst er nicht.
 
 ---
 
