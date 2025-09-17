@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
 
 ---
 
