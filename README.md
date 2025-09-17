@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Genitiv ins Wasser, weil es Dativ ist.
+> Lieber Mixed Pickles als Akne.
 
 ---
 
