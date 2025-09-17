@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
+> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
 
 ---
 
