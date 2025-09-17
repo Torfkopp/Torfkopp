@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario exits vim by typing "exit"
+- Mario can binary search unsorted data.
+- Mario can write to ROM.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber spät und richtig als nie und falsch.
+> Ein Bild von Meister Remmebrand das wär mir lieber an der Wand.
 
 ---
 
