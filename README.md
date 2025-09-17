@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Weird, it always works on Mario's machine.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> If you wanna be a wife cut your dickie with a knife.
+> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
 
 ---
 
