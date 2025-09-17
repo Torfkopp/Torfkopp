@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can compile syntax errors.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario exits vim by typing "exit"
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
+> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
 
 ---
 
