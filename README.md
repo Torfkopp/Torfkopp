@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario throws exceptions, it's across the room.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can write to ROM.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
 
 ---
 
