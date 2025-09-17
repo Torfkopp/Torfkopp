@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario uses /dev/null as STDIN.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario throws exceptions, it's across the room.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Was der Bauer nicht kennt, vergisst er nicht.
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
