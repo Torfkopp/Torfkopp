@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario exits vim by typing "exit"
-- To Mario, everything contains a vulnerability.
+- Mario can write to ROM.
+- Mario can compile syntax errors.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
+> Polygamie ist Demokratie im Bett.
 
 ---
 
