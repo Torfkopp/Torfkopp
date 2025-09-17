@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario drops a table it's bloody but silent.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer trinkt, schadet dem Durst.
+> Genitiv ins Wasser, weil es Dativ ist.
 
 ---
 
