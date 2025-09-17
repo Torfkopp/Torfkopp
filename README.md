@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario can store the value 256 in one byte
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Narrenhände betatschen Brust und Lende.
+> Lieber spät und richtig als nie und falsch.
 
 ---
 
