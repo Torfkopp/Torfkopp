@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can binary search unsorted data.
+- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
+> If you wanna be a wife cut your dickie with a knife.
 
 ---
 
