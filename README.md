@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 - Mario can write to ROM.
-- Mario can compile syntax errors.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Polygamie ist Demokratie im Bett.
+> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
 
 ---
 
