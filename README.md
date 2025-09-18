@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario uses /dev/null as STDIN.
+- Mario does not code in cycles, he codes in strikes.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Ist Silvester hell und klar, ist am andern Tag Neujahr.
+> Gott sei Punk.
 
 ---
 
