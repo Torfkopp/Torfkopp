@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - Mario programs do not accept input.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Wir fordern Haftpflicht für künstliche Gebisse.
+> Ist Silvester hell und klar, ist am andern Tag Neujahr.
 
 ---
 
