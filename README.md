@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can access the DB from the UI.
-- Mario can binary search unsorted data.
+- Mario can write to ROM.
+- Mario writes code that optimizes itself.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Sturm ist erst, wenn Schafe keine Locken mehr haben.
+> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
 
 ---
 
