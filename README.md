@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario does not code in cycles, he codes in strikes.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Gott sei Punk.
+> Der Bauer pflügt, der Bauer eggt, derweil im Stall das Vieh verreckt.
 
 ---
 
