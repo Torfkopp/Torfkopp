@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario never has to use the -f option when deleting files.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can access the DB from the UI.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Ich hab' die Kantine satt, ich esse nur noch Kitekat.
+> Sturm ist erst, wenn Schafe keine Locken mehr haben.
 
 ---
 
