@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not code in cycles, he codes in strikes.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer hat denn den Käse ins Fernsehn gerollt?
+> Wir fordern Haftpflicht für künstliche Gebisse.
 
 ---
 
