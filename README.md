@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Windows 7 was Mario's idea.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario point to NULL, Null scares.
+- Mario uses /dev/null as STDIN.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
+> Nimm alles, dann brauchst du nichts.
 
 ---
 
