@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario uses /dev/null as STDIN.
-- Mario programs do not accept input.
+- Mario CAN divide by 0.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Nimm alles, dann brauchst du nichts.
+> Wer hat denn den Käse ins Fernsehn gerollt?
 
 ---
 
