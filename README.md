@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario writes code that optimizes itself.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
+> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
 
 ---
 
