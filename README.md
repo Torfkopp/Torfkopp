@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario throws an exception it's either across the room or out the window.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can delete the Recycle Bin.
+- Windows 7 was Mario's idea.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Mixed Pickles als Akne.
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
