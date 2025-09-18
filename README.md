@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't make http requests. He makes http demands.
+- Mario writes code that optimizes itself.
+- Mario can compile syntax errors.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Der Bauer pflügt, der Bauer eggt, derweil im Stall das Vieh verreckt.
+> Wer faul ist, schaft Arbeitsplätze.
 
 ---
 
