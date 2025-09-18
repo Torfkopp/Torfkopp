@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario can compile syntax errors.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never has to use the -f option when deleting files.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Wer faul ist, schaft Arbeitsplätze.
+> Ich hab' die Kantine satt, ich esse nur noch Kitekat.
 
 ---
 
