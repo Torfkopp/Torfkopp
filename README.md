@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't make http requests. He makes http demands.
-- When Mario drops a table it's bloody but silent.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Rauche jetzt, zahle später.
+> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
 
 ---
 
