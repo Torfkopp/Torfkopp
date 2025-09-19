@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario writes code that optimizes itself.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wenn der Bauer schneller rennt, hinter ihm der CASTOR brennt.
+> Wer zuletzt lacht, stirbt wenigstens fröhlich.
 
 ---
 
