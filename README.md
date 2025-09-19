@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can compile syntax errors.
-- Parent is the child of Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
+> Sonderlinge lachen sogar beim Zwiebelschneiden.
 
 ---
 
