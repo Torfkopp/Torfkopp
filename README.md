@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can compile syntax errors.
+- Mario does not code in cycles, he codes in strikes.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Lieber Arm ab als arm dran.
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
