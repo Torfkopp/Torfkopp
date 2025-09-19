@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario writes code that optimizes itself.
-- To Mario, everything contains a vulnerability.
+- When Mario point to NULL, Null scares.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Jolle. (Segler)
+> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
 
 ---
 
