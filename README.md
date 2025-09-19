@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario hosting is 105% uptime guaranteed.
+- Parent is the child of Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Freies Chatten für alle! Macht die Wände dünner!
+> Ich summe, also bien ich.
 
 ---
 
