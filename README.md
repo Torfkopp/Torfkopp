@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario drops a table it's bloody but silent.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can store the value 256 in one byte
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
+> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
 
 ---
 
