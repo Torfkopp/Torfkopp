@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario does not code in cycles, he codes in strikes.
-- Mario never has to use the -f option when deleting files.
+- Weird, it always works on Mario's machine.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> Freies Chatten für alle! Macht die Wände dünner!
 
 ---
 
