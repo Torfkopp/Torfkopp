@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario writes code that optimizes itself.
-- 404 errors simply mean that Mario has been there before you.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario drops a table it's bloody but silent.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, stirbt wenigstens fröhlich.
+> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
 
 ---
 
