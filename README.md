@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario develops in prod.
+- When Mario throws exceptions, it's across the room.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Stille Wasser beißen nicht.
+> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
 
 ---
 
