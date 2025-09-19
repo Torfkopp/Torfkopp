@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can access the DB from the UI.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario writes code that optimizes itself.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Viele Köche sind des Hasen Tod.
+> Die größte Offenbarung ist die Jolle. (Segler)
 
 ---
 
