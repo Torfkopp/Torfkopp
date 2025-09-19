@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
+> Stille Wasser beißen nicht.
 
 ---
 
