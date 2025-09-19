@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can store the value 256 in one byte
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
+> Lieber Arm ab als arm dran.
 
 ---
 
