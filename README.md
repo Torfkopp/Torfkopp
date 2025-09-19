@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can compile syntax errors.
 - Parent is the child of Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Ich summe, also bien ich.
+> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
 
 ---
 
