@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When Mario throws exceptions, it's across the room.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
+> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
 
 ---
 
