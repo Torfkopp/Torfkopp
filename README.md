@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can read all encrypted data, because nothing can hide from Mario.
 - Mario can binary search unsorted data.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Je größer das Konfekt, desto größer die Konfektion.
+> Legal - Illegal - Ikearegal
 
 ---
 
