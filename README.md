@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
+> Das Hemd hemmt den Politiker weniger als die weiße Weste.
 
 ---
 
