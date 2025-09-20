@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario throws an exception it's either across the room or out the window.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario develops in prod.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Lieber ein Bund fürs Leben als ein Leben für den Bund.
+> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
 
 ---
 
