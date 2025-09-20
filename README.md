@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Windows 7 was Mario's idea.
+- Mario exits vim by typing "exit"
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Das Hemd hemmt den Politiker weniger als die weiße Weste.
+> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
 
 ---
 
