@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario uses /dev/null as STDIN.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Sonderlinge lachen sogar beim Zwiebelschneiden.
+> Je größer das Konfekt, desto größer die Konfektion.
 
 ---
 
