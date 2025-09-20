@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario develops in prod.
-- When Mario throws exceptions, it's across the room.
+- Mario can store the value 256 in one byte
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
+> Haben Krawattenträger nicht schon genug am Halse?
 
 ---
 
