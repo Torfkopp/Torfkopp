@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Legal - Illegal - Ikearegal
+> Lieber fernsehmüde als radioaktiv.
 
 ---
 
