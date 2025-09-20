@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario exits vim by typing "exit"
-- When Mario point to NULL, Null scares.
+- Mario can store the value 256 in one byte
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
+> Wie man sich füttert, so wiegt man.
 
 ---
 
