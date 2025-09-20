@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Windows 7 was Mario's idea.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber fernsehmüde als radioaktiv.
+> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
 
 ---
 
