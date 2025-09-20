@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
+> Lieber ein Bund fürs Leben als ein Leben für den Bund.
 
 ---
 
