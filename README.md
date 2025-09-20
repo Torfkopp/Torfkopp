@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can binary search unsorted data.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- To Mario, everything contains a vulnerability.
+- Mario can't test for equality because he has no equal.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Politik bedeutet Steuern zu erheben, die man selbst nicht zahlt.
+> Durch Arbeit versaut man sich den ganzen Tag.
 
 ---
 
