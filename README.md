@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can't test for equality because he has no equal.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Durch Arbeit versaut man sich den ganzen Tag.
+> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
 
 ---
 
