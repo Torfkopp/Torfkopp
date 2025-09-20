@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can binary search unsorted data.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't make http requests. He makes http demands.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wer ATA braucht, ist noch lange nicht bescheuert.
+> Jedem Fiaker seine Viagra!
 
 ---
 
