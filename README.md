@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario programs do not accept input.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Multimedia ist, wenn es trotzdem klappt.
+> In der Not legt der Teufel Fliesen.
 
 ---
 
