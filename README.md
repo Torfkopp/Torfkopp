@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario drops a table it's bloody but silent.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 - Mario can binary search unsorted data.
-- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Der Dschingis Khan, wenn er nur will.
+> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
 
 ---
 
