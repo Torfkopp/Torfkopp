@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can access the DB from the UI.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Schnauze, sonst Beule.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
