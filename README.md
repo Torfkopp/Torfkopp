@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can binary search unsorted data.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
