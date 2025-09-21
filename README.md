@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
 
 ---
 
