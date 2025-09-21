@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Windows 7 was Mario's idea.
+- When Mario point to NULL, Null scares.
+- Mario can store the value 256 in one byte
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Global investieren - lokal ruinieren.
+> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
 
 ---
 
