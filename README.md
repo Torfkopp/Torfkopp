@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario writes code that optimizes itself.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Im Schatten ist es ruhig, weil man das Licht nicht hört.
+> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
 
 ---
 
