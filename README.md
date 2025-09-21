@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
+> Global investieren - lokal ruinieren.
 
 ---
 
