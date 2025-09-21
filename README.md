@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can store the value 256 in one byte
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
+> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
 
 ---
 
