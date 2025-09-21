@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario writes code that optimizes itself.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario CAN divide by 0.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
+> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
 
 ---
 
