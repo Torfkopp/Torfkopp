@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wie man sich füttert, so wiegt man.
+> Schnauze, sonst Beule.
 
 ---
 
