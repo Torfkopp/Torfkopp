@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario programs do not accept input.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> In der Not legt der Teufel Fliesen.
+> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
 
 ---
 
