@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can binary search unsorted data.
 - To Mario, everything contains a vulnerability.
-- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Behaltet euer Tränengas - es gibt genug zum Heulen.
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
