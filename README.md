@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
+> Man soll die Gäste feuern, wie sie fallen.
 
 ---
 
