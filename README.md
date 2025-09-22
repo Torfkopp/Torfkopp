@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario does not code in cycles, he codes in strikes.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Rauche jetzt, zahle später.
+> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
 
 ---
 
