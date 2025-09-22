@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- 404 errors simply mean that Mario has been there before you.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
+> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
 
 ---
 
