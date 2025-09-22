@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario can store the value 256 in one byte
-- Parent is the child of Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Biss demnächst, sagte der Vampir.
+> Sage mir, warum, und ich sage dir, weshalb.
 
 ---
 
