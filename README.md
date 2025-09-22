@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Windows 7 was Mario's idea.
+- Mario can compile syntax errors.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Manche halten zehnmal leichter eine Rede als einmal ihr Wort.
+> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
 
 ---
 
