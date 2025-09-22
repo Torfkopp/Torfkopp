@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Weird, it always works on Mario's machine.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can binary search unsorted data.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Sage mir, warum, und ich sage dir, weshalb.
+> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
 
 ---
 
