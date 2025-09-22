@@ -6,13 +6,13 @@
 
 ### About Mario
 - Parent is the child of Mario.
-- Mario can binary search unsorted data.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer ein langes Gesicht macht, hat mehr zu rasieren.
+> Manche halten zehnmal leichter eine Rede als einmal ihr Wort.
 
 ---
 
