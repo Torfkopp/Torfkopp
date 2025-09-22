@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can't test for equality because he has no equal.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> Langweilige Frauen haben blitzsaubere Küchen.
 
 ---
 
