@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario drops a table it's bloody but silent.
+- Mario hosting is 105% uptime guaranteed.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Alles schreitet fort, nur der Fortschritt nicht.
+> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
 
 ---
 
