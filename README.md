@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
+> Lieber leb' ich meiner Lust als Stempeluhr und Arbeitsfrust.
 
 ---
 
