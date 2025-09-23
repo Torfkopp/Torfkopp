@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber Frust im Kopf als Faust aufs Auge.
+> Nicht jeder Mann, der raucht, ist ein Vulkan.
 
 ---
 
