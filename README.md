@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Weird, it always works on Mario's machine.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Parent is the child of Mario.
+- When Mario point to NULL, Null scares.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Eine Lösung hatte ich, aber sie passte nicht zum Problem.
+> Wir sparen jeden Pfennig - koste es was es wolle.
 
 ---
 
