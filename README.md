@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario hosting is 105% uptime guaranteed.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Den Blick in die Welt kann eine Zeitung versperren.
 
 ---
 
