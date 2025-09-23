@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not code in cycles, he codes in strikes.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
+> Lieber lächerlich als bürgerlich.
 
 ---
 
