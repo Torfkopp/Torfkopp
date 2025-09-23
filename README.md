@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can write to ROM.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Parent is the child of Mario.
+- Mario develops in prod.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wo nix läuft, läuft der Fernseher [oder: Computer].
+> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
 
 ---
 
