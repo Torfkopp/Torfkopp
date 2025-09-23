@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario develops in prod.
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Lieber träumen unter Bäumen als schaffen unter Affen.
 
 ---
 
