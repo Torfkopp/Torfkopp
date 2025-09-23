@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario does not code in cycles, he codes in strikes.
 - Weird, it always works on Mario's machine.
+- Mario hosting is 105% uptime guaranteed.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Lieber lächerlich als bürgerlich.
+> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
 
 ---
 
