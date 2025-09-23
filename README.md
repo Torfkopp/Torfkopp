@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario point to NULL, Null scares.
-- Mario never has to use the -f option when deleting files.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wir sparen jeden Pfennig - koste es was es wolle.
+> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
 
 ---
 
