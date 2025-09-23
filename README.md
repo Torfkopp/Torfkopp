@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario point to NULL, Null scares.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Den Blick in die Welt kann eine Zeitung versperren.
+> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
 
 ---
 
