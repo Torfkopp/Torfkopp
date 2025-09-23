@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can't test for equality because he has no equal.
+- Mario doesn't use web standards as the web will conform to him.
+- Weird, it always works on Mario's machine.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Lieber träumen unter Bäumen als schaffen unter Affen.
+> Eine Lösung hatte ich, aber sie passte nicht zum Problem.
 
 ---
 
