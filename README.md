@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario hosting is 105% uptime guaranteed.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- To Mario, everything contains a vulnerability.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
+> Ich bin zutiefst gerührt, sprach der Teig.
 
 ---
 
