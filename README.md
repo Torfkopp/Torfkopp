@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario can delete the Recycle Bin.
-- Mario programs do not accept input.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can store the value 256 in one byte
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
+> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
 
 ---
 
