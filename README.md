@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can delete the Recycle Bin.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Nichts ist schwerer zu ertragen als Reißverschluss auf vollem Magen.
+> Wanzen im Telefon schaffen Unterhaltung.
 
 ---
 
