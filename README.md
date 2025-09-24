@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario hosting is 105% uptime guaranteed.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
+> Lieber hoch zu Ross als unter aller Sau.
 
 ---
 
