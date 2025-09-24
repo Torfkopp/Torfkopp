@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Parent is the child of Mario.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario programs do not accept input.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
+> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
 
 ---
 
