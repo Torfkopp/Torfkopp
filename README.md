@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario uses /dev/null as STDIN.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Ich wollte die Einschulung aus Gewissensgründen verweigern.
+> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
 
 ---
 
