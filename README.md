@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can store the value 256 in one byte
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario CAN divide by 0.
+- Mario doesn't make http requests. He makes http demands.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
+> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
 
 ---
 
