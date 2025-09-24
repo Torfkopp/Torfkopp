@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- To Mario, everything contains a vulnerability.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Lieber hoch zu Ross als unter aller Sau.
+> Ich wollte die Einschulung aus Gewissensgründen verweigern.
 
 ---
 
