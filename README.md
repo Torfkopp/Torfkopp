@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario exits vim by typing "exit"
+- Mario hosting is 105% uptime guaranteed.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
+> Nichts ist schwerer zu ertragen als Reißverschluss auf vollem Magen.
 
 ---
 
