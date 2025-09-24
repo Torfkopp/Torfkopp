@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can write to ROM.
+- Mario never has to use the -f option when deleting files.
+- Mario can delete the Recycle Bin.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
+> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
 
 ---
 
