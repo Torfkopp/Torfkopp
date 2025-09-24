@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario programs do not accept input.
-- When Mario throws an exception it's either across the room or out the window.
+- Weird, it always works on Mario's machine.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
+> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
 
 ---
 
