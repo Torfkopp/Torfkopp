@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't make http requests. He makes http demands.
-- Mario plugs in USB sticks perfectly the first time every time
+- Windows 7 was Mario's idea.
+- Parent is the child of Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
+> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
 
 ---
 
