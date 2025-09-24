@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario uses /dev/null as STDIN.
-- Windows 7 was Mario's idea.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
+> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
 
 ---
 
