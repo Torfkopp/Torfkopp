@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Windows 7 was Mario's idea.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Vielleicht muss der große Bruder gar nicht kommen, weil alle schon den kleinen Mann im Ohr haben.
+> Lieber aussteigen als eingehen.
 
 ---
 
