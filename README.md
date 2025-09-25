@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Eine Kuh macht muh; viele Kühe machen Mühe.
+> Die Axt im Haus ist die Mutter der Porzellankiste.
 
 ---
 
