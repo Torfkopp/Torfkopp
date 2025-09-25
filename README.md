@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Trinkt der Bill viel Kölsch vom Fass, macht's auch mit Hilary wieder Spaß.
+> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
 
 ---
 
