@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario develops in prod.
+- Mario uses /dev/null as STDIN.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Für Geld tue ich alles, sogar arbeiten.
+> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
 
 ---
 
