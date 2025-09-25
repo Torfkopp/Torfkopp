@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario can access the DB from the UI.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Tolle. (Friseur)
+> Lieber Wurstfinger als Knoblauchzehen.
 
 ---
 
