@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario writes code that optimizes itself.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Lieber Wurstfinger als Knoblauchzehen.
+> Auch stille Wasser sind nass.
 
 ---
 
