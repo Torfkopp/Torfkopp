@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Windows 7 was Mario's idea.
-- Mario develops in prod.
+- Mario programs do not accept input.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Lieber aussteigen als eingehen.
+> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
 
 ---
 
