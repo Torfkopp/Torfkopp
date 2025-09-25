@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can delete the Recycle Bin.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
+> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
 
 ---
 
