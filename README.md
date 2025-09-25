@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
+> Für Geld tue ich alles, sogar arbeiten.
 
 ---
 
