@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't use web standards as the web will conform to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
+> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
 
 ---
 
