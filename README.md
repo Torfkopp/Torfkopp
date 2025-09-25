@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- 404 errors simply mean that Mario has been there before you.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Die Axt im Haus ist die Mutter der Porzellankiste.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
