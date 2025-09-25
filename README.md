@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario uses /dev/null as STDIN.
-- To Mario, everything contains a vulnerability.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario drops a table it's bloody but silent.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
+> Lieber ungebunden als angebunden.
 
 ---
 
