@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario writes code that optimizes itself.
-- Mario programs do not accept input.
+- When Mario drops a table it's bloody but silent.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
 
 ---
 
