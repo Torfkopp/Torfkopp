@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Weird, it always works on Mario's machine.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
+> Karneval ist Nonsens in Rheinkultur.
 
 ---
 
