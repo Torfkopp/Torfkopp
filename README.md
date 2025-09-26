@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario invented binary by performing a roundhouse on the number 10.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws exceptions, it's across the room.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
+> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
 
 ---
 
