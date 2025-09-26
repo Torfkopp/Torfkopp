@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
+> Vorsicht: der Schütze schützt nicht, er schießt!
 
 ---
 
