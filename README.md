@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't make http requests. He makes http demands.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
+> Freies Chatten für alle! Macht die Wände dünner!
 
 ---
 
