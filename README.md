@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never has to use the -f option when deleting files.
 - Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Alles ist so, wie es ist, nur schlechter.
+> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
 
 ---
 
