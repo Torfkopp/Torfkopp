@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Stoppt die Luftverschmutzung, hört auf zu atmen.
+> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
 
 ---
 
