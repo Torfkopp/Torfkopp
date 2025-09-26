@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario point to NULL, Null scares.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Global investieren - lokal ruinieren.
+> Stoppt die Luftverschmutzung, hört auf zu atmen.
 
 ---
 
