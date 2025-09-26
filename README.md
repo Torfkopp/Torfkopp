@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never has to use the -f option when deleting files.
-- Mario can binary search unsorted data.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
+> Für einen Anlass gibt es immer eine Gelegenheit.
 
 ---
 
