@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Für einen Anlass gibt es immer eine Gelegenheit.
+> Der Apfel fällt nicht weit vom Zank.
 
 ---
 
