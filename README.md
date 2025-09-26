@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Freies Chatten für alle! Macht die Wände dünner!
+> Alles ist so, wie es ist, nur schlechter.
 
 ---
 
