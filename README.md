@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario plugs in USB sticks perfectly the first time every time
-- When Mario drops a table it's bloody but silent.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Jeder Tag ist gleich lang, aber verschieden breit.
+> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
 
 ---
 
