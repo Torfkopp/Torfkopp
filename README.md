@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario exits vim by typing "exit"
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Der Apfel fällt nicht weit vom Zank.
+> Global investieren - lokal ruinieren.
 
 ---
 
