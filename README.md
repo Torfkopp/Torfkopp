@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario uses /dev/null as STDIN.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Anything goes, nur nicht Albrecht Goes.
+> Auch Arme haben Beine.
 
 ---
 
