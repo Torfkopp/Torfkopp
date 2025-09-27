@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario exits vim by typing "exit"
-- Mario does not code in cycles, he codes in strikes.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
+> Macht der Blechknopf plötzlich peng, waren deine Jeans zu eng.
 
 ---
 
