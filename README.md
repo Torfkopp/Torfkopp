@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario writes code that optimizes itself.
+- Mario exits vim by typing "exit"
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario uses /dev/null as STDIN.
-- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Auch Arme haben Beine.
+> Billard ist bekannter als Billzdf.
 
 ---
 
