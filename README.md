@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario throws exceptions, it's across the room.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
+> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
 
 ---
 
