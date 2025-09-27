@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't make http requests. He makes http demands.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can access the DB from the UI.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Sprühen bringt Beton zum Blühen.
+> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
 
 ---
 
