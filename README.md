@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can store the value 256 in one byte
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Macht der Blechknopf plötzlich peng, waren deine Jeans zu eng.
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
