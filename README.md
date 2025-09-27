@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can store the value 256 in one byte
-- When Mario point to NULL, Null scares.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Es gibt viel zu tun, nix wie weg.
+> Kein Fachmann ohne Flachmann.
 
 ---
 
