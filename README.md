@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario does not code in cycles, he codes in strikes.
+- To Mario, everything contains a vulnerability.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Karneval ist Nonsens in Rheinkultur.
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
