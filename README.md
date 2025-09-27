@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- To Mario, everything contains a vulnerability.
+- Mario can store the value 256 in one byte
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Kein Fachmann ohne Flachmann.
+> Anything goes, nur nicht Albrecht Goes.
 
 ---
 
