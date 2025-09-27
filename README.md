@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
 - Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario hosting is 105% uptime guaranteed.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Ein blindes Huhn findet auch mal eine lahme Ente.
+> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
 
 ---
 
