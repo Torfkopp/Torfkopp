@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario throws exceptions, it's across the room.
+- Parent is the child of Mario.
+- Mario exits vim by typing "exit"
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Man kann sich an allem gewöhnen, auch am Dativ.
+> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
 
 ---
 
