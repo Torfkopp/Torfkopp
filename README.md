@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Parent is the child of Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
+> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
 
 ---
 
