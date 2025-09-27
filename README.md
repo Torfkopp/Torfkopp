@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can binary search unsorted data.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can write to ROM.
+- Mario doesn't make http requests. He makes http demands.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
+> Sprühen bringt Beton zum Blühen.
 
 ---
 
