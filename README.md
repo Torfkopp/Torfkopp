@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Die Zunge ist das einzige Werkzeug, das durch ständigen Gebrauch noch schärfer wird.
+> Man kann sich an allem gewöhnen, auch am Dativ.
 
 ---
 
