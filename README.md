@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
 - Mario can compile syntax errors.
-- When Mario drops a table it's bloody but silent.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Lieber FKK als FDP.
+> Die dämlichsten Herren haben oft die herrlichsten Damen.
 
 ---
 
