@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can access the DB from the UI.
+- Mario can write to ROM.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Tollkirschen schmecken nicht so toll, wie sie heißen.
+> Gepflegter Bart küsst weich und zart.
 
 ---
 
