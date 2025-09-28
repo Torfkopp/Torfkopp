@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can't test for equality because he has no equal.
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario develops in prod.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Die dämlichsten Herren haben oft die herrlichsten Damen.
+> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
 
 ---
 
