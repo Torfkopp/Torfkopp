@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws an exception it's either across the room or out the window.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wenn sich zwei streiten, freut sich der Anwalt.
+> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
 
 ---
 
