@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario drops a table it's bloody but silent.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Der Dschingis Khan, wenn er nur will.
+> Tollkirschen schmecken nicht so toll, wie sie heißen.
 
 ---
 
