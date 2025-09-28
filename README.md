@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can binary search unsorted data.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- To Mario, everything contains a vulnerability.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Der Kanzler lenkt - aber wer denkt?
+> Liebe ist Elektrizität; in der Ehe kommt die Stromrechnung.
 
 ---
 
