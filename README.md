@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Liebe ist Elektrizität; in der Ehe kommt die Stromrechnung.
+> Verliert im August der Bauer die Hose, war schon im Juli das Gummiband lose.
 
 ---
 
