@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can store the value 256 in one byte
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can compile syntax errors.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
+> Lieber FKK als FDP.
 
 ---
 
