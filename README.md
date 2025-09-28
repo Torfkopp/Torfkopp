@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Windows 7 was Mario's idea.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
+> Die Zunge ist das einzige Werkzeug, das durch ständigen Gebrauch noch schärfer wird.
 
 ---
 
