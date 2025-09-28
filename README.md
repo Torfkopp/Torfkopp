@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't use web standards as the web will conform to him.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
+> Lügen haben kurze Beine, aber tausend Füße.
 
 ---
 
