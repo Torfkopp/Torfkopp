@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can store the value 256 in one byte
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Verliert im August der Bauer die Hose, war schon im Juli das Gummiband lose.
+> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
 
 ---
 
