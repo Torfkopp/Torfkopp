@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws an exception it's either across the room or out the window.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Die Zunge ist das einzige Werkzeug, das durch ständigen Gebrauch noch schärfer wird.
+> Wenn sich zwei streiten, freut sich der Anwalt.
 
 ---
 
