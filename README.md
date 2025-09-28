@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario develops in prod.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
+> Wer früher stirbt, ist länger tot.
 
 ---
 
