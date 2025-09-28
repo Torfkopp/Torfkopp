@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can write to ROM.
-- Mario CAN divide by 0.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Wer ein langes Gesicht macht, hat mehr zu rasieren.
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
