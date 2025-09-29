@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not code in cycles, he codes in strikes.
+- Mario exits vim by typing "exit"
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Gepflegter Bart küsst weich und zart.
+> Tu was fürs Vaterland: wandre aus.
 
 ---
 
