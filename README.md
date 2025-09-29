@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario point to NULL, Null scares.
-- Mario can binary search unsorted data.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wem du's heute kannst besorgen, den verschone nicht bis morgen.
+> Wo gedoubelt wird, da fallen Zähne (Stuntman-Weisheit).
 
 ---
 
