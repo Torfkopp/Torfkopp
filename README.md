@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Weird, it always works on Mario's machine.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden.
+> Arbeit adelt; wir aber bleiben bürgerlich.
 
 ---
 
