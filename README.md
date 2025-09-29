@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario does not code in cycles, he codes in strikes.
+- Mario can binary search unsorted data.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Genieße das Leben beständig, denn du bist länger tot als lebendig.
+> Alles hat Grenzen, nur die Dummheit ist unendlich.
 
 ---
 
