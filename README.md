@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario CAN divide by 0.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can binary search unsorted data.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wir wollen Männer, keine Ersatzteile.
+> Die größte Offenbarung ist der Kalle. (K.s Freundin)
 
 ---
 
