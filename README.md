@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Elite? Nein danke.
+> Genieße das Leben beständig, denn du bist länger tot als lebendig.
 
 ---
 
