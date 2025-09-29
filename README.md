@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario point to NULL, Null scares.
 - Mario can binary search unsorted data.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Alles hat Grenzen, nur die Dummheit ist unendlich.
+> Wem du's heute kannst besorgen, den verschone nicht bis morgen.
 
 ---
 
