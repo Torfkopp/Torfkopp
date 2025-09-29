@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario develops in prod.
+- Mario does not code in cycles, he codes in strikes.
+- Weird, it always works on Mario's machine.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Stoppt die Luftverschmutzung, hört auf zu atmen.
+> Wir wollen endlich alle Kanzler werden.
 
 ---
 
