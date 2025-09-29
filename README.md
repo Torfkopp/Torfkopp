@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario develops in prod.
+- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Arbeit adelt; wir aber bleiben bürgerlich.
+> Elite? Nein danke.
 
 ---
 
