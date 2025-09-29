@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario exits vim by typing "exit"
-- 404 errors simply mean that Mario has been there before you.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Tu was fürs Vaterland: wandre aus.
+> Kippt Kaiser Franz von der Empore, gab's in der Nachspielzeit zwei Tore.
 
 ---
 
