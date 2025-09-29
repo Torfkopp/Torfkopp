@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- 404 errors simply mean that Mario has been there before you.
-- Mario can write to ROM.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Kalle. (K.s Freundin)
+> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
 
 ---
 
