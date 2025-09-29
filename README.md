@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario drops a table it's bloody but silent.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Hey Kids, let's kotz.
+> Die Regierung spart, jetzt müssen sich 20 Minister ein Gehirn teilen.
 
 ---
 
