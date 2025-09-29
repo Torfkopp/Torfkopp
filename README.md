@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can binary search unsorted data.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can compile syntax errors.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
+> Hey Kids, let's kotz.
 
 ---
 
