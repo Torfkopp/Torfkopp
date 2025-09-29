@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Weird, it always works on Mario's machine.
-- Windows 7 was Mario's idea.
+- Mario can compile syntax errors.
+- Mario CAN divide by 0.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Wo gedoubelt wird, da fallen Zähne (Stuntman-Weisheit).
+> Wir wollen Männer, keine Ersatzteile.
 
 ---
 
