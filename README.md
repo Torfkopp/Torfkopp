@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't make http requests. He makes http demands.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can binary search unsorted data.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
+> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
 
 ---
 
