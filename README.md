@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario exits vim by typing "exit"
-- Mario doesn't use web standards as the web will conform to him.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Auch ein Spaßvogel kann es so weit treiben, dass er fliegt.
+> Ich verspreche nichts; und das halte ich auch.
 
 ---
 
