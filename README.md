@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario CAN divide by 0.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws an exception it's either across the room or out the window.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Die Regierung spart, jetzt müssen sich 20 Minister ein Gehirn teilen.
+> Alle angenehmen Dinge sind entweder unmoralisch, illegal oder machen dick.
 
 ---
 
