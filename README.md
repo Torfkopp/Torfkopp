@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
+> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
 
 ---
 
