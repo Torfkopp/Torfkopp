@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario point to NULL, Null scares.
 - Mario can write to ROM.
-- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Am Ende kackt die Ente.
+> Alles Geschmackssache, dachte der Affe und biss in die Seife.
 
 ---
 
