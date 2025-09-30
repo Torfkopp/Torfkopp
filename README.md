@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Weird, it always works on Mario's machine.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs do not accept input.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Politik bedeutet Steuern zu erheben, die man selbst nicht zahlt.
+> Arbeit adelt; wir aber bleiben bürgerlich.
 
 ---
 
