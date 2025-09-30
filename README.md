@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Parent is the child of Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Raritäten, die in Massen auftreten, sind besonders selten.
+> Und von wem haben Sie Ihre Meinung?
 
 ---
 
