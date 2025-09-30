@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario invented binary by performing a roundhouse on the number 10.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can write to ROM.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wer dem Chef in den Hintern kriecht, muss damit rechnen, dass er ihm eines Tages zum Hals heraushängt.
+> Am Ende kackt die Ente.
 
 ---
 
