@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Wer rennt und lacht, kommt in Verdacht.
+> Lieber neureich als nie reich.
 
 ---
 
