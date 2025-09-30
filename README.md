@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario CAN divide by 0.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario exits vim by typing "exit"
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Ein Masochist, der zurückhaut, ist pervers.
+> Auch ein Spaßvogel kann es so weit treiben, dass er fliegt.
 
 ---
 
