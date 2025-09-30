@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can binary search unsorted data.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Und von wem haben Sie Ihre Meinung?
+> Politik bedeutet Steuern zu erheben, die man selbst nicht zahlt.
 
 ---
 
