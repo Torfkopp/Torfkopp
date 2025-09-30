@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When Mario throws an exception it's either across the room or out the window.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Alle angenehmen Dinge sind entweder unmoralisch, illegal oder machen dick.
+> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
 
 ---
 
