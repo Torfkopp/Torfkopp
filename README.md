@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario point to NULL, Null scares.
-- Mario can write to ROM.
+- Mario can store the value 256 in one byte
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Alles Geschmackssache, dachte der Affe und biss in die Seife.
+> Ab zwanzig Uhr wird zurückgesungen! (Kalle Pohl über die Eurovisions-Vorentscheidung am 19.2.2000)
 
 ---
 
