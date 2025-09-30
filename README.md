@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- 404 errors simply mean that Mario has been there before you.
-- Mario can store the value 256 in one byte
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Lieber neureich als nie reich.
+> Raritäten, die in Massen auftreten, sind besonders selten.
 
 ---
 
