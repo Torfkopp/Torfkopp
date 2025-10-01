@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario does not code in cycles, he codes in strikes.
-- Parent is the child of Mario.
+- Mario develops in prod.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Und von wem haben Sie Ihre Meinung?
+> Dem Ingenieur ist nichts zu schwör: wenn er nichts weiß, dann nimmt er ein Relais.
 
 ---
 
