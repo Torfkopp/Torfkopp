@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can't test for equality because he has no equal.
+- When Mario throws exceptions, it's across the room.
+- When Mario drops a table it's bloody but silent.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
+> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
 
 ---
 
