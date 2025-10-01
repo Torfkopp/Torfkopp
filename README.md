@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't make http requests. He makes http demands.
-- Mario programs do not accept input.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Windows 7 was Mario's idea.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Service ist Verdienst vom Kunden.
+> Wer nicht hören will, muss fernsehen.
 
 ---
 
