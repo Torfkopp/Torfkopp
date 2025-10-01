@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario writes code that optimizes itself.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
