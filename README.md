@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Windows 7 was Mario's idea.
-- Mario hosting is 105% uptime guaranteed.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can access the DB from the UI.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wer nicht hören will, muss fernsehen.
+> Bei Dreckfuhlern muss man aufpassen wie ein Lachs.
 
 ---
 
