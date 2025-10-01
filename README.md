@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Selig, wer nichts zu sagen hat und doch schweigt.
+> Wer trinkt, schadet dem Durst.
 
 ---
 
