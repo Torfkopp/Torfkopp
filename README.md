@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario writes code that optimizes itself.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Lieber Arm ab als arm dran.
+> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
 
 ---
 
