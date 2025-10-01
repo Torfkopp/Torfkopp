@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario CAN divide by 0.
+- Mario can access the DB from the UI.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Die Spitzhacke im Haus ersetzt den Psychopathen.
 
 ---
 
