@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario uses /dev/null as STDIN.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can access the DB from the UI.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
+> Sie war "von und zu", er "auf und davon".
 
 ---
 
