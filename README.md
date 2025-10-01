@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario does not code in cycles, he codes in strikes.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ich verspreche nichts; und das halte ich auch.
+> Und von wem haben Sie Ihre Meinung?
 
 ---
 
