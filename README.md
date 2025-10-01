@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can access the DB from the UI.
-- Windows 7 was Mario's idea.
+- Mario doesn't make http requests. He makes http demands.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
 
 ---
 
