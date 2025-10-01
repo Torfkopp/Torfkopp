@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can delete the Recycle Bin.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Weird, it always works on Mario's machine.
+- Mario doesn't make http requests. He makes http demands.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer trinkt, schadet dem Durst.
+> Service ist Verdienst vom Kunden.
 
 ---
 
