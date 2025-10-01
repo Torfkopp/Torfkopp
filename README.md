@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can access the DB from the UI.
-- Mario exits vim by typing "exit"
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario writes code that optimizes itself.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Bei Dreckfuhlern muss man aufpassen wie ein Lachs.
+> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
 
 ---
 
