@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario writes code that optimizes itself.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Die Spitzhacke im Haus ersetzt den Psychopathen.
+> Lieber Arm ab als arm dran.
 
 ---
 
