@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't use web standards as the web will conform to him.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
+> Kreuzbrave sind meist piksauber.
 
 ---
 
