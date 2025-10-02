@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario invented binary by performing a roundhouse on the number 10.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Kreuzbrave sind meist piksauber.
+> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
 
 ---
 
