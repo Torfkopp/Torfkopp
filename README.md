@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- 404 errors simply mean that Mario has been there before you.
+- Weird, it always works on Mario's machine.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Tut Ench Amun, was Nofre täte?
+> Lieber Eis am Stiel, als Dreck am Stecken.
 
 ---
 
