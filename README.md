@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never has to use the -f option when deleting files.
+- Mario develops in prod.
+- Mario can write to ROM.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Lieber fröhlich im Bett als traurig bei der Arbeit.
+> Hinter jedem lustigen Mann steht eine Frau, die ihre Augen verdreht.
 
 ---
 
