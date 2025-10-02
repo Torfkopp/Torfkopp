@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can access the DB from the UI.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Lieber aussteigen als eingehen.
 
 ---
 
