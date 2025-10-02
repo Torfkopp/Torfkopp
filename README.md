@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can binary search unsorted data.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
+> Lieber fröhlich im Bett als traurig bei der Arbeit.
 
 ---
 
