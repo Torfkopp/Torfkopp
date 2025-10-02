@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario CAN divide by 0.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario writes code that optimizes itself.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Lieber ein Bund fürs Leben als ein Leben für den Bund.
+> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
 
 ---
 
