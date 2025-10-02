@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Parent is the child of Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario CAN divide by 0.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
+> Lieber ein Bund fürs Leben als ein Leben für den Bund.
 
 ---
 
