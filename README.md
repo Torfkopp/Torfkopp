@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can read all encrypted data, because nothing can hide from Mario.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario drops a table it's bloody but silent.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Ich bin nicht tot, ich rieche nur komisch.
+> Praxis ist, wenn alles funktioniert und keiner weiß warum.
 
 ---
 
