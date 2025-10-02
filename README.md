@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario writes code that optimizes itself.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario invented binary by performing a roundhouse on the number 10.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
+> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
 
 ---
 
