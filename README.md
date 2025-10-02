@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario drops a table it's bloody but silent.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Ist Silvester hell und klar, ist am andern Tag Neujahr.
+> Ich bin nicht tot, ich rieche nur komisch.
 
 ---
 
