@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- When Mario drops a table it's bloody but silent.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario does not code in cycles, he codes in strikes.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
+> Tut Ench Amun, was Nofre täte?
 
 ---
 
