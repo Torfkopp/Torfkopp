@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can write to ROM.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can binary search unsorted data.
+- Parent is the child of Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Hinter jedem lustigen Mann steht eine Frau, die ihre Augen verdreht.
+> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
 
 ---
 
