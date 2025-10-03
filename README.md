@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can delete the Recycle Bin.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Gemeinsam sind wir unausstehlich.
+> Lieber einen steilen Zahn als gar kein Gebiss.
 
 ---
 
