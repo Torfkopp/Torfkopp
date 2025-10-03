@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario does not code in cycles, he codes in strikes.
-- Mario uses /dev/null as STDIN.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
+> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
 
 ---
 
