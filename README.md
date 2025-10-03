@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never has to use the -f option when deleting files.
+- Mario exits vim by typing "exit"
+- Mario programs do not accept input.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Lieber einen steilen Zahn als gar kein Gebiss.
+> Die größte Offenbarung ist der Olle. (Kind eines großzügigen Vaters)
 
 ---
 
