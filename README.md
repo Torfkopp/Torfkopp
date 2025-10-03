@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can access the DB from the UI.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Lieber aussteigen als eingehen.
+> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
 
 ---
 
