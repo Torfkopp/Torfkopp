@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- To Mario, everything contains a vulnerability.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Eine Kuh macht muh; viele Kühe machen Mühe.
+> Die Spitzhacke im Haus ersetzt den Psychopathen.
 
 ---
 
