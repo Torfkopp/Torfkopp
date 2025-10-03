@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can binary search unsorted data.
+- Weird, it always works on Mario's machine.
 - Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
+> Viele Stoppschilder bringen den Fahrer zum Rasen.
 
 ---
 
