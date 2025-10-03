@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
+> Wozu noch recht schreiben, wenn man links denkt?
 
 ---
 
