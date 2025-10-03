@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
+> Unterstützt die Wiedervereinigung der Spalttablette!
 
 ---
 
