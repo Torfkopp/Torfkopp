@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- To Mario, everything contains a vulnerability.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario does not code in cycles, he codes in strikes.
 - Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Die Spitzhacke im Haus ersetzt den Psychopathen.
+> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
 
 ---
 
