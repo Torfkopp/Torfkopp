@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can delete the Recycle Bin.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
+> Gemeinsam sind wir unausstehlich.
 
 ---
 
