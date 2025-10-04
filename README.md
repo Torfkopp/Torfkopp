@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 - Mario doesn't make http requests. He makes http demands.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> LABELLO, und kein Kuss quietscht mehr.
+> Der Wintereinbruch ist nicht strafbar.
 
 ---
 
