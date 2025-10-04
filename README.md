@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can write to ROM.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
+> Fighting for peace is like fucking for virginity.
 
 ---
 
