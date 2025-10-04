@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Lieber lächerlich als bürgerlich.
+> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
 
 ---
 
