@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario writes code that optimizes itself.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer sündigt, schläft nicht.
+> Lieber Mixed Pickles als Akne.
 
 ---
 
