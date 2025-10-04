@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
+> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
 
 ---
 
