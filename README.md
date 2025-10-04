@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
+> Lieber FKK als FDP.
 
 ---
 
