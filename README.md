@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario point to NULL, Null scares.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht, schmeißt Bomben und Raketen, bis es kracht.
+> Faulenzen schafft Arbeitsplätze.
 
 ---
 
