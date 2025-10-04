@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't make http requests. He makes http demands.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> muss es erst duster sein, bevor uns ein Licht aufgeht?
+> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
 
 ---
 
