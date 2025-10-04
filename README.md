@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario point to NULL, Null scares.
+- Weird, it always works on Mario's machine.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
+> Anything goes, nur nicht Albrecht Goes.
 
 ---
 
