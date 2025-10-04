@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario drops a table it's bloody but silent.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Faulenzen schafft Arbeitsplätze.
+> Lieber lächerlich als bürgerlich.
 
 ---
 
