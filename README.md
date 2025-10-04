@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Fighting for peace is like fucking for virginity.
+> Wer sündigt, schläft nicht.
 
 ---
 
