@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
+> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
 
 ---
 
