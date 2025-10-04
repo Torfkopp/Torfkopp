@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario doesn't make http requests. He makes http demands.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Der Wintereinbruch ist nicht strafbar.
+> muss es erst duster sein, bevor uns ein Licht aufgeht?
 
 ---
 
