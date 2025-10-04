@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't make http requests. He makes http demands.
+- 404 errors simply mean that Mario has been there before you.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Auch Dornröschen trug kein Höschen.
+> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
 
 ---
 
