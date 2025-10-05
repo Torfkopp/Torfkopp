@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario point to NULL, Null scares.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Bist du einsam und allein, sprüh dich mit Kontaktspray ein.
 
 ---
 
