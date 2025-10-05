@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can compile syntax errors.
+- 404 errors simply mean that Mario has been there before you.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wut tut gut.
+> Viele Stoppschilder bringen den Fahrer zum Rasen.
 
 ---
 
