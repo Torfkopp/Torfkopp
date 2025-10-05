@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario develops in prod.
+- Mario writes code that optimizes itself.
+- Mario does not code in cycles, he codes in strikes.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Lieber sechs Stunden Uni am Tag als gar keinen Schlaf.
+> Der Vater rülpst, die Kinder lachen: so ist billig Freude machen.
 
 ---
 
