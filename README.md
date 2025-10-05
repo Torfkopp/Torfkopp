@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When Mario drops a table it's bloody but silent.
-- Mario can write to ROM.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Lieber sechs Stunden Uni am Tag als gar keinen Schlaf.
 
 ---
 
