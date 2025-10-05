@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario exits vim by typing "exit"
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario point to NULL, Null scares.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen leert das Hirn.
+> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
 
 ---
 
