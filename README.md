@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- 404 errors simply mean that Mario has been there before you.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario writes code that optimizes itself.
+- Mario develops in prod.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Viele Stoppschilder bringen den Fahrer zum Rasen.
+> Macht der Blechknopf plötzlich peng, waren deine Jeans zu eng.
 
 ---
 
