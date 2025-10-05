@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Weird, it always works on Mario's machine.
-- Parent is the child of Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can compile syntax errors.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Anything goes, nur nicht Albrecht Goes.
+> Trinkt der Bill viel Kölsch vom Fass, macht's auch mit Hilary wieder Spaß.
 
 ---
 
