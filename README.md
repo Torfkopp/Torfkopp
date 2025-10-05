@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When Mario point to NULL, Null scares.
-- Mario can compile syntax errors.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
+> Arbeitskraft? Nein danke.
 
 ---
 
