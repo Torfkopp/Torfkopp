@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can compile syntax errors.
-- When Mario drops a table it's bloody but silent.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Trinkt der Bill viel Kölsch vom Fass, macht's auch mit Hilary wieder Spaß.
+> Wut tut gut.
 
 ---
 
