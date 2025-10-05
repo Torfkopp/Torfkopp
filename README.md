@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't make http requests. He makes http demands.
 - When Mario point to NULL, Null scares.
-- Weird, it always works on Mario's machine.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
+> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
 
 ---
 
