@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Parent is the child of Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Ich wollte die Einschulung aus Gewissensgründen verweigern.
+> Wer stirbt, ist nur zu faul zum Leben.
 
 ---
 
