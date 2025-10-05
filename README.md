@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario drops a table it's bloody but silent.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario exits vim by typing "exit"
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Steter Tropfen leert das Hirn.
 
 ---
 
