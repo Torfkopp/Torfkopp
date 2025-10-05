@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can delete the Recycle Bin.
+- Parent is the child of Mario.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Sogar eine halbe Portion kann ein Doppelleben führen.
+> Ich wollte die Einschulung aus Gewissensgründen verweigern.
 
 ---
 
