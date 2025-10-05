@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario develops in prod.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Macht der Blechknopf plötzlich peng, waren deine Jeans zu eng.
+> Ein Gehirn wäscht das andere.
 
 ---
 
