@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't use web standards as the web will conform to him.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't make http requests. He makes http demands.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
+> Besser Video als gar kein Deo.
 
 ---
 
