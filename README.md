@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario CAN divide by 0.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Arbeitskraft? Nein danke.
+> In einer guten Beziehung hat niemand die Hosen an. Die stören ja nur.
 
 ---
 
