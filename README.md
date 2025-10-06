@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Windows 7 was Mario's idea.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
+> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
