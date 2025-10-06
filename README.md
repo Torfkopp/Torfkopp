@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can binary search unsorted data.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Hardware sucht Software für Bumsware.
+> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
 
 ---
 
