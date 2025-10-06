@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- To Mario, everything contains a vulnerability.
-- Mario can compile syntax errors.
+- Mario writes code that optimizes itself.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Libero als gekocht.
+> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
 
 ---
 
