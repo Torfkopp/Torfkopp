@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When Mario point to NULL, Null scares.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Parent is the child of Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
+> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
 
 ---
 
