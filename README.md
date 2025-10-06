@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario CAN divide by 0.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> In einer guten Beziehung hat niemand die Hosen an. Die stören ja nur.
+> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
 
 ---
 
