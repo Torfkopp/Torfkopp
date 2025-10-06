@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Parent is the child of Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can write to ROM.
+- Mario can compile syntax errors.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
+> Gib immer 100 % - außer beim Blutspenden.
 
 ---
 
