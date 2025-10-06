@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Parent is the child of Mario.
-- Mario can write to ROM.
+- Windows 7 was Mario's idea.
+- To Mario, everything contains a vulnerability.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
+> Libero als gekocht.
 
 ---
 
