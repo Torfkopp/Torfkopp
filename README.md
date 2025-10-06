@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
