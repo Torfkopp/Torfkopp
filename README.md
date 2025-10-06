@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
+- Mario can delete the Recycle Bin.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
+> Billard ist bekannter als Billzdf.
 
 ---
 
