@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't make http requests. He makes http demands.
-- Parent is the child of Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Besser Video als gar kein Deo.
+> Zwei im Büro, und einer arbeitet? Ein Beamter und ein Ventilator.
 
 ---
 
