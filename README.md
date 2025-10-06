@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario can compile syntax errors.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Gib immer 100 % - außer beim Blutspenden.
+> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
 
 ---
 
