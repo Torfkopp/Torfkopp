@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario throws an exception it's either across the room or out the window.
 - Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
+> Allen Leuten recht getan ist Sauerkraut mit Lebertran.
 
 ---
 
