@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can access the DB from the UI.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
+> Mit Phantasie kommt man leichter zu Geld als mit Geld zu Phantasie.
 
 ---
 
