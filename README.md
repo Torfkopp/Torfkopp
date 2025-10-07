@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't make http requests. He makes http demands.
+- When Mario point to NULL, Null scares.
+- Mario doesn't use web standards as the web will conform to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Eine Schwalbe macht noch keinen Elfmeter.
+> Erst grübeln, dann dübeln.
 
 ---
 
