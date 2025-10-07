@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario does not code in cycles, he codes in strikes.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario exits vim by typing "exit"
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Lieber Kies in der Tasche als Sand im Koffer.
+> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
 
 ---
 
