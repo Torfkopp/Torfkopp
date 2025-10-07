@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
+> Das Leben gibt's gratis, der Rest ist käuflich.
 
 ---
 
