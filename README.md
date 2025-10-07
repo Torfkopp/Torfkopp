@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario point to NULL, Null scares.
-- Mario doesn't use web standards as the web will conform to him.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Erst grübeln, dann dübeln.
+> Der Schwätzer sagt, was der Kopflose denkt.
 
 ---
 
