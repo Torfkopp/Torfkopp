@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario point to NULL, Null scares.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Allen Leuten recht getan ist Sauerkraut mit Lebertran.
+> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
 
 ---
 
