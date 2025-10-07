@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can access the DB from the UI.
+- Mario invented binary by performing a roundhouse on the number 10.
 - Mario plugs in USB sticks perfectly the first time every time
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Mit Phantasie kommt man leichter zu Geld als mit Geld zu Phantasie.
+> Vorsicht: der Schütze schützt nicht, er schießt!
 
 ---
 
