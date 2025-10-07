@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Windows 7 was Mario's idea.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Billard ist bekannter als Billzdf.
+> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
 
 ---
 
