@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario drops a table it's bloody but silent.
-- Mario develops in prod.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
+> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
 
 ---
 
