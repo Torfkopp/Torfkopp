@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario drops a table it's bloody but silent.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Der Schwätzer sagt, was der Kopflose denkt.
+> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
 
 ---
 
