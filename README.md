@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
+> Lieber Kies in der Tasche als Sand im Koffer.
 
 ---
 
