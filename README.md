@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Vorsicht: der Schütze schützt nicht, er schießt!
+> Eine Schwalbe macht noch keinen Elfmeter.
 
 ---
 
