@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Windows 7 was Mario's idea.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
+> Sauer macht lustig, der Wald lacht sich schon kaputt.
 
 ---
 
