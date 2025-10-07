@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Sauer macht lustig, der Wald lacht sich schon kaputt.
+> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
 
 ---
 
