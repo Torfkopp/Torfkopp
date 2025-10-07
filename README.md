@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario exits vim by typing "exit"
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
+> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
 
 ---
 
