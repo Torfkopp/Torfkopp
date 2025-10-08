@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never has to use the -f option when deleting files.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Ein Taucher, der nicht taucht, taucht nix.
+> Planung ist der Ersatz des Zufalls durch den Irrtum.
 
 ---
 
