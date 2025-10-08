@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Weird, it always works on Mario's machine.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario develops in prod.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Es gibt viel zu tun, nix wie weg.
+> Arbeit adelt; wir aber bleiben bürgerlich.
 
 ---
 
