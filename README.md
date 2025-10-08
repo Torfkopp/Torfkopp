@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can store the value 256 in one byte
+- When Mario point to NULL, Null scares.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
