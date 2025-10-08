@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never has to use the -f option when deleting files.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario develops in prod.
+- Windows 7 was Mario's idea.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Unter dem Pflaster liegt der Strand.
+> Die Liebe ist das Licht des Lebens, die Ehe ist die Stromabrechnung.
 
 ---
 
