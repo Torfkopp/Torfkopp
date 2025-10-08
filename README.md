@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can delete the Recycle Bin.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Weird, it always works on Mario's machine.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Wolle. (Strickwarenfabrikant)
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
