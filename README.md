@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Windows 7 was Mario's idea.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Die Liebe ist das Licht des Lebens, die Ehe ist die Stromabrechnung.
+> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
 
 ---
 
