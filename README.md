@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario writes code that optimizes itself.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Rolle. (Starlet)
+> Ein Taucher, der nicht taucht, taucht nix.
 
 ---
 
