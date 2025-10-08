@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario CAN divide by 0.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario develops in prod.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wie man sich füttert, so wiegt man.
+> Nichts ist schwerer zu ertragen als Reißverschluss auf vollem Magen.
 
 ---
 
