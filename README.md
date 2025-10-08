@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never has to use the -f option when deleting files.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario develops in prod.
-- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Nichts ist schwerer zu ertragen als Reißverschluss auf vollem Magen.
+> Unter dem Pflaster liegt der Strand.
 
 ---
 
