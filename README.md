@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Planung ist der Ersatz des Zufalls durch den Irrtum.
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
