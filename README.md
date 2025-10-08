@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario writes code that optimizes itself.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
+> Die größte Offenbarung ist die Rolle. (Starlet)
 
 ---
 
