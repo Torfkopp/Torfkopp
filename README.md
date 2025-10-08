@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can't test for equality because he has no equal.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Das Leben gibt's gratis, der Rest ist käuflich.
+> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
 
 ---
 
