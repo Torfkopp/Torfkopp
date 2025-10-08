@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
+- To Mario, everything contains a vulnerability.
+- Mario can delete the Recycle Bin.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
+> Die größte Offenbarung ist die Wolle. (Strickwarenfabrikant)
 
 ---
 
