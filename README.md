@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- To Mario, everything contains a vulnerability.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario CAN divide by 0.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Schnauze, sonst Beule.
+> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
 
 ---
 
