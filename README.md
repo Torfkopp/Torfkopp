@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
+> Und draußen in dem dunklen Forst erwacht die Gans im Adlerhorst. Sie sieht sich um und spricht betroffen: "Mein lieber Schwan, war ich besoffen!"
 
 ---
 
