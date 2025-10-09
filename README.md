@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario develops in prod.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Arbeit adelt; wir aber bleiben bürgerlich.
+> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
 
 ---
 
