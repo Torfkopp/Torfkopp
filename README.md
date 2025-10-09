@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Coeo, ergo sum.
+> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
 
 ---
 
