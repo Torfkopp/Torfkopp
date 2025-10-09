@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario throws an exception it's either across the room or out the window.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Weird, it always works on Mario's machine.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
+> Wozu noch recht schreiben, wenn man links denkt?
 
 ---
 
