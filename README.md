@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can store the value 256 in one byte
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Wozu noch recht schreiben, wenn man links denkt?
+> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
 
 ---
 
