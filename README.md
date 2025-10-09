@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never has to use the -f option when deleting files.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wer faul ist, schaft Arbeitsplätze.
+> Die größte Offenbarung ist die Hölle. (Luzifer)
 
 ---
 
