@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can store the value 256 in one byte
+- Mario CAN divide by 0.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden.
+> Lieber ein Zebra streifen als einen Bullen anfahren.
 
 ---
 
