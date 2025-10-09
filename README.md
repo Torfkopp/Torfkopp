@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario can access the DB from the UI.
-- Mario does not code in cycles, he codes in strikes.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Jedem Fiaker seine Viagra!
+> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
 
 ---
 
