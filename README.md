@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario exits vim by typing "exit"
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- To Mario, everything contains a vulnerability.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hölle. (Luzifer)
+> Schnauze, sonst Beule.
 
 ---
 
