@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- 404 errors simply mean that Mario has been there before you.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Nonsens ist der Sieg des Geistes über die Vernunft.
 
 ---
 
