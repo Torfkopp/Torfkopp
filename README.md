@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
+> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
 
 ---
 
