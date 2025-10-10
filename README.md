@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Weird, it always works on Mario's machine.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber Hahn im Korb als Hähnchen im Wienerwald.
+> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
 
 ---
 
