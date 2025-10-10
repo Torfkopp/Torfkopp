@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
+> Vater Staat bringt uns noch alle unter Mutter Erde.
 
 ---
 
