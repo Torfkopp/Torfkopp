@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can compile syntax errors.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario uses /dev/null as STDIN.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
+> Komm lieber Mai und mache den SCHILY wieder grün.
 
 ---
 
