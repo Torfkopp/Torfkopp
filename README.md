@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - When Mario throws an exception it's either across the room or out the window.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Nonsens ist der Sieg des Geistes über die Vernunft.
+> Praxis ist, wenn alles funktioniert und keiner weiß warum.
 
 ---
 
