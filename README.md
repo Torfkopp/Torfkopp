@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Parent is the child of Mario.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can compile syntax errors.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Vater Staat bringt uns noch alle unter Mutter Erde.
+> Im Herbst, da fallen die Blätter; das liegt wohl am Wetter.
 
 ---
 
