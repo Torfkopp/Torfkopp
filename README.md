@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario uses /dev/null as STDIN.
-- Mario can binary search unsorted data.
+- Windows 7 was Mario's idea.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Komm lieber Mai und mache den SCHILY wieder grün.
+> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
 
 ---
 
