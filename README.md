@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can binary search unsorted data.
-- Mario can delete the Recycle Bin.
+- Windows 7 was Mario's idea.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Wenn Dummheit Klingeln würde, dann bräuchtest Du gar kein Handy mehr.
+> Niemand verschönt den Betriebsausflug so wie die, die nicht dabei sind.
 
 ---
 
