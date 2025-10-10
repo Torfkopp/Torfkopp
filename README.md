@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario programs do not accept input.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Lieber fünf Minuten feige als ein Leben lang tot.
 
 ---
 
