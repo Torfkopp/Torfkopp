@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can't test for equality because he has no equal.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Im Herbst, da fallen die Blätter; das liegt wohl am Wetter.
+> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
 
 ---
 
