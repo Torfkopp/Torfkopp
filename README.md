@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario hosting is 105% uptime guaranteed.
+- Mario can binary search unsorted data.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
+> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
 
 ---
 
