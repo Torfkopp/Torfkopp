@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
+> Lieber Hahn im Korb als Hähnchen im Wienerwald.
 
 ---
 
