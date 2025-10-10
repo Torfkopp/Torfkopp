@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can store the value 256 in one byte
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can binary search unsorted data.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Spieglein, Spieglein im Regal - die Männer sind mir scheißegal.
+> Wenn Dummheit Klingeln würde, dann bräuchtest Du gar kein Handy mehr.
 
 ---
 
