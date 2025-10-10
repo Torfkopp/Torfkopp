@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario programs do not accept input.
-- Windows 7 was Mario's idea.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Lieber fünf Minuten feige als ein Leben lang tot.
+> Spieglein, Spieglein im Regal - die Männer sind mir scheißegal.
 
 ---
 
