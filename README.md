@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can delete the Recycle Bin.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
+> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
 
 ---
 
