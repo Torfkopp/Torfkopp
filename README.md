@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- 404 errors simply mean that Mario has been there before you.
+- Mario programs do not accept input.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Die Intelligenz verfolgt mich, doch ich bin schneller.
+> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
 
 ---
 
