@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
+> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
 
 ---
 
