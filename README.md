@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario does not code in cycles, he codes in strikes.
-- Parent is the child of Mario.
+- Mario CAN divide by 0.
+- Mario can store the value 256 in one byte
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Nur die Harten kommen in den Garten.
+> Lieber träumen unter Bäumen als schaffen unter Affen.
 
 ---
 
