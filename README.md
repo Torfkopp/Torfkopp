@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario programs do not accept input.
+- Mario CAN divide by 0.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
+> Riech ich dein Aroma, fall ich gleich ins Koma.
 
 ---
 
