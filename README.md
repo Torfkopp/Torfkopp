@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario exits vim by typing "exit"
+- Mario does not code in cycles, he codes in strikes.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Lieber 'n Altbier als 'ne Neurose.
+> Nur die Harten kommen in den Garten.
 
 ---
 
