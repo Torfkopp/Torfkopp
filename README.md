@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can access the DB from the UI.
-- Mario uses /dev/null as STDIN.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario writes code that optimizes itself.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Kreuzbrave sind meist piksauber.
 
 ---
 
