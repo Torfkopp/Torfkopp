@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Weird, it always works on Mario's machine.
 - Windows 7 was Mario's idea.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario drops a table it's bloody but silent.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Niemand verschönt den Betriebsausflug so wie die, die nicht dabei sind.
+> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
 
 ---
 
