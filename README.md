@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
+> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
 
 ---
 
