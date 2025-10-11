@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Windows 7 was Mario's idea.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can access the DB from the UI.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
+> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
 
 ---
 
