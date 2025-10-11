@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario hosting is 105% uptime guaranteed.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Babypille fauler Zauber, Ajax macht das Becken sauber.
+> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
 
 ---
 
