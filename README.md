@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario hosting is 105% uptime guaranteed.
-- Windows 7 was Mario's idea.
+- 404 errors simply mean that Mario has been there before you.
+- Mario exits vim by typing "exit"
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
+> Die Basis des Fundamentalen ist das Grundlegende.
 
 ---
 
