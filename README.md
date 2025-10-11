@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario can store the value 256 in one byte
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can binary search unsorted data.
+- Windows 7 was Mario's idea.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Lieber träumen unter Bäumen als schaffen unter Affen.
+> Die größte Offenbarung ist die Pupille. (Optiker)
 
 ---
 
