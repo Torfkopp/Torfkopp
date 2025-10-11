@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can binary search unsorted data.
-- Windows 7 was Mario's idea.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pupille. (Optiker)
+> Babypille fauler Zauber, Ajax macht das Becken sauber.
 
 ---
 
