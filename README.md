@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can binary search unsorted data.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Riech ich dein Aroma, fall ich gleich ins Koma.
+> Lieber 'n Altbier als 'ne Neurose.
 
 ---
 
