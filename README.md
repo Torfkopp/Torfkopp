@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario writes code that optimizes itself.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Kreuzbrave sind meist piksauber.
+> Die Intelligenz verfolgt mich, doch ich bin schneller.
 
 ---
 
