@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- 404 errors simply mean that Mario has been there before you.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - When Mario drops a table it's bloody but silent.
-- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
+> Lieber Eber-hart als Sau-weich.
 
 ---
 
