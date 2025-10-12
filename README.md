@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario drops a table it's bloody but silent.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Eber-hart als Sau-weich.
+> Die größte Offenbarung ist der Bulle. (cow in season)
 
 ---
 
