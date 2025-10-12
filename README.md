@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
+> Nieder mit dem Bockbier! Es lebe die Ziegenmilch!
 
 ---
 
