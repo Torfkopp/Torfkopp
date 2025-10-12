@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can't test for equality because he has no equal.
-- Mario uses /dev/null as STDIN.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
+> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
 
 ---
 
