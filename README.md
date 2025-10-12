@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Da da da - du hast die Gicht, ich hab sie nicht.
+> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
 
 ---
 
