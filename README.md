@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wer ATA braucht, ist noch lange nicht bescheuert.
+> Schnauze, sonst Beule.
 
 ---
 
