@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario can store the value 256 in one byte
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario develops in prod.
+- When Mario drops a table it's bloody but silent.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Gott ist nicht tot; nur beim Wort zum Sonntag eingeschlafen.
+> Was dem einen sein Beat, ist dem anderen seine Beate.
 
 ---
 
