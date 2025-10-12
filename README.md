@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can write to ROM.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Windows 7 was Mario's idea.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Selig, wer nichts zu sagen hat und doch schweigt.
+> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
 
 ---
 
