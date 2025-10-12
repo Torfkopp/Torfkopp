@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Windows 7 was Mario's idea.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber zusammen aus- als allein eingehen.
+> Selig, wer nichts zu sagen hat und doch schweigt.
 
 ---
 
