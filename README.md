@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Nieder mit dem Bockbier! Es lebe die Ziegenmilch!
+> Der Computer ist die Antwort ... Was war eigentlich die Frage?
 
 ---
 
