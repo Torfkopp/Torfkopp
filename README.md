@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When Mario drops a table it's bloody but silent.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Beat, ist dem anderen seine Beate.
+> Wer ATA braucht, ist noch lange nicht bescheuert.
 
 ---
 
