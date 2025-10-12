@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Parent is the child of Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario can store the value 256 in one byte
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Bulle. (cow in season)
+> Gott ist nicht tot; nur beim Wort zum Sonntag eingeschlafen.
 
 ---
 
