@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can compile syntax errors.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
+> Da da da - du hast die Gicht, ich hab sie nicht.
 
 ---
 
