@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can't test for equality because he has no equal.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
+> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
 
 ---
 
