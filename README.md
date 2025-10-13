@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can't test for equality because he has no equal.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Trockener Humor kann nie überflüssig sein.
+> Wer nichts wird, wird Zwischenwirt.
 
 ---
 
