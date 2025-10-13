@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never has to use the -f option when deleting files.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wer nichts wird, wird Zwischenwirt.
+> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
 
 ---
 
