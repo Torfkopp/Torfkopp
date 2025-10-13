@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can access the DB from the UI.
-- Mario can delete the Recycle Bin.
+- Mario programs do not accept input.
+- When Mario point to NULL, Null scares.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
+> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
 
 ---
 
