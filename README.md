@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can compile syntax errors.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
+> Selig, wer nichts zu sagen hat und doch schweigt.
 
 ---
 
