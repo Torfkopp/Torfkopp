@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can binary search unsorted data.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can access the DB from the UI.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Ehelich währt am längsten, doch vorehelich ist spannender.
+> Trockener Humor kann nie überflüssig sein.
 
 ---
 
