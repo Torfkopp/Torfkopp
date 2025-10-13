@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can binary search unsorted data.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
