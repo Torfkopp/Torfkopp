@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can delete the Recycle Bin.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- To Mario, everything contains a vulnerability.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Kreuzbrave sind meist piksauber.
+> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
 
 ---
 
