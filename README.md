@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario plugs in USB sticks perfectly the first time every time
-- When Mario point to NULL, Null scares.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Hinten sind die Schweine fett.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
