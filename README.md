@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> Lieber ein Altbier als eine Neurose.
 
 ---
 
