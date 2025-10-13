@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario does not code in cycles, he codes in strikes.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Eine Öko-Mähne ist eine Perücke aus Echthaar.
+> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
 
 ---
 
