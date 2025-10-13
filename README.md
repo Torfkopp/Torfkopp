@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can access the DB from the UI.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Selig, wer nichts zu sagen hat und doch schweigt.
+> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
 
 ---
 
