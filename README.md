@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can binary search unsorted data.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lieber ein Altbier als eine Neurose.
+> Ehelich währt am längsten, doch vorehelich ist spannender.
 
 ---
 
