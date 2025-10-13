@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- When Mario point to NULL, Null scares.
-- Parent is the child of Mario.
+- Mario can write to ROM.
+- Mario does not code in cycles, he codes in strikes.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
+> Eine Öko-Mähne ist eine Perücke aus Echthaar.
 
 ---
 
