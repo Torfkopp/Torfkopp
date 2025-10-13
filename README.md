@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can access the DB from the UI.
-- Mario exits vim by typing "exit"
+- Mario can delete the Recycle Bin.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
+> Kreuzbrave sind meist piksauber.
 
 ---
 
