@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can access the DB from the UI.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
+> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
 
 ---
 
