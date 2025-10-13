@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- To Mario, everything contains a vulnerability.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario develops in prod.
+- Mario plugs in USB sticks perfectly the first time every time
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
+> Hinten sind die Schweine fett.
 
 ---
 
