@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
+- Mario writes code that optimizes itself.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Der Bauer pflügt, der Bauer eggt, derweil im Stall das Vieh verreckt.
+> Die Liebe ist das Licht des Lebens, die Ehe ist die Stromabrechnung.
 
 ---
 
