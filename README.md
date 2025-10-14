@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario writes code that optimizes itself.
-- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
+> Jeder ist seines Glückes Störenfried.
 
 ---
 
