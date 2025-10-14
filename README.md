@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Mario doesn't use web standards as the web will conform to him.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
 
 ---
 
