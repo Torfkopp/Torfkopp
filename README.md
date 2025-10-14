@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can store the value 256 in one byte
-- When Mario drops a table it's bloody but silent.
+- Mario exits vim by typing "exit"
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
+> Eine Frau ohne Mann ist wie ein Fisch ohne Fahrrad.
 
 ---
 
