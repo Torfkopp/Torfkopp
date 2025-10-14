@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Weird, it always works on Mario's machine.
-- Mario can store the value 256 in one byte
+- When Mario throws exceptions, it's across the room.
+- Parent is the child of Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Nimms leicht, sonst nimmts ein anderer.
+> Wer wöchentlich nur einmal kann und möchte gerne täglich, der wende sich an Neckermann, denn Neckermann machts möglich.
 
 ---
 
