@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario CAN divide by 0.
+- When Mario throws exceptions, it's across the room.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Früher haben wir uns vor der Arbeit gedrückt, heute schauen wir stundenlang zu.
+> Viele Köche sind des Hasen Tod.
 
 ---
 
