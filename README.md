@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario writes code that optimizes itself.
+- Mario doesn't use web standards as the web will conform to him.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Mens sana in Campari Soda.
+> Wer stirbt, ist nur zu faul zum Leben.
 
 ---
 
