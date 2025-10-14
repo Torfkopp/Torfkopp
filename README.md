@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario uses /dev/null as STDIN.
+- Windows 7 was Mario's idea.
+- Weird, it always works on Mario's machine.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> Nimms leicht, sonst nimmts ein anderer.
 
 ---
 
