@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario writes code that optimizes itself.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can store the value 256 in one byte
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
 
 ---
 
