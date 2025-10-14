@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario exits vim by typing "exit"
 - Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
+> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
 
 ---
 
