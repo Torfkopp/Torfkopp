@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can compile syntax errors.
 - Mario exits vim by typing "exit"
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Eine Frau ohne Mann ist wie ein Fisch ohne Fahrrad.
+> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
 
 ---
 
