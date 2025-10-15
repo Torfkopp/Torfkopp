@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario plugs in USB sticks perfectly the first time every time
 - Mario never has to use the -f option when deleting files.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Je leerer die Versprechungen, desto voller die Absicht.
+> Lieber Wurstfinger als Knoblauchzehen.
 
 ---
 
