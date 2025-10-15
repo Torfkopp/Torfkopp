@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can access the DB from the UI.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wer heute normal ist, ist nicht mehr normal.
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
