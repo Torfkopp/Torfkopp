@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't make http requests. He makes http demands.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
+> Der Plebs trinkt Schweppes.
 
 ---
 
