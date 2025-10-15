@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can store the value 256 in one byte
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can compile syntax errors.
+- Mario develops in prod.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Auch die Stimme des Gewissens hat mal Stimmbruch.
+> Unter kleinen Steppdecken können große Deppen stecken.
 
 ---
 
