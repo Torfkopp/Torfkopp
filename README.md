@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario exits vim by typing "exit"
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Der Spekulant verdient sein Brot mit Hausverfall und Wohnungsnot.
+> Riech ich dein Aroma, fall ich gleich ins Koma.
 
 ---
 
