@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario uses /dev/null as STDIN.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario point to NULL, Null scares.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wer Blüten druckt, muss rechtzeitig verduften.
+> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
 
 ---
 
