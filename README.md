@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't make http requests. He makes http demands.
-- To Mario, everything contains a vulnerability.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Der Plebs trinkt Schweppes.
+> Wer Blüten druckt, muss rechtzeitig verduften.
 
 ---
 
