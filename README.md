@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario develops in prod.
-- Parent is the child of Mario.
+- Mario exits vim by typing "exit"
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Unter kleinen Steppdecken können große Deppen stecken.
+> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
 
 ---
 
