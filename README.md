@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario writes code that optimizes itself.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
+> Je leerer die Versprechungen, desto voller die Absicht.
 
 ---
 
