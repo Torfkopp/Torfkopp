@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario invented binary by performing a roundhouse on the number 10.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario uses /dev/null as STDIN.
+- Mario can store the value 256 in one byte
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Kippt Kaiser Franz von der Empore, gab's in der Nachspielzeit zwei Tore.
+> Auch die Stimme des Gewissens hat mal Stimmbruch.
 
 ---
 
