@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario never has to use the -f option when deleting files.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Liebe ist, zusammen ins Deutsche Museum zu gehen.
+> Niemand hat die Absicht eine Mauer zu bauen.
 
 ---
 
