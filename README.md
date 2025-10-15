@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario invented binary by performing a roundhouse on the number 10.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario point to NULL, Null scares.
-- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
+> Kippt Kaiser Franz von der Empore, gab's in der Nachspielzeit zwei Tore.
 
 ---
 
