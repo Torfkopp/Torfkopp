@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- When Mario drops a table it's bloody but silent.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
+> Liebe deinen Nächsten wie dein Auto.
 
 ---
 
