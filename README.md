@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Parent is the child of Mario.
-- Mario can binary search unsorted data.
+- Mario can compile syntax errors.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Eine Öko-Mähne ist eine Perücke aus Echthaar.
+> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
