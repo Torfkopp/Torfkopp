@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can't test for equality because he has no equal.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can compile syntax errors.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
+> Die größte Offenbarung ist die Stille. (Lao'tse)
 
 ---
 
