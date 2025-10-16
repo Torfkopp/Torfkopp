@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can store the value 256 in one byte
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Parent is the child of Mario.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
+> Eine Öko-Mähne ist eine Perücke aus Echthaar.
 
 ---
 
