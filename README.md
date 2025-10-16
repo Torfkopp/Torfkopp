@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can store the value 256 in one byte
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not code in cycles, he codes in strikes.
+- Parent is the child of Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Der direkteste Weg der Listigen ist die Schlangenlinie.
+> Frisch gewachst ist halb gefallen.
 
 ---
 
