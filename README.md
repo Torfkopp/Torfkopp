@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Parent is the child of Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can't test for equality because he has no equal.
+- When Mario point to NULL, Null scares.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Frisch gewachst ist halb gefallen.
+> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
 
 ---
 
