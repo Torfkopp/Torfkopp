@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can compile syntax errors.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario point to NULL, Null scares.
+- Mario can't test for equality because he has no equal.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Zieh Leine, deine Mutter hat Wäsche.
+> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
 
 ---
 
