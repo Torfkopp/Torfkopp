@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can access the DB from the UI.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Jeder Tag ist gleich lang, aber verschieden breit.
+> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
 
 ---
 
