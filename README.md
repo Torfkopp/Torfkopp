@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Liebe deinen Nächsten wie dein Auto.
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
