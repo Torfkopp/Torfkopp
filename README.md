@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario writes code that optimizes itself.
+- Mario CAN divide by 0.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Politik ist die Kunst, Brände zu löschen, die man selbst gelegt hat.
+> Der Apfel fällt nicht weit vom Zank.
 
 ---
 
