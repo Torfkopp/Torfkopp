@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- When Mario point to NULL, Null scares.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
+> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
 
 ---
 
