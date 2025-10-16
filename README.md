@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
+> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
 
 ---
 
