@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario throws an exception it's either across the room or out the window.
+- To Mario, everything contains a vulnerability.
+- Parent is the child of Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Stille. (Lao'tse)
+> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
 
 ---
 
