@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Windows 7 was Mario's idea.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Sturm ist erst, wenn Schafe keine Locken mehr haben.
+> Leihen Sie Geld lieber bei Pessimisten; sie erwarten keine Rückzahlung.
 
 ---
 
