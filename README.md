@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can compile syntax errors.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
+> Keiner redet dümmer als er ist.
 
 ---
 
