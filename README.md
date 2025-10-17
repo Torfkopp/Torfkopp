@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario hosting is 105% uptime guaranteed.
-- Mario programs do not accept input.
+- Mario CAN divide by 0.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Manche Ehefrau lässt lieber den Ofen ausgehen als ihren Mann.
+> Vorsicht: der Schütze schützt nicht, er schießt!
 
 ---
 
