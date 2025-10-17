@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Vorsicht: der Schütze schützt nicht, er schießt!
+> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
 
 ---
 
