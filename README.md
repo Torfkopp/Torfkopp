@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can compile syntax errors.
-- When Mario drops a table it's bloody but silent.
+- Mario programs do not accept input.
+- Mario does not code in cycles, he codes in strikes.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Keiner redet dümmer als er ist.
+> Dummheit, verlass ihn nicht, sonst steht er ganz allein.
 
 ---
 
