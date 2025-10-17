@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario exits vim by typing "exit"
-- Mario doesn't use web standards as the web will conform to him.
+- Mario does not code in cycles, he codes in strikes.
+- To Mario, everything contains a vulnerability.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Lieber Frust im Kopf als Faust aufs Auge.
+> Frisch gewachst ist halb gefallen.
 
 ---
 
