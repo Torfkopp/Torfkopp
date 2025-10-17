@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Parent is the child of Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not code in cycles, he codes in strikes.
+- Mario hosting is 105% uptime guaranteed.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
+> Manche Ehefrau lässt lieber den Ofen ausgehen als ihren Mann.
 
 ---
 
