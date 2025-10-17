@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario exits vim by typing "exit"
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wer Hamburger nachmacht oder verfälscht, wird mit Donalds nicht unter fünf Mac bestraft.
+> Lieber Frust im Kopf als Faust aufs Auge.
 
 ---
 
