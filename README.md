@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario drops a table it's bloody but silent.
+- Mario plugs in USB sticks perfectly the first time every time
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Der Baum hat Äste, das ist das beste, denn wär' er kahl, dann wär's ein Pfahl.
+> Man soll die Gäste feuern, wie sie fallen.
 
 ---
 
