@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario plugs in USB sticks perfectly the first time every time
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Windows 7 was Mario's idea.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Man soll die Gäste feuern, wie sie fallen.
+> Wo nix läuft, läuft der Fernseher [oder: Computer].
 
 ---
 
