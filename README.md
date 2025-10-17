@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario plugs in USB sticks perfectly the first time every time
-- Windows 7 was Mario's idea.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Wo nix läuft, läuft der Fernseher [oder: Computer].
+> Sturm ist erst, wenn Schafe keine Locken mehr haben.
 
 ---
 
