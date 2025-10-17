@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario drops a table it's bloody but silent.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can store the value 256 in one byte
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Leihen Sie Geld lieber bei Pessimisten; sie erwarten keine Rückzahlung.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
