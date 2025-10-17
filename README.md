@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- To Mario, everything contains a vulnerability.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Frisch gewachst ist halb gefallen.
+> Der Baum hat Äste, das ist das beste, denn wär' er kahl, dann wär's ein Pfahl.
 
 ---
 
