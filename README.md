@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario never has to use the -f option when deleting files.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Ich verspreche nichts; und das halte ich auch.
+> Lieber FKK als FDP.
 
 ---
 
