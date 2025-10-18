@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario point to NULL, Null scares.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can't test for equality because he has no equal.
+- Mario never has to use the -f option when deleting files.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Lieber süßen Nebel als sauren Regen.
+> Ich verspreche nichts; und das halte ich auch.
 
 ---
 
