@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario CAN divide by 0.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario exits vim by typing "exit"
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
+> Lieber lächerlich als bürgerlich.
 
 ---
 
