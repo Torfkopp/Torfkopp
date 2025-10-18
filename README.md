@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Weird, it always works on Mario's machine.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Das nehm ich dir übel, sprach der Dübel, und verschwand in der Wand, wo ihn niemand wiederfand.
+> Die Schlankheitskur verliert den Schrecken, lässt du dir alles weiter schmecken.
 
 ---
 
