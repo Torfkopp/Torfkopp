@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
-- Mario hosting is 105% uptime guaranteed.
+- Parent is the child of Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber FKK als FDP.
+> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
 
 ---
 
