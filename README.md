@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario programs do not accept input.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws exceptions, it's across the room.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Steter Tropfen schützt vor Torheit nicht.
 
 ---
 
