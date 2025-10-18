@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can't test for equality because he has no equal.
+- Mario programs do not accept input.
+- Mario can compile syntax errors.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Die Schlankheitskur verliert den Schrecken, lässt du dir alles weiter schmecken.
+> Behaltet euer Tränengas - es gibt genug zum Heulen.
 
 ---
 
