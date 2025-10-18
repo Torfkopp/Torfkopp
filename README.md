@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario throws exceptions, it's across the room.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Hände hoch! Ich bin Achselfetischist
+> Nicht jeder Mann, der raucht, ist ein Vulkan.
 
 ---
 
