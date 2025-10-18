@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario throws an exception it's either across the room or out the window.
+- 404 errors simply mean that Mario has been there before you.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Nicht jeder Mann, der raucht, ist ein Vulkan.
+> Wer dem Chef in den Hintern kriecht, muss damit rechnen, dass er ihm eines Tages zum Hals heraushängt.
 
 ---
 
