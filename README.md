@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario exits vim by typing "exit"
-- Mario can't test for equality because he has no equal.
+- Mario can write to ROM.
+- Mario programs do not accept input.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Lieber lächerlich als bürgerlich.
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
