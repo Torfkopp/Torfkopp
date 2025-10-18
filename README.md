@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario drops a table it's bloody but silent.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
+> Das nehm ich dir übel, sprach der Dübel, und verschwand in der Wand, wo ihn niemand wiederfand.
 
 ---
 
