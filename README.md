@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- 404 errors simply mean that Mario has been there before you.
-- Mario writes code that optimizes itself.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer dem Chef in den Hintern kriecht, muss damit rechnen, dass er ihm eines Tages zum Hals heraushängt.
+> Fighting for peace is like fucking for virginity.
 
 ---
 
