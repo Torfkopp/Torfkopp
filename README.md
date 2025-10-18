@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario throws exceptions, it's across the room.
-- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen schützt vor Torheit nicht.
+> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
 
 ---
 
