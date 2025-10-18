@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
+> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
 
 ---
 
