@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wer trinkt, schadet dem Durst.
+> Informationsfreiheit für alle! Macht die Wände dünner!
 
 ---
 
