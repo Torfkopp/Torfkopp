@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario hosting is 105% uptime guaranteed.
 - Mario exits vim by typing "exit"
+- Mario can write to ROM.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
+> Auch ein Spaßvogel kann es so weit treiben, dass er fliegt.
 
 ---
 
