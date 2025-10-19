@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can store the value 256 in one byte
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Hände hoch! Ich bin Achselfetischist
+> Wer trinkt, schadet dem Durst.
 
 ---
 
