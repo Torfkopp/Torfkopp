@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer sich nicht wehrt, endet am Herd.
+> Charme ist das einzige, das sich nicht unter Druck versprühen lässt.
 
 ---
 
