@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can store the value 256 in one byte
-- Mario can compile syntax errors.
+- When Mario throws exceptions, it's across the room.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
+> Gepflegter Bart küsst weich und zart.
 
 ---
 
