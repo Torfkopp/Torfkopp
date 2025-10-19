@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can store the value 256 in one byte
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer am Fleischwolf steht, sollte nicht gleich durchdrehen.
+> Hau niemals ab - hau einfach zu!
 
 ---
 
