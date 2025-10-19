@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario hosting is 105% uptime guaranteed.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Hau niemals ab - hau einfach zu!
+> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
 
 ---
 
