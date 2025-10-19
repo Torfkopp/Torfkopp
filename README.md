@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can compile syntax errors.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario uses /dev/null as STDIN.
+- Windows 7 was Mario's idea.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Behaltet euer Tränengas - es gibt genug zum Heulen.
+> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
 
 ---
 
