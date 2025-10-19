@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario can write to ROM.
-- When Mario throws exceptions, it's across the room.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can store the value 256 in one byte
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Auch ein Spaßvogel kann es so weit treiben, dass er fliegt.
+> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
 
 ---
 
