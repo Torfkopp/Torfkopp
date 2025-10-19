@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Windows 7 was Mario's idea.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Jedem Analphabeten sein Diktiergerät!
+> Wer am Fleischwolf steht, sollte nicht gleich durchdrehen.
 
 ---
 
