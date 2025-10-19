@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Parent is the child of Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Jetzt wollen wir der Sache mal auf den Grund gehen, sagte der Bauer und sprang in die Jauchegrube.
+> Jedem Analphabeten sein Diktiergerät!
 
 ---
 
