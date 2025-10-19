@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Windows 7 was Mario's idea.
-- Mario CAN divide by 0.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
+> Der direkteste Weg der Listigen ist die Schlangenlinie.
 
 ---
 
