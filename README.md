@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Gepflegter Bart küsst weich und zart.
+> Hände hoch! Ich bin Achselfetischist
 
 ---
 
