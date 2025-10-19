@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Weird, it always works on Mario's machine.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Informationsfreiheit für alle! Macht die Wände dünner!
+> Wer sich nicht wehrt, endet am Herd.
 
 ---
 
