@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario CAN divide by 0.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Die Axt im Haus ist die Mutter der Porzellankiste.
+> Ouzo statt Juso.
 
 ---
 
