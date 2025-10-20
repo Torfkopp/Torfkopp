@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
 - Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Parent is the child of Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Ouzo statt Juso.
+> Wo viel Lid ist, ist auch viel Schatten.
 
 ---
 
