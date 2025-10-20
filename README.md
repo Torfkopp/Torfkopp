@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can't test for equality because he has no equal.
+- To Mario, everything contains a vulnerability.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Zu viel Eisbein schadet dem Steißbein.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
