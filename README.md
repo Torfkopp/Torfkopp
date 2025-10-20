@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can delete the Recycle Bin.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Was Krupp in Essen sind wir im Trinken.
+> Die Axt im Haus ist die Mutter der Porzellankiste.
 
 ---
 
