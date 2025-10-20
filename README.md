@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario exits vim by typing "exit"
+- Mario plugs in USB sticks perfectly the first time every time
+- 404 errors simply mean that Mario has been there before you.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Die kluge Frau folgt ihrem Mann, wohin sie will.
+> Ein Gehirn wäscht das andere.
 
 ---
 
