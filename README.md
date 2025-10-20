@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario can store the value 256 in one byte
-- 404 errors simply mean that Mario has been there before you.
+- Windows 7 was Mario's idea.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Lieber Wurstfinger als Knoblauchzehen.
+> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
 
 ---
 
