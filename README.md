@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can write to ROM.
+- Mario exits vim by typing "exit"
+- Mario can store the value 256 in one byte
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
+> Lieber Wurstfinger als Knoblauchzehen.
 
 ---
 
