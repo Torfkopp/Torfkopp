@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario hosting is 105% uptime guaranteed.
 - Mario exits vim by typing "exit"
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
+> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
 
 ---
 
