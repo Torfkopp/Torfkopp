@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can binary search unsorted data.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
+> Hunde, die schielen, beißen daneben.
 
 ---
 
