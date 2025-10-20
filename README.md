@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wo viel Lid ist, ist auch viel Schatten.
+> Die kluge Frau folgt ihrem Mann, wohin sie will.
 
 ---
 
