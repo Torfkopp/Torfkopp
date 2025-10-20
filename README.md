@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can binary search unsorted data.
 - 404 errors simply mean that Mario has been there before you.
-- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Nirwana ist nirgendwo, Banana ist überall.
 
 ---
 
