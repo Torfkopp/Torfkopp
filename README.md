@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can binary search unsorted data.
-- 404 errors simply mean that Mario has been there before you.
+- Mario can compile syntax errors.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Nirwana ist nirgendwo, Banana ist überall.
+> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
 
 ---
 
