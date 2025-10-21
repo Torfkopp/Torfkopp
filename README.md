@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario CAN divide by 0.
 - Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario drops a table it's bloody but silent.
-- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Warum sachlich werden, wenn es auch persönlich geht.
+> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
 
 ---
 
