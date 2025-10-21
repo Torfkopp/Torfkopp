@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario can delete the Recycle Bin.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
+> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
 
 ---
 
