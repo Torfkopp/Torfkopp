@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario throws an exception it's either across the room or out the window.
 - Mario can store the value 256 in one byte
-- Parent is the child of Mario.
-- To Mario, everything contains a vulnerability.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Genitiv ins Wasser, weil es Dativ ist.
+> Licht ist nicht vorhandene Dunkelheit.
 
 ---
 
