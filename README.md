@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
