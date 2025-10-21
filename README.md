@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can delete the Recycle Bin.
+- Mario never has to use the -f option when deleting files.
+- Mario can access the DB from the UI.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Je weniger Haare man hat, desto mehr Gesicht muss man waschen.
+> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
 
 ---
 
