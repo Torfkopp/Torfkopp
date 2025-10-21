@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario drops a table it's bloody but silent.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Nur Idioten halten Ordnung; ein Genie beherrscht das Chaos.
+> Warum sachlich werden, wenn es auch persönlich geht.
 
 ---
 
