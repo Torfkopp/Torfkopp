@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario CAN divide by 0.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Parent is the child of Mario.
+- Mario programs do not accept input.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Ich bin nicht feige; ich bin nur stärker als der Held in mir.
 
 ---
 
