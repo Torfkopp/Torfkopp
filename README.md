@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can store the value 256 in one byte
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario never has to use the -f option when deleting files.
-- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
+> Hey Kids, let's kotz.
 
 ---
 
