@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can write to ROM.
+- 404 errors simply mean that Mario has been there before you.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Hunde, die schielen, beißen daneben.
+> Je weniger Haare man hat, desto mehr Gesicht muss man waschen.
 
 ---
 
