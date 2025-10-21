@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Parent is the child of Mario.
-- Mario uses /dev/null as STDIN.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Hinten sind die Schweine fett.
+> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
 
 ---
 
