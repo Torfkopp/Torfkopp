@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
 - Mario can store the value 256 in one byte
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Hey Kids, let's kotz.
+> Genitiv ins Wasser, weil es Dativ ist.
 
 ---
 
