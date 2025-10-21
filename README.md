@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario can access the DB from the UI.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Windows 7 was Mario's idea.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
+> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
 
 ---
 
