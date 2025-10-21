@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can store the value 256 in one byte
-- Mario hosting is 105% uptime guaranteed.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Licht ist nicht vorhandene Dunkelheit.
+> Nur Idioten halten Ordnung; ein Genie beherrscht das Chaos.
 
 ---
 
