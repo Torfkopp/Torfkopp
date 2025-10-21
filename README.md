@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario hosting is 105% uptime guaranteed.
-- When Mario drops a table it's bloody but silent.
+- Mario can't test for equality because he has no equal.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
+> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
 
 ---
 
