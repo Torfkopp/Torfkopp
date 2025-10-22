@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Homer ist, wenn man trotzdem lacht.
+> Hey Kids, let's kotz.
 
 ---
 
