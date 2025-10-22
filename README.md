@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can binary search unsorted data.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can't test for equality because he has no equal.
+- Mario can access the DB from the UI.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> Lieber zusammen aus- als allein eingehen.
 
 ---
 
