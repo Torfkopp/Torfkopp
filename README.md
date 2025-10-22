@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario programs do not accept input.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- 404 errors simply mean that Mario has been there before you.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Ich bin nicht feige; ich bin nur stärker als der Held in mir.
+> Eher kommt ein Kamel durchs Nadelöhr als ein Elefant ins Mausoleum.
 
 ---
 
