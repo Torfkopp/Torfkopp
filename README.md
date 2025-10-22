@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 - Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Biste in der EDV, kennt deine Daten jede Sau.
+> Ende gut, alles putt.
 
 ---
 
