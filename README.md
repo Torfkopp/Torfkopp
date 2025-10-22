@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
+> Lieber sechs Stunden Uni am Tag als gar keinen Schlaf.
 
 ---
 
