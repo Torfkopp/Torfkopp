@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never has to use the -f option when deleting files.
+- When Mario drops a table it's bloody but silent.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer A sagt, kann auch gleich Halstabletten nehmen.
+> Magerquark macht uns stark; Haferbrei macht uns frei.
 
 ---
 
