@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario uses /dev/null as STDIN.
 - To Mario, everything contains a vulnerability.
-- Mario can access the DB from the UI.
-- Mario doesn't make http requests. He makes http demands.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Wir wollen keine Entsorgung; laßt uns wenigstens unsere Sorgen.
+> Lieber sechs Stunden Uni am Tag als gar keinen Schlaf.
 
 ---
 
