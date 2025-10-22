@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't use web standards as the web will conform to him.
 - Mario can't test for equality because he has no equal.
-- Mario can access the DB from the UI.
-- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Lieber zusammen aus- als allein eingehen.
+> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
 
 ---
 
