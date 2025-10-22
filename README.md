@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can write to ROM.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
