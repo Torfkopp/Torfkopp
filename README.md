@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario plugs in USB sticks perfectly the first time every time
+- Windows 7 was Mario's idea.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Eher kommt ein Kamel durchs Nadelöhr als ein Elefant ins Mausoleum.
+> Wer A sagt, kann auch gleich Halstabletten nehmen.
 
 ---
 
