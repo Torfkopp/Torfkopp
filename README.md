@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Magerquark macht uns stark; Haferbrei macht uns frei.
+> Biste in der EDV, kennt deine Daten jede Sau.
 
 ---
 
