@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can access the DB from the UI.
+- Mario does not code in cycles, he codes in strikes.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Benutze die geile Gehirnmaschine!
+> Milch trinken ist besser als Quark reden.
 
 ---
 
