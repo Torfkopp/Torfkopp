@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
+> Gemeinsam sind wir unausstehlich.
 
 ---
 
