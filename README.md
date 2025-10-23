@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario doesn't use web standards as the web will conform to him.
-- Mario can binary search unsorted data.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Gemeinsam sind wir unausstehlich.
+> Benutze die geile Gehirnmaschine!
 
 ---
 
