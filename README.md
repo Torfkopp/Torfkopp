@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can store the value 256 in one byte
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
+> Lieber fröhlich im Bett als traurig bei der Arbeit.
 
 ---
 
