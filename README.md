@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario can access the DB from the UI.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
+> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
 
 ---
 
