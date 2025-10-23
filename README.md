@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can't test for equality because he has no equal.
+- Mario writes code that optimizes itself.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Beat, ist dem anderen seine Beate.
+> Lieber FKK als FDP.
 
 ---
 
