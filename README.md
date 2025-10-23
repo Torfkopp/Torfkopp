@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Warum sachlich werden, wenn es auch persönlich geht.
+> Ruhe ist der erste Bürgerfluch.
 
 ---
 
