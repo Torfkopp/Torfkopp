@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never has to use the -f option when deleting files.
+- Mario can store the value 256 in one byte
+- Mario can access the DB from the UI.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Lieber süßen Nebel als sauren Regen.
+> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
 
 ---
 
