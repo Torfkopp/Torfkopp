@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can store the value 256 in one byte
-- When Mario drops a table it's bloody but silent.
+- Mario can compile syntax errors.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Lieber fröhlich im Bett als traurig bei der Arbeit.
+> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
 
 ---
 
