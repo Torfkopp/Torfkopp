@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- 404 errors simply mean that Mario has been there before you.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Ruhe ist der erste Bürgerfluch.
+> Lieber Wurstfinger als Knoblauchzehen.
 
 ---
 
