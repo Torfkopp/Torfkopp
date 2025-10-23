@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can binary search unsorted data.
+- Weird, it always works on Mario's machine.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
+> Lieber süßen Nebel als sauren Regen.
 
 ---
 
