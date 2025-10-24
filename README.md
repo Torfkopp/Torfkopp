@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't make http requests. He makes http demands.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Frei ist, wer will, was er ohnehin muss.
+> Nur die Harten kommen in den Garten.
 
 ---
 
