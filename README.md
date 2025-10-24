@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can store the value 256 in one byte
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
+> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
 
 ---
 
