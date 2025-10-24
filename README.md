@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not code in cycles, he codes in strikes.
+- Parent is the child of Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Nur die Harten kommen in den Garten.
+> wenn die Bettwanzen beißen, beiß zurück!
 
 ---
 
