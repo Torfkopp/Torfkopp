@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't make http requests. He makes http demands.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- To Mario, everything contains a vulnerability.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Legal - Illegal - Ikearegal
+> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
 
 ---
 
