@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario never has to use the -f option when deleting files.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Arbeitskraft? Nein danke.
+> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
 
 ---
 
