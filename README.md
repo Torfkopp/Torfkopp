@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario drops a table it's bloody but silent.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Mit leerem Kopf nickt es sich leichter.
+> Legal - Illegal - Ikearegal
 
 ---
 
