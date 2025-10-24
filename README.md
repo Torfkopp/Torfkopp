@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- 404 errors simply mean that Mario has been there before you.
-- Mario writes code that optimizes itself.
+- Mario uses /dev/null as STDIN.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
+> Frei ist, wer will, was er ohnehin muss.
 
 ---
 
