@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario drops a table it's bloody but silent.
-- Mario can delete the Recycle Bin.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can store the value 256 in one byte
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Montagmorgen 10 nach 8, und die Woche nimmt kein Ende.
+> Die größte Offenbarung ist die Stille. (Lao'tse)
 
 ---
 
