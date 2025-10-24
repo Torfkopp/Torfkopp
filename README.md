@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Polygamie ist Demokratie im Bett.
+> Ich summe, also bien ich.
 
 ---
 
