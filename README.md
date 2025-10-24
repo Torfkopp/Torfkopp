@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can store the value 256 in one byte
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
+> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
 
 ---
 
