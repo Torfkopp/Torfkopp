@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario never has to use the -f option when deleting files.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario drops a table it's bloody but silent.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
+> Montagmorgen 10 nach 8, und die Woche nimmt kein Ende.
 
 ---
 
