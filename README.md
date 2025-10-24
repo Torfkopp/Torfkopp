@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario uses /dev/null as STDIN.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Ich summe, also bien ich.
+> Mit leerem Kopf nickt es sich leichter.
 
 ---
 
