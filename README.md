@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can store the value 256 in one byte
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Mario never has to use the -f option when deleting files.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Stille. (Lao'tse)
+> Arbeitskraft? Nein danke.
 
 ---
 
