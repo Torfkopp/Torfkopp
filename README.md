@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario programs do not accept input.
-- Mario never has to use the -f option when deleting files.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario uses /dev/null as STDIN.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Man düngt keinen Garten, indem man durch den Zaun furzt.
+> Die meisten Menschen werden kleiner, wenn man sie unter die Lupe nimmt.
 
 ---
 
