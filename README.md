@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can't test for equality because he has no equal.
+- When Mario drops a table it's bloody but silent.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Guter Staat ist teuer.
+> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
 
 ---
 
