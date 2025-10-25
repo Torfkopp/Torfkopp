@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Weird, it always works on Mario's machine.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Spontaneität will wohlüberlegt sein.
+> Gib mir Deinen Ausweis, und ich sage Dir, wer Du bist.
 
 ---
 
