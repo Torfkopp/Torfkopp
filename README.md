@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario hosting is 105% uptime guaranteed.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Ihr da Ohm, macht doch Watt ihr Volt.
+> Legt die Nordsee trocken, wir wollen nach England.
 
 ---
 
