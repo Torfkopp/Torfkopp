@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario exits vim by typing "exit"
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
+> Sitzt der Hahn auf einer Krähe, war kein Huhn in seiner Nähe.
 
 ---
 
