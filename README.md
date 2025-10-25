@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario throws an exception it's either across the room or out the window.
 - Mario uses /dev/null as STDIN.
-- Mario can't test for equality because he has no equal.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Die meisten Menschen werden kleiner, wenn man sie unter die Lupe nimmt.
+> Lieber eine Fliege im Porzellanladen, als ein Elefant in der Suppe!
 
 ---
 
