@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
+- Mario programs do not accept input.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
+> Man düngt keinen Garten, indem man durch den Zaun furzt.
 
 ---
 
