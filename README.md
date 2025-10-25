@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can write to ROM.
+- Parent is the child of Mario.
+- Mario exits vim by typing "exit"
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
+> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
 
 ---
 
