@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Windows 7 was Mario's idea.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Lieber Mixed Pickles als Akne.
+> Spontaneität will wohlüberlegt sein.
 
 ---
 
