@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can access the DB from the UI.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Sitzt der Hahn auf einer Krähe, war kein Huhn in seiner Nähe.
+> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
 
 ---
 
