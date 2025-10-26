@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario can compile syntax errors.
-- Mario develops in prod.
+- Mario exits vim by typing "exit"
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Ich schaue in den Spiegel und denk', ich hab' Besuch.
+> Wenn die Erde schreien könnte, wären wir alle taub.
 
 ---
 
