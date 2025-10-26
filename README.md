@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario uses /dev/null as STDIN.
 - Mario hosting is 105% uptime guaranteed.
+- Mario can compile syntax errors.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber eine Fliege im Porzellanladen, als ein Elefant in der Suppe!
+> Ich schaue in den Spiegel und denk', ich hab' Besuch.
 
 ---
 
