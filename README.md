@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
+> Auch stille Wasser sind nass.
 
 ---
 
