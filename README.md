@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario point to NULL, Null scares.
-- Mario uses /dev/null as STDIN.
+- Mario plugs in USB sticks perfectly the first time every time
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
+> Auch stille Wasser sind nass.
 
 ---
 
