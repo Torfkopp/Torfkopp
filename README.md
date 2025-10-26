@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario writes code that optimizes itself.
 - Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
+> Die Spitzhacke im Haus ersetzt den Psychopathen.
 
 ---
 
