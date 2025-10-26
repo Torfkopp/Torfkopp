@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can store the value 256 in one byte
+- Mario does not code in cycles, he codes in strikes.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Für manche Leute ist ein Gehirnschlag ein Schlag ins Leere.
 
 ---
 
