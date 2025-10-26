@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- To Mario, everything contains a vulnerability.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario does not code in cycles, he codes in strikes.
+- Mario can binary search unsorted data.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Hunde, die schielen, beißen daneben.
+> Wer Ordnung hält, ist nur zu faul zum Suchen.
 
 ---
 
