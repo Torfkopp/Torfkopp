@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can write to ROM.
+- To Mario, everything contains a vulnerability.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Wenn die Erde schreien könnte, wären wir alle taub.
+> Hunde, die schielen, beißen daneben.
 
 ---
 
