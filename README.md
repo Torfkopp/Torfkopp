@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario exits vim by typing "exit"
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Lieber Eber-hart als Sau-weich.
 
 ---
 
