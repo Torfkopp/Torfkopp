@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario does not code in cycles, he codes in strikes.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Für manche Leute ist ein Gehirnschlag ein Schlag ins Leere.
+> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
 
 ---
 
