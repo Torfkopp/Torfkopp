@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario does not code in cycles, he codes in strikes.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
+> Den Blick in die Welt kann eine Zeitung versperren.
 
 ---
 
