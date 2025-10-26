@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario can binary search unsorted data.
-- Mario doesn't make http requests. He makes http demands.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer Ordnung hält, ist nur zu faul zum Suchen.
+> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
 
 ---
 
