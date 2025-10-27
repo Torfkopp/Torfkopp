@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can delete the Recycle Bin.
+- Mario develops in prod.
+- Mario can't test for equality because he has no equal.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Mädchen, schützt euch - esst Knoblauch.
+> Sprühen bringt Beton zum Blühen.
 
 ---
 
