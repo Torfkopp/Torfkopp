@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Windows 7 was Mario's idea.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not code in cycles, he codes in strikes.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
+> Die meisten Holzwege enden in einer Sackgasse.
 
 ---
 
