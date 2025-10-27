@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
+> Hey Kids, let's kotz.
 
 ---
 
