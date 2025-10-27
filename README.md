@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can access the DB from the UI.
-- Mario never has to use the -f option when deleting files.
-- Mario hosting is 105% uptime guaranteed.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Ist das Hirn auch noch so klein, ein bisschen Stroh passt immer rein.
+> Er war Mathematiker, sie war unberechenbar.
 
 ---
 
