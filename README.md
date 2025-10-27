@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Windows 7 was Mario's idea.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
+> Schneeflöckchen, Weißröckchen, Stinksöckchen.
 
 ---
 
