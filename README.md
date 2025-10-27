@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario can store the value 256 in one byte
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can access the DB from the UI.
+- Mario never has to use the -f option when deleting files.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
+> Ist das Hirn auch noch so klein, ein bisschen Stroh passt immer rein.
 
 ---
 
