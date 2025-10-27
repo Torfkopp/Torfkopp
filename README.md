@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can't test for equality because he has no equal.
-- Mario can binary search unsorted data.
+- When Mario throws exceptions, it's across the room.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Sprühen bringt Beton zum Blühen.
+> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
 
 ---
 
