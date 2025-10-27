@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- To Mario, everything contains a vulnerability.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Lieber Hahn im Korb als Hähnchen im Wienerwald.
+> Mädchen, schützt euch - esst Knoblauch.
 
 ---
 
