@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Hey Kids, let's kotz.
+> Lieber Hahn im Korb als Hähnchen im Wienerwald.
 
 ---
 
