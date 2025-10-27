@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario exits vim by typing "exit"
-- Mario can compile syntax errors.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> In der Not legt der Teufel Fliesen.
+> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
 
 ---
 
