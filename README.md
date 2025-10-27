@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can store the value 256 in one byte
+- Mario exits vim by typing "exit"
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Er war Mathematiker, sie war unberechenbar.
+> In der Not legt der Teufel Fliesen.
 
 ---
 
