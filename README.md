@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never has to use the -f option when deleting files.
+- Parent is the child of Mario.
+- Mario can store the value 256 in one byte
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Lieber Eber-hart als Sau-weich.
+> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
 
 ---
 
