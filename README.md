@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario can compile syntax errors.
-- Mario exits vim by typing "exit"
+- When Mario point to NULL, Null scares.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Mens sana in Campari Soda.
+> Sage mir, warum, und ich sage dir, weshalb.
 
 ---
 
