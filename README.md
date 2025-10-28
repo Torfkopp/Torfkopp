@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario uses /dev/null as STDIN.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Blumen, die nicht wachsen, nennt man Wachsblumen.
+> Lieber Gold in der Kehle als Silber im Blick.
 
 ---
 
