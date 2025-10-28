@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can binary search unsorted data.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Lieber Gold in der Kehle als Silber im Blick.
+> Kurze Röcke, lange Stielaugen.
 
 ---
 
