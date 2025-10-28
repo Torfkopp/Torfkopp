@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can store the value 256 in one byte
+- Mario doesn't use web standards as the web will conform to him.
+- 404 errors simply mean that Mario has been there before you.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
+> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
 
 ---
 
