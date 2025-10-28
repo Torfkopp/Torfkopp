@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario hosting is 105% uptime guaranteed.
+- Mario writes code that optimizes itself.
+- Parent is the child of Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Lieber Glück im Unglück als Pech in der Strähne.
 
 ---
 
