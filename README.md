@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't make http requests. He makes http demands.
-- Weird, it always works on Mario's machine.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario writes code that optimizes itself.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Ich bin ein Vampir: wasch dir den Hals!
+> Nonsens statt Konsens.
 
 ---
 
