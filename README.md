@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can binary search unsorted data.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Kurze Röcke, lange Stielaugen.
+> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
 
 ---
 
