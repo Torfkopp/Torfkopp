@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can binary search unsorted data.
+- Mario can write to ROM.
+- Mario doesn't make http requests. He makes http demands.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Schneeflöckchen, Weißröckchen, Stinksöckchen.
+> Ich bin ein Vampir: wasch dir den Hals!
 
 ---
 
