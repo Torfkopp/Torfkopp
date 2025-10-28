@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario writes code that optimizes itself.
-- Mario can binary search unsorted data.
+- Mario never has to use the -f option when deleting files.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Nonsens statt Konsens.
+> Blumen, die nicht wachsen, nennt man Wachsblumen.
 
 ---
 
