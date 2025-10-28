@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Parent is the child of Mario.
-- Mario uses /dev/null as STDIN.
+- Mario can binary search unsorted data.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Der Student geht so lange zur Mensa bis er bricht.
 
 ---
 
