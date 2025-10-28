@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws exceptions, it's across the room.
+- Mario can compile syntax errors.
 - Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Der Student geht so lange zur Mensa bis er bricht.
+> Mens sana in Campari Soda.
 
 ---
 
