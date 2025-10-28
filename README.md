@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- 404 errors simply mean that Mario has been there before you.
-- Mario does not code in cycles, he codes in strikes.
+- When Mario drops a table it's bloody but silent.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
+> Die größte Offenbarung ist die Galle. (G. Stein)
 
 ---
 
