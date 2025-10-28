@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario drops a table it's bloody but silent.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario programs do not accept input.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Galle. (G. Stein)
+> Hardware sucht Software für Bumsware.
 
 ---
 
