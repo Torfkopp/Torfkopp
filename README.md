@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Hardware sucht Software für Bumsware.
+> Wer sich nicht wehrt, endet am Herd.
 
 ---
 
