@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario does not code in cycles, he codes in strikes.
 - The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario throws exceptions, it's across the room.
-- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Langweilige Frauen haben blitzsaubere Küchen.
+> Gib mir Deinen Ausweis, und ich sage Dir, wer Du bist.
 
 ---
 
