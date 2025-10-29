@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can delete the Recycle Bin.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't make http requests. He makes http demands.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> LABELLO, und kein Kuss quietscht mehr.
+> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
 
 ---
 
