@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Weird, it always works on Mario's machine.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Lieber eine Flinte im Korn als Waffen im Weltraum.
+> Drinnen ist es wie draußen: bloß anders.
 
 ---
 
