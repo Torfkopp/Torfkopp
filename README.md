@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't make http requests. He makes http demands.
+- Mario can store the value 256 in one byte
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Gemeinsam sind wir unausstehlich.
+> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
 
 ---
 
