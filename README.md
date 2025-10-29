@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Sage mir, warum, und ich sage dir, weshalb.
+> Lieber eine Flinte im Korn als Waffen im Weltraum.
 
 ---
 
