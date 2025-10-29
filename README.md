@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Weird, it always works on Mario's machine.
-- Mario can store the value 256 in one byte
+- When Mario throws exceptions, it's across the room.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Drinnen ist es wie draußen: bloß anders.
+> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
 
 ---
 
