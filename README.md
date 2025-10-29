@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can access the DB from the UI.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
+> Ich summe, also bien ich.
 
 ---
 
