@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't make http requests. He makes http demands.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
+> Hey Mister Taliban, tally me Banana.
 
 ---
 
