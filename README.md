@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can delete the Recycle Bin.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
+> LABELLO, und kein Kuss quietscht mehr.
 
 ---
 
