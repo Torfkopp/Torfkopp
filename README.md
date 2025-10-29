@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario point to NULL, Null scares.
+- Parent is the child of Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
+> Gemeinsam sind wir unausstehlich.
 
 ---
 
