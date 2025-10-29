@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Hey Mister Taliban, tally me Banana.
+> Rote Lippen sind erotisch, blaue leider nicht eblautisch.
 
 ---
 
