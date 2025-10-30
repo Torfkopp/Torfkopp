@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario CAN divide by 0.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
