@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- 404 errors simply mean that Mario has been there before you.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Die Basis des Fundamentalen ist das Grundlegende.
+> Mit Phantasie kommt man leichter zu Geld als mit Geld zu Phantasie.
 
 ---
 
