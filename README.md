@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario can't test for equality because he has no equal.
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario develops in prod.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
+> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
 
 ---
 
