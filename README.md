@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws exceptions, it's across the room.
+- Mario can't test for equality because he has no equal.
 - Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Der Klügere zählt nach.
+> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
 
 ---
 
