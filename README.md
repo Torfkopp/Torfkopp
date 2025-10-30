@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Weird, it always works on Mario's machine.
+- Mario doesn't make http requests. He makes http demands.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
+> Lieber Ostern als Western.
 
 ---
 
