@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't make http requests. He makes http demands.
-- Mario can store the value 256 in one byte
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
+> Die Basis des Fundamentalen ist das Grundlegende.
 
 ---
 
