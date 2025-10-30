@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario programs do not accept input.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't use web standards as the web will conform to him.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
+> Die Basis des Fundamentalen ist das Grundlegende.
 
 ---
 
