@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Rote Lippen sind erotisch, blaue leider nicht eblautisch.
+> Gott ist nicht tot; nur beim Wort zum Sonntag eingeschlafen.
 
 ---
 
