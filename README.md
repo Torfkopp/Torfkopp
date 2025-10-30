@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't use web standards as the web will conform to him.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Die Basis des Fundamentalen ist das Grundlegende.
+> Die Pflicht ruft? Wir rufen zurück.
 
 ---
 
