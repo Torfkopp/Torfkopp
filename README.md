@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario programs do not accept input.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 - Mario exits vim by typing "exit"
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Gott ist nicht tot; nur beim Wort zum Sonntag eingeschlafen.
+> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
 
 ---
 
