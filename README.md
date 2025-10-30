@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Mit Phantasie kommt man leichter zu Geld als mit Geld zu Phantasie.
+> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
 
 ---
 
