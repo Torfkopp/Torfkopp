@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario never has to use the -f option when deleting files.
-- Mario can't test for equality because he has no equal.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
+> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
 
 ---
 
