@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- To Mario, everything contains a vulnerability.
-- Mario programs do not accept input.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't make http requests. He makes http demands.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Die Pflicht ruft? Wir rufen zurück.
+> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
 
 ---
 
