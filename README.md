@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't make http requests. He makes http demands.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario hosting is 105% uptime guaranteed.
+- Mario never has to use the -f option when deleting files.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Lieber Ostern als Western.
+> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
 
 ---
 
