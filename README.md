@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario develops in prod.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs do not accept input.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
+> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
 
 ---
 
