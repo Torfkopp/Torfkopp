@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
 
 ---
 
