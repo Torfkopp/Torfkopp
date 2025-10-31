@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario drops a table it's bloody but silent.
-- Mario programs do not accept input.
+- Mario can access the DB from the UI.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Lieber locker vom Hocker als hektisch übern Ecktisch.
+> Frech gesagt ist halb gefeuert.
 
 ---
 
