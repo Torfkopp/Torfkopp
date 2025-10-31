@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can access the DB from the UI.
-- Mario CAN divide by 0.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario uses /dev/null as STDIN.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Das einzige, was Reiche nicht haben, ist kein Geld.
+> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
 
 ---
 
