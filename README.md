@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario writes code that optimizes itself.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Frech gesagt ist halb gefeuert.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
