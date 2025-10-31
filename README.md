@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wer den Schaden hat, braucht für den Schrott nicht zu sorgen.
+> Ein Student geht so lange zur Mensa, bis er bricht.
 
 ---
 
