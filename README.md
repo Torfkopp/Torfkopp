@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario hosting is 105% uptime guaranteed.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 - Mario can compile syntax errors.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
+> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
 
 ---
 
