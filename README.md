@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can compile syntax errors.
+- Mario CAN divide by 0.
+- When Mario drops a table it's bloody but silent.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
+> Lieber locker vom Hocker als hektisch übern Ecktisch.
 
 ---
 
