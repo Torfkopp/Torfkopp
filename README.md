@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario uses /dev/null as STDIN.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flasche Bier als ne Wanne Eickel.
+> Gut gemeint ist auch nicht besser.
 
 ---
 
