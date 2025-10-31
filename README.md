@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can access the DB from the UI.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Gut gemeint ist auch nicht besser.
+> Arbeit ist süß; ich bin aber Diabetiker.
 
 ---
 
