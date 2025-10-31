@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't use web standards as the web will conform to him.
 - Mario plugs in USB sticks perfectly the first time every time
+- Mario can access the DB from the UI.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Das einzige, was Reiche nicht haben, ist kein Geld.
 
 ---
 
