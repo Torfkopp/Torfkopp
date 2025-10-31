@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Advent, Advent, das Kraftwerk brennt, und sind die Strahlen erst mal hier, wird bald ein Engelein aus dir.
+> Lieber eine Flasche Bier als ne Wanne Eickel.
 
 ---
 
