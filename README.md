@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can compile syntax errors.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Der Schwätzer sagt, was der Kopflose denkt.
+> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
 
 ---
 
