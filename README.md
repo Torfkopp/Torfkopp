@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario writes code that optimizes itself.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Advent, Advent, das Kraftwerk brennt, und sind die Strahlen erst mal hier, wird bald ein Engelein aus dir.
 
 ---
 
