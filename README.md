@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario exits vim by typing "exit"
+- Mario can store the value 256 in one byte
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Ein Student geht so lange zur Mensa, bis er bricht.
+> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
 
 ---
 
