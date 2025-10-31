@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario uses /dev/null as STDIN.
-- Mario develops in prod.
+- Mario can't test for equality because he has no equal.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
+> Der Schwätzer sagt, was der Kopflose denkt.
 
 ---
 
