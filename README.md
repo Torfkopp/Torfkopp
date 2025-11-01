@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario uses /dev/null as STDIN.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
+> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
 
 ---
 
