@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wir fordern Haftpflicht für künstliche Gebisse.
+> Drum prüfe, wer sich ewig schindet ...
 
 ---
 
