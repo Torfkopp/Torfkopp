@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- 404 errors simply mean that Mario has been there before you.
+- Mario plugs in USB sticks perfectly the first time every time
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Jedem Fiaker seine Viagra!
+> Rauche jetzt, zahle später.
 
 ---
 
