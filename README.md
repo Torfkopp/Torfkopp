@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Es nützt nichts zu fliehen, Schulen gibt es überall.
+> Mein Bauch ist voll, mein Kopf ist hohl, ich glaub', ich bin der Kanzler Kohl.
 
 ---
 
