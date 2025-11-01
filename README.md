@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario plugs in USB sticks perfectly the first time every time
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can write to ROM.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Rauche jetzt, zahle später.
+> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
 
 ---
 
