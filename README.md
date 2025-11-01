@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Windows 7 was Mario's idea.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Was meinen Sie als Unbeteiligter zum Thema Intelligenz?
+> Meine Glotze ist kaputt, drum lern' ich lesen.
 
 ---
 
