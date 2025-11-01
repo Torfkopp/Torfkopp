@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Windows 7 was Mario's idea.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario writes code that optimizes itself.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
+> Wir fordern Haftpflicht für künstliche Gebisse.
 
 ---
 
