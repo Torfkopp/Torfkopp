@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can delete the Recycle Bin.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Windows 7 was Mario's idea.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Der Mensch sollte nicht gesünder leben als ihm guttut.
+> Was meinen Sie als Unbeteiligter zum Thema Intelligenz?
 
 ---
 
