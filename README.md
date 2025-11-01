@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario hosting is 105% uptime guaranteed.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Drum prüfe, wer sich ewig schindet ...
+> Lieber am Po als am Arsch (Touristenwerbung).
 
 ---
 
