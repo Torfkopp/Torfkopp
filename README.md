@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario programs do not accept input.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Der Herr zum Knecht: "Heut geht's mir schlecht!" Der Knecht zum Herrn: "Das hört man gern!"
+> Es nützt nichts zu fliehen, Schulen gibt es überall.
 
 ---
 
