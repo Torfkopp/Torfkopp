@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario uses /dev/null as STDIN.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can binary search unsorted data.
+- Mario can delete the Recycle Bin.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
+> Der Mensch sollte nicht gesünder leben als ihm guttut.
 
 ---
 
