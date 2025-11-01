@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never has to use the -f option when deleting files.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
+> Die größte Offenbarung ist die Quelle. (Versandabhängige)
 
 ---
 
