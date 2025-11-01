@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
 - Mario never has to use the -f option when deleting files.
-- Mario uses /dev/null as STDIN.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Quelle. (Versandabhängige)
+> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
 
 ---
 
