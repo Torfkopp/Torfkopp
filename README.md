@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Windows 7 was Mario's idea.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
+> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
 
 ---
 
