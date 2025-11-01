@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Lieber am Po als am Arsch (Touristenwerbung).
+> Jedem Fiaker seine Viagra!
 
 ---
 
