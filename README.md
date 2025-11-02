@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario writes code that optimizes itself.
+- Parent is the child of Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Gott ist allmächtig, nur nicht auf der Erde.
+> Besser Sex für Geld als kein Sex und kein Geld.
 
 ---
 
