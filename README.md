@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Windows 7 was Mario's idea.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't make http requests. He makes http demands.
+- Parent is the child of Mario.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Trockener Humor kann nie überflüssig sein.
+> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
 
 ---
 
