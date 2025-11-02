@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
+> Ich bin ein Vampir: wasch dir den Hals!
 
 ---
 
