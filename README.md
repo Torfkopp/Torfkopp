@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario point to NULL, Null scares.
+- When Mario throws an exception it's either across the room or out the window.
+- Windows 7 was Mario's idea.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
+> Trockener Humor kann nie überflüssig sein.
 
 ---
 
