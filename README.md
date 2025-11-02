@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can delete the Recycle Bin.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Hat das Blümchen einen Knick, war der Schmetterling zu dick.
+> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
 
 ---
 
