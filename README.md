@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can delete the Recycle Bin.
-- Windows 7 was Mario's idea.
+- Mario uses /dev/null as STDIN.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Kippt Kaiser Franz von der Empore, gab's in der Nachspielzeit zwei Tore.
+> Freiheit für alle! Weg mit der Schwerkraft!
 
 ---
 
