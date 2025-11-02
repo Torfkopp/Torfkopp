@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario throws exceptions, it's across the room.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Hasse dich nicht schon am Morgen: schlaf bis Mittag.
+> Die größte Offenbarung ist die Rille. (Plattenspieler-Nadel)
 
 ---
 
