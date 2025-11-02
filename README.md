@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- 404 errors simply mean that Mario has been there before you.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Besser Sex für Geld als kein Sex und kein Geld.
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
