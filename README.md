@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can delete the Recycle Bin.
 - Windows 7 was Mario's idea.
-- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Mein Bauch ist voll, mein Kopf ist hohl, ich glaub', ich bin der Kanzler Kohl.
+> Kippt Kaiser Franz von der Empore, gab's in der Nachspielzeit zwei Tore.
 
 ---
 
