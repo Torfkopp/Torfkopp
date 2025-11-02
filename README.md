@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- 404 errors simply mean that Mario has been there before you.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
+> Jeder kann denken, aber vielen bleibt es erspart!
 
 ---
 
