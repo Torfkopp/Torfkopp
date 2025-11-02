@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can write to ROM.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Ich bin ein Vampir: wasch dir den Hals!
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
