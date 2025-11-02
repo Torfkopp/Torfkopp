@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can store the value 256 in one byte
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Rille. (Plattenspieler-Nadel)
+> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
 
 ---
 
