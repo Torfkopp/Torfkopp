@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't make http requests. He makes http demands.
-- Parent is the child of Mario.
-- Mario never has to use the -f option when deleting files.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
+> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
 
 ---
 
