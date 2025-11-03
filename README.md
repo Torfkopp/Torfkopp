@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When Mario throws exceptions, it's across the room.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario CAN divide by 0.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
+> Treib Sport, oder du bleibst gesund.
 
 ---
 
