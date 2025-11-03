@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can binary search unsorted data.
-- Mario can access the DB from the UI.
+- Mario develops in prod.
+- Mario can delete the Recycle Bin.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Lieber reich und gesund als arm und krank.
+> Lieber süßen Nebel als sauren Regen.
 
 ---
 
