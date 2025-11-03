@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can delete the Recycle Bin.
-- Mario exits vim by typing "exit"
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario does not code in cycles, he codes in strikes.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Lieber süßen Nebel als sauren Regen.
+> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
 
 ---
 
