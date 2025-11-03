@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario point to NULL, Null scares.
+- When Mario drops a table it's bloody but silent.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Wer kein Schwein ist, wird bald zur Sau gemacht.
+> Jetzt wollen wir der Sache mal auf den Grund gehen, sagte der Bauer und sprang in die Jauchegrube.
 
 ---
 
