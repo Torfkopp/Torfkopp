@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario uses /dev/null as STDIN.
+- When Mario throws exceptions, it's across the room.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
+> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
 
 ---
 
