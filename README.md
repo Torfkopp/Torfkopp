@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario point to NULL, Null scares.
+- Mario can binary search unsorted data.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
+> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
 
 ---
 
