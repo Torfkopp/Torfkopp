@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario CAN divide by 0.
-- Mario can write to ROM.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can binary search unsorted data.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Treib Sport, oder du bleibst gesund.
+> Lieber reich und gesund als arm und krank.
 
 ---
 
