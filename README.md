@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
+> Arbeit ist eine lustvolle Variante des Schwachsinns.
 
 ---
 
