@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can write to ROM.
+- When Mario point to NULL, Null scares.
+- Windows 7 was Mario's idea.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
+> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
 
 ---
 
