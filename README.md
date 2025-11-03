@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Windows 7 was Mario's idea.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can compile syntax errors.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
+> Wir wollen endlich alle Kanzler werden!
 
 ---
 
