@@ -6,13 +6,13 @@
 
 ### About Mario
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- To Mario, everything contains a vulnerability.
-- When Mario point to NULL, Null scares.
+- Windows 7 was Mario's idea.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wenn man das Licht schnell genug ausschaltet, kann man sehen, wie die Dunkelheit aussieht.
+> Die Regierung spart, jetzt müssen sich 20 Minister ein Gehirn teilen.
 
 ---
 
