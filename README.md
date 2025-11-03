@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario does not code in cycles, he codes in strikes.
-- 404 errors simply mean that Mario has been there before you.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- To Mario, everything contains a vulnerability.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
+> Wenn man das Licht schnell genug ausschaltet, kann man sehen, wie die Dunkelheit aussieht.
 
 ---
 
