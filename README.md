@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can write to ROM.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer kein Schwein ist, wird bald zur Sau gemacht.
+> Wer wird denn gleich in den Puff gehen!
 
 ---
 
