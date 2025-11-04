@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can write to ROM.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario programs do not accept input.
+- Mario CAN divide by 0.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Am Ende kackt die Ente.
+> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
 
 ---
 
