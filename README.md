@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario throws an exception it's either across the room or out the window.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario CAN divide by 0.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Stille Wasser beißen nicht.
+> Keine will über ihren Kurschatten springen.
 
 ---
 
