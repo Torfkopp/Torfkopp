@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario writes code that optimizes itself.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Was Hänschen nicht lernt, werden ihm die Mädchen beibringen.
+> Wer wird denn gleich in den Puff gehen!
 
 ---
 
