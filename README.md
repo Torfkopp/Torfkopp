@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Parent is the child of Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
+> Arbeit adelt; wir aber bleiben bürgerlich.
 
 ---
 
