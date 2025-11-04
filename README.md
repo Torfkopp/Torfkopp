@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can store the value 256 in one byte
+- Mario plugs in USB sticks perfectly the first time every time
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden!
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
