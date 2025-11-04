@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Jetzt gehen wir der Sache auf den Grund, sprach der Bauer und sprang in die Jauchegrube.
+> Blumen, die nicht wachsen, nennt man Wachsblumen.
 
 ---
 
