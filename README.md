@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can write to ROM.
+- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wer wird denn gleich in den Puff gehen!
+> Jetzt gehen wir der Sache auf den Grund, sprach der Bauer und sprang in die Jauchegrube.
 
 ---
 
