@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario CAN divide by 0.
-- Mario can store the value 256 in one byte
+- Mario develops in prod.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
+> Wie man sich fettet, so riecht man.
 
 ---
 
