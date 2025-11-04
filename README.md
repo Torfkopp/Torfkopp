@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't use web standards as the web will conform to him.
+- Parent is the child of Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer wird denn gleich in den Puff gehen!
+> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
 
 ---
 
