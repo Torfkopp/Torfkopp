@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can write to ROM.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Arbeit adelt; wir aber bleiben bürgerlich.
+> Am Ende kackt die Ente.
 
 ---
 
