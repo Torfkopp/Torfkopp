@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can access the DB from the UI.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never has to use the -f option when deleting files.
+- Parent is the child of Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Faulenzen schafft Arbeitsplätze.
+> Die nächste Steinzeit kommt bestimmt.
 
 ---
 
