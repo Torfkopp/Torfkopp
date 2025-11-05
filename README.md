@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can write to ROM.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Ehe = errare humanum est.
+> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
 
 ---
 
