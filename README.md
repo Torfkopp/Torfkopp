@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can access the DB from the UI.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Advent, Advent, das Kraftwerk brennt, und sind die Strahlen erst mal hier, wird bald ein Engelein aus dir.
+> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
 
 ---
 
