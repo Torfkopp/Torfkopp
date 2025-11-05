@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't make http requests. He makes http demands.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
+> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
 
 ---
 
