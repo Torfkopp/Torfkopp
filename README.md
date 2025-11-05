@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
+> Liebe ist, zusammen ins Deutsche Museum zu gehen.
 
 ---
 
