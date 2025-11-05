@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario CAN divide by 0.
+- Mario can store the value 256 in one byte
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
