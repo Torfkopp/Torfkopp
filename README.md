@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Windows 7 was Mario's idea.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
+> Arbeit macht Spaß; man kann stundenlang zuschauen.
 
 ---
 
