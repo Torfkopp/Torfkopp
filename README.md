@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can access the DB from the UI.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Liebe ist, zusammen ins Deutsche Museum zu gehen.
+> Faulenzen schafft Arbeitsplätze.
 
 ---
 
