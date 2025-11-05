@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Parent is the child of Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario drops a table it's bloody but silent.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die nächste Steinzeit kommt bestimmt.
+> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
 
 ---
 
