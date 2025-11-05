@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario point to NULL, Null scares.
+- Mario exits vim by typing "exit"
+- 404 errors simply mean that Mario has been there before you.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Billard ist bekannter als Billzdf.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
