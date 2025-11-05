@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can compile syntax errors.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Vorsicht: der Schütze schützt nicht, er schießt!
+> Billard ist bekannter als Billzdf.
 
 ---
 
