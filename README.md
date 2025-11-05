@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- 404 errors simply mean that Mario has been there before you.
-- Mario can compile syntax errors.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Advent, Advent, das Kraftwerk brennt, und sind die Strahlen erst mal hier, wird bald ein Engelein aus dir.
 
 ---
 
