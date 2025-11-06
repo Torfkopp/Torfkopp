@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never has to use the -f option when deleting files.
+- Mario CAN divide by 0.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Das Sterben ist nicht so schlimm, aber man fühlt sich am nächsten Tag so kaputt.
+> Gott ist tot (Nietzsche). Nietzsche ist tot (Gott).
 
 ---
 
