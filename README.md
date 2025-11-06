@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario exits vim by typing "exit"
-- Mario can access the DB from the UI.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
+> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
 
 ---
 
