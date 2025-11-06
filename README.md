@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
 - Mario can write to ROM.
-- When Mario point to NULL, Null scares.
+- Mario can compile syntax errors.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Tut Ench Amun, was Nofre täte?
+> Wanzen im Telefon schaffen Unterhaltung.
 
 ---
 
