@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario CAN divide by 0.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Gott ist tot (Nietzsche). Nietzsche ist tot (Gott).
+> Schutzhaft für alle, dann gibt's keine Krawalle.
 
 ---
 
