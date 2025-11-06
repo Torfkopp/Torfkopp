@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario can compile syntax errors.
-- Mario programs do not accept input.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can delete the Recycle Bin.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wanzen im Telefon schaffen Unterhaltung.
+> Wer mehr kann, kann bald nicht mehr.
 
 ---
 
