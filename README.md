@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- To Mario, everything contains a vulnerability.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can binary search unsorted data.
+- Mario develops in prod.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wo eine Villa ist, ist auch ein Weg.
+> Alles ist so, wie es ist, nur schlechter.
 
 ---
 
