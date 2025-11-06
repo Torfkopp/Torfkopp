@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can delete the Recycle Bin.
-- Mario can binary search unsorted data.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- To Mario, everything contains a vulnerability.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Wer mehr kann, kann bald nicht mehr.
+> Wo eine Villa ist, ist auch ein Weg.
 
 ---
 
