@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't make http requests. He makes http demands.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wer den Schaden hat, braucht für den Schrott nicht zu sorgen.
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
