@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
+> Nimms leicht, sonst nimmts ein anderer.
 
 ---
 
