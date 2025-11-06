@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario exits vim by typing "exit"
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Jeder Tag ist gleich lang, aber verschieden breit.
+> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
 
 ---
 
