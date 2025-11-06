@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can binary search unsorted data.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Lieber träumen unter Bäumen als schaffen unter Affen.
+> Sonderlinge lachen sogar beim Zwiebelschneiden.
 
 ---
 
