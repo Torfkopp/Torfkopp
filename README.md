@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can store the value 256 in one byte
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never has to use the -f option when deleting files.
+- Mario develops in prod.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Er war Mathematiker, sie war unberechenbar.
+> Es ist noch kein Kleister vom Himmel gefallen.
 
 ---
 
