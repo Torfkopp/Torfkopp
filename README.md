@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario programs do not accept input.
-- Mario does not code in cycles, he codes in strikes.
+- Weird, it always works on Mario's machine.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Ehelich währt am längsten, doch vorehelich ist spannender.
+> Es tut NIVEA als beim ersten Mal.
 
 ---
 
