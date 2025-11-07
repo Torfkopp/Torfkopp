@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario develops in prod.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario programs do not accept input.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Es ist noch kein Kleister vom Himmel gefallen.
+> Ehelich währt am längsten, doch vorehelich ist spannender.
 
 ---
 
