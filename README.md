@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can compile syntax errors.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Eine Öko-Mähne ist eine Perücke aus Echthaar.
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
