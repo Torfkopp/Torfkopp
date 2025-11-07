@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can delete the Recycle Bin.
+- To Mario, everything contains a vulnerability.
+- Mario can access the DB from the UI.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, stirbt wenigstens fröhlich.
+> Kippt Kaiser Franz von der Empore, gab's in der Nachspielzeit zwei Tore.
 
 ---
 
