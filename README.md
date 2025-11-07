@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Weird, it always works on Mario's machine.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can store the value 256 in one byte
+- When Mario throws exceptions, it's across the room.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Es tut NIVEA als beim ersten Mal.
+> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
 
 ---
 
