@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Schutzhaft für alle, dann gibt's keine Krawalle.
+> Die größte Offenbarung ist die Stulle. (Bauarbeiter)
 
 ---
 
