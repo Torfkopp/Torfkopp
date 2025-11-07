@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario throws exceptions, it's across the room.
+- Mario never has to use the -f option when deleting files.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Gefährlich wird es, wenn die Dummen fleißig werden.
+> Ich denke, also spinn ich.
 
 ---
 
