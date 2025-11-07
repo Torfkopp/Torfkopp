@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can access the DB from the UI.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Kippt Kaiser Franz von der Empore, gab's in der Nachspielzeit zwei Tore.
+> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
 
 ---
 
