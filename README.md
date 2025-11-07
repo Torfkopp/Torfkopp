@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario programs do not accept input.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
