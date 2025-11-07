@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario uses /dev/null as STDIN.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario hosting is 105% uptime guaranteed.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
+> Auch die Stimme des Gewissens hat mal Stimmbruch.
 
 ---
 
