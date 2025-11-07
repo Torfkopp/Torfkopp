@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't make http requests. He makes http demands.
+- Mario can't test for equality because he has no equal.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Stulle. (Bauarbeiter)
+> Eine Öko-Mähne ist eine Perücke aus Echthaar.
 
 ---
 
