@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can compile syntax errors.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Wer zuletzt lacht, stirbt wenigstens fröhlich.
 
 ---
 
