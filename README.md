@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
+- Mario plugs in USB sticks perfectly the first time every time
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
+> Wir fordern Haftpflicht für künstliche Gebisse.
 
 ---
 
