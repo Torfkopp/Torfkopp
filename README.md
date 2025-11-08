@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't make http requests. He makes http demands.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario writes code that optimizes itself.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Wer rennt und lacht, kommt in Verdacht.
+> Hardware sucht Software für Bumsware.
 
 ---
 
