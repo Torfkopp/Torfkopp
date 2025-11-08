@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- 404 errors simply mean that Mario has been there before you.
-- Mario CAN divide by 0.
+- Mario can't test for equality because he has no equal.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Liebe ist, wenn man trotzdem lacht.
+> Freies Chatten für alle! Macht die Wände dünner!
 
 ---
 
