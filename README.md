@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
+- When Mario drops a table it's bloody but silent.
+- Mario uses /dev/null as STDIN.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Liebe deinen Nächsten wie dein Auto.
+> Benutze die geile Gehirnmaschine!
 
 ---
 
