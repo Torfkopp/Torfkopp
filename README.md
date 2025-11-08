@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can access the DB from the UI.
-- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
+> Narrenhände betatschen Brust und Lende.
 
 ---
 
