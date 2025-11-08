@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can access the DB from the UI.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Freies Chatten für alle! Macht die Wände dünner!
+> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
 
 ---
 
