@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario exits vim by typing "exit"
+- Mario programs do not accept input.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pille. (Familienplaner)
+> Liebe deinen Nächsten wie dein Auto.
 
 ---
 
