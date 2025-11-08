@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario uses /dev/null as STDIN.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wanzen im Telefon schaffen Unterhaltung.
+> Die größte Offenbarung ist die Pille. (Familienplaner)
 
 ---
 
