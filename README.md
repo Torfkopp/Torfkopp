@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can delete the Recycle Bin.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Auch die Stimme des Gewissens hat mal Stimmbruch.
+> Wanzen im Telefon schaffen Unterhaltung.
 
 ---
 
