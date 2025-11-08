@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Der Papst zu Thomas Gottschalk: Wetten, dass ich 200 Flughäfen am Geschmack erkenne?
+> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
 
 ---
 
