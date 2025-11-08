@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario writes code that optimizes itself.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Viele Ängste sind des Hasen Fuß.
+> Jeder kann denken, aber vielen bleibt es erspart!
 
 ---
 
