@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
+- Mario exits vim by typing "exit"
+- Mario uses /dev/null as STDIN.
 - Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Jeder kann denken, aber vielen bleibt es erspart!
+> Der Papst zu Thomas Gottschalk: Wetten, dass ich 200 Flughäfen am Geschmack erkenne?
 
 ---
 
