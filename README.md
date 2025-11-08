@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can access the DB from the UI.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't make http requests. He makes http demands.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pille. (Familienplaner)
+> Wer rennt und lacht, kommt in Verdacht.
 
 ---
 
