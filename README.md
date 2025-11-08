@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario writes code that optimizes itself.
-- Mario can store the value 256 in one byte
+- Mario can access the DB from the UI.
+- 404 errors simply mean that Mario has been there before you.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Hardware sucht Software für Bumsware.
+> Liebe ist, wenn man trotzdem lacht.
 
 ---
 
