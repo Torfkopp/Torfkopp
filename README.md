@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can delete the Recycle Bin.
+- Mario does not code in cycles, he codes in strikes.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Nostalgie genügt nicht; du musst auch jünger werden!
+> Unrecht Gut gedeiht, nicht?
 
 ---
 
