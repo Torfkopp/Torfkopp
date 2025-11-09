@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't make http requests. He makes http demands.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
+> Gib immer 100 % - außer beim Blutspenden.
 
 ---
 
