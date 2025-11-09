@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario hosting is 105% uptime guaranteed.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't use web standards as the web will conform to him.
+- Weird, it always works on Mario's machine.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Rache ist süß: Jede Süßigkeit rächt sich.
+> Der direkteste Weg der Listigen ist die Schlangenlinie.
 
 ---
 
