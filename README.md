@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can compile syntax errors.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario CAN divide by 0.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
+> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
 
 ---
 
