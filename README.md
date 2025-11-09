@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario exits vim by typing "exit"
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Friedhelm statt Stahlhelm.
+> Ich hab' die Kantine satt, ich esse nur noch Kitekat.
 
 ---
 
