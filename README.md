@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Weird, it always works on Mario's machine.
-- Mario can compile syntax errors.
+- Mario writes code that optimizes itself.
+- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Der direkteste Weg der Listigen ist die Schlangenlinie.
+> Pessimisten finden auch in der Fischsuppe ein Haar.
 
 ---
 
