@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario develops in prod.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Pessimisten finden auch in der Fischsuppe ein Haar.
+> Nostalgie genügt nicht; du musst auch jünger werden!
 
 ---
 
