@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario does not code in cycles, he codes in strikes.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Unrecht Gut gedeiht, nicht?
+> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
 
 ---
 
