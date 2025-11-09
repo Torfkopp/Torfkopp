@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Gib immer 100 % - außer beim Blutspenden.
+> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
 
 ---
 
