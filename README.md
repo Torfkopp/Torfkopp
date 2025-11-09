@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario CAN divide by 0.
-- Mario writes code that optimizes itself.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
+> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
 
 ---
 
