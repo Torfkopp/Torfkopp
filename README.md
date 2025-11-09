@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario plugs in USB sticks perfectly the first time every time
 - Mario doesn't make http requests. He makes http demands.
-- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
+> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
 
 ---
 
