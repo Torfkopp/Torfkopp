@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Windows 7 was Mario's idea.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Ich hab' die Kantine satt, ich esse nur noch Kitekat.
+> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
 
 ---
 
