@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Weird, it always works on Mario's machine.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Narrenhände betatschen Brust und Lende.
+> Rache ist süß: Jede Süßigkeit rächt sich.
 
 ---
 
