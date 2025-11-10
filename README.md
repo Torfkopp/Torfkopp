@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- 404 errors simply mean that Mario has been there before you.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario drops a table it's bloody but silent.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Entschuldige, dass ich lebe - werde es auch nie wieder tun!
+> Ich verspreche nichts; und das halte ich auch.
 
 ---
 
