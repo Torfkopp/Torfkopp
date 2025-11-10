@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Was Krupp in Essen sind wir im Trinken.
+> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
 
 ---
 
