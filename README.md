@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
 - To Mario, everything contains a vulnerability.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
