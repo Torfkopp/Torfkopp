@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Parent is the child of Mario.
-- Mario can binary search unsorted data.
+- Mario can compile syntax errors.
+- To Mario, everything contains a vulnerability.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Eine Schwalbe macht noch keinen Elfmeter.
+> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
 
 ---
 
