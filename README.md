@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- When Mario throws an exception it's either across the room or out the window.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Große Ereignisse werfen mitunter Schatten unter die Augen.
+> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
 
 ---
 
