@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario uses /dev/null as STDIN.
-- Mario doesn't make http requests. He makes http demands.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
+> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
 
 ---
 
