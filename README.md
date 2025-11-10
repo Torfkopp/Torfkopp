@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can compile syntax errors.
-- Mario never has to use the -f option when deleting files.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Gescheit, gescheiter, gescheitert.
+> Tu was fürs Vaterland: wandre aus.
 
 ---
 
