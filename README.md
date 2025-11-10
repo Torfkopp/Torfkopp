@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can delete the Recycle Bin.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Parent is the child of Mario.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
+> Eine Schwalbe macht noch keinen Elfmeter.
 
 ---
 
