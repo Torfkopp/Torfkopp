@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario point to NULL, Null scares.
+- Mario uses /dev/null as STDIN.
+- 404 errors simply mean that Mario has been there before you.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Tolle. (Friseur)
+> Entschuldige, dass ich lebe - werde es auch nie wieder tun!
 
 ---
 
