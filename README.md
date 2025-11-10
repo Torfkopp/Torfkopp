@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario drops a table it's bloody but silent.
+- Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Gefährlich wird es, wenn die Dummen fleißig werden.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
