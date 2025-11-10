@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can compile syntax errors.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can store the value 256 in one byte
+- When Mario throws an exception it's either across the room or out the window.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
+> Große Ereignisse werfen mitunter Schatten unter die Augen.
 
 ---
 
