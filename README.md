@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can write to ROM.
+- Mario CAN divide by 0.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
+> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
 
 ---
 
