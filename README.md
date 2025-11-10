@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't make http requests. He makes http demands.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
