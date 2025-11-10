@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario does not code in cycles, he codes in strikes.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't make http requests. He makes http demands.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Ich verspreche nichts; und das halte ich auch.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
