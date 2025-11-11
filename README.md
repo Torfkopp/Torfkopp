@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Windows 7 was Mario's idea.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Lass mich doch fett sein, es kann nicht jeder beim Ballett sein.
+> Niemand hat die Absicht eine Mauer zu bauen.
 
 ---
 
