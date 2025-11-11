@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can binary search unsorted data.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Niemand hat die Absicht eine Mauer zu bauen.
+> Rache ist süß: Jede Süßigkeit rächt sich.
 
 ---
 
