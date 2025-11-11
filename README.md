@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
+> Lass mich doch fett sein, es kann nicht jeder beim Ballett sein.
 
 ---
 
