@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario programs do not accept input.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
+> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
 
 ---
 
