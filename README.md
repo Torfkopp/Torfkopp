@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can binary search unsorted data.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Stoßstangen sind aller Laster Anfang.
+> Lieber fünf vor zwölf als keine nach eins.
 
 ---
 
