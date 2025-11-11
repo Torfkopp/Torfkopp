@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can binary search unsorted data.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Genieße das Leben beständig, denn du bist länger tot als lebendig.
+> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
 
 ---
 
