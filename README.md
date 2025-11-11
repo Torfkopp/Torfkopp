@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never has to use the -f option when deleting files.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Rache ist süß: Jede Süßigkeit rächt sich.
+> Hey Kids, let's kotz.
 
 ---
 
