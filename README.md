@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When Mario drops a table it's bloody but silent.
+- Mario uses /dev/null as STDIN.
+- When Mario point to NULL, Null scares.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Hey Kids, let's kotz.
+> Jedem Analphabeten sein Diktiergerät!
 
 ---
 
