@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario point to NULL, Null scares.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
+> Genieße das Leben beständig, denn du bist länger tot als lebendig.
 
 ---
 
