@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can binary search unsorted data.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario does not code in cycles, he codes in strikes.
+- Mario CAN divide by 0.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
+> Selten Dumme sind nicht selten, aber dumm.
 
 ---
 
