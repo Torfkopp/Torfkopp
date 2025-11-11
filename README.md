@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario CAN divide by 0.
+- Mario doesn't use web standards as the web will conform to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Selten Dumme sind nicht selten, aber dumm.
+> Wer den Feind umarmt, macht ihn bewegungsunfähig.
 
 ---
 
