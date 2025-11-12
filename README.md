@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't make http requests. He makes http demands.
-- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Politik ist die Kunst, Brände zu löschen, die man selbst gelegt hat.
+> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
 
 ---
 
