@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can write to ROM.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't make http requests. He makes http demands.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Galle. (G. Stein)
+> Politik ist die Kunst, Brände zu löschen, die man selbst gelegt hat.
 
 ---
 
