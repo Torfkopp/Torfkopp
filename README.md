@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can access the DB from the UI.
-- Mario can binary search unsorted data.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die Luft ist Schein, und der trügt.
+> EDV = Ende der Vernunft.
 
 ---
 
