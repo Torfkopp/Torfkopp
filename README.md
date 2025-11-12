@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario writes code that optimizes itself.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws exceptions, it's across the room.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wenn sich zwei streiten, freut sich der Anwalt.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
