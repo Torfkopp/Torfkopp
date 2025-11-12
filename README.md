@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can't test for equality because he has no equal.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
+> Man soll die Gäste feuern, wie sie fallen.
 
 ---
 
