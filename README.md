@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can write to ROM.
+- Mario programs do not accept input.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Rettet die Tierwelt, tragt keine Pudelmützen.
+> Lieber Glück im Unglück als Pech in der Strähne.
 
 ---
 
