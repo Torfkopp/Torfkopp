@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Man soll die Gäste feuern, wie sie fallen.
+> Irgendwann begegnet man dem Whisky seines Lebens.
 
 ---
 
