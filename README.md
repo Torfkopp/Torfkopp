@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario writes code that optimizes itself.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pupille. (Optiker)
+> Wenn sich zwei streiten, freut sich der Anwalt.
 
 ---
 
