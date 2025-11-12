@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws an exception it's either across the room or out the window.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> EDV = Ende der Vernunft.
+> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
 
 ---
 
