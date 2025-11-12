@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario develops in prod.
-- Mario uses /dev/null as STDIN.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can write to ROM.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Wenn der Krieg ausbricht, war der Frieden offenbar ein Gefängnis.
+> Die größte Offenbarung ist die Galle. (G. Stein)
 
 ---
 
