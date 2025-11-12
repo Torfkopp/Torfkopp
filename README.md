@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can write to ROM.
+- When Mario drops a table it's bloody but silent.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
+> Nicht jeder Mann, der raucht, ist ein Vulkan.
 
 ---
 
