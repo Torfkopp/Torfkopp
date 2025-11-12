@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can write to ROM.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
+> Die größte Offenbarung ist die Pupille. (Optiker)
 
 ---
 
