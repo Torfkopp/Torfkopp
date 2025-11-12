@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Irgendwann begegnet man dem Whisky seines Lebens.
+> Rettet die Tierwelt, tragt keine Pudelmützen.
 
 ---
 
