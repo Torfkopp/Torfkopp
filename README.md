@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario develops in prod.
 - Mario uses /dev/null as STDIN.
-- When Mario point to NULL, Null scares.
-- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Jedem Analphabeten sein Diktiergerät!
+> Wenn der Krieg ausbricht, war der Frieden offenbar ein Gefängnis.
 
 ---
 
