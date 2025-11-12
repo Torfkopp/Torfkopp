@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario exits vim by typing "exit"
+- Mario can binary search unsorted data.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
 
 ---
 
