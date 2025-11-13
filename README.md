@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario uses /dev/null as STDIN.
+- Mario can delete the Recycle Bin.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Ehelich währt am längsten, doch vorehelich ist spannender.
+> Arbeit macht das Leben süß; Faulheit stärkt die Glieder.
 
 ---
 
