@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can write to ROM.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Das Fleisch war billig, und der Geist war willig.
+> Wer anderen eine Schule baut, muss selbst hinein.
 
 ---
 
