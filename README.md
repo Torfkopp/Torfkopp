@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can binary search unsorted data.
+- Mario uses /dev/null as STDIN.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Arbeit macht das Leben süß; Faulheit stärkt die Glieder.
+> Liebe ist, wenn man trotzdem lacht.
 
 ---
 
