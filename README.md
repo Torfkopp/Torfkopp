@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can access the DB from the UI.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Liebe ist, wenn man trotzdem lacht.
+> Für manche Leute ist ein Gehirnschlag ein Schlag ins Leere.
 
 ---
 
