@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario writes code that optimizes itself.
-- Mario can compile syntax errors.
+- Mario programs do not accept input.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
+> Komm lieber Mai und mache den SCHILY wieder grün.
 
 ---
 
