@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never has to use the -f option when deleting files.
+- Mario can delete the Recycle Bin.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Komm lieber Mai und mache den SCHILY wieder grün.
+> Wer trinkt, schadet dem Durst.
 
 ---
 
