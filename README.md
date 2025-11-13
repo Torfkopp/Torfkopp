@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario writes code that optimizes itself.
 - Mario can compile syntax errors.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Sitzt der Hahn auf einer Krähe, war kein Huhn in seiner Nähe.
+> Du bist schlank wie ein Reh ... oder wie heißt das graue Tier mit dem Rüssel?
 
 ---
 
