@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario throws exceptions, it's across the room.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't make http requests. He makes http demands.
+- Weird, it always works on Mario's machine.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Rot denken, grün wählen, blau machen, schwarz schaffen.
 
 ---
 
