@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario hosting is 105% uptime guaranteed.
+- Mario can compile syntax errors.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Für manche Leute ist ein Gehirnschlag ein Schlag ins Leere.
+> Sitzt der Hahn auf einer Krähe, war kein Huhn in seiner Nähe.
 
 ---
 
