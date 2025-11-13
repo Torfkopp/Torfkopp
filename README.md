@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
+- Mario can store the value 256 in one byte
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - Weird, it always works on Mario's machine.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Rot denken, grün wählen, blau machen, schwarz schaffen.
+> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
 
 ---
 
