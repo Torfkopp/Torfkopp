@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario writes code that optimizes itself.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can write to ROM.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
+> Das Fleisch war billig, und der Geist war willig.
 
 ---
 
