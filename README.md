@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario can delete the Recycle Bin.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer trinkt, schadet dem Durst.
+> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
 
 ---
 
