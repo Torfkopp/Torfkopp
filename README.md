@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can write to ROM.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Die Luft ist Schein, und der trügt.
+> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
 
 ---
 
