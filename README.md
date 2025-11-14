@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Weird, it always works on Mario's machine.
 - Mario exits vim by typing "exit"
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Sei schlau, bleib dumm.
+> Computer lösen die Probleme, die wir ohne sie nicht hätten.
 
 ---
 
