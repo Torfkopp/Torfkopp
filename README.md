@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
-- Mario can delete the Recycle Bin.
+- Mario uses /dev/null as STDIN.
+- Mario never has to use the -f option when deleting files.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer anderen eine Schule baut, muss selbst hinein.
+> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
 
 ---
 
