@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- To Mario, everything contains a vulnerability.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> In einer guten Beziehung hat niemand die Hosen an. Die stören ja nur.
+> Je leerer die Versprechungen, desto voller die Absicht.
 
 ---
 
