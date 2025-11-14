@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
+> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
 
 ---
 
