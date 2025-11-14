@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario hosting is 105% uptime guaranteed.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
+> Die dämlichsten Herren haben oft die herrlichsten Damen.
 
 ---
 
