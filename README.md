@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario exits vim by typing "exit"
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario CAN divide by 0.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Computer lösen die Probleme, die wir ohne sie nicht hätten.
+> Wer Glauben schenkt, ist ihn los.
 
 ---
 
