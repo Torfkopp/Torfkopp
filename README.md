@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario programs do not accept input.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Viele Köche sind des Hasen Tod.
+> Sogar eine halbe Portion kann ein Doppelleben führen.
 
 ---
 
