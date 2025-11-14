@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Die dämlichsten Herren haben oft die herrlichsten Damen.
+> In einer guten Beziehung hat niemand die Hosen an. Die stören ja nur.
 
 ---
 
