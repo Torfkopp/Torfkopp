@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario never has to use the -f option when deleting files.
-- Mario can't test for equality because he has no equal.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Tollkirschen schmecken nicht so toll, wie sie heißen.
 
 ---
 
