@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- To Mario, everything contains a vulnerability.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber Rosinen im Kopf als Haare im Kuchen.
+> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
 
 ---
 
