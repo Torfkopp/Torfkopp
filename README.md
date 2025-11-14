@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario hosting is 105% uptime guaranteed.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Tollkirschen schmecken nicht so toll, wie sie heißen.
+> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
 
 ---
 
