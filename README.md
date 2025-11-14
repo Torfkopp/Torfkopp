@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario uses /dev/null as STDIN.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Sogar eine halbe Portion kann ein Doppelleben führen.
+> Ruhe ist der erste Bürgerfluch.
 
 ---
 
