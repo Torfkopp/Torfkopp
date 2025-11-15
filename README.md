@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
+> Arbeit macht Spaß; man kann stundenlang zuschauen.
 
 ---
 
