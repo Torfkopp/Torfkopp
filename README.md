@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Windows 7 was Mario's idea.
-- When Mario throws exceptions, it's across the room.
+- Mario uses /dev/null as STDIN.
+- Mario invented binary by performing a roundhouse on the number 10.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Liebe ist, zusammen ins Deutsche Museum zu gehen.
+> Es wird nicht alles so heiß gegessen wie man sich fühlt.
 
 ---
 
