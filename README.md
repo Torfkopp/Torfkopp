@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can access the DB from the UI.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Windows 7 was Mario's idea.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
+> Liebe ist, zusammen ins Deutsche Museum zu gehen.
 
 ---
 
