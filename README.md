@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario invented binary by performing a roundhouse on the number 10.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario CAN divide by 0.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Es wird nicht alles so heiß gegessen wie man sich fühlt.
+> Harrisburger: da strahlt die ganze Familie.
 
 ---
 
