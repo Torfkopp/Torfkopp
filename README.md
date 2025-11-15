@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can compile syntax errors.
-- Parent is the child of Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can delete the Recycle Bin.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
+> Unterstützt die Wiedervereinigung der Spalttablette!
 
 ---
 
