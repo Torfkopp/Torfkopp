@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario drops a table it's bloody but silent.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can compile syntax errors.
+- Mario exits vim by typing "exit"
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
+> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
 
 ---
 
