@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario uses /dev/null as STDIN.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
+> Die größte Offenbarung ist die Gülle. (Landwirt)
 
 ---
 
