@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario exits vim by typing "exit"
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
+> Wie man sich füttert, so wiegt man.
 
 ---
 
