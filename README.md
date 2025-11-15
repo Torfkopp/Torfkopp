@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario hosting is 105% uptime guaranteed.
-- Mario programs do not accept input.
+- Mario can write to ROM.
+- Mario exits vim by typing "exit"
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Es gibt viel zu tun, nix wie weg.
+> Der Schwätzer sagt, was der Kopflose denkt.
 
 ---
 
