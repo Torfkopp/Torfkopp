@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario CAN divide by 0.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't make http requests. He makes http demands.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Harrisburger: da strahlt die ganze Familie.
+> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
 
 ---
 
