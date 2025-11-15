@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Gülle. (Landwirt)
+> Nicht jeder, der aus dem Rahmen fällt, war vorher im Bilde.
 
 ---
 
