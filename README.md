@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario plugs in USB sticks perfectly the first time every time
+- 404 errors simply mean that Mario has been there before you.
+- Mario hosting is 105% uptime guaranteed.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der aus dem Rahmen fällt, war vorher im Bilde.
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
