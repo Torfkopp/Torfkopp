@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario uses /dev/null as STDIN.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; man kann stundenlang zuschauen.
+> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
 
 ---
 
