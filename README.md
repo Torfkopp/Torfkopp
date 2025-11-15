@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario exits vim by typing "exit"
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can compile syntax errors.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Der Schwätzer sagt, was der Kopflose denkt.
+> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
 
 ---
 
