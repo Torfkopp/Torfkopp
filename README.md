@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario can't test for equality because he has no equal.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario hosting is 105% uptime guaranteed.
+- To Mario, everything contains a vulnerability.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
+> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
 
 ---
 
