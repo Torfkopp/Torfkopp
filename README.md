@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario CAN divide by 0.
 - When Mario point to NULL, Null scares.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
+> Keine will über ihren Kurschatten springen.
 
 ---
 
