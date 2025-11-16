@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario exits vim by typing "exit"
-- Mario CAN divide by 0.
+- Mario writes code that optimizes itself.
+- Mario can binary search unsorted data.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wir wollen Männer, keine Ersatzteile.
+> Lieber Kröten im Beutel als 'nen Frosch im Hals.
 
 ---
 
