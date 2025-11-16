@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario programs do not accept input.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't make http requests. He makes http demands.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber Frust im Kopf als Faust aufs Auge.
+> Praktisch denken - Särge schenken.
 
 ---
 
