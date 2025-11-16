@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario can binary search unsorted data.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can delete the Recycle Bin.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Lieber Kröten im Beutel als 'nen Frosch im Hals.
+> Wer den Feind umarmt, macht ihn bewegungsunfähig.
 
 ---
 
