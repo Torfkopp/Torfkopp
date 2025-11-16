@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can delete the Recycle Bin.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Unterstützt die Wiedervereinigung der Spalttablette!
+> Alles ist so, wie es ist, nur schlechter.
 
 ---
 
