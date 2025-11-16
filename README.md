@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario CAN divide by 0.
 - When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Alles ist so, wie es ist, nur schlechter.
+> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
 
 ---
 
