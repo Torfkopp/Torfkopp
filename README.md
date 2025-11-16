@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario exits vim by typing "exit"
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
+> Wir wollen Männer, keine Ersatzteile.
 
 ---
 
