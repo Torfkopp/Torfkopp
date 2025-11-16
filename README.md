@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Weird, it always works on Mario's machine.
-- Mario can access the DB from the UI.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Mens sana in Campari Soda.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
