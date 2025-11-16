@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Keine will über ihren Kurschatten springen.
+> Stille Wasser beißen nicht.
 
 ---
 
