@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can access the DB from the UI.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Praktisch denken - Särge schenken.
+> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
 
 ---
 
