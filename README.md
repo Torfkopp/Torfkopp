@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can compile syntax errors.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario programs do not accept input.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
+> Lieber Frust im Kopf als Faust aufs Auge.
 
 ---
 
