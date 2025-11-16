@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can store the value 256 in one byte
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can compile syntax errors.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Stille Wasser beißen nicht.
+> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
 
 ---
 
