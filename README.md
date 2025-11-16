@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can compile syntax errors.
-- Windows 7 was Mario's idea.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Weird, it always works on Mario's machine.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wir wollen alles, und davon möglichst viel.
+> Mens sana in Campari Soda.
 
 ---
 
