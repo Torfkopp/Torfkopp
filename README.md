@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can delete the Recycle Bin.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario uses /dev/null as STDIN.
+- Mario can compile syntax errors.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer den Feind umarmt, macht ihn bewegungsunfähig.
+> Wir wollen alles, und davon möglichst viel.
 
 ---
 
