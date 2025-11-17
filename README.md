@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wenn der Bauer schneller rennt, hinter ihm der CASTOR brennt.
+> Lieber ein Zebra streifen als einen Bullen anfahren.
 
 ---
 
