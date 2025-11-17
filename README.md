@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't make http requests. He makes http demands.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Lieber ein Zebra streifen als einen Bullen anfahren.
+> Wer finden will, der muss verlieren können.
 
 ---
 
