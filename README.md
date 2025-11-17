@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can compile syntax errors.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Sogar eine halbe Portion kann ein Doppelleben führen.
+> Lieber am Po als am Arsch (Touristenwerbung).
 
 ---
 
