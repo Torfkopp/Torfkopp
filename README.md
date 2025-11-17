@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario exits vim by typing "exit"
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
+> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
 
 ---
 
