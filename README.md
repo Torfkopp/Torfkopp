@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario hosting is 105% uptime guaranteed.
-- To Mario, everything contains a vulnerability.
+- Mario can compile syntax errors.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Es gibt Fach- und Mehrfachidioten.
+> Jeder ist seines Glückes Störenfried.
 
 ---
 
