@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario programs do not accept input.
+- When Mario throws exceptions, it's across the room.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Nichts ist wahr in der Seemannsbar.
+> Es wird nicht alles so heiß gegessen wie man sich fühlt.
 
 ---
 
