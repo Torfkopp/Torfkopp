@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- To Mario, everything contains a vulnerability.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario uses /dev/null as STDIN.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
+> Stille Nacht, heilige Nacht; alles zahlt, ALDI lacht.
 
 ---
 
