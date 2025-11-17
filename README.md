@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
+> Sogar eine halbe Portion kann ein Doppelleben führen.
 
 ---
 
