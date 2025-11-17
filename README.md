@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Parent is the child of Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer finden will, der muss verlieren können.
+> Rache ist süß: Jede Süßigkeit rächt sich.
 
 ---
 
