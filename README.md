@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario uses /dev/null as STDIN.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can delete the Recycle Bin.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht; alles zahlt, ALDI lacht.
+> Nichts ist wahr in der Seemannsbar.
 
 ---
 
