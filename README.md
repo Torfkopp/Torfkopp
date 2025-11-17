@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario writes code that optimizes itself.
+- Mario can't test for equality because he has no equal.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Rache ist süß: Jede Süßigkeit rächt sich.
+> Kann denn Sprühen Sünde sein?
 
 ---
 
