@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- When Mario drops a table it's bloody but silent.
-- Mario can store the value 256 in one byte
+- Mario exits vim by typing "exit"
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Tarzan auf dem Klosterdach: da wurden selbst die Nonnen wach.
+> Wenn der Bauer schneller rennt, hinter ihm der CASTOR brennt.
 
 ---
 
