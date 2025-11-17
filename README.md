@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario hosting is 105% uptime guaranteed.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Kann denn Sprühen Sünde sein?
+> Es gibt Fach- und Mehrfachidioten.
 
 ---
 
