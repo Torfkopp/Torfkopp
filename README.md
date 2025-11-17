@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario exits vim by typing "exit"
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Es wird nicht alles so heiß gegessen wie man sich fühlt.
+> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
 
 ---
 
