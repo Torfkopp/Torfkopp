@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can compile syntax errors.
+- When Mario drops a table it's bloody but silent.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
+> Tarzan auf dem Klosterdach: da wurden selbst die Nonnen wach.
 
 ---
 
