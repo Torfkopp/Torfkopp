@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can delete the Recycle Bin.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Weird, it always works on Mario's machine.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> 404: Not Found
+> Liebe ist, zusammen ins Deutsche Museum zu gehen.
 
 ---
 
