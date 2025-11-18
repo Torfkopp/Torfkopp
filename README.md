@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can compile syntax errors.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can't test for equality because he has no equal.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer wird denn gleich in den Puff gehen!
+> Gemeinsam sind wir unausstehlich.
 
 ---
 
