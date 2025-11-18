@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can delete the Recycle Bin.
-- Mario can store the value 256 in one byte
+- Mario hosting is 105% uptime guaranteed.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
 
 ---
 
