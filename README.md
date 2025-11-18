@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Frauenpower macht uns sauer.
+> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
 
 ---
 
