@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws exceptions, it's across the room.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
+> Mich kennen heißt mich lieben.
 
 ---
 
