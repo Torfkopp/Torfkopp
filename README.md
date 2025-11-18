@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can't test for equality because he has no equal.
 - Mario can binary search unsorted data.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Gemeinsam sind wir unausstehlich.
+> 404: Not Found
 
 ---
 
