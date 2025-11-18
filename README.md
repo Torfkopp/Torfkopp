@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Windows 7 was Mario's idea.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
+> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
 
 ---
 
