@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario develops in prod.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can delete the Recycle Bin.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Jeder ist seines Glückes Störenfried.
+> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
 
 ---
 
