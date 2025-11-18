@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario writes code that optimizes itself.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can access the DB from the UI.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Lieber entlarvt als entschärft.
+> Der Apfel fällt nicht weit vom Zank.
 
 ---
 
