@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can binary search unsorted data.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can compile syntax errors.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Tolle. (Friseur)
+> Wer wird denn gleich in den Puff gehen!
 
 ---
 
