@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can access the DB from the UI.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Der Apfel fällt nicht weit vom Zank.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
