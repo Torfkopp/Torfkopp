@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't make http requests. He makes http demands.
+- Mario develops in prod.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
+> Hier spraye ich und kann nicht anders.
 
 ---
 
