@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can compile syntax errors.
+- Mario writes code that optimizes itself.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Mich kennen heißt mich lieben.
+> Lieber entlarvt als entschärft.
 
 ---
 
