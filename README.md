@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario writes code that optimizes itself.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
+> Computer lösen die Probleme, die wir ohne sie nicht hätten.
 
 ---
 
