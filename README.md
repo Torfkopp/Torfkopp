@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Weird, it always works on Mario's machine.
-- When Mario point to NULL, Null scares.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Liebe ist, zusammen ins Deutsche Museum zu gehen.
+> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
 
 ---
 
