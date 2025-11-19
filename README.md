@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can compile syntax errors.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Dem Philosoph ist nichts zu doof.
+> Diäten hoch, Phrasen platt - wie schön is dat!
 
 ---
 
