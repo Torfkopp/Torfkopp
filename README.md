@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never has to use the -f option when deleting files.
+- To Mario, everything contains a vulnerability.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wo viel Lid ist, ist auch viel Schatten.
+> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
 
 ---
 
