@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Windows 7 was Mario's idea.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Parent is the child of Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Jedes Pro und Contra hat sein Für und Wider.
+> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
 
 ---
 
