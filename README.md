@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario doesn't use web standards as the web will conform to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
+> In der Disco ist was los, wenn ich tanze nackt und bloß.
 
 ---
 
