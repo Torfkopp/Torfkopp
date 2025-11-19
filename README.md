@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario develops in prod.
+- Mario programs do not accept input.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
+> Dem Philosoph ist nichts zu doof.
 
 ---
 
