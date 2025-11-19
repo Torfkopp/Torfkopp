@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can compile syntax errors.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Diäten hoch, Phrasen platt - wie schön is dat!
+> Wo viel Lid ist, ist auch viel Schatten.
 
 ---
 
