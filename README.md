@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Mit des Bieres Hochgenuss wächst des Bauches Radius.
+> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
 
 ---
 
