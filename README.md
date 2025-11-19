@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- When Mario throws exceptions, it's across the room.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can store the value 256 in one byte
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Ich denke, also spinn ich.
+> Lieber träumen unter Bäumen als schaffen unter Affen.
 
 ---
 
