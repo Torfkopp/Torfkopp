@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Windows 7 was Mario's idea.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Ihr habt das Land, doch wir haben die Wand.
+> Mit des Bieres Hochgenuss wächst des Bauches Radius.
 
 ---
 
