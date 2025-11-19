@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- To Mario, everything contains a vulnerability.
+- Mario can access the DB from the UI.
+- Windows 7 was Mario's idea.
 - Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
+> Arbeit macht das Leben süß; Faulheit stärkt die Glieder.
 
 ---
 
