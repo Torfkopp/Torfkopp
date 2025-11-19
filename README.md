@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can access the DB from the UI.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> In der Disco ist was los, wenn ich tanze nackt und bloß.
+> Die größte Offenbarung ist die Pupille. (Optiker)
 
 ---
 
