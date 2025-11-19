@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can store the value 256 in one byte
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario uses /dev/null as STDIN.
+- Windows 7 was Mario's idea.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lieber träumen unter Bäumen als schaffen unter Affen.
+> Ihr habt das Land, doch wir haben die Wand.
 
 ---
 
