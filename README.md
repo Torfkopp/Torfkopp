@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Windows 7 was Mario's idea.
-- Mario can't test for equality because he has no equal.
+- Mario can delete the Recycle Bin.
+- When Mario throws exceptions, it's across the room.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Arbeit macht das Leben süß; Faulheit stärkt die Glieder.
+> Ich denke, also spinn ich.
 
 ---
 
