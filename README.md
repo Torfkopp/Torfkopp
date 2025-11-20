@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario hosting is 105% uptime guaranteed.
-- When Mario point to NULL, Null scares.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Keiner ist unnütz: Er kann immer noch als schlechtes Beispiel dienen.
+> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
 
 ---
 
