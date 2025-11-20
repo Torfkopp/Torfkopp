@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario writes code that optimizes itself.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Trockener Humor kann nie überflüssig sein.
+> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
 
 ---
 
