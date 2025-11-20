@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can write to ROM.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario hosting is 105% uptime guaranteed.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
+> Keiner ist unnütz: Er kann immer noch als schlechtes Beispiel dienen.
 
 ---
 
