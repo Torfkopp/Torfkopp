@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario drops a table it's bloody but silent.
-- Mario develops in prod.
+- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Ich bin nicht tot, ich rieche nur komisch.
+> Lieber eine Meise als gar keinen Vogel.
 
 ---
 
