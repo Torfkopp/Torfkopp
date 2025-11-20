@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- 404 errors simply mean that Mario has been there before you.
-- Mario never has to use the -f option when deleting files.
+- Parent is the child of Mario.
+- When Mario point to NULL, Null scares.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Der Apfel fällt nicht weit vom Zank.
+> Frech gesagt ist halb gefeuert.
 
 ---
 
