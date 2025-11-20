@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario drops a table it's bloody but silent.
+- Mario exits vim by typing "exit"
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Allen Leuten recht getan ist Sauerkraut mit Lebertran.
+> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
 
 ---
 
