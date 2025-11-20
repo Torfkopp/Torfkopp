@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can access the DB from the UI.
+- Parent is the child of Mario.
+- Mario writes code that optimizes itself.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
+> Trockener Humor kann nie überflüssig sein.
 
 ---
 
