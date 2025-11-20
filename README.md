@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Parent is the child of Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pupille. (Optiker)
+> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
 
 ---
 
