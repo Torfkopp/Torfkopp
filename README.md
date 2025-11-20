@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can access the DB from the UI.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Manche sind wie die Erde: immer auf Achse und trotzdem rund.
+> Ich bin nicht tot, ich rieche nur komisch.
 
 ---
 
