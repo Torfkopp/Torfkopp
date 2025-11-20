@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Lieber eine Meise als gar keinen Vogel.
+> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
 
 ---
 
