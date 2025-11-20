@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
+> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
 
 ---
 
