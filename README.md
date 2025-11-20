@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario drops a table it's bloody but silent.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- 404 errors simply mean that Mario has been there before you.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
+> Der Apfel fällt nicht weit vom Zank.
 
 ---
 
