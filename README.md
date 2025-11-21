@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario CAN divide by 0.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wozu noch recht schreiben, wenn man links denkt?
+> Ende gut, alles putt.
 
 ---
 
