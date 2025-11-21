@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can store the value 256 in one byte
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Ende gut, alles putt.
+> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
 
 ---
 
