@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Parent is the child of Mario.
-- Mario doesn't make http requests. He makes http demands.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Lieber den Faust im Kopf als auf dem Auge.
+> Wozu noch recht schreiben, wenn man links denkt?
 
 ---
 
