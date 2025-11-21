@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can binary search unsorted data.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can delete the Recycle Bin.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wanzen im Telefon schaffen Unterhaltung.
+> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
 
 ---
 
