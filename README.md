@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can compile syntax errors.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can binary search unsorted data.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Alles Geschmackssache, dachte der Affe und biss in die Seife.
+> Wanzen im Telefon schaffen Unterhaltung.
 
 ---
 
