@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
+> Lieber fünf Minuten feige als ein Leben lang tot.
 
 ---
 
