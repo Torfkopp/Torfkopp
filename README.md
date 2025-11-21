@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can store the value 256 in one byte
-- 404 errors simply mean that Mario has been there before you.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
