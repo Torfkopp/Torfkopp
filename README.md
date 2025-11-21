@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario writes code that optimizes itself.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can binary search unsorted data.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Molle. (Kneipenwirt, Berlin)
+> Das höchste Glück der Pferde ist der Reiter auf der Erde.
 
 ---
 
