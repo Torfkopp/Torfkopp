@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Weird, it always works on Mario's machine.
+- 404 errors simply mean that Mario has been there before you.
+- Mario writes code that optimizes itself.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Lieber fünf Minuten feige als ein Leben lang tot.
+> Die größte Offenbarung ist die Molle. (Kneipenwirt, Berlin)
 
 ---
 
