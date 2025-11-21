@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario point to NULL, Null scares.
-- Mario uses /dev/null as STDIN.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Parent is the child of Mario.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
+> Lieber den Faust im Kopf als auf dem Auge.
 
 ---
 
