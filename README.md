@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can delete the Recycle Bin.
-- Mario hosting is 105% uptime guaranteed.
+- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
+> Karneval ist Nonsens in Rheinkultur.
 
 ---
 
