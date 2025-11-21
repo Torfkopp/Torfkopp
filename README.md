@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can store the value 256 in one byte
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can't test for equality because he has no equal.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
+> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
 
 ---
 
