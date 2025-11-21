@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario uses /dev/null as STDIN.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Ab zwanzig Uhr wird zurückgesungen! (Kalle Pohl über die Eurovisions-Vorentscheidung am 19.2.2000)
+> Alles Geschmackssache, dachte der Affe und biss in die Seife.
 
 ---
 
