@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario uses /dev/null as STDIN.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Ehe = errare humanum est.
+> Mit leerem Kopf nickt es sich leichter.
 
 ---
 
