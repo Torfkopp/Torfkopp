@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario develops in prod.
-- Mario exits vim by typing "exit"
+- 404 errors simply mean that Mario has been there before you.
+- Mario can write to ROM.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Man kann sich an allem gewöhnen, auch am Dativ.
+> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
 
 ---
 
