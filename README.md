@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Planung ist der Ersatz des Zufalls durch den Irrtum.
+> Löwenmaul und Leumund haben nur wenig gemeinsam.
 
 ---
 
