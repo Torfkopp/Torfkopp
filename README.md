@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can binary search unsorted data.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario develops in prod.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Nieder mit dem Bockbier! Es lebe die Ziegenmilch!
+> Man kann sich an allem gewöhnen, auch am Dativ.
 
 ---
 
