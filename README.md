@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Praktisch denken - Särge schenken.
+> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
 
 ---
 
