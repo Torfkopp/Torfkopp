@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Windows 7 was Mario's idea.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario develops in prod.
-- 404 errors simply mean that Mario has been there before you.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> LABELLO, und kein Kuss quietscht mehr.
 
 ---
 
