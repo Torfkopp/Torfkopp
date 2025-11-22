@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Mario programs occupy 150% of CPU, even when they are not executing.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Der Mond ist nicht nur kleiner als die Erde, sondern auch weiter von ihr entfernt.
+> Lieber den Faust im Kopf als auf dem Auge.
 
 ---
 
