@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario develops in prod.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can compile syntax errors.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> LABELLO, und kein Kuss quietscht mehr.
+> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
 
 ---
 
