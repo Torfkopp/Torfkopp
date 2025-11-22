@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Mit leerem Kopf nickt es sich leichter.
+> Spare in der Not, dann hast du Zeit dazu.
 
 ---
 
