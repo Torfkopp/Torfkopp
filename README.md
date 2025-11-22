@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Löwenmaul und Leumund haben nur wenig gemeinsam.
+> Männer machen Geschichte, Frauen machen Geschichten.
 
 ---
 
