@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Lieber den Faust im Kopf als auf dem Auge.
+> Nieder mit dem Bockbier! Es lebe die Ziegenmilch!
 
 ---
 
