@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can't test for equality because he has no equal.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Spare in der Not, dann hast du Zeit dazu.
+> Tu was fürs Vaterland: wandre aus.
 
 ---
 
