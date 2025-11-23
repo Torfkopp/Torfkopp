@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario CAN divide by 0.
 - Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
+> Wenn man den Garten düngen möchte, dann genügt es nicht, durch den Zaun zu furzen.
 
 ---
 
