@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
+> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
 
 ---
 
