@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario uses /dev/null as STDIN.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario develops in prod.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Tu was fürs Vaterland: wandre aus.
+> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
 
 ---
 
