@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs do not accept input.
+- Mario exits vim by typing "exit"
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Wille. (Therapeut)
+> Im Schatten ist es ruhig, weil man das Licht nicht hört.
 
 ---
 
