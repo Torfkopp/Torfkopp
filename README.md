@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario develops in prod.
-- Mario writes code that optimizes itself.
+- When Mario throws exceptions, it's across the room.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
+> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
 
 ---
 
