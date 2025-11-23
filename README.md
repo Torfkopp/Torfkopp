@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Wer den Feind umarmt, macht ihn bewegungsunfähig.
+> Die größte Offenbarung ist die Quelle. (Versandabhängige)
 
 ---
 
