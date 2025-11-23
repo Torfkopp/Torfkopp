@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Arbeit ist süß, aber sauer macht lustig.
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
