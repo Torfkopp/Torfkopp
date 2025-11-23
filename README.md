@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario CAN divide by 0.
-- Mario doesn't use web standards as the web will conform to him.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wenn man den Garten düngen möchte, dann genügt es nicht, durch den Zaun zu furzen.
+> Lieber einen steilen Zahn als gar kein Gebiss.
 
 ---
 
