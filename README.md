@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can't test for equality because he has no equal.
+- To Mario, everything contains a vulnerability.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Lieber einen steilen Zahn als gar kein Gebiss.
+> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
 
 ---
 
