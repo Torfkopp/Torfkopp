@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - 404 errors simply mean that Mario has been there before you.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Die Spitzhacke im Haus ersetzt den Psychopathen.
+> Jedes Pro und Contra hat sein Für und Wider.
 
 ---
 
