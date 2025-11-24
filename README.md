@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario exits vim by typing "exit"
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario CAN divide by 0.
+- Mario develops in prod.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
+> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
 
 ---
 
