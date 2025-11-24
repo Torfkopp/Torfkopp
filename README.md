@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can't test for equality because he has no equal.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Hände hoch! Ich bin Achselfetischist
+> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
 
 ---
 
