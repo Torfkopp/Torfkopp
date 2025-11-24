@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can binary search unsorted data.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Kolle. (Aufklärer)
+> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
 
 ---
 
