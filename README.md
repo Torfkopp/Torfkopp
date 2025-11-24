@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't use web standards as the web will conform to him.
-- To Mario, everything contains a vulnerability.
+- Mario never has to use the -f option when deleting files.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Ich brauch kein Hasch; ich nehme DASH.
+> Die größte Offenbarung ist der Kolle. (Aufklärer)
 
 ---
 
