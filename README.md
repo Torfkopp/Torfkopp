@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- 404 errors simply mean that Mario has been there before you.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can't test for equality because he has no equal.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Erfahrung ist die Summe der Dummheiten, die man im Bedarfsfall wieder anwendet.
+> Hände hoch! Ich bin Achselfetischist
 
 ---
 
