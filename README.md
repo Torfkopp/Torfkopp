@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario programs do not accept input.
+- Mario doesn't make http requests. He makes http demands.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Die Spitzhacke im Haus ersetzt den Psychopathen.
 
 ---
 
