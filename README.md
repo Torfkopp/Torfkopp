@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Biss demnächst, sagte der Vampir.
+> Lieber Gold in der Kehle als Silber im Blick.
 
 ---
 
