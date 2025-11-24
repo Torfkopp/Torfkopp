@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario writes code that optimizes itself.
+- Mario can't test for equality because he has no equal.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Jedes Pro und Contra hat sein Für und Wider.
+> Wer den Feind umarmt, macht ihn bewegungsunfähig.
 
 ---
 
