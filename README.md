@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario can't test for equality because he has no equal.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't use web standards as the web will conform to him.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wer den Feind umarmt, macht ihn bewegungsunfähig.
+> Ich brauch kein Hasch; ich nehme DASH.
 
 ---
 
