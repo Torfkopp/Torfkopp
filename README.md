@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Weird, it always works on Mario's machine.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
+- Parent is the child of Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber ein Altbier als eine Neurose.
+> Wenn man das Licht schnell genug ausschaltet, kann man sehen, wie die Dunkelheit aussieht.
 
 ---
 
