@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can delete the Recycle Bin.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Die Basis des Fundamentalen ist das Grundlegende.
+> Lieber abends später ins Bett als morgens früher aufstehen.
 
 ---
 
