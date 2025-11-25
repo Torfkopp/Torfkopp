@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario develops in prod.
-- Mario can write to ROM.
+- Mario programs do not accept input.
+- Weird, it always works on Mario's machine.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
+> Wer hat denn den Käse ins Fernsehn gerollt?
 
 ---
 
