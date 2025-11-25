@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario throws exceptions, it's across the room.
-- When Mario throws an exception it's either across the room or out the window.
+- To Mario, everything contains a vulnerability.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Hey Kids, let's kotz.
+> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
 
 ---
 
