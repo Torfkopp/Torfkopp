@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Weird, it always works on Mario's machine.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario hosting is 105% uptime guaranteed.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wer hat denn den Käse ins Fernsehn gerollt?
+> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
 
 ---
 
