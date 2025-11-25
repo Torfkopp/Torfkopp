@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- To Mario, everything contains a vulnerability.
-- Mario can compile syntax errors.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario throws exceptions, it's across the room.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Keiner redet dümmer als er ist.
+> Hey Kids, let's kotz.
 
 ---
 
