@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario never has to use the -f option when deleting files.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Charme ist das einzige, das sich nicht unter Druck versprühen lässt.
+> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
 
 ---
 
