@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Lieber hoch zu Ross als unter aller Sau.
 
 ---
 
