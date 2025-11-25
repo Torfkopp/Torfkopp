@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario uses /dev/null as STDIN.
+- Parent is the child of Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Lieber hoch zu Ross als unter aller Sau.
+> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
 
 ---
 
