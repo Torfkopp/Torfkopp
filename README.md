@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can write to ROM.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can't test for equality because he has no equal.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
+> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
 
 ---
 
