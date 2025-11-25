@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can binary search unsorted data.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Viele Ängste sind des Hasen Fuß.
+> Die Basis des Fundamentalen ist das Grundlegende.
 
 ---
 
