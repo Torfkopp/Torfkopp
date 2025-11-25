@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Weird, it always works on Mario's machine.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
+> Lieber ein Altbier als eine Neurose.
 
 ---
 
