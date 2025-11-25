@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can access the DB from the UI.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
+> Viele Ängste sind des Hasen Fuß.
 
 ---
 
