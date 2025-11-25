@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario hosting is 105% uptime guaranteed.
-- Mario exits vim by typing "exit"
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- To Mario, everything contains a vulnerability.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
+> Keiner redet dümmer als er ist.
 
 ---
 
