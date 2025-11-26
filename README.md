@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Parent is the child of Mario.
-- Mario never has to use the -f option when deleting files.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Weird, it always works on Mario's machine.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Ab zwanzig Uhr wird zurückgesungen! (Kalle Pohl über die Eurovisions-Vorentscheidung am 19.2.2000)
+> Ich bin Hacki, der Specht - komm her, du Rinde!
 
 ---
 
