@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario drops a table it's bloody but silent.
-- Parent is the child of Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Molle. (Kneipenwirt, Berlin)
+> Hic Rhodos, hic Malta.
 
 ---
 
