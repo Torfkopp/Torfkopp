@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario throws an exception it's either across the room or out the window.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wer trinkt, schadet dem Durst.
+> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
 
 ---
 
