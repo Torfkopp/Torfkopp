@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Das Faustrecht ist nicht abgeschafft; es ist nur in die Ellenbogen umgezogen.
 
 ---
 
