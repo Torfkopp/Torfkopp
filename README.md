@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario drops a table it's bloody but silent.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Ein Masochist, der zurückhaut, ist pervers.
+> Wer trinkt, schadet dem Durst.
 
 ---
 
