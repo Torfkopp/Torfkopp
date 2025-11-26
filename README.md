@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- To Mario, everything contains a vulnerability.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
+> Wer Ordnung hält, ist nur zu faul zum Suchen.
 
 ---
 
