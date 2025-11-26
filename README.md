@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can delete the Recycle Bin.
+- Mario writes code that optimizes itself.
+- When Mario drops a table it's bloody but silent.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer Ordnung hält, ist nur zu faul zum Suchen.
+> Die größte Offenbarung ist die Molle. (Kneipenwirt, Berlin)
 
 ---
 
