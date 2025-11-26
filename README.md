@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Hic Rhodos, hic Malta.
+> Arbeit ist der Untergang der trinkenden Klasse.
 
 ---
 
