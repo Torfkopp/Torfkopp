@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never has to use the -f option when deleting files.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
+> Lieber ein Zebra streifen als einen Bullen anfahren.
 
 ---
 
