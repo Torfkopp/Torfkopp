@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Weird, it always works on Mario's machine.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can store the value 256 in one byte
+- To Mario, everything contains a vulnerability.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Ich bin Hacki, der Specht - komm her, du Rinde!
+> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
 
 ---
 
