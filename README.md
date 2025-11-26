@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Windows 7 was Mario's idea.
 - Mario can delete the Recycle Bin.
-- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Lieber abends später ins Bett als morgens früher aufstehen.
+> Faulheit ist: sich ausruhen, bevor man müde wird.
 
 ---
 
