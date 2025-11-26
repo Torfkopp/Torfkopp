@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Windows 7 was Mario's idea.
-- Mario invented binary by performing a roundhouse on the number 10.
+- To Mario, everything contains a vulnerability.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
+> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
 
 ---
 
