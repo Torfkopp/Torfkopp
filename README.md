@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Windows 7 was Mario's idea.
-- Mario can delete the Recycle Bin.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario drops a table it's bloody but silent.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Faulheit ist: sich ausruhen, bevor man müde wird.
+> Lieber fröhlich im Bett als traurig bei der Arbeit.
 
 ---
 
