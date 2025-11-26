@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- When Mario drops a table it's bloody but silent.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Lieber fröhlich im Bett als traurig bei der Arbeit.
+> Ein Masochist, der zurückhaut, ist pervers.
 
 ---
 
