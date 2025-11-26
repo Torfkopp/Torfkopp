@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario uses /dev/null as STDIN.
+- Parent is the child of Mario.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Das Faustrecht ist nicht abgeschafft; es ist nur in die Ellenbogen umgezogen.
+> Ab zwanzig Uhr wird zurückgesungen! (Kalle Pohl über die Eurovisions-Vorentscheidung am 19.2.2000)
 
 ---
 
