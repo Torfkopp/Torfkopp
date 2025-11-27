@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario writes code that optimizes itself.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
+> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
 
 ---
 
