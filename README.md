@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can't test for equality because he has no equal.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Homer ist, wenn man trotzdem lacht.
+> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
 
 ---
 
