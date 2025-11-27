@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can write to ROM.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario drops a table it's bloody but silent.
+- Mario CAN divide by 0.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Professorenglatze ist Waldsterben auf höherer Ebene.
+> Die größte Offenbarung ist die Gülle. (Landwirt)
 
 ---
 
