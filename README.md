@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Weird, it always works on Mario's machine.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario uses /dev/null as STDIN.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Der Baum hat Äste, das ist das beste, denn wär' er kahl, dann wär's ein Pfahl.
+> Denen habe ich's gegeben, sagte der Steuerzahler, als er das Finanzamt verließ.
 
 ---
 
