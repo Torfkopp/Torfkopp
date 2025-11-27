@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Windows 7 was Mario's idea.
+- Mario never has to use the -f option when deleting files.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Denen habe ich's gegeben, sagte der Steuerzahler, als er das Finanzamt verließ.
+> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
 
 ---
 
