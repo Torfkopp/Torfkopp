@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- To Mario, everything contains a vulnerability.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Schönheitschirurgen können auch ein langes Gesicht machen.
+> Wer viel arbeitet, macht viele Fehler; wer keine Fehler macht, ist ein fauler Hund.
 
 ---
 
