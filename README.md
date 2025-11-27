@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can store the value 256 in one byte
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer viel arbeitet, macht viele Fehler; wer keine Fehler macht, ist ein fauler Hund.
+> Ich denke, also spinn ich.
 
 ---
 
