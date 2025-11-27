@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario never has to use the -f option when deleting files.
+- When Mario drops a table it's bloody but silent.
+- Mario does not code in cycles, he codes in strikes.
 - Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
+> Schönheitschirurgen können auch ein langes Gesicht machen.
 
 ---
 
