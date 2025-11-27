@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario writes code that optimizes itself.
+- Weird, it always works on Mario's machine.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Leihen Sie Geld lieber bei Pessimisten; sie erwarten keine Rückzahlung.
+> Der Baum hat Äste, das ist das beste, denn wär' er kahl, dann wär's ein Pfahl.
 
 ---
 
