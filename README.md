@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario CAN divide by 0.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- To Mario, everything contains a vulnerability.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Gülle. (Landwirt)
+> Mit Wein, Weib und Gesang wird man garantiert nicht krank.
 
 ---
 
