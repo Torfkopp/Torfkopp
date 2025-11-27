@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario programs do not accept input.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
+> Wer am Fleischwolf steht, sollte nicht gleich durchdrehen.
 
 ---
 
