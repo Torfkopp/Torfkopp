@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario programs do not accept input.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can delete the Recycle Bin.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wer am Fleischwolf steht, sollte nicht gleich durchdrehen.
+> Homer ist, wenn man trotzdem lacht.
 
 ---
 
