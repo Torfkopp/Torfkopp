@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- 404 errors simply mean that Mario has been there before you.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Ich denke, also spinn ich.
+> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
 
 ---
 
