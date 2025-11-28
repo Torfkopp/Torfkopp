@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario hosting is 105% uptime guaranteed.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario writes code that optimizes itself.
+- Mario can store the value 256 in one byte
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Lieber Blödeleien als blöde Laien.
+> Sage mir, warum, und ich sage dir, weshalb.
 
 ---
 
