@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario exits vim by typing "exit"
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Für manche Leute ist ein Gehirnschlag ein Schlag ins Leere.
 
 ---
 
