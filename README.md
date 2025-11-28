@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can't test for equality because he has no equal.
-- When Mario throws exceptions, it's across the room.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
+> Wer stirbt, ist nur zu faul zum Leben.
 
 ---
 
