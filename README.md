@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario programs do not accept input.
+- Mario uses /dev/null as STDIN.
+- 404 errors simply mean that Mario has been there before you.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wer ATA braucht, ist noch lange nicht bescheuert.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
