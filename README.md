@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- 404 errors simply mean that Mario has been there before you.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can binary search unsorted data.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Was Krupp in Essen sind wir im Trinken.
+> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
 
 ---
 
