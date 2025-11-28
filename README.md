@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario develops in prod.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario hosting is 105% uptime guaranteed.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Ein deutscher Mann misstraut allem Fremden; es sei denn, es lässt sich trinken.
+> Lieber Blödeleien als blöde Laien.
 
 ---
 
