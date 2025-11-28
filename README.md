@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can compile syntax errors.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
+> Ein deutscher Mann misstraut allem Fremden; es sei denn, es lässt sich trinken.
 
 ---
 
