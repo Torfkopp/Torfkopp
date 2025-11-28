@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario exits vim by typing "exit"
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Für Geld tue ich alles, sogar arbeiten.
+> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
 
 ---
 
