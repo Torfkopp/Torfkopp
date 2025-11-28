@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- 404 errors simply mean that Mario has been there before you.
-- Mario hosting is 105% uptime guaranteed.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
+> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
 
 ---
 
