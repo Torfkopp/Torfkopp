@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can binary search unsorted data.
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
+> Unrecht Gut gedeiht, nicht?
 
 ---
 
