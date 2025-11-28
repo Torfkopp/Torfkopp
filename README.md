@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario can store the value 256 in one byte
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- 404 errors simply mean that Mario has been there before you.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Sage mir, warum, und ich sage dir, weshalb.
+> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
 
 ---
 
