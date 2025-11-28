@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Für manche Leute ist ein Gehirnschlag ein Schlag ins Leere.
+> Wer ATA braucht, ist noch lange nicht bescheuert.
 
 ---
 
