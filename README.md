@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
+- Mario writes code that optimizes itself.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Unrecht Gut gedeiht, nicht?
+> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
 
 ---
 
