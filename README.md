@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario does not code in cycles, he codes in strikes.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
+> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
 
 ---
 
