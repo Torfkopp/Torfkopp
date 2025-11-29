@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario exits vim by typing "exit"
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario writes code that optimizes itself.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
+> Die Schlankheitskur verliert den Schrecken, lässt du dir alles weiter schmecken.
 
 ---
 
