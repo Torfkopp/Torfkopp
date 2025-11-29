@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can access the DB from the UI.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Lieber aussteigen als eingehen.
+> Wenn der Bauer schneller rennt, hinter ihm der CASTOR brennt.
 
 ---
 
