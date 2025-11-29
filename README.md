@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can delete the Recycle Bin.
+- Mario can compile syntax errors.
+- Mario hosting is 105% uptime guaranteed.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
+> Raritäten, die in Massen auftreten, sind besonders selten.
 
 ---
 
