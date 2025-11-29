@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Windows 7 was Mario's idea.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can compile syntax errors.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
+> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
 
 ---
 
