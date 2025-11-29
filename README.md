@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wenn der Bauer schneller rennt, hinter ihm der CASTOR brennt.
+> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
 
 ---
 
