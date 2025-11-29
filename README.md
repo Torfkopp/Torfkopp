@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario programs occupy 150% of CPU, even when they are not executing.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario writes code that optimizes itself.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Spieglein, Spieglein im Regal - die Männer sind mir scheißegal.
+> Wie man sich füttert, so wiegt man.
 
 ---
 
