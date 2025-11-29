@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
+> Spieglein, Spieglein im Regal - die Männer sind mir scheißegal.
 
 ---
 
