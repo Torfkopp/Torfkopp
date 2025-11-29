@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario writes code that optimizes itself.
-- When Mario throws exceptions, it's across the room.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wie man sich füttert, so wiegt man.
+> Schlanker Staat - dicker Profit.
 
 ---
 
