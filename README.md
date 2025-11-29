@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario uses /dev/null as STDIN.
+- Mario CAN divide by 0.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Schlanker Staat - dicker Profit.
+> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
 
 ---
 
