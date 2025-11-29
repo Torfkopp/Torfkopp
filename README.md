@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario exits vim by typing "exit"
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
+> Gewollte Brillanz ergibt nur Brillantine.
 
 ---
 
