@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Hardware sucht Software für Bumsware.
+> Alles hat Grenzen, nur die Dummheit ist unendlich.
 
 ---
 
