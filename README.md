@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can write to ROM.
+- Weird, it always works on Mario's machine.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Alles hat Grenzen, nur die Dummheit ist unendlich.
+> Das nehm ich dir übel, sprach der Dübel, und verschwand in der Wand, wo ihn niemand wiederfand.
 
 ---
 
