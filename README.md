@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can access the DB from the UI.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Gewollte Brillanz ergibt nur Brillantine.
+> Hardware sucht Software für Bumsware.
 
 ---
 
