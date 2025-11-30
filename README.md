@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can write to ROM.
-- When Mario throws an exception it's either across the room or out the window.
+- Weird, it always works on Mario's machine.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
+> Da da da - du hast die Gicht, ich hab sie nicht.
 
 ---
 
