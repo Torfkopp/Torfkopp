@@ -6,13 +6,13 @@
 
 ### About Mario
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Eine Schwalbe macht noch keinen Elfmeter.
+> Sprühen bringt Beton zum Blühen.
 
 ---
 
