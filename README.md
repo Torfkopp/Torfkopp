@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can compile syntax errors.
-- Mario can delete the Recycle Bin.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
+> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
 
 ---
 
