@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can write to ROM.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
 
 ---
 
