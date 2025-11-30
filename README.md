@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario exits vim by typing "exit"
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Sprühen bringt Beton zum Blühen.
+> Steter Tropfen schützt vor Torheit nicht.
 
 ---
 
