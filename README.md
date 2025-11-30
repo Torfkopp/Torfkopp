@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Windows 7 was Mario's idea.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can store the value 256 in one byte
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
+> Ich sage, was ich denke, damit ich höre, was ich weiß.
 
 ---
 
