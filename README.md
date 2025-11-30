@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can binary search unsorted data.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Ich sage, was ich denke, damit ich höre, was ich weiß.
+> Ich brauch kein Hasch; ich nehme DASH.
 
 ---
 
