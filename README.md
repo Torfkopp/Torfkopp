@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- To Mario, everything contains a vulnerability.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Da da da - du hast die Gicht, ich hab sie nicht.
+> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
 
 ---
 
