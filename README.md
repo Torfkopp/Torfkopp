@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Was liegt bei Reisen näher als die Ferne?
+> Wer zuletzt lacht, stirbt wenigstens fröhlich.
 
 ---
 
