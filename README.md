@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can compile syntax errors.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Lieber leb' ich meiner Lust als Stempeluhr und Arbeitsfrust.
+> Eine Schwalbe macht noch keinen Elfmeter.
 
 ---
 
