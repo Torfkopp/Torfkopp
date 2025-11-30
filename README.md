@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never has to use the -f option when deleting files.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
+> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
 
 ---
 
