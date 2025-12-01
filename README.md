@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario programs do not accept input.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
+> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
 
 ---
 
