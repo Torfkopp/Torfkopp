@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario writes code that optimizes itself.
 - When Mario throws an exception it's either across the room or out the window.
+- Mario can access the DB from the UI.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Manche Ehefrau lässt lieber den Ofen ausgehen als ihren Mann.
+> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
 
 ---
 
