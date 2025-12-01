@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario writes code that optimizes itself.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
+> Manche Ehefrau lässt lieber den Ofen ausgehen als ihren Mann.
 
 ---
 
