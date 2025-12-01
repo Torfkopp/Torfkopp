@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> LABELLO, und kein Kuss quietscht mehr.
+> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
 
 ---
 
