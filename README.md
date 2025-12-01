@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
+> LABELLO, und kein Kuss quietscht mehr.
 
 ---
 
