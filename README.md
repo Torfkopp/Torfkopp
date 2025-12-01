@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Parent is the child of Mario.
+- When Mario drops a table it's bloody but silent.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Beat, ist dem anderen seine Beate.
+> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
 
 ---
 
