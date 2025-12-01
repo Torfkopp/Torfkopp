@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario point to NULL, Null scares.
 - When Mario throws exceptions, it's across the room.
+- Mario can compile syntax errors.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
+> Der Student geht so lange zur Mensa bis er bricht.
 
 ---
 
