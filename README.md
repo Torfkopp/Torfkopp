@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
 
 ---
 
