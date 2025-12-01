@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Parent is the child of Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
+> Was dem einen sein Beat, ist dem anderen seine Beate.
 
 ---
 
