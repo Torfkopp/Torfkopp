@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Parent is the child of Mario.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario throws exceptions, it's across the room.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Kalle. (K.s Freundin)
+> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
 
 ---
 
