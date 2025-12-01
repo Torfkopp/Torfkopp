@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario point to NULL, Null scares.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wenn die Wurst so dick wie das Brot ist, ist es wurscht, wie dick das Brot ist.
+> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
 
 ---
 
