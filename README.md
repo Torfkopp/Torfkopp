@@ -5,9 +5,9 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can write to ROM.
-- Mario develops in prod.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Windows 7 was Mario's idea.
 
 ---
 
