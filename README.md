@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Windows 7 was Mario's idea.
+- Mario hosting is 105% uptime guaranteed.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
+> Gott sei Punk.
 
 ---
 
