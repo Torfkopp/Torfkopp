@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario programs do not accept input.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
+> Biss demnächst, sagte der Vampir.
 
 ---
 
