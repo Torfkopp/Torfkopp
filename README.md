@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Windows 7 was Mario's idea.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can write to ROM.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Hic Rhodos, hic Malta.
+> In Wirklichkeit ist die Realität ganz anders.
 
 ---
 
