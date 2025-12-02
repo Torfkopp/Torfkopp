@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
+> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
 
 ---
 
