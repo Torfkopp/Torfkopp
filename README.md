@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario uses /dev/null as STDIN.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
+> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
 
 ---
 
