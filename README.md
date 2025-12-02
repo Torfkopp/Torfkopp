@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can access the DB from the UI.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Lieber zusammen aus- als allein eingehen.
+> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
 
 ---
 
