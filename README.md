@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
+> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
 
 ---
 
