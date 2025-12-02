@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario can access the DB from the UI.
-- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Gäste, die voll kommen, sind nicht vollkommen.
+> Lieber zusammen aus- als allein eingehen.
 
 ---
 
