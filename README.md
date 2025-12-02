@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
+> Hic Rhodos, hic Malta.
 
 ---
 
