@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Windows 7 was Mario's idea.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can access the DB from the UI.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> In Wirklichkeit ist die Realität ganz anders.
+> Gäste, die voll kommen, sind nicht vollkommen.
 
 ---
 
