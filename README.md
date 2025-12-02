@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario uses /dev/null as STDIN.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't make http requests. He makes http demands.
 - Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
+> Männer machen Geschichte, Frauen machen Geschichten.
 
 ---
 
