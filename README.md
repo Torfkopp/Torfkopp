@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can't test for equality because he has no equal.
+- Mario develops in prod.
+- When Mario point to NULL, Null scares.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Männer machen Geschichte, Frauen machen Geschichten.
+> Früher las ich Karl Marx, doch dann entdeckte ich Pippi Langstrumpf.
 
 ---
 
