@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When Mario point to NULL, Null scares.
-- Mario can access the DB from the UI.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Früher las ich Karl Marx, doch dann entdeckte ich Pippi Langstrumpf.
+> Legt die Nordsee trocken, wir wollen nach England.
 
 ---
 
