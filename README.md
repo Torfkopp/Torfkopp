@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can binary search unsorted data.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario exits vim by typing "exit"
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Besser Video als gar kein Deo.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
