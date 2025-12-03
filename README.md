@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario uses /dev/null as STDIN.
-- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Manche Ehefrau lässt lieber den Ofen ausgehen als ihren Mann.
+> Polygamie ist Demokratie im Bett.
 
 ---
 
