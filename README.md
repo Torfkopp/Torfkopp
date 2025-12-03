@@ -6,13 +6,13 @@
 
 ### About Mario
 - 404 errors simply mean that Mario has been there before you.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Weird, it always works on Mario's machine.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Cogito, ergo Husum.
+> Lieber Glück im Unglück als Pech in der Strähne.
 
 ---
 
