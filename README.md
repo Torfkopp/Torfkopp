@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario uses /dev/null as STDIN.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wer hat denn den Käse ins Fernsehn gerollt?
+> Manche Ehefrau lässt lieber den Ofen ausgehen als ihren Mann.
 
 ---
 
