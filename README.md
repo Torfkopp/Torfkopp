@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario uses /dev/null as STDIN.
+- Mario hosting is 105% uptime guaranteed.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Wenn die Erde schreien könnte, wären wir alle taub.
+> Lieber eine Flinte im Korn als Waffen im Weltraum.
 
 ---
 
