@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario hosting is 105% uptime guaranteed.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flinte im Korn als Waffen im Weltraum.
+> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
 
 ---
 
