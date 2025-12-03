@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario CAN divide by 0.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario writes code that optimizes itself.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Früher las ich Karl Marx, doch dann entdeckte ich Pippi Langstrumpf.
+> Wer hat denn den Käse ins Fernsehn gerollt?
 
 ---
 
