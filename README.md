@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario uses /dev/null as STDIN.
+- Mario does not code in cycles, he codes in strikes.
 - 404 errors simply mean that Mario has been there before you.
-- Weird, it always works on Mario's machine.
-- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Ich kann fliegen, sagte der Wurm, als er mit dem Apfel vom Baum fiel.
 
 ---
 
