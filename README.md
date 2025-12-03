@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
+- Mario can binary search unsorted data.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Polygamie ist Demokratie im Bett.
+> Besser Video als gar kein Deo.
 
 ---
 
