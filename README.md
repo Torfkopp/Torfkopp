@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario CAN divide by 0.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Früher las ich Karl Marx, doch dann entdeckte ich Pippi Langstrumpf.
 
 ---
 
