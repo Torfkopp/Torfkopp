@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can store the value 256 in one byte
-- Mario CAN divide by 0.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wer früher stirbt, ist länger tot.
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
