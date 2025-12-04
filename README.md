@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario throws exceptions, it's across the room.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can delete the Recycle Bin.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Wer wöchentlich nur einmal kann und möchte gerne täglich, der wende sich an Neckermann, denn Neckermann machts möglich.
+> Trag nie eine Anstecknadel, wenn du erkältet bist.
 
 ---
 
