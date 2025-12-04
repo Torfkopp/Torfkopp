@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario point to NULL, Null scares.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
+> Der Geist denkt, das Geld lenkt.
 
 ---
 
