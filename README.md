@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can delete the Recycle Bin.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Trag nie eine Anstecknadel, wenn du erkältet bist.
+> Kinder unter fünf Jahren sind mit Klebeband oder Vorhängeschloss zu sichern.
 
 ---
 
