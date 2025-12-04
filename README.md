@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Windows 7 was Mario's idea.
-- Mario doesn't make http requests. He makes http demands.
+- Mario hosting is 105% uptime guaranteed.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Krieg ist, wenn es trrotzdem kracht.
+> Wer wöchentlich nur einmal kann und möchte gerne täglich, der wende sich an Neckermann, denn Neckermann machts möglich.
 
 ---
 
