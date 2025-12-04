@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario CAN divide by 0.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't use web standards as the web will conform to him.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Anything goes, nur nicht Albrecht Goes.
+> Frisch gewachst ist halb gefallen.
 
 ---
 
