@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't make http requests. He makes http demands.
-- Parent is the child of Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Falle. (Trapper)
+> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
 
 ---
 
