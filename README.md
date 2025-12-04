@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can delete the Recycle Bin.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Frisch gewagt ist halb verschrottet.
+> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
 
 ---
 
