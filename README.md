@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario writes code that optimizes itself.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't make http requests. He makes http demands.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
+> Die größte Offenbarung ist die Falle. (Trapper)
 
 ---
 
