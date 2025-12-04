@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never has to use the -f option when deleting files.
+- Mario writes code that optimizes itself.
+- Windows 7 was Mario's idea.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Der Geist denkt, das Geld lenkt.
+> Krieg ist, wenn es trrotzdem kracht.
 
 ---
 
