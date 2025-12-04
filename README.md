@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - 404 errors simply mean that Mario has been there before you.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Ich kann fliegen, sagte der Wurm, als er mit dem Apfel vom Baum fiel.
+> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
 
 ---
 
