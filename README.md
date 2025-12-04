@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- 404 errors simply mean that Mario has been there before you.
-- When Mario point to NULL, Null scares.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario invented binary by performing a roundhouse on the number 10.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
+> Hände hoch! Ich bin Achselfetischist
 
 ---
 
