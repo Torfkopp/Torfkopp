@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't use web standards as the web will conform to him.
-- Parent is the child of Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Frisch gewachst ist halb gefallen.
+> Frisch gewagt ist halb verschrottet.
 
 ---
 
