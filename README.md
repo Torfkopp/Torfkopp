@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- To Mario, everything contains a vulnerability.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can store the value 256 in one byte
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Kinder unter fünf Jahren sind mit Klebeband oder Vorhängeschloss zu sichern.
+> Wer früher stirbt, ist länger tot.
 
 ---
 
