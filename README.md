@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario writes code that optimizes itself.
-- Mario can delete the Recycle Bin.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
+> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
 
 ---
 
