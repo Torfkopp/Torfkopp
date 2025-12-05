@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can access the DB from the UI.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario plugs in USB sticks perfectly the first time every time
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Was Hänschen nicht lernt, werden ihm die Mädchen beibringen.
+> Alle angenehmen Dinge sind entweder unmoralisch, illegal oder machen dick.
 
 ---
 
