@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario develops in prod.
+- Mario can store the value 256 in one byte
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
+> Multimedia ist, wenn es trotzdem klappt.
 
 ---
 
