@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario uses /dev/null as STDIN.
-- Windows 7 was Mario's idea.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
+> Biste in der EDV, kennt deine Daten jede Sau.
 
 ---
 
