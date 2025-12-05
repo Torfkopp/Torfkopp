@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- When Mario point to NULL, Null scares.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Freies Chatten für alle! Macht die Wände dünner!
+> Was Hänschen nicht lernt, werden ihm die Mädchen beibringen.
 
 ---
 
