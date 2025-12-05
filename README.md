@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can write to ROM.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Biste in der EDV, kennt deine Daten jede Sau.
+> Alle Menschen werden [noch!] als Original geboren, die meisten sterben als Kopie.
 
 ---
 
