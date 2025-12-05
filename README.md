@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Parent is the child of Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario writes code that optimizes itself.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Benutze die geile Gehirnmaschine!
+> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
 
 ---
 
