@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario plugs in USB sticks perfectly the first time every time
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can delete the Recycle Bin.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Alle angenehmen Dinge sind entweder unmoralisch, illegal oder machen dick.
+> Ein Masochist, der zurückhaut, ist pervers.
 
 ---
 
