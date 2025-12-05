@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can delete the Recycle Bin.
+- Mario writes code that optimizes itself.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
+> Nichts ist wahr in der Seemannsbar.
 
 ---
 
