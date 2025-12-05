@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can compile syntax errors.
-- To Mario, everything contains a vulnerability.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Lieber kleckern als kotzen.
+> Benutze die geile Gehirnmaschine!
 
 ---
 
