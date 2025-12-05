@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can store the value 256 in one byte
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can write to ROM.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Multimedia ist, wenn es trotzdem klappt.
+> Eine Schwalbe macht noch keinen Elfmeter.
 
 ---
 
