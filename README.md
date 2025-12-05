@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario point to NULL, Null scares.
+- Mario programs do not accept input.
+- Mario can compile syntax errors.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Alle Menschen werden [noch!] als Original geboren, die meisten sterben als Kopie.
+> Lieber kleckern als kotzen.
 
 ---
 
