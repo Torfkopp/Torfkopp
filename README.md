@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - Mario uses /dev/null as STDIN.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Kleine Bosheiten erhalten die Feindschaft.
+> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
 
 ---
 
