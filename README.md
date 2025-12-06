@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Legal - Illegal - Scheißegal!
+> Schneeflöckchen, Weißröckchen, Stinksöckchen.
 
 ---
 
