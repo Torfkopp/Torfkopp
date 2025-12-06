@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can't test for equality because he has no equal.
-- Mario can write to ROM.
+- Mario hosting is 105% uptime guaranteed.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Schutzhaft für alle, dann gibt's keine Krawalle.
+> Auch Arme haben Beine.
 
 ---
 
