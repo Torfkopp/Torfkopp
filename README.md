@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can binary search unsorted data.
+- When Mario throws exceptions, it's across the room.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Lass mich doch fett sein, es kann nicht jeder beim Ballett sein.
+> Polygamie ist Demokratie im Bett.
 
 ---
 
