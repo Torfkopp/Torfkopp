@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario CAN divide by 0.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Eine Schwalbe macht noch keinen Elfmeter.
+> Lass mich doch fett sein, es kann nicht jeder beim Ballett sein.
 
 ---
 
