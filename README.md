@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can write to ROM.
+- Mario develops in prod.
 - Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wenn die Dunstglocke läutet, hat das Sterbeglöckchen Hochkonjunktur.
+> Was nicht allzu teuer ist, das können wir erlösen.
 
 ---
 
