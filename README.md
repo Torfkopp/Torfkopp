@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario point to NULL, Null scares.
+- Mario can't test for equality because he has no equal.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Lieber eine Meise als gar keinen Vogel.
+> Schutzhaft für alle, dann gibt's keine Krawalle.
 
 ---
 
