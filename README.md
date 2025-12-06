@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- When Mario throws exceptions, it's across the room.
-- Mario writes code that optimizes itself.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Polygamie ist Demokratie im Bett.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
