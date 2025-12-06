@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can compile syntax errors.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Auch Arme haben Beine.
+> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
 
 ---
 
