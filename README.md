@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario develops in prod.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario plugs in USB sticks perfectly the first time every time
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Was nicht allzu teuer ist, das können wir erlösen.
+> Legal - Illegal - Scheißegal!
 
 ---
 
