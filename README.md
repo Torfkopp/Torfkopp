@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can write to ROM.
 - When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
+> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
 
 ---
 
