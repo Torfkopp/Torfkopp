@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario point to NULL, Null scares.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Was keiner kann, das kann ich auch.
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
