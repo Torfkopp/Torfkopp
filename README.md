@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario uses /dev/null as STDIN.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Treib Sport, oder du bleibst gesund.
+> Wenn die Dunstglocke läutet, hat das Sterbeglöckchen Hochkonjunktur.
 
 ---
 
