@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can't test for equality because he has no equal.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Lieber eine Meise als gar keinen Vogel.
 
 ---
 
