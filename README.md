@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> Was keiner kann, das kann ich auch.
 
 ---
 
