@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario drops a table it's bloody but silent.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Schneeflöckchen, Weißröckchen, Stinksöckchen.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
