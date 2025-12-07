@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can access the DB from the UI.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Stoßstangen sind aller Laster Anfang.
+> Für einen Anlass gibt es immer eine Gelegenheit.
 
 ---
 
