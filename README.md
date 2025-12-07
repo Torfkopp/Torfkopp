@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- To Mario, everything contains a vulnerability.
-- Weird, it always works on Mario's machine.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
+> Auch stille Wasser sind nass.
 
 ---
 
