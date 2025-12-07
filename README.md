@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can write to ROM.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
+> Der Apfel fällt nicht weit vom Zank.
 
 ---
 
