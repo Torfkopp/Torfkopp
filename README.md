@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can store the value 256 in one byte
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Denen habe ich's gegeben, sagte der Steuerzahler, als er das Finanzamt verließ.
+> Gott ist tot (Nietzsche). Nietzsche ist tot (Gott).
 
 ---
 
