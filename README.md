@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can write to ROM.
+- Parent is the child of Mario.
+- Mario CAN divide by 0.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
 
 ---
 
