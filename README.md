@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't use web standards as the web will conform to him.
 - Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Frauenpower macht uns sauer.
+> Polygamie ist Demokratie im Bett.
 
 ---
 
