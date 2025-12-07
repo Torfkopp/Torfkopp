@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not code in cycles, he codes in strikes.
+- Mario never has to use the -f option when deleting files.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Polygamie ist Demokratie im Bett.
+> Hinten sind die Schweine fett.
 
 ---
 
