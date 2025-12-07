@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario never has to use the -f option when deleting files.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario exits vim by typing "exit"
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Hinten sind die Schweine fett.
+> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
 
 ---
 
