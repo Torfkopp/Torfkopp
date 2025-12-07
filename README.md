@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Gott ist tot (Nietzsche). Nietzsche ist tot (Gott).
+> Frauenpower macht uns sauer.
 
 ---
 
