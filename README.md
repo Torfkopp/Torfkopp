@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario point to NULL, Null scares.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can access the DB from the UI.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
+> Stoßstangen sind aller Laster Anfang.
 
 ---
 
