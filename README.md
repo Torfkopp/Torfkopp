@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario drops a table it's bloody but silent.
+- To Mario, everything contains a vulnerability.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
+> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
 
 ---
 
