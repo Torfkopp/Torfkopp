@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- To Mario, everything contains a vulnerability.
+- Mario exits vim by typing "exit"
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Rache ist süß: Jede Süßigkeit rächt sich.
+> Denen habe ich's gegeben, sagte der Steuerzahler, als er das Finanzamt verließ.
 
 ---
 
