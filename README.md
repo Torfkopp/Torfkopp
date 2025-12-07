@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can binary search unsorted data.
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario drops a table it's bloody but silent.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Der Apfel fällt nicht weit vom Zank.
+> Der Plebs trinkt Schweppes.
 
 ---
 
