@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario CAN divide by 0.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
+> Rache ist süß: Jede Süßigkeit rächt sich.
 
 ---
 
