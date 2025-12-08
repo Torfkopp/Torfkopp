@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can't test for equality because he has no equal.
-- Windows 7 was Mario's idea.
-- Mario never has to use the -f option when deleting files.
+- Mario can store the value 256 in one byte
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer faul ist, schaft Arbeitsplätze.
+> Die Regierung spart, jetzt müssen sich 20 Minister ein Gehirn teilen.
 
 ---
 
