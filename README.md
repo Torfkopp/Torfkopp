@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws exceptions, it's across the room.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs do not accept input.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Wille. (Therapeut)
+> Haben Krawattenträger nicht schon genug am Halse?
 
 ---
 
