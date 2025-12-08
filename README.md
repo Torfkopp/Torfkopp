@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Weird, it always works on Mario's machine.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
+> Wer ein langes Gesicht macht, hat mehr zu rasieren.
 
 ---
 
