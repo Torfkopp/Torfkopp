@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- 404 errors simply mean that Mario has been there before you.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wer lächeln kann, wenn's schiefgeht, der weiß, wen er verantwortlich machen kann.
+> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
 
 ---
 
