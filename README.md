@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario programs do not accept input.
-- Mario can access the DB from the UI.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Mich kennen heißt mich lieben.
 
 ---
 
