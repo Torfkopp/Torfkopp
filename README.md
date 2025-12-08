@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario can store the value 256 in one byte
-- Mario can binary search unsorted data.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can delete the Recycle Bin.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Die Regierung spart, jetzt müssen sich 20 Minister ein Gehirn teilen.
+> Genieße das Leben beständig, denn du bist länger tot als lebendig.
 
 ---
 
