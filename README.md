@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can delete the Recycle Bin.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
+> Die größte Offenbarung ist der Wille. (Therapeut)
 
 ---
 
