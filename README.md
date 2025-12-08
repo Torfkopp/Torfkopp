@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws exceptions, it's across the room.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
+> Irgendwann begegnet man dem Whisky seines Lebens.
 
 ---
 
