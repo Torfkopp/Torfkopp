@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can't test for equality because he has no equal.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Viele Stoppschilder bringen den Fahrer zum Rasen.
+> Wer lächeln kann, wenn's schiefgeht, der weiß, wen er verantwortlich machen kann.
 
 ---
 
