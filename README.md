@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can't test for equality because he has no equal.
+- Windows 7 was Mario's idea.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
+> Wer faul ist, schaft Arbeitsplätze.
 
 ---
 
