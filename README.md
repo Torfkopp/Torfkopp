@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario writes code that optimizes itself.
+- Mario CAN divide by 0.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Und draußen in dem dunklen Forst erwacht die Gans im Adlerhorst. Sie sieht sich um und spricht betroffen: "Mein lieber Schwan, war ich besoffen!"
+> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
 
 ---
 
