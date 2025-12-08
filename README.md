@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Weird, it always works on Mario's machine.
-- Mario exits vim by typing "exit"
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wer ein langes Gesicht macht, hat mehr zu rasieren.
+> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
 
 ---
 
