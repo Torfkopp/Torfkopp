@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can store the value 256 in one byte
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Mich kennen heißt mich lieben.
+> Und draußen in dem dunklen Forst erwacht die Gans im Adlerhorst. Sie sieht sich um und spricht betroffen: "Mein lieber Schwan, war ich besoffen!"
 
 ---
 
