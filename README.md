@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario can't test for equality because he has no equal.
-- Mario does not code in cycles, he codes in strikes.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Mit des Bieres Hochgenuss wächst des Bauches Radius.
+> Viele Stoppschilder bringen den Fahrer zum Rasen.
 
 ---
 
