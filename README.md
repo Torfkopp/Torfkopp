@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't make http requests. He makes http demands.
+- Windows 7 was Mario's idea.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
+> Die dämlichsten Herren haben oft die herrlichsten Damen.
 
 ---
 
