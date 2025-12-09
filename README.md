@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario uses /dev/null as STDIN.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer nichts wird, wird Zwischenwirt.
+> Wer den Schaden hat, braucht für den Schrott nicht zu sorgen.
 
 ---
 
