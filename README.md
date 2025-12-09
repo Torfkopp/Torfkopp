@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - When Mario drops a table it's bloody but silent.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
+> Wer ATA braucht, ist noch lange nicht bescheuert.
 
 ---
 
