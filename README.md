@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can store the value 256 in one byte
 - When Mario throws an exception it's either across the room or out the window.
-- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer den Schaden hat, braucht für den Schrott nicht zu sorgen.
+> Ouzo statt Juso.
 
 ---
 
