@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
 - Mario never has to use the -f option when deleting files.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Falle. (Trapper)
+> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
 
 ---
 
