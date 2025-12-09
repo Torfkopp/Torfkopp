@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can't test for equality because he has no equal.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> In dubio Prosecco.
+> Wer nichts wird, wird Zwischenwirt.
 
 ---
 
