@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can delete the Recycle Bin.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Genieße das Leben beständig, denn du bist länger tot als lebendig.
+> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
 
 ---
 
