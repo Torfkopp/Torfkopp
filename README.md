@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wer ATA braucht, ist noch lange nicht bescheuert.
+> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
 
 ---
 
