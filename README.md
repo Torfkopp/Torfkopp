@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't make http requests. He makes http demands.
+- Mario develops in prod.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
+> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
 
 ---
 
