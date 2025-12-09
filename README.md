@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- To Mario, everything contains a vulnerability.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Man soll die Gäste feuern, wie sie fallen.
+> In dubio Prosecco.
 
 ---
 
