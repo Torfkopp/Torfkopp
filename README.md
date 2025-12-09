@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- 404 errors simply mean that Mario has been there before you.
-- Mario can store the value 256 in one byte
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Die dämlichsten Herren haben oft die herrlichsten Damen.
+> Kleine Bosheiten erhalten die Feindschaft.
 
 ---
 
