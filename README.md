@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can store the value 256 in one byte
-- When Mario throws an exception it's either across the room or out the window.
+- Mario develops in prod.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Ouzo statt Juso.
+> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
 
 ---
 
