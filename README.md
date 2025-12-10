@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario can delete the Recycle Bin.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen leert das Hirn.
+> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
 
 ---
 
