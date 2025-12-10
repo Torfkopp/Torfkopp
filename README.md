@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wer hat denn den Käse ins Fernsehn gerollt?
+> Gerne der Zeiten gedenk' ich, da alle Glieder gelenkig - bis auf eins. Doch die Zeiten sind vorüber, steif geworden alle Glieder - bis auf eins.
 
 ---
 
