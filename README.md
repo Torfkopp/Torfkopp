@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can write to ROM.
+- Mario can delete the Recycle Bin.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Stoßstangen sind aller Laster Anfang.
+> Steter Tropfen leert das Hirn.
 
 ---
 
