@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> It's öde to be blöde.
+> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
 
 ---
 
