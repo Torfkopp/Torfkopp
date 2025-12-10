@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can binary search unsorted data.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
+> Wer hat denn den Käse ins Fernsehn gerollt?
 
 ---
 
