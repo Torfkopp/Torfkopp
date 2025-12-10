@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Windows 7 was Mario's idea.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
+> Komm zurück, Godot; es ist alles verziehen.
 
 ---
 
