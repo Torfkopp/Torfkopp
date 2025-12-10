@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Ohne Fleiß kein Preis; ohne Leim kein Reim.
+> Lügen haben kurze Beine, aber tausend Füße.
 
 ---
 
