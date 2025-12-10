@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Alles Geschmackssache, dachte der Affe und biss in die Seife.
+> Ohne Fleiß kein Preis; ohne Leim kein Reim.
 
 ---
 
