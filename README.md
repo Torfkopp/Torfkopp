@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Lieber FKK als FDP.
+> Aller Mannfang ist schwer.
 
 ---
 
