@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can binary search unsorted data.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lügen haben kurze Beine, aber tausend Füße.
+> It's öde to be blöde.
 
 ---
 
