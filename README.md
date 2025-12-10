@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wo ein Wille ist, da ist auch ein Gebüsch.
+> Nirwana ist nirgendwo, Banana ist überall.
 
 ---
 
