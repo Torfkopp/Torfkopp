@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario develops in prod.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Gute Mädchen kommen in den Himmel; böse überallhin.
+> Wo ein Wille ist, da ist auch ein Gebüsch.
 
 ---
 
