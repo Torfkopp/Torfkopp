@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
