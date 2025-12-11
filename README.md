@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario can compile syntax errors.
-- Mario can delete the Recycle Bin.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws exceptions, it's across the room.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
+> Steter Tropfen schützt vor Torheit nicht.
 
 ---
 
