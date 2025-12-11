@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario exits vim by typing "exit"
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Je tiefer das Loch, desto plumps.
+> Genieße das Leben beständig, denn du bist länger tot als lebendig.
 
 ---
 
