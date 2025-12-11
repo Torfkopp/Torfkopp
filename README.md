@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario throws exceptions, it's across the room.
 - Mario can store the value 256 in one byte
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Lieber halbstark mit Sturzhelm als ganz stark mit Stahlhelm.
+> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
 
 ---
 
