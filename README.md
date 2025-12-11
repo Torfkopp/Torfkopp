@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario uses /dev/null as STDIN.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wenn Nebel aus den Wiesen steigt, die Fledermaus das Wiesel geigt.
+> Je tiefer das Loch, desto plumps.
 
 ---
 
