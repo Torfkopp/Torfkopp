@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Weird, it always works on Mario's machine.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can binary search unsorted data.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
+> Wie man sich fettet, so riecht man.
 
 ---
 
