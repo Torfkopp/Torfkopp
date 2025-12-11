@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When Mario throws an exception it's either across the room or out the window.
+- Parent is the child of Mario.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Aller Mannfang ist schwer.
+> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
 
 ---
 
