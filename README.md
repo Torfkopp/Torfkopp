@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can compile syntax errors.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can store the value 256 in one byte
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Viele Köche sind des Hasen Tod.
+> Lieber halbstark mit Sturzhelm als ganz stark mit Stahlhelm.
 
 ---
 
