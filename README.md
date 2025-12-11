@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario hosting is 105% uptime guaranteed.
-- Mario can't test for equality because he has no equal.
+- When Mario drops a table it's bloody but silent.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Manche halten zehnmal leichter eine Rede als einmal ihr Wort.
+> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
 
 ---
 
