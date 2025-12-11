@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can compile syntax errors.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wie man sich fettet, so riecht man.
+> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
 
 ---
 
