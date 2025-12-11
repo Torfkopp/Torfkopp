@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Sei schlau, bleib dumm.
+> Manche halten zehnmal leichter eine Rede als einmal ihr Wort.
 
 ---
 
