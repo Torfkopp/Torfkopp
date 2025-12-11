@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario throws exceptions, it's across the room.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen schützt vor Torheit nicht.
+> Sei schlau, bleib dumm.
 
 ---
 
