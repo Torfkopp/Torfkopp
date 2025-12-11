@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario exits vim by typing "exit"
-- Mario doesn't make http requests. He makes http demands.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Genieße das Leben beständig, denn du bist länger tot als lebendig.
+> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
 
 ---
 
