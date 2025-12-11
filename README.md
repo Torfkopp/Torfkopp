@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When Mario throws exceptions, it's across the room.
-- Mario can store the value 256 in one byte
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
+> Wenn sich zwei streiten, freut sich der Anwalt.
 
 ---
 
