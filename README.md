@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can access the DB from the UI.
-- Mario can delete the Recycle Bin.
+- Mario uses /dev/null as STDIN.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
+> Verliert im August der Bauer die Hose, war schon im Juli das Gummiband lose.
 
 ---
 
