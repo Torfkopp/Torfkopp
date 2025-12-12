@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can write to ROM.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario plugs in USB sticks perfectly the first time every time
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Unter kleinen Steppdecken können große Deppen stecken.
+> Dem Philosoph ist nichts zu doof.
 
 ---
 
