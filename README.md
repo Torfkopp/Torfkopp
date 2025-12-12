@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- 404 errors simply mean that Mario has been there before you.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Gott sei Punk.
+> Unter kleinen Steppdecken können große Deppen stecken.
 
 ---
 
