@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Windows 7 was Mario's idea.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can compile syntax errors.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> "Jetzt geht's rund!", sprach der Spatz und flog in den Ventilator.
+> Schnauze, sonst Beule.
 
 ---
 
