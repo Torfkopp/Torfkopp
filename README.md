@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can access the DB from the UI.
 - Mario can delete the Recycle Bin.
-- Mario develops in prod.
-- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Unterstützt die Wiedervereinigung der Spalttablette!
+> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
 
 ---
 
