@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario hosting is 105% uptime guaranteed.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
+- Mario develops in prod.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
+> Unterstützt die Wiedervereinigung der Spalttablette!
 
 ---
 
