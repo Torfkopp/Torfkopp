@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario plugs in USB sticks perfectly the first time every time
-- Windows 7 was Mario's idea.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Dem Philosoph ist nichts zu doof.
+> Wer sündigt, schläft nicht.
 
 ---
 
