@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can binary search unsorted data.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
+> Die größte Offenbarung ist die Wolle. (Strickwarenfabrikant)
 
 ---
 
