@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario uses /dev/null as STDIN.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Abgeordnete sind immer zu tausend Spesen aufgelegt.
+> Alle wollen zurück zur Natur; aber keiner zu Fuß.
 
 ---
 
