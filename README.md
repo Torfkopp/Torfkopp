@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> "Jetzt geht's rund!", sprach der Spatz und flog in den Ventilator.
 
 ---
 
