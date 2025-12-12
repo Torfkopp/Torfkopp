@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario can compile syntax errors.
-- Mario CAN divide by 0.
+- Mario can binary search unsorted data.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Schnauze, sonst Beule.
+> Abgeordnete sind immer zu tausend Spesen aufgelegt.
 
 ---
 
