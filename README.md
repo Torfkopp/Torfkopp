@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario uses /dev/null as STDIN.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario point to NULL, Null scares.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Verliert im August der Bauer die Hose, war schon im Juli das Gummiband lose.
+> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
 
 ---
 
