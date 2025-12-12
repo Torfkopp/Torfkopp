@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Der Baum hat Äste, das ist das beste, denn wär' er kahl, dann wär's ein Pfahl.
+> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
 
 ---
 
