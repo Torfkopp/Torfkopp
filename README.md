@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario never has to use the -f option when deleting files.
+- Mario programs do not accept input.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer sündigt, schläft nicht.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
