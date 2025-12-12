@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Alle wollen zurück zur Natur; aber keiner zu Fuß.
+> Der Baum hat Äste, das ist das beste, denn wär' er kahl, dann wär's ein Pfahl.
 
 ---
 
