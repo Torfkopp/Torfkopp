@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario develops in prod.
-- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Gefährlich wird es, wenn die Dummen fleißig werden.
+> Wer finden will, der muss verlieren können.
 
 ---
 
