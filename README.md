@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Gäste, die voll kommen, sind nicht vollkommen.
+> Lieber Hochstapler als Tiefflieger.
 
 ---
 
