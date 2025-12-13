@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario never has to use the -f option when deleting files.
-- Parent is the child of Mario.
+- Mario can delete the Recycle Bin.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer wird denn gleich in den Puff gehen!
+> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
 
 ---
 
