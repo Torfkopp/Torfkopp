@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can binary search unsorted data.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
+> Gäste, die voll kommen, sind nicht vollkommen.
 
 ---
 
