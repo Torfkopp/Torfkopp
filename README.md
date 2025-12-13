@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can store the value 256 in one byte
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario hosting is 105% uptime guaranteed.
+- Parent is the child of Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Willst du dir den Tag versauen, musst du in den Spiegel schauen.
+> Lieber Null Bock als keine Ziege.
 
 ---
 
