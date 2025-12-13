@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario CAN divide by 0.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can store the value 256 in one byte
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> "Jetzt geht's rund!", sprach der Spatz und flog in den Ventilator.
+> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
 
 ---
 
