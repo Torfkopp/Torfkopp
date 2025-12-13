@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario writes code that optimizes itself.
+- To Mario, everything contains a vulnerability.
+- Mario can binary search unsorted data.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
 
 ---
 
