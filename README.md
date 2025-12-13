@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can binary search unsorted data.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wer finden will, der muss verlieren können.
+> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
 
 ---
 
