@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario CAN divide by 0.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber Hochstapler als Tiefflieger.
+> "Jetzt geht's rund!", sprach der Spatz und flog in den Ventilator.
 
 ---
 
