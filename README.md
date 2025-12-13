@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't use web standards as the web will conform to him.
 - Mario can't test for equality because he has no equal.
+- Mario never has to use the -f option when deleting files.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
+> Wer wird denn gleich in den Puff gehen!
 
 ---
 
