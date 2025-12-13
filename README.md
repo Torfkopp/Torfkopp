@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can binary search unsorted data.
-- Mario can compile syntax errors.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can store the value 256 in one byte
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
+> Große Ereignisse werfen mitunter Schatten unter die Augen.
 
 ---
 
