@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws an exception it's either across the room or out the window.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Den Blick in die Welt kann eine Zeitung versperren.
+> Gäste, die voll kommen, sind nicht vollkommen.
 
 ---
 
