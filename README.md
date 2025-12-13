@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can store the value 256 in one byte
-- Mario doesn't make http requests. He makes http demands.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Große Ereignisse werfen mitunter Schatten unter die Augen.
+> Jedem Analphabeten sein Diktiergerät!
 
 ---
 
