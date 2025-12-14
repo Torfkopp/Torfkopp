@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Weird, it always works on Mario's machine.
-- Mario can write to ROM.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Wenn Nebel aus den Wiesen steigt, die Fledermaus das Wiesel geigt.
+> Der direkteste Weg der Listigen ist die Schlangenlinie.
 
 ---
 
