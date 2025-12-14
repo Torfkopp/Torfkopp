@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario exits vim by typing "exit"
+- Mario can delete the Recycle Bin.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wir schießen die Politiker auf den Mond, damit sich Raumfahrt wieder lohnt.
+> Lieber einen steilen Zahn als gar kein Gebiss.
 
 ---
 
