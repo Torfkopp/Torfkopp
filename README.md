@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario doesn't use web standards as the web will conform to him.
-- Mario can access the DB from the UI.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Alles Geschmackssache, dachte der Affe und biss in die Seife.
+> Die größte Offenbarung ist die Delle. (Kfz-Reparaturwerkstatt)
 
 ---
 
