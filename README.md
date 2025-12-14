@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Windows 7 was Mario's idea.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wir wollen keine Entsorgung; laßt uns wenigstens unsere Sorgen.
+> Wir schießen die Politiker auf den Mond, damit sich Raumfahrt wieder lohnt.
 
 ---
 
