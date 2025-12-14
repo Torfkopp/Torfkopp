@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Windows 7 was Mario's idea.
+- Mario can store the value 256 in one byte
+- Mario can binary search unsorted data.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
+> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
 
 ---
 
