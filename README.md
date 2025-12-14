@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can store the value 256 in one byte
-- When Mario throws an exception it's either across the room or out the window.
+- 404 errors simply mean that Mario has been there before you.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
+> Wir wollen keine Entsorgung; laßt uns wenigstens unsere Sorgen.
 
 ---
 
