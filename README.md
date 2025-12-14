@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can compile syntax errors.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lieber einen steilen Zahn als gar kein Gebiss.
+> Ich geh kaputt, gehst du mit?
 
 ---
 
