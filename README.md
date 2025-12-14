@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario plugs in USB sticks perfectly the first time every time
+- Weird, it always works on Mario's machine.
 - Mario can write to ROM.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Mit leerem Kopf nickt es sich leichter.
+> Wenn Nebel aus den Wiesen steigt, die Fledermaus das Wiesel geigt.
 
 ---
 
