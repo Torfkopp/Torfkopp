@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Der direkteste Weg der Listigen ist die Schlangenlinie.
+> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
 
 ---
 
