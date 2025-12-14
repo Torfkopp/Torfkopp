@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario can binary search unsorted data.
-- When Mario throws an exception it's either across the room or out the window.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
+> Man kann sich an allem gewöhnen, auch am Dativ.
 
 ---
 
