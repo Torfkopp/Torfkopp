@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
+> Alles Geschmackssache, dachte der Affe und biss in die Seife.
 
 ---
 
