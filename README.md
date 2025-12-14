@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can delete the Recycle Bin.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Man kann sich an allem gewöhnen, auch am Dativ.
+> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
 
 ---
 
