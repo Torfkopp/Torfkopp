@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Ich geh kaputt, gehst du mit?
+> Global investieren - lokal ruinieren.
 
 ---
 
