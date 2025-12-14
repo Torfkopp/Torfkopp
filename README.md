@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Global investieren - lokal ruinieren.
+> Sturm ist erst, wenn Schafe keine Locken mehr haben.
 
 ---
 
