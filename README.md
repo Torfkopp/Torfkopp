@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Weird, it always works on Mario's machine.
+- When Mario throws exceptions, it's across the room.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Je größer das Konfekt, desto größer die Konfektion.
+> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
 
 ---
 
