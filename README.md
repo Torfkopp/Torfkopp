@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- When Mario point to NULL, Null scares.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Krieg ist, wenn es trrotzdem kracht.
+> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
 
 ---
 
