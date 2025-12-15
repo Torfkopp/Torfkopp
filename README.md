@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can store the value 256 in one byte
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> In der Disco ist was los, wenn ich tanze nackt und bloß.
+> Rache ist süß: Jede Süßigkeit rächt sich.
 
 ---
 
