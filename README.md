@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can store the value 256 in one byte
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Rache ist süß: Jede Süßigkeit rächt sich.
+> Krieg ist, wenn es trrotzdem kracht.
 
 ---
 
