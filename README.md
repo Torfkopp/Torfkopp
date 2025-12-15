@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can store the value 256 in one byte
 - The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
+> Wer ATA braucht, ist noch lange nicht bescheuert.
 
 ---
 
