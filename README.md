@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Weird, it always works on Mario's machine.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
+> Je größer das Konfekt, desto größer die Konfektion.
 
 ---
 
