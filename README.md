@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario invented binary by performing a roundhouse on the number 10.
+- To Mario, everything contains a vulnerability.
+- Mario can store the value 256 in one byte
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Willst Du einen Punker quälen, musst Du ihm sein Haarspray stehlen.
+> Biss demnächst, sagte der Vampir.
 
 ---
 
