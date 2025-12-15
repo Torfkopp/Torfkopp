@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can compile syntax errors.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Jetzt wollen wir der Sache mal auf den Grund gehen, sagte der Bauer und sprang in die Jauchegrube.
+> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
 
 ---
 
