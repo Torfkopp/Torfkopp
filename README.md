@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario never has to use the -f option when deleting files.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
+> Willst Du einen Punker quälen, musst Du ihm sein Haarspray stehlen.
 
 ---
 
