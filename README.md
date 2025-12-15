@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
+> Der Mond ist nicht nur kleiner als die Erde, sondern auch weiter von ihr entfernt.
 
 ---
 
