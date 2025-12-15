@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
+> In der Disco ist was los, wenn ich tanze nackt und bloß.
 
 ---
 
