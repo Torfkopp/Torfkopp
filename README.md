@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer ATA braucht, ist noch lange nicht bescheuert.
+> Jetzt wollen wir der Sache mal auf den Grund gehen, sagte der Bauer und sprang in die Jauchegrube.
 
 ---
 
