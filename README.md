@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
+> Wer am lautesten quakt, hat die meisten Kröten.
 
 ---
 
