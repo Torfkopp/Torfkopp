@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wer am lautesten quakt, hat die meisten Kröten.
+> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
 
 ---
 
