@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can store the value 256 in one byte
-- 404 errors simply mean that Mario has been there before you.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Biss demnächst, sagte der Vampir.
+> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
 
 ---
 
