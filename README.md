@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Der Mond ist nicht nur kleiner als die Erde, sondern auch weiter von ihr entfernt.
+> Eine Blume geht über die Wiese, sieht einen wunderschönen Menschen und reißt ihm den Kopf ab.
 
 ---
 
