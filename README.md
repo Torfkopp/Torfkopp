@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- When Mario throws exceptions, it's across the room.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Fettflecke werden wie neu, wenn man sie regelmäßig mit Butter bestreicht.
+> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
 
 ---
 
