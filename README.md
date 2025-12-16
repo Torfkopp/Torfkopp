@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't make http requests. He makes http demands.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can't test for equality because he has no equal.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
+> Auch stille Wasser sind nass.
 
 ---
 
