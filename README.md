@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Komm lieber Mai und mache den SCHILY wieder grün.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
