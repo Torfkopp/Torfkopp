@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can access the DB from the UI.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws an exception it's either across the room or out the window.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Eine Blume geht über die Wiese, sieht einen wunderschönen Menschen und reißt ihm den Kopf ab.
+> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
 
 ---
 
