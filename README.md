@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't make http requests. He makes http demands.
+- When Mario throws an exception it's either across the room or out the window.
+- When Mario throws exceptions, it's across the room.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
+> Fettflecke werden wie neu, wenn man sie regelmäßig mit Butter bestreicht.
 
 ---
 
