@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can delete the Recycle Bin.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
+> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
 
 ---
 
