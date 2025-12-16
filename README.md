@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario can't test for equality because he has no equal.
-- When Mario point to NULL, Null scares.
+- Mario programs do not accept input.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Eine Kuh macht muh; viele Kühe machen Mühe.
+> Komm lieber Mai und mache den SCHILY wieder grün.
 
 ---
 
