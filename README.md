@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't make http requests. He makes http demands.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can delete the Recycle Bin.
+- Mario uses /dev/null as STDIN.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
+> Ohne Fleiß kein Preis; ohne Leim kein Reim.
 
 ---
 
