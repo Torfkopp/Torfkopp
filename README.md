@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wissen ist Macht, ich weiß nichts, macht nichts.
+> Eine Blume geht über die Wiese, sieht einen wunderschönen Menschen und reißt ihm den Kopf ab.
 
 ---
 
