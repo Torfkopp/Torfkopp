@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario hosting is 105% uptime guaranteed.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
+> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
 
 ---
 
