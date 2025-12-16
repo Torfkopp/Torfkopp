@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Eine Blume geht über die Wiese, sieht einen wunderschönen Menschen und reißt ihm den Kopf ab.
+> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
