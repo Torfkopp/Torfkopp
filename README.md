@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
+- Mario exits vim by typing "exit"
 - Mario can't test for equality because he has no equal.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Eine Kuh macht muh; viele Kühe machen Mühe.
 
 ---
 
