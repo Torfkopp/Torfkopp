@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario throws an exception it's either across the room or out the window.
-- When Mario throws exceptions, it's across the room.
+- Mario hosting is 105% uptime guaranteed.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
+> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
 
 ---
 
