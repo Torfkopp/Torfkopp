@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario CAN divide by 0.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
+> Die Luft ist Schein, und der trügt.
 
 ---
 
