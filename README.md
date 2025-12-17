@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario exits vim by typing "exit"
+- Parent is the child of Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Lieber oberaffengeil als unterallersau.
+> Legal - Illegal - Ikearegal
 
 ---
 
