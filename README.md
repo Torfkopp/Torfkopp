@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario writes code that optimizes itself.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
 
 ---
 
