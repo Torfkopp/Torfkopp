@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can access the DB from the UI.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario CAN divide by 0.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Kein Versicherungsschutz bei Einbruch der Dunkelheit.
+> Den Blick in die Welt kann eine Zeitung versperren.
 
 ---
 
