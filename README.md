@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never has to use the -f option when deleting files.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Die Luft ist Schein, und der trügt.
+> Milch trinken ist besser als Quark reden.
 
 ---
 
