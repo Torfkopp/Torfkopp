@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
 - Mario can store the value 256 in one byte
-- Mario can write to ROM.
+- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Ohne Fleiß kein Preis; ohne Leim kein Reim.
+> Hic Rhodos, hic Malta.
 
 ---
 
