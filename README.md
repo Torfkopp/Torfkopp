@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario CAN divide by 0.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Den Blick in die Welt kann eine Zeitung versperren.
+> Magerquark macht uns stark; Haferbrei macht uns frei.
 
 ---
 
