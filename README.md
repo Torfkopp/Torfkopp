@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can write to ROM.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Milch trinken ist besser als Quark reden.
+> Kein Versicherungsschutz bei Einbruch der Dunkelheit.
 
 ---
 
