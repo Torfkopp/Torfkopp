@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can store the value 256 in one byte
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Ohne Fleiß kein Preis; ohne Leim kein Reim.
 
 ---
 
