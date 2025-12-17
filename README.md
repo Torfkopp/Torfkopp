@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never has to use the -f option when deleting files.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
+> Er sagte 'Isabelle'. Und Isa bellte.
 
 ---
 
