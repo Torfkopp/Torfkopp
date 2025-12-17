@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't make http requests. He makes http demands.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
+> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
 
 ---
 
