@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
+> Wer stirbt, ist nur zu faul zum Leben.
 
 ---
 
