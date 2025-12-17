@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can write to ROM.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Er sagte 'Isabelle'. Und Isa bellte.
+> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
 
 ---
 
