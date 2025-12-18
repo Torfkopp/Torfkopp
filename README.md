@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 - Weird, it always works on Mario's machine.
-- Mario does not code in cycles, he codes in strikes.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Lieber ein Altbier als eine Neurose.
+> Wer rennt und lacht, kommt in Verdacht.
 
 ---
 
