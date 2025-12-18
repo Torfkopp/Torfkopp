@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Weird, it always works on Mario's machine.
 - Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Was Hänschen nicht lernt, werden ihm die Mädchen beibringen.
+> Lieber ein Altbier als eine Neurose.
 
 ---
 
