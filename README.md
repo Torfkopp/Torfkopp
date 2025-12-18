@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario exits vim by typing "exit"
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can compile syntax errors.
+- When Mario drops a table it's bloody but silent.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Hic Rhodos, hic Malta.
+> Rote Haare, Sommersprossen sind die besten Bettgenossen.
 
 ---
 
