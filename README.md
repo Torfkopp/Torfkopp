@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario CAN divide by 0.
-- Mario can delete the Recycle Bin.
+- Mario can binary search unsorted data.
+- Mario exits vim by typing "exit"
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Mancher fasst sich an den Kopf - und greift ins Leere.
+> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
 
 ---
 
