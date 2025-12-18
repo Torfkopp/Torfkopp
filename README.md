@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can delete the Recycle Bin.
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wer faul ist, schaft Arbeitsplätze.
+> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
 
 ---
 
