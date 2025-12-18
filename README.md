@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario CAN divide by 0.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Alles hat Grenzen, nur die Dummheit ist unendlich.
+> Was Hänschen nicht lernt, werden ihm die Mädchen beibringen.
 
 ---
 
