@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario CAN divide by 0.
+- When Mario point to NULL, Null scares.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Wille. (Therapeut)
+> Wer faul ist, schaft Arbeitsplätze.
 
 ---
 
