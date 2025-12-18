@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario point to NULL, Null scares.
+- Mario can compile syntax errors.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Tut Ench Amun, was Nofre täte?
+> Das Hemd hemmt den Politiker weniger als die weiße Weste.
 
 ---
 
