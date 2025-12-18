@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario programs do not accept input.
+- Parent is the child of Mario.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Das Hemd hemmt den Politiker weniger als die weiße Weste.
+> Treib Sport, oder du bleibst gesund.
 
 ---
 
