@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- To Mario, everything contains a vulnerability.
+- Mario CAN divide by 0.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Gott ist tot (Nietzsche). Nietzsche ist tot (Gott).
+> Die größte Offenbarung ist der Wille. (Therapeut)
 
 ---
 
