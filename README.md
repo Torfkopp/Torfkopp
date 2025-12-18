@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
-- Mario develops in prod.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Treib Sport, oder du bleibst gesund.
+> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
 
 ---
 
