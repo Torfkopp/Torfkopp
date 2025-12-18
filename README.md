@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario CAN divide by 0.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
+> Alles hat Grenzen, nur die Dummheit ist unendlich.
 
 ---
 
