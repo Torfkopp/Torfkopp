@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- When Mario drops a table it's bloody but silent.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws exceptions, it's across the room.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Rote Haare, Sommersprossen sind die besten Bettgenossen.
+> Tut Ench Amun, was Nofre täte?
 
 ---
 
