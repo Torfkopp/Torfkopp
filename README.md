@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never has to use the -f option when deleting files.
+- Mario CAN divide by 0.
 - Mario can delete the Recycle Bin.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
+> Mancher fasst sich an den Kopf - und greift ins Leere.
 
 ---
 
