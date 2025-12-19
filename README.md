@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can write to ROM.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario exits vim by typing "exit"
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Ich kann fliegen, sagte der Wurm, als er mit dem Apfel vom Baum fiel.
+> Niemand hat die Absicht eine Mauer zu bauen.
 
 ---
 
