@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario writes code that optimizes itself.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wer dir glaubt, wird garantiert nicht selig.
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
