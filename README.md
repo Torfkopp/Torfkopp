@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - When Mario throws an exception it's either across the room or out the window.
-- Mario develops in prod.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Nichts ist wahr in der Seemansbar.
+> Die kluge Frau folgt ihrem Mann, wohin sie will.
 
 ---
 
