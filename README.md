@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario CAN divide by 0.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wer viel arbeitet, macht viele Fehler; wer keine Fehler macht, ist ein fauler Hund.
+> Haben Sie keine Angst vor Fachbüchern. Ungelesen sind sie alle harmlos.
 
 ---
 
