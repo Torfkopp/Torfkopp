@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- To Mario, everything contains a vulnerability.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
+> Eine Schwalbe macht noch keinen Elfmeter.
 
 ---
 
