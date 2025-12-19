@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario throws an exception it's either across the room or out the window.
 - Mario can delete the Recycle Bin.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Frauenpower macht uns sauer.
+> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
 
 ---
 
