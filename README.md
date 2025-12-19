@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can delete the Recycle Bin.
+- Mario can write to ROM.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Charme ist das einzige, das sich nicht unter Druck versprühen lässt.
+> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
 
 ---
 
