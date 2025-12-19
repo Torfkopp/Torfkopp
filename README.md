@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario exits vim by typing "exit"
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Die kluge Frau folgt ihrem Mann, wohin sie will.
+> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
 
 ---
 
