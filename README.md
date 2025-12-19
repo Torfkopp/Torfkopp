@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario programs do not accept input.
+- Mario develops in prod.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Haben Sie keine Angst vor Fachbüchern. Ungelesen sind sie alle harmlos.
+> Es tut NIVEA als beim ersten Mal.
 
 ---
 
