@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario writes code that optimizes itself.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can write to ROM.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
+> Ich kann fliegen, sagte der Wurm, als er mit dem Apfel vom Baum fiel.
 
 ---
 
