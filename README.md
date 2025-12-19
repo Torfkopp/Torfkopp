@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario develops in prod.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Es tut NIVEA als beim ersten Mal.
+> Wer dir glaubt, wird garantiert nicht selig.
 
 ---
 
