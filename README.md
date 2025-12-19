@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario exits vim by typing "exit"
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - When Mario throws an exception it's either across the room or out the window.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
+> Nichts ist wahr in der Seemansbar.
 
 ---
 
