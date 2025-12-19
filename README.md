@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- To Mario, everything contains a vulnerability.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
+> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
 
 ---
 
