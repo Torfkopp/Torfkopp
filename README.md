@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When Mario point to NULL, Null scares.
-- Windows 7 was Mario's idea.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario exits vim by typing "exit"
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
+> Sitzt der Hahn auf einer Krähe, war kein Huhn in seiner Nähe.
 
 ---
 
