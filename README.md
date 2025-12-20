@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can delete the Recycle Bin.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario develops in prod.
+- When Mario point to NULL, Null scares.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Tausche betonierte Zukunft gegen blühende Vergangenheit.
+> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
 
 ---
 
