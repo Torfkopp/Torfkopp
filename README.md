@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario never has to use the -f option when deleting files.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 - Mario develops in prod.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Nichts ist wahr in der Seemannsbar.
+> Keiner redet dümmer als er ist.
 
 ---
 
