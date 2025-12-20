@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario can store the value 256 in one byte
+- Mario doesn't use web standards as the web will conform to him.
 - Mario can compile syntax errors.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
