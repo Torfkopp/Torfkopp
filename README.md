@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
 - Mario can compile syntax errors.
-- Weird, it always works on Mario's machine.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Was Krupp in Essen sind wir im Trinken.
+> Tausche betonierte Zukunft gegen blühende Vergangenheit.
 
 ---
 
