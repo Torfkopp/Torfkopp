@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can access the DB from the UI.
 - Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
+> Überlegen macht überlegen.
 
 ---
 
