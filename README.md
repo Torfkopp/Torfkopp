@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario develops in prod.
-- Weird, it always works on Mario's machine.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Keiner redet dümmer als er ist.
+> Faulheit ist: sich ausruhen, bevor man müde wird.
 
 ---
 
