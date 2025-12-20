@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- 404 errors simply mean that Mario has been there before you.
+- Weird, it always works on Mario's machine.
+- Mario never has to use the -f option when deleting files.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Liebe deinen Nächsten, aber lass dich nicht erwischen.
+> Nichts ist wahr in der Seemannsbar.
 
 ---
 
