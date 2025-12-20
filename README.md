@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Lieber spät und richtig als nie und falsch.
+> Warum in die Ferne schweifen, wenn im Dorf die Mädels reifen.
 
 ---
 
