@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario uses /dev/null as STDIN.
+- Mario writes code that optimizes itself.
+- Mario can store the value 256 in one byte
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Warum in die Ferne schweifen, wenn im Dorf die Mädels reifen.
+> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
 
 ---
 
