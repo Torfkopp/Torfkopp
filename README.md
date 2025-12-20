@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario CAN divide by 0.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
+> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
 
 ---
 
