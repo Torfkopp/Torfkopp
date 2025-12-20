@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can delete the Recycle Bin.
+- Mario can binary search unsorted data.
+- Mario can write to ROM.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
+> Mein Bauch ist voll, mein Kopf ist hohl, ich glaub', ich bin der Kanzler Kohl.
 
 ---
 
