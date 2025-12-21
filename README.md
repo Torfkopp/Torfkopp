@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- To Mario, everything contains a vulnerability.
-- Windows 7 was Mario's idea.
+- Mario can compile syntax errors.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
+> Was der Bauer nicht kennt, vergisst er nicht.
 
 ---
 
