@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> EDV = Ende der Vernunft.
+> Gib immer 100 % - außer beim Blutspenden.
 
 ---
 
