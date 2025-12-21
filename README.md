@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Was der Bauer nicht kennt, vergisst er nicht.
+> Mens sana in Campari Soda.
 
 ---
 
