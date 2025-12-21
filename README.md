@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can compile syntax errors.
-- Mario does not code in cycles, he codes in strikes.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> EDV = Ende der Vernunft.
 
 ---
 
