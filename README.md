@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario writes code that optimizes itself.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Gib immer 100 % - außer beim Blutspenden.
+> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
 
 ---
 
