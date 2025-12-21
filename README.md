@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario plugs in USB sticks perfectly the first time every time
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- To Mario, everything contains a vulnerability.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Auch Dornröschen trug kein Höschen.
+> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
 
 ---
 
