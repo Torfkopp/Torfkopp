@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario throws an exception it's either across the room or out the window.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
+> Auch Dornröschen trug kein Höschen.
 
 ---
 
