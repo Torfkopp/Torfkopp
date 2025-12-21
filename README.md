@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario can delete the Recycle Bin.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
+> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
 
 ---
 
