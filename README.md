@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can delete the Recycle Bin.
+- Mario programs do not accept input.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Lieber oberaffengeil als unterallersau.
+> Der Plebs trinkt Schweppes.
 
 ---
 
