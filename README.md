@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario writes code that optimizes itself.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Mens sana in Campari Soda.
+> Mich kennen heißt mich lieben.
 
 ---
 
