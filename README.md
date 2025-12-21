@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario uses /dev/null as STDIN.
+- Mario can compile syntax errors.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wer finden will, der muss verlieren können.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
