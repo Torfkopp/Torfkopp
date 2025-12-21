@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Der Plebs trinkt Schweppes.
+> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
 
 ---
 
