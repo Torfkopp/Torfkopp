@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - When Mario throws an exception it's either across the room or out the window.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't make http requests. He makes http demands.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
+> Lieber oberaffengeil als unterallersau.
 
 ---
 
