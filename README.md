@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
