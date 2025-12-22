@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Mich kennen heißt mich lieben.
+> Willst Du einen Punker quälen, musst Du ihm sein Haarspray stehlen.
 
 ---
 
