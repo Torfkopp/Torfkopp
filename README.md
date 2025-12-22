@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Jedes Pro und Contra hat sein Für und Wider.
+> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
 
 ---
 
