@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can binary search unsorted data.
+- Mario doesn't make http requests. He makes http demands.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Andiamo – an den Dynamo
+> Ohne Fleiß kein Preis; ohne Leim kein Reim.
 
 ---
 
