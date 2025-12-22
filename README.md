@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario point to NULL, Null scares.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber Frust im Kopf als Faust aufs Auge.
+> Auch stille Wasser sind nass.
 
 ---
 
