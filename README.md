@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can delete the Recycle Bin.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Unter kleinen Steppdecken können große Deppen stecken.
+> Alles schreitet fort, nur der Fortschritt nicht.
 
 ---
 
