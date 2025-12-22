@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can binary search unsorted data.
-- Windows 7 was Mario's idea.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
+> Unter kleinen Steppdecken können große Deppen stecken.
 
 ---
 
