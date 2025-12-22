@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can delete the Recycle Bin.
-- Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Alles schreitet fort, nur der Fortschritt nicht.
+> Andiamo – an den Dynamo
 
 ---
 
