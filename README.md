@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Lieber reich und gesund als arm und krank.
+> Lieber Frust im Kopf als Faust aufs Auge.
 
 ---
 
