@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
 - When Mario throws exceptions, it's across the room.
-- Mario can write to ROM.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
+> Mich kennen heißt mich lieben.
 
 ---
 
