@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't make http requests. He makes http demands.
-- Parent is the child of Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws exceptions, it's across the room.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Ohne Fleiß kein Preis; ohne Leim kein Reim.
+> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
 
 ---
 
