@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wenn Dummheit Klingeln würde, dann bräuchtest Du gar kein Handy mehr.
+> Lieber reich und gesund als arm und krank.
 
 ---
 
