@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can't test for equality because he has no equal.
+- Mario programs do not accept input.
+- Mario can binary search unsorted data.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
+> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
 
 ---
 
