@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Windows 7 was Mario's idea.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Der Klügere gibt so lange nach, bis er der Dumme ist.
+> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
 
 ---
 
