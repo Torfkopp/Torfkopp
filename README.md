@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Windows 7 was Mario's idea.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario writes code that optimizes itself.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
+> Die größte Offenbarung ist die Hölle. (Luzifer)
 
 ---
 
