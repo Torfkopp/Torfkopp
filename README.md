@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can store the value 256 in one byte
+- Mario plugs in USB sticks perfectly the first time every time
+- 404 errors simply mean that Mario has been there before you.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hölle. (Luzifer)
+> Ein Gehirn wäscht das andere.
 
 ---
 
