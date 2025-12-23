@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario point to NULL, Null scares.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can access the DB from the UI.
-- Weird, it always works on Mario's machine.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Die Zunge ist das einzige Werkzeug, das durch ständigen Gebrauch noch schärfer wird.
+> Alle wollen zurück zur Natur; aber keiner zu Fuß.
 
 ---
 
