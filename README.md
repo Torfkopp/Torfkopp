@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- 404 errors simply mean that Mario has been there before you.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- To Mario, everything contains a vulnerability.
+- Mario programs do not accept input.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Guter Staat ist teuer.
 
 ---
 
