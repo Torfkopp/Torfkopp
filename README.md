@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can write to ROM.
+- Mario programs do not accept input.
+- Mario does not code in cycles, he codes in strikes.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
+> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
 
 ---
 
