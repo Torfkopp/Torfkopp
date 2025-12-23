@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario develops in prod.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer langsam geht, kommt auch zu spät.
+> Ich finde alles Scheiße: wo ist das Fundbüro?
 
 ---
 
