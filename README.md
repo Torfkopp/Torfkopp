@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can compile syntax errors.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Alle wollen zurück zur Natur; aber keiner zu Fuß.
+> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
 
 ---
 
