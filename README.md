@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario writes code that optimizes itself.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Ich finde alles Scheiße: wo ist das Fundbüro?
+> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
 
 ---
 
