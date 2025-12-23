@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario does not code in cycles, he codes in strikes.
-- Mario develops in prod.
+- Parent is the child of Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
+> Der Klügere gibt so lange nach, bis er der Dumme ist.
 
 ---
 
