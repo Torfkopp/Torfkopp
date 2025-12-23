@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can binary search unsorted data.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
+> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
 
 ---
 
