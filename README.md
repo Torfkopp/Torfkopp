@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario writes code that optimizes itself.
-- Windows 7 was Mario's idea.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can access the DB from the UI.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
+> Die Zunge ist das einzige Werkzeug, das durch ständigen Gebrauch noch schärfer wird.
 
 ---
 
