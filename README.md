@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
+- When Mario point to NULL, Null scares.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can delete the Recycle Bin.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber ein Zebra streifen als einen Bullen anfahren.
+> Mancher fasst sich an den Kopf - und greift ins Leere.
 
 ---
 
