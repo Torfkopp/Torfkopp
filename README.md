@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can binary search unsorted data.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Gülle. (Landwirt)
+> Lieber neureich als nie reich.
 
 ---
 
