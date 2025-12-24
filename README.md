@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario plugs in USB sticks perfectly the first time every time
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> Arbeit ist süß; ich bin aber Diabetiker.
 
 ---
 
