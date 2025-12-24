@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario point to NULL, Null scares.
+- Mario can binary search unsorted data.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Lieber neureich als nie reich.
+> Lieber fünf vor zwölf als keine nach eins.
 
 ---
 
