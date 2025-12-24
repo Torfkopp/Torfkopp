@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario programs do not accept input.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Alle bis zum Hals im Wasser, nur nicht Rainer, der ist kleiner.
+> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
 
 ---
 
