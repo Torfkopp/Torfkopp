@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario writes code that optimizes itself.
+- Parent is the child of Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Rolle. (Starlet)
+> Alle bis zum Hals im Wasser, nur nicht Rainer, der ist kleiner.
 
 ---
 
