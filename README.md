@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can binary search unsorted data.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Lieber in Form als infam.
+> Die größte Offenbarung ist die Gülle. (Landwirt)
 
 ---
 
