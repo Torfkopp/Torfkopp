@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Parent is the child of Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Ende gut, alles putt.
+> Lieber ein Zebra streifen als einen Bullen anfahren.
 
 ---
 
