@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario programs do not accept input.
+- To Mario, everything contains a vulnerability.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Durch Arbeit versaut man sich den ganzen Tag.
+> Jedes Pro und Contra hat sein Für und Wider.
 
 ---
 
