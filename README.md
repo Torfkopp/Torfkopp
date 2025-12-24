@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- To Mario, everything contains a vulnerability.
-- Mario can delete the Recycle Bin.
+- Mario writes code that optimizes itself.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Jedes Pro und Contra hat sein Für und Wider.
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
