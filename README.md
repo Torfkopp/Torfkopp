@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
+> Arbeit ist eine lustvolle Variante des Schwachsinns.
 
 ---
 
