@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can compile syntax errors.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Mancher fasst sich an den Kopf - und greift ins Leere.
+> Durch Arbeit versaut man sich den ganzen Tag.
 
 ---
 
