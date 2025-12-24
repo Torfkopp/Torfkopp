@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Arbeit ist eine lustvolle Variante des Schwachsinns.
+> Lieber in Form als infam.
 
 ---
 
