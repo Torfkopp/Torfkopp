@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can binary search unsorted data.
-- When Mario throws an exception it's either across the room or out the window.
+- When Mario throws exceptions, it's across the room.
+- Mario hosting is 105% uptime guaranteed.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Lieber fünf vor zwölf als keine nach eins.
+> Liebe ist, wenn man trotzdem lacht.
 
 ---
 
