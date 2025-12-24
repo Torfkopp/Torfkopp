@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario programs do not accept input.
-- Mario can't test for equality because he has no equal.
+- Mario CAN divide by 0.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Guter Staat ist teuer.
+> Die größte Offenbarung ist die Rolle. (Starlet)
 
 ---
 
