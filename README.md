@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario hosting is 105% uptime guaranteed.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario develops in prod.
+- Parent is the child of Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Liebe ist, wenn man trotzdem lacht.
+> Ende gut, alles putt.
 
 ---
 
