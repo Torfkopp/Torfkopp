@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
+- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Jolle. (Segler)
+> Alle bis zum Hals im Wasser, nur nicht Rainer, der ist kleiner.
 
 ---
 
