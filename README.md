@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> If you wanna be a wife cut your dickie with a knife.
+> Der fette Vogel bricht den Ast.
 
 ---
 
