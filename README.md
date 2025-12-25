@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can access the DB from the UI.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Der fette Vogel bricht den Ast.
+> Die größte Offenbarung ist die Welle. (Schwingkreis)
 
 ---
 
