@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario develops in prod.
-- Weird, it always works on Mario's machine.
+- Mario can write to ROM.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
+> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
 
 ---
 
