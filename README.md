@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario throws an exception it's either across the room or out the window.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can write to ROM.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Der Kanzler lenkt - aber wer denkt?
+> Die größte Offenbarung ist die Jolle. (Segler)
 
 ---
 
