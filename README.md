@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
+> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
 
 ---
 
