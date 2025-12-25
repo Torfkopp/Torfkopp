@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can store the value 256 in one byte
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can write to ROM.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Der Kanzler lenkt - aber wer denkt?
 
 ---
 
