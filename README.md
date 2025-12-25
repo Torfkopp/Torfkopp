@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The compiler fixes its own mistakes and never warns Mario about anything.
 - Mario develops in prod.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Alle bis zum Hals im Wasser, nur nicht Rainer, der ist kleiner.
+> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
 
 ---
 
