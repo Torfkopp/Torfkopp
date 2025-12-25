@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can't test for equality because he has no equal.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Arbeit ist süß; ich bin aber Diabetiker.
+> Alle können denken; nur bleibt es den meisten erspart.
 
 ---
 
