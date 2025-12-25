@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can't test for equality because he has no equal.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario develops in prod.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Alle können denken; nur bleibt es den meisten erspart.
+> If you wanna be a wife cut your dickie with a knife.
 
 ---
 
