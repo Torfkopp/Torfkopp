@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - When Mario point to NULL, Null scares.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
+> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
 
 ---
 
