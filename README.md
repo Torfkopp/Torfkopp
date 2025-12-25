@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs do not accept input.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Wenn der Kuchen spricht, schweigt der Krümel.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
