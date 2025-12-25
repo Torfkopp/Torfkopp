@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario point to NULL, Null scares.
-- Mario can compile syntax errors.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
+> Wenn der Kuchen spricht, schweigt der Krümel.
 
 ---
 
