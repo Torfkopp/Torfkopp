@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Parent is the child of Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Lieber Himbeergeist als Männerverstand.
+> Ein Gehirn wäscht das andere.
 
 ---
 
