@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- To Mario, everything contains a vulnerability.
+- Parent is the child of Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
+> Lieber Himbeergeist als Männerverstand.
 
 ---
 
