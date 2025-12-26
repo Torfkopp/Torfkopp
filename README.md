@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- 404 errors simply mean that Mario has been there before you.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Löwenmaul und Leumund haben nur wenig gemeinsam.
+> Wer früher stirbt, ist länger tot.
 
 ---
 
