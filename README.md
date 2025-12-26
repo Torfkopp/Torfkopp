@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can delete the Recycle Bin.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can store the value 256 in one byte
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
+> Liebe deinen Nächsten wie dein Auto.
 
 ---
 
