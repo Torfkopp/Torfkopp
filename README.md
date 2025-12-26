@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- To Mario, everything contains a vulnerability.
-- When Mario point to NULL, Null scares.
+- Mario can write to ROM.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
+> Wer den Feind umarmt, macht ihn bewegungsunfähig.
 
 ---
 
