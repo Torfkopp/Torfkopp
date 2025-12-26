@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Parent is the child of Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario writes code that optimizes itself.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
+> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
 
 ---
 
