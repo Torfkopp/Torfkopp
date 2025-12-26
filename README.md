@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws an exception it's either across the room or out the window.
+- To Mario, everything contains a vulnerability.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Charme ist das einzige, das sich nicht unter Druck versprühen lässt.
+> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
 
 ---
 
