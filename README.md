@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Weird, it always works on Mario's machine.
+- Mario uses /dev/null as STDIN.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wer den Feind umarmt, macht ihn bewegungsunfähig.
+> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
 
 ---
 
