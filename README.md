@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never has to use the -f option when deleting files.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Windows 7 was Mario's idea.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer früher stirbt, ist länger tot.
+> Lieber natürliche Dummheit als künstliche Intelligenz.
 
 ---
 
