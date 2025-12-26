@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario uses /dev/null as STDIN.
-- Mario can delete the Recycle Bin.
+- Mario writes code that optimizes itself.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
+> Schönheitschirurgen können auch ein langes Gesicht machen.
 
 ---
 
