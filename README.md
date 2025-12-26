@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can delete the Recycle Bin.
+- Mario can't test for equality because he has no equal.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
+> Liebe ist Elektrizität; in der Ehe kommt die Stromrechnung.
 
 ---
 
