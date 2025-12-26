@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Windows 7 was Mario's idea.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Lieber natürliche Dummheit als künstliche Intelligenz.
+> Charme ist das einzige, das sich nicht unter Druck versprühen lässt.
 
 ---
 
