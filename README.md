@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario writes code that optimizes itself.
-- 404 errors simply mean that Mario has been there before you.
+- When Mario throws an exception it's either across the room or out the window.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
