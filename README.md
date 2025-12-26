@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario CAN divide by 0.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Liebe ist Elektrizität; in der Ehe kommt die Stromrechnung.
+> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
 
 ---
 
