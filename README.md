@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
 
 ---
 
