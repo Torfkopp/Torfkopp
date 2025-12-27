@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can access the DB from the UI.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
+> Ehelich währt am längsten, doch vorehelich ist spannender.
 
 ---
 
