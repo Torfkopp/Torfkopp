@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Lieber in Form als infam.
+> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
 
 ---
 
