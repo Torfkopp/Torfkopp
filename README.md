@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Windows 7 was Mario's idea.
+- Mario never has to use the -f option when deleting files.
+- When Mario point to NULL, Null scares.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Planung ist der Ersatz des Zufalls durch den Irrtum.
+> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
 
 ---
 
