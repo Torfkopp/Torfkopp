@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't make http requests. He makes http demands.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 - When Mario throws exceptions, it's across the room.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
+> Unfug und Unrecht werden mit Fug und Recht bestraft.
 
 ---
 
