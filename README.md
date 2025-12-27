@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can store the value 256 in one byte
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
+> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
 
 ---
 
