@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
+> Trockener Humor kann nie überflüssig sein.
 
 ---
 
