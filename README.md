@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can write to ROM.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can't test for equality because he has no equal.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber ungebunden als angebunden.
+> Planung ist der Ersatz des Zufalls durch den Irrtum.
 
 ---
 
