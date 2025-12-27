@@ -6,13 +6,13 @@
 
 ### About Mario
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't make http requests. He makes http demands.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
+> Kluge leben von den Dummen, Dumme von der Arbeit.
 
 ---
 
