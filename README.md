@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can't test for equality because he has no equal.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Kluge leben von den Dummen, Dumme von der Arbeit.
+> Lieber reich und gesund als arm und krank.
 
 ---
 
