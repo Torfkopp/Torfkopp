@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't make http requests. He makes http demands.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Unfug und Unrecht werden mit Fug und Recht bestraft.
+> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
 
 ---
 
