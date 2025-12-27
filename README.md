@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario throws an exception it's either across the room or out the window.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario doesn't need a password to access your system, the system simply gives him access.
-- Weird, it always works on Mario's machine.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Kluge leben von den Dummen, Dumme von der Arbeit.
+> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
 
 ---
 
