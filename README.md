@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can't test for equality because he has no equal.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Lieber reich und gesund als arm und krank.
+> Lieber in Form als infam.
 
 ---
 
