@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
+> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
 
 ---
 
