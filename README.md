@@ -5,9 +5,9 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario hosting is 105% uptime guaranteed.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
