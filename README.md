@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Weird, it always works on Mario's machine.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Ehelich währt am längsten, doch vorehelich ist spannender.
+> Kluge leben von den Dummen, Dumme von der Arbeit.
 
 ---
 
