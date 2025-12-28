@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can binary search unsorted data.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Trockener Humor kann nie überflüssig sein.
+> Lerne lachen ohne zu weinen.
 
 ---
 
