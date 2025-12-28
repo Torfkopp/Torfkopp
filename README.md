@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- To Mario, everything contains a vulnerability.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't make http requests. He makes http demands.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Frauenpower macht uns sauer.
+> Ich bin intelligent, schön und gebildet, doch das Beste an mir ist meine Bescheidenheit.
 
 ---
 
