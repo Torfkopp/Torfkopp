@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't make http requests. He makes http demands.
-- Parent is the child of Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario throws exceptions, it's across the room.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Ich bin intelligent, schön und gebildet, doch das Beste an mir ist meine Bescheidenheit.
+> Hey Mister Taliban, tally me Banana.
 
 ---
 
