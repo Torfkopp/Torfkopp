@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can delete the Recycle Bin.
+- Mario can't test for equality because he has no equal.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wenn Nebel aus den Wiesen steigt, die Fledermaus das Wiesel geigt.
+> Schnauze, sonst Beule.
 
 ---
 
