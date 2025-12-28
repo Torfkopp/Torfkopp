@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can write to ROM.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can't test for equality because he has no equal.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
+> Es wird nicht alles so heiß gegessen wie man sich fühlt.
 
 ---
 
