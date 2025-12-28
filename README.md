@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- When Mario point to NULL, Null scares.
-- When Mario throws exceptions, it's across the room.
+- When Mario drops a table it's bloody but silent.
+- 404 errors simply mean that Mario has been there before you.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Du hast so schöne Zähne: gibt's die auch in Weiß?
+> Er hat Haare auf der Brust. Na und? Lassie etwa nicht?
 
 ---
 
