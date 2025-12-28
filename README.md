@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't make http requests. He makes http demands.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Lieber fernsehmüde als radioaktiv.
+> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
 
 ---
 
