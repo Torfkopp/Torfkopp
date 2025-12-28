@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can't test for equality because he has no equal.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Schnauze, sonst Beule.
+> Lieber fernsehmüde als radioaktiv.
 
 ---
 
