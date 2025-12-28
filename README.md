@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario throws exceptions, it's across the room.
-- Mario can store the value 256 in one byte
+- Mario can access the DB from the UI.
+- To Mario, everything contains a vulnerability.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Hey Mister Taliban, tally me Banana.
+> Weil die Klugen nachgeben, regieren Deppen die Welt.
 
 ---
 
