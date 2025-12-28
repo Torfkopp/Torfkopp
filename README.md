@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can binary search unsorted data.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lerne lachen ohne zu weinen.
+> Lieber einmal Sydne Rome als zweimal Paris-Dakar.
 
 ---
 
