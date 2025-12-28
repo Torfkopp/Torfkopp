@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can binary search unsorted data.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Lieber einmal Sydne Rome als zweimal Paris-Dakar.
+> Wenn Nebel aus den Wiesen steigt, die Fledermaus das Wiesel geigt.
 
 ---
 
