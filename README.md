@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can't test for equality because he has no equal.
-- 404 errors simply mean that Mario has been there before you.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Es wird nicht alles so heiß gegessen wie man sich fühlt.
+> Frauenpower macht uns sauer.
 
 ---
 
