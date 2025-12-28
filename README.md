@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can binary search unsorted data.
+- When Mario point to NULL, Null scares.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
+> Du hast so schöne Zähne: gibt's die auch in Weiß?
 
 ---
 
