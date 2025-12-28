@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- 404 errors simply mean that Mario has been there before you.
-- Weird, it always works on Mario's machine.
+- When Mario point to NULL, Null scares.
+- Mario can write to ROM.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Er hat Haare auf der Brust. Na und? Lassie etwa nicht?
+> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
 
 ---
 
