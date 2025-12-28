@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- To Mario, everything contains a vulnerability.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario develops in prod.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Weil die Klugen nachgeben, regieren Deppen die Welt.
+> Spontaneität will wohlüberlegt sein.
 
 ---
 
