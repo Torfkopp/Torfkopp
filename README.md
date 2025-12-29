@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario drops a table it's bloody but silent.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario writes code that optimizes itself.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Schnauze, sonst Beule.
+> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
 
 ---
 
