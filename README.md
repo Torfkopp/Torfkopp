@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- 404 errors simply mean that Mario has been there before you.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario point to NULL, Null scares.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Lieber ein erregter Bekannter als ein unbekannter Erreger.
+> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
 
 ---
 
