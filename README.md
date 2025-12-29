@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario writes code that optimizes itself.
-- When Mario point to NULL, Null scares.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario plugs in USB sticks perfectly the first time every time
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Was liegt bei Reisen näher als die Ferne?
+> Hey Mister Taliban, tally me Banana.
 
 ---
 
