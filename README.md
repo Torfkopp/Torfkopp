@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can't test for equality because he has no equal.
+- Mario never has to use the -f option when deleting files.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Arbeitskraft? Nein danke.
+> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
 
 ---
 
