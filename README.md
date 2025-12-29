@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario develops in prod.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Spontaneität will wohlüberlegt sein.
+> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
 
 ---
 
