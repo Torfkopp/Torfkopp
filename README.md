@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't make http requests. He makes http demands.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
+> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
 
 ---
 
