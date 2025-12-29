@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- 404 errors simply mean that Mario has been there before you.
+- Mario writes code that optimizes itself.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Input - Output - ganz putt.
+> Was liegt bei Reisen näher als die Ferne?
 
 ---
 
