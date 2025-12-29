@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario plugs in USB sticks perfectly the first time every time
-- Weird, it always works on Mario's machine.
+- Parent is the child of Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Hey Mister Taliban, tally me Banana.
+> Schnauze, sonst Beule.
 
 ---
 
