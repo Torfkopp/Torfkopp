@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario CAN divide by 0.
-- Mario can access the DB from the UI.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lerne lachen ohne zu weinen.
+> Lieber neureich als nie reich.
 
 ---
 
