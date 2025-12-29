@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario writes code that optimizes itself.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber neureich als nie reich.
+> Arbeitskraft? Nein danke.
 
 ---
 
