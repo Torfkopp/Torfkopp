@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
+> Jedes Mal, wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
