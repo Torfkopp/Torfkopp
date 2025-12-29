@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario CAN divide by 0.
 - Mario can access the DB from the UI.
-- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
+> Lerne lachen ohne zu weinen.
 
 ---
 
