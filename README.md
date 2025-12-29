@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Jedes Mal, wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Input - Output - ganz putt.
 
 ---
 
