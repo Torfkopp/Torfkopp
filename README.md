@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario hosting is 105% uptime guaranteed.
-- Mario can binary search unsorted data.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can access the DB from the UI.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
+> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
 
 ---
 
