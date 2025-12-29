@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
 - Mario never has to use the -f option when deleting files.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
+> Wie man sich fettet, so riecht man.
 
 ---
 
