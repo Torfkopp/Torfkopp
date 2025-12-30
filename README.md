@@ -6,13 +6,13 @@
 
 ### About Mario
 - Weird, it always works on Mario's machine.
-- Mario can write to ROM.
-- Mario can compile syntax errors.
+- Mario uses /dev/null as STDIN.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Schule macht Angst, Angst macht Schule.
+> Wer sündigt, schläft nicht.
 
 ---
 
