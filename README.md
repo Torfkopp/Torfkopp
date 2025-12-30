@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can access the DB from the UI.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Der Vater rülpst, die Kinder lachen: so ist billig Freude machen.
+> Es gibt jetzt endlich die Pille für den Mann. Sie wird nach dem Verkehr eingenommen und verändert die Blutgruppe.
 
 ---
 
