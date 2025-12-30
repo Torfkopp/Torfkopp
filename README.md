@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When Mario point to NULL, Null scares.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Sogar eine halbe Portion kann ein Doppelleben führen.
+> Haben Krawattenträger nicht schon genug am Halse?
 
 ---
 
