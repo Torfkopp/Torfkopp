@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario develops in prod.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
+> Ich brauch kein Hasch; ich nehme DASH.
 
 ---
 
