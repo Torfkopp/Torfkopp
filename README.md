@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> If you wanna be a wife cut your dickie with a knife.
+> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
 
 ---
 
