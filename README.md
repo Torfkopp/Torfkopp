@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario uses /dev/null as STDIN.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Wer sündigt, schläft nicht.
+> Sogar eine halbe Portion kann ein Doppelleben führen.
 
 ---
 
