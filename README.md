@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario never has to use the -f option when deleting files.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Weird, it always works on Mario's machine.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Wie man sich fettet, so riecht man.
+> Wer früher stirbt, ist länger tot.
 
 ---
 
