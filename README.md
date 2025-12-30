@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can access the DB from the UI.
-- Mario can binary search unsorted data.
+- Weird, it always works on Mario's machine.
+- Mario can write to ROM.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Es gibt jetzt endlich die Pille für den Mann. Sie wird nach dem Verkehr eingenommen und verändert die Blutgruppe.
+> Schule macht Angst, Angst macht Schule.
 
 ---
 
