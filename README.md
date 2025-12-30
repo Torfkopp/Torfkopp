@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can't test for equality because he has no equal.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wie man sich füttert, so wiegt man.
+> If you wanna be a wife cut your dickie with a knife.
 
 ---
 
