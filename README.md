@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wie man sich fettet, so riecht man.
+> Ein Taucher, der nicht taucht, taucht nix.
 
 ---
 
