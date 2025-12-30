@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- Weird, it always works on Mario's machine.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
 
 ---
 
