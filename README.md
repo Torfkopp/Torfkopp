@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario does not code in cycles, he codes in strikes.
 - It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario drops a table it's bloody but silent.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
+> Wie man sich füttert, so wiegt man.
 
 ---
 
