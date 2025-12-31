@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario programs do not accept input.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Ich verspreche nichts; und das halte ich auch.
+> Die dämlichsten Herren haben oft die herrlichsten Damen.
 
 ---
 
