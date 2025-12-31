@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can store the value 256 in one byte
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario hosting is 105% uptime guaranteed.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Die dämlichsten Herren haben oft die herrlichsten Damen.
+> Wie man sich füttert, so wiegt man.
 
 ---
 
