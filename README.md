@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lieber sechs Stunden Uni am Tag als gar keinen Schlaf.
+> Die größte Offenbarung ist die Hölle. (Luzifer)
 
 ---
 
