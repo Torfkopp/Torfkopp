@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario uses /dev/null as STDIN.
-- When Mario point to NULL, Null scares.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Es gibt jetzt endlich die Pille für den Mann. Sie wird nach dem Verkehr eingenommen und verändert die Blutgruppe.
+> Ich verspreche nichts; und das halte ich auch.
 
 ---
 
