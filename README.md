@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Windows 7 was Mario's idea.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario drops a table it's bloody but silent.
+- Weird, it always works on Mario's machine.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Rolle. (Starlet)
+> Lieber ein Bund fürs Leben als ein Leben für den Bund.
 
 ---
 
