@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario programs do not accept input.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Weird, it always works on Mario's machine.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
+> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
 
 ---
 
