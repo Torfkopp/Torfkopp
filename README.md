@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
+- Mario can binary search unsorted data.
 - Weird, it always works on Mario's machine.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Lieber ein Bund fürs Leben als ein Leben für den Bund.
+> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
 
 ---
 
