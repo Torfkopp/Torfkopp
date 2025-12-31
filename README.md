@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs do not accept input.
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Früh gewagt ist früh gestorben.
+> Lieber sechs Stunden Uni am Tag als gar keinen Schlaf.
 
 ---
 
