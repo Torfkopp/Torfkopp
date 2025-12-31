@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario does not code in cycles, he codes in strikes.
+- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Gute Mädchen kommen in den Himmel; böse überallhin.
+> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
 
 ---
 
