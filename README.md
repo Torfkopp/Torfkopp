@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can binary search unsorted data.
+- Mario does not code in cycles, he codes in strikes.
+- Windows 7 was Mario's idea.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Ich brauch kein Hasch; ich nehme DASH.
+> Die größte Offenbarung ist die Rolle. (Starlet)
 
 ---
 
