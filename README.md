@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Weird, it always works on Mario's machine.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario uses /dev/null as STDIN.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
+> Es gibt jetzt endlich die Pille für den Mann. Sie wird nach dem Verkehr eingenommen und verändert die Blutgruppe.
 
 ---
 
