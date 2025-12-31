@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't make http requests. He makes http demands.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can't test for equality because he has no equal.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
+> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
 
 ---
 
