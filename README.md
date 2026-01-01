@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't make http requests. He makes http demands.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can write to ROM.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Lieber ein erregter Bekannter als ein unbekannter Erreger.
+> Wer lächeln kann, wenn's schiefgeht, der weiß, wen er verantwortlich machen kann.
 
 ---
 
