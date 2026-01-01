@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario point to NULL, Null scares.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- To Mario, everything contains a vulnerability.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Rosinen im Kopf als Haare im Kuchen.
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
