@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Unrecht Gut gedeiht, nicht?
+> Die größte Offenbarung ist der Olle. (Kind eines großzügigen Vaters)
 
 ---
 
