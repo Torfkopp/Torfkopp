@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario throws exceptions, it's across the room.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario does not code in cycles, he codes in strikes.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Der Klügere gibt so lange nach, bis er der Dumme ist.
+> Wir wollen alles, und davon möglichst viel.
 
 ---
 
