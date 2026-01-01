@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario uses /dev/null as STDIN.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can delete the Recycle Bin.
+- 404 errors simply mean that Mario has been there before you.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Lieber leb' ich meiner Lust als Stempeluhr und Arbeitsfrust.
+> Ein Gehirn wäscht das andere.
 
 ---
 
