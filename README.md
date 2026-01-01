@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- To Mario, everything contains a vulnerability.
-- Parent is the child of Mario.
+- Mario can write to ROM.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
+> Wir wollen alles, und davon möglichst viel.
 
 ---
 
