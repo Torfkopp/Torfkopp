@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario does not code in cycles, he codes in strikes.
-- Weird, it always works on Mario's machine.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wir wollen alles, und davon möglichst viel.
+> Unrecht Gut gedeiht, nicht?
 
 ---
 
