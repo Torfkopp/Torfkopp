@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can store the value 256 in one byte
+- Mario exits vim by typing "exit"
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
+> Die größte Offenbarung ist die Jolle. (Segler)
 
 ---
 
