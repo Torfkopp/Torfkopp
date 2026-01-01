@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can binary search unsorted data.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
+> Lieber leb' ich meiner Lust als Stempeluhr und Arbeitsfrust.
 
 ---
 
