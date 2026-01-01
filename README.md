@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- 404 errors simply mean that Mario has been there before you.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Parent is the child of Mario.
+- Weird, it always works on Mario's machine.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Lieber fünf Minuten feige als ein Leben lang tot.
 
 ---
 
