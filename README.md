@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- 404 errors simply mean that Mario has been there before you.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wir wollen alles, und davon möglichst viel.
+> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
 
 ---
 
