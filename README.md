@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't make http requests. He makes http demands.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Olle. (Kind eines großzügigen Vaters)
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
