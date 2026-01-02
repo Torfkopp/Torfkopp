@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can binary search unsorted data.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario develops in prod.
+- Mario can access the DB from the UI.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wie man sich füttert, so wiegt man.
+> Wer langsam geht, kommt auch zu spät.
 
 ---
 
