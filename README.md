@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario CAN divide by 0.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Weird, it always works on Mario's machine.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flinte im Korn als Waffen im Weltraum.
+> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
 
 ---
 
