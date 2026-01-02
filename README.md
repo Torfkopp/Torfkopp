@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Weird, it always works on Mario's machine.
-- Parent is the child of Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
+> Es nützt nichts zu fliehen, Schulen gibt es überall.
 
 ---
 
