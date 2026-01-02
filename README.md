@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario point to NULL, Null scares.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Jolle. (Segler)
+> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
 
 ---
 
