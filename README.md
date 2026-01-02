@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario programs do not accept input.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Willst Du einen Punker quälen, musst Du ihm sein Haarspray stehlen.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
