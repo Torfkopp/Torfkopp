@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can access the DB from the UI.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wer langsam geht, kommt auch zu spät.
+> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
 
 ---
 
