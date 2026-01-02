@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario throws exceptions, it's across the room.
-- Mario uses /dev/null as STDIN.
+- To Mario, everything contains a vulnerability.
+- Mario can binary search unsorted data.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden!
+> Wie man sich füttert, so wiegt man.
 
 ---
 
