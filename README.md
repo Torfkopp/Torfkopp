@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario programs do not accept input.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario throws exceptions, it's across the room.
 - Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Ich bin ein Vampir: wasch dir den Hals!
+> Wir wollen endlich alle Kanzler werden!
 
 ---
 
