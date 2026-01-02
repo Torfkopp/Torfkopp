@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can delete the Recycle Bin.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't make http requests. He makes http demands.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
