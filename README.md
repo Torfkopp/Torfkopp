@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario programs do not accept input.
+- Mario doesn't make http requests. He makes http demands.
 - Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Lieber eine Flinte im Korn als Waffen im Weltraum.
 
 ---
 
