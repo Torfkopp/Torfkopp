@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Weird, it always works on Mario's machine.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario programs do not accept input.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
+> Ich bin ein Vampir: wasch dir den Hals!
 
 ---
 
