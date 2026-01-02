@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario point to NULL, Null scares.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
 
 ---
 
