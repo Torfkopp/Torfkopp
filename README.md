@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can binary search unsorted data.
-- When Mario drops a table it's bloody but silent.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Ich bin zutiefst gerührt, sprach der Teig.
+> Willst Du einen Punker quälen, musst Du ihm sein Haarspray stehlen.
 
 ---
 
