@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Windows 7 was Mario's idea.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario CAN divide by 0.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
+> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
 
 ---
 
