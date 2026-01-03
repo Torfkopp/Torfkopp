@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario invented binary by performing a roundhouse on the number 10.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can store the value 256 in one byte
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Gut Kind will Keile haben. (nach M. Luther)
+> Für einen Anlass gibt es immer eine Gelegenheit.
 
 ---
 
