@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
+> Unterstützt die Wiedervereinigung der Spalttablette!
 
 ---
 
