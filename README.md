@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
+> Lieber 'n Glas Dortmunder als 'ne Wanne Eickel.
 
 ---
 
