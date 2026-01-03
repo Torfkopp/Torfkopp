@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario writes code that optimizes itself.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
+> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
 
 ---
 
