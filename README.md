@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not code in cycles, he codes in strikes.
 - Mario invented binary by performing a roundhouse on the number 10.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
+> Gut Kind will Keile haben. (nach M. Luther)
 
 ---
 
