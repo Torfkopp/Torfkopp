@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can binary search unsorted data.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Lieber 'n Glas Dortmunder als 'ne Wanne Eickel.
+> Ihr da Ohm, macht doch Watt ihr Volt.
 
 ---
 
