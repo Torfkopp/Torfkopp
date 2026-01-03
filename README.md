@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can access the DB from the UI.
+- To Mario, everything contains a vulnerability.
+- Mario programs do not accept input.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wenn die Dunstglocke läutet, hat das Sterbeglöckchen Hochkonjunktur.
+> Viele Ängste sind des Hasen Fuß.
 
 ---
 
