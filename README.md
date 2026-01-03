@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario programs do not accept input.
+- Mario CAN divide by 0.
 - Mario can't test for equality because he has no equal.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Viele Ängste sind des Hasen Fuß.
+> Die größte Offenbarung ist die Galle. (G. Stein)
 
 ---
 
