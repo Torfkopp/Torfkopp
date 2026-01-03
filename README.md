@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Auch ein Spaßvogel kann es so weit treiben, dass er fliegt.
+> Wenn die Dunstglocke läutet, hat das Sterbeglöckchen Hochkonjunktur.
 
 ---
 
