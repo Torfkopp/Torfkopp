@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can store the value 256 in one byte
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Windows 7 was Mario's idea.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Für einen Anlass gibt es immer eine Gelegenheit.
+> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
 
 ---
 
