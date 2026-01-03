@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can compile syntax errors.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Jedem Analphabeten sein Diktiergerät!
+> Wer nichts wird, wird Zwischenwirt.
 
 ---
 
