@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- 404 errors simply mean that Mario has been there before you.
-- Mario can compile syntax errors.
+- When Mario drops a table it's bloody but silent.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Unterstützt die Wiedervereinigung der Spalttablette!
+> Jedem Analphabeten sein Diktiergerät!
 
 ---
 
