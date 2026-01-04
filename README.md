@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Windows 7 was Mario's idea.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Wir wollen alles, und davon möglichst viel.
+> Magerquark macht uns stark; Haferbrei macht uns frei.
 
 ---
 
