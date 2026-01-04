@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- To Mario, everything contains a vulnerability.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario drops a table it's bloody but silent.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
+> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
 
 ---
 
