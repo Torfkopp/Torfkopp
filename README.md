@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Weird, it always works on Mario's machine.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
+> Frisch gewagt ist halb verschrottet.
 
 ---
 
