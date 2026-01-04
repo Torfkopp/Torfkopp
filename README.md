@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can access the DB from the UI.
 - Weird, it always works on Mario's machine.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Lieber Blödeleien als blöde Laien.
+> Lieber Mixed Pickles als Akne.
 
 ---
 
