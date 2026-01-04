@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario hosting is 105% uptime guaranteed.
-- When Mario drops a table it's bloody but silent.
+- Mario can store the value 256 in one byte
+- Mario CAN divide by 0.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
+> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
 
 ---
 
