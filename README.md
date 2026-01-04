@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can store the value 256 in one byte
+- Mario can compile syntax errors.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Lieber Arm ab als arm dran.
+> Hier spraye ich und kann nicht anders.
 
 ---
 
