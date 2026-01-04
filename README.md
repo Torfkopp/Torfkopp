@@ -7,12 +7,12 @@
 ### About Mario
 - Mario can compile syntax errors.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Hier spraye ich und kann nicht anders.
+> Hic Rhodos, hic Malta.
 
 ---
 
