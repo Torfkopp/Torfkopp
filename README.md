@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can compile syntax errors.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws exceptions, it's across the room.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Wer nichts wird, wird Zwischenwirt.
+> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
 
 ---
 
