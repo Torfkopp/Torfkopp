@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario CAN divide by 0.
-- To Mario, everything contains a vulnerability.
+- Weird, it always works on Mario's machine.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
+> Lieber Blödeleien als blöde Laien.
 
 ---
 
