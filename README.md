@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can binary search unsorted data.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Hic Rhodos, hic Malta.
+> Nieder mit dem Bockbier! Es lebe die Ziegenmilch!
 
 ---
 
