@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario hosting is 105% uptime guaranteed.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can store the value 256 in one byte
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Magerquark macht uns stark; Haferbrei macht uns frei.
+> Die größte Offenbarung ist die Quelle. (Versandabhängige)
 
 ---
 
