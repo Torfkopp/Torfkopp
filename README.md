@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Weird, it always works on Mario's machine.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Pubertät ist, wenn die Eltern anfangen schwierig zu werden.
+> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
 
 ---
 
