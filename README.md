@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario programs do not accept input.
-- Mario writes code that optimizes itself.
+- Weird, it always works on Mario's machine.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Sprühen bringt Beton zum Blühen.
+> Du hast so schöne Zähne: gibt's die auch in Weiß?
 
 ---
 
