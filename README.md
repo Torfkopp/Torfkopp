@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario programs do not accept input.
+- Mario can delete the Recycle Bin.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wut tut gut.
+> Multimedia ist, wenn es trotzdem klappt.
 
 ---
 
