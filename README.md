@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - Mario can delete the Recycle Bin.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Parent is the child of Mario.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Multimedia ist, wenn es trotzdem klappt.
+> Hau niemals ab - hau einfach zu!
 
 ---
 
