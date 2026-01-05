@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Parent is the child of Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- 404 errors simply mean that Mario has been there before you.
+- Windows 7 was Mario's idea.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
+> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
 
 ---
 
