@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario programs do not accept input.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Babypille fauler Zauber, Ajax macht das Becken sauber.
+> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
 
 ---
 
