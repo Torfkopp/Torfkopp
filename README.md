@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can compile syntax errors.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario develops in prod.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
+> Babypille fauler Zauber, Ajax macht das Becken sauber.
 
 ---
 
