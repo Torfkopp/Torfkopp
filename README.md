@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can't test for equality because he has no equal.
+- Mario exits vim by typing "exit"
+- Mario programs do not accept input.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Hunde, die schielen, beißen daneben.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
