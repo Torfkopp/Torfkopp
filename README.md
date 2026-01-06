@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
+- To Mario, everything contains a vulnerability.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, stirbt wenigstens fröhlich.
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
