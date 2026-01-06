@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't make http requests. He makes http demands.
+- Mario invented binary by performing a roundhouse on the number 10.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Lieber ein erregter Bekannter als ein unbekannter Erreger.
+> Hunde, die schielen, beißen daneben.
 
 ---
 
