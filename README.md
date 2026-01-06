@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer ein langes Gesicht macht, hat mehr zu rasieren.
+> Ich bin nicht feige; ich bin nur stärker als der Held in mir.
 
 ---
 
