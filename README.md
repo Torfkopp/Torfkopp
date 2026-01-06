@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- To Mario, everything contains a vulnerability.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Ich bin nicht feige; ich bin nur stärker als der Held in mir.
+> Wer zuletzt lacht, stirbt wenigstens fröhlich.
 
 ---
 
