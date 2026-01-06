@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When Mario point to NULL, Null scares.
+- Mario exits vim by typing "exit"
+- Mario hosting is 105% uptime guaranteed.
 - When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
+> Legt die Nordsee trocken, wir wollen nach England.
 
 ---
 
