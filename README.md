@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Die dämlichsten Herren haben oft die herrlichsten Damen.
+> Wo eine Villa ist, ist auch ein Weg.
 
 ---
 
