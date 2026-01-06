@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- 404 errors simply mean that Mario has been there before you.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never has to use the -f option when deleting files.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Wo eine Villa ist, ist auch ein Weg.
+> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
 
 ---
 
