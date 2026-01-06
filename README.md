@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Weird, it always works on Mario's machine.
+- When Mario point to NULL, Null scares.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
+> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
 
 ---
 
