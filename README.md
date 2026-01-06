@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario never has to use the -f option when deleting files.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Lieber Kröten im Beutel als 'nen Frosch im Hals.
+> Lieber ein erregter Bekannter als ein unbekannter Erreger.
 
 ---
 
