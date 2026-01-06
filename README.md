@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario never has to use the -f option when deleting files.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
+> Lieber Kröten im Beutel als 'nen Frosch im Hals.
 
 ---
 
