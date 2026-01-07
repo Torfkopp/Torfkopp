@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can binary search unsorted data.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario hosting is 105% uptime guaranteed.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Lieber ein schwarzes Schaf als ein blauer Bock.
+> Auch die Stimme des Gewissens hat mal Stimmbruch.
 
 ---
 
