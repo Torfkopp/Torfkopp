@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario writes code that optimizes itself.
-- Mario does not code in cycles, he codes in strikes.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can binary search unsorted data.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
+> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
 
 ---
 
