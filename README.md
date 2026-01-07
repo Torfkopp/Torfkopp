@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario does not code in cycles, he codes in strikes.
+- Mario hosting is 105% uptime guaranteed.
 - When Mario drops a table it's bloody but silent.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
+> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
 
 ---
 
