@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario hosting is 105% uptime guaranteed.
+- Mario exits vim by typing "exit"
+- Mario does not code in cycles, he codes in strikes.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Frauen gemeinsam sind stark geschädigt.
+> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
 
 ---
 
