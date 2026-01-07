@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario does not code in cycles, he codes in strikes.
+- Mario never has to use the -f option when deleting files.
+- When Mario throws an exception it's either across the room or out the window.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Auch die Stimme des Gewissens hat mal Stimmbruch.
+> Politik ist die Kunst, Brände zu löschen, die man selbst gelegt hat.
 
 ---
 
