@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can't test for equality because he has no equal.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Was dem einen sein Beat, ist dem anderen seine Beate.
 
 ---
 
