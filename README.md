@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario hosting is 105% uptime guaranteed.
-- When Mario drops a table it's bloody but silent.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't make http requests. He makes http demands.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Legt die Nordsee trocken, wir wollen nach England.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
