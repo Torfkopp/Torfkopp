@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can access the DB from the UI.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can binary search unsorted data.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Sprühen bringt Beton zum Blühen.
+> Lieber ein schwarzes Schaf als ein blauer Bock.
 
 ---
 
