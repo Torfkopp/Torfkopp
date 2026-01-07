@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Man soll den Tag nicht vor dem Elternabend loben.
+> Frauen gemeinsam sind stark geschädigt.
 
 ---
 
