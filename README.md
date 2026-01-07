@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario uses /dev/null as STDIN.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Beat, ist dem anderen seine Beate.
+> Die größte Offenbarung ist die Delle. (Kfz-Reparaturwerkstatt)
 
 ---
 
