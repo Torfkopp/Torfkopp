@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't make http requests. He makes http demands.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Kurze Röcke, lange Stielaugen.
+> Man soll den Tag nicht vor dem Elternabend loben.
 
 ---
 
