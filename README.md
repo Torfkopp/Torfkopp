@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When Mario drops a table it's bloody but silent.
-- Mario CAN divide by 0.
+- When Mario point to NULL, Null scares.
+- Mario writes code that optimizes itself.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
+> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
 
 ---
 
