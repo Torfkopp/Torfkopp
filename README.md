@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - Mario hosting is 105% uptime guaranteed.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Delle. (Kfz-Reparaturwerkstatt)
+> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
 
 ---
 
