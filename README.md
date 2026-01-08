@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
-- Mario can binary search unsorted data.
+- Windows 7 was Mario's idea.
+- Mario doesn't use web standards as the web will conform to him.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer abnimmt, hat mehr vom Telefon.
+> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
 
 ---
 
