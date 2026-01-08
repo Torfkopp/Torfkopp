@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- 404 errors simply mean that Mario has been there before you.
-- Mario develops in prod.
+- Mario CAN divide by 0.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer nichts wird, wird Zwischenwirt.
+> Wer sündigt, schläft nicht.
 
 ---
 
