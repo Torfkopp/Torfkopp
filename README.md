@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can delete the Recycle Bin.
+- To Mario, everything contains a vulnerability.
+- 404 errors simply mean that Mario has been there before you.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Alles ist so, wie es ist, nur schlechter.
+> Wer nichts wird, wird Zwischenwirt.
 
 ---
 
