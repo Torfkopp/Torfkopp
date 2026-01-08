@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario plugs in USB sticks perfectly the first time every time
-- Mario can delete the Recycle Bin.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Alle wollen zurück zur Natur; aber keiner zu Fuß.
+> Unter kleinen Steppdecken können große Deppen stecken.
 
 ---
 
