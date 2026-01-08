@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario throws an exception it's either across the room or out the window.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Lieber ein schwarzes Schaf als ein blauer Bock.
+> Das Leben gibt's gratis, der Rest ist käuflich.
 
 ---
 
