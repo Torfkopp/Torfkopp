@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario point to NULL, Null scares.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Das Leben gibt's gratis, der Rest ist käuflich.
+> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
 
 ---
 
