@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't use web standards as the web will conform to him.
-- Parent is the child of Mario.
+- Mario CAN divide by 0.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
+> In mir schlummert ein Genie, nur wird das Biest nicht wach.
 
 ---
 
