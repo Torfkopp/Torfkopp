@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario CAN divide by 0.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can access the DB from the UI.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wenn sich zwei streiten, freut sich der Anwalt.
+> Alles ist so, wie es ist, nur schlechter.
 
 ---
 
