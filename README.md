@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Die dämlichsten Herren haben oft die herrlichsten Damen.
+> Ich bin zutiefst gerührt, sprach der Teig.
 
 ---
 
