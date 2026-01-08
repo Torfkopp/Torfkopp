@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario uses /dev/null as STDIN.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> In mir schlummert ein Genie, nur wird das Biest nicht wach.
+> Die dämlichsten Herren haben oft die herrlichsten Damen.
 
 ---
 
