@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario throws exceptions, it's across the room.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
+> Wenn sich zwei streiten, freut sich der Anwalt.
 
 ---
 
