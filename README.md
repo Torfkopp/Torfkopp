@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario uses /dev/null as STDIN.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Was nicht allzu teuer ist, das können wir erlösen.
 
 ---
 
