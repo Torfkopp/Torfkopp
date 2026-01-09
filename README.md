@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario develops in prod.
+- Mario can store the value 256 in one byte
+- Mario can access the DB from the UI.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Ein Playboy hat immer was in Petting.
+> Eher kommt ein Kamel durchs Nadelöhr als ein Elefant ins Mausoleum.
 
 ---
 
