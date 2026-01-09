@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Service ist Verdienst vom Kunden.
 
 ---
 
