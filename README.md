@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When Mario throws exceptions, it's across the room.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wenn Nebel aus den Wiesen steigt, die Fledermaus das Wiesel geigt.
+> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
 
 ---
 
