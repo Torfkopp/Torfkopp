@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never has to use the -f option when deleting files.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
+> Nirwana ist nirgendwo, Banana ist überall.
 
 ---
 
