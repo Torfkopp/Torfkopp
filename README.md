@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario uses /dev/null as STDIN.
-- Mario programs do not accept input.
+- Mario can't test for equality because he has no equal.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Was nicht allzu teuer ist, das können wir erlösen.
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
