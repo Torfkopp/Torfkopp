@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario can access the DB from the UI.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can write to ROM.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Eher kommt ein Kamel durchs Nadelöhr als ein Elefant ins Mausoleum.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
