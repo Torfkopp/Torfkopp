@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Wer wöchentlich nur einmal kann und möchte gerne täglich, der wende sich an Neckermann, denn Neckermann machts möglich.
 
 ---
 
