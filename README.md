@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can binary search unsorted data.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Unter kleinen Steppdecken können große Deppen stecken.
+> Ein Playboy hat immer was in Petting.
 
 ---
 
