@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
 
 ---
 
