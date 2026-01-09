@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Parent is the child of Mario.
+- Mario doesn't make http requests. He makes http demands.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
+> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
 
 ---
 
