@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can't test for equality because he has no equal.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario throws exceptions, it's across the room.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer wöchentlich nur einmal kann und möchte gerne täglich, der wende sich an Neckermann, denn Neckermann machts möglich.
+> Wenn Nebel aus den Wiesen steigt, die Fledermaus das Wiesel geigt.
 
 ---
 
