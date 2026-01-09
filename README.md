@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can store the value 256 in one byte
+- Mario hosting is 105% uptime guaranteed.
+- When Mario throws exceptions, it's across the room.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
+> Alles ist so, wie es ist, nur schlechter.
 
 ---
 
