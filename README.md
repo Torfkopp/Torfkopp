@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario throws exceptions, it's across the room.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can binary search unsorted data.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
