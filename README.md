@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario exits vim by typing "exit"
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Ohne Fleiß kein Preis; ohne Leim kein Reim.
+> Allen Leuten recht getan ist Sauerkraut mit Lebertran.
 
 ---
 
