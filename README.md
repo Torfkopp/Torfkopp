@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Weird, it always works on Mario's machine.
-- Mario can access the DB from the UI.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
+> Ohne Fleiß kein Preis; ohne Leim kein Reim.
 
 ---
 
