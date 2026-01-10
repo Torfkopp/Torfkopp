@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario point to NULL, Null scares.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
+> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
 
 ---
 
