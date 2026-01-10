@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario does not code in cycles, he codes in strikes.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Weird, it always works on Mario's machine.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
 
 ---
 
