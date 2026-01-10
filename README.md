@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario develops in prod.
-- Mario can compile syntax errors.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Windows 7 was Mario's idea.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Man kann sich an allem gewöhnen, auch am Dativ.
+> Ich hab' die Kantine satt, ich esse nur noch Kitekat.
 
 ---
 
