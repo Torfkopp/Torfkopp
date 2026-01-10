@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can compile syntax errors.
+- Parent is the child of Mario.
+- To Mario, everything contains a vulnerability.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Allen Leuten recht getan ist Sauerkraut mit Lebertran.
+> Lieber natürliche Dummheit als künstliche Intelligenz.
 
 ---
 
