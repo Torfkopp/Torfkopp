@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't use web standards as the web will conform to him.
 - Mario can't test for equality because he has no equal.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> Wer finden will, der muss verlieren können.
 
 ---
 
