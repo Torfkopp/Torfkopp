@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Windows 7 was Mario's idea.
-- When Mario throws exceptions, it's across the room.
+- When Mario drops a table it's bloody but silent.
+- When Mario point to NULL, Null scares.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Ich hab' die Kantine satt, ich esse nur noch Kitekat.
+> It's öde to be blöde.
 
 ---
 
