@@ -5,9 +5,9 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario uses /dev/null as STDIN.
+- Mario hosting is 105% uptime guaranteed.
+- Weird, it always works on Mario's machine.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
