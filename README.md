@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can delete the Recycle Bin.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws exceptions, it's across the room.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
+> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
 
 ---
 
