@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can binary search unsorted data.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wer finden will, der muss verlieren können.
+> Benutze die geile Gehirnmaschine!
 
 ---
 
