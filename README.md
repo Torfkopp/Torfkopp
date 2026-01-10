@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- When Mario point to NULL, Null scares.
-- Mario can write to ROM.
+- 404 errors simply mean that Mario has been there before you.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> It's öde to be blöde.
+> Lieber Eber-hart als Sau-weich.
 
 ---
 
