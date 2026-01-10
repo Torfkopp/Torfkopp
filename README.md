@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When Mario throws exceptions, it's across the room.
-- To Mario, everything contains a vulnerability.
+- Mario can access the DB from the UI.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Alles ist so, wie es ist, nur schlechter.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
