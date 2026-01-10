@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can binary search unsorted data.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario develops in prod.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Benutze die geile Gehirnmaschine!
+> Man kann sich an allem gewöhnen, auch am Dativ.
 
 ---
 
