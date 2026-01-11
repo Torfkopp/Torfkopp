@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario develops in prod.
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario point to NULL, Null scares.
-- Mario exits vim by typing "exit"
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
+> Wem du's heute kannst besorgen, den verschone nicht bis morgen.
 
 ---
 
