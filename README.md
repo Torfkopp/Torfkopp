@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can delete the Recycle Bin.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Nirwana ist nirgendwo, Banana ist überall.
+> Man soll den Tag nicht vor dem Elternabend loben.
 
 ---
 
