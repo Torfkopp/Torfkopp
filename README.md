@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Windows 7 was Mario's idea.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario exits vim by typing "exit"
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Babypille fauler Zauber, Ajax macht das Becken sauber.
+> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
 
 ---
 
