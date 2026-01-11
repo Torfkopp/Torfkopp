@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- To Mario, everything contains a vulnerability.
-- Windows 7 was Mario's idea.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario programs do not accept input.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Lieber natürliche Dummheit als künstliche Intelligenz.
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
