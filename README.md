@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs do not accept input.
+- Windows 7 was Mario's idea.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Was Hänschen nicht lernt, werden ihm die Mädchen beibringen.
+> Babypille fauler Zauber, Ajax macht das Becken sauber.
 
 ---
 
