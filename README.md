@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario programs do not accept input.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario plugs in USB sticks perfectly the first time every time
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> Nirwana ist nirgendwo, Banana ist überall.
 
 ---
 
