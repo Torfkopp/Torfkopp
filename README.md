@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Weird, it always works on Mario's machine.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
+> Nichts ist wahr in der Seemannsbar.
 
 ---
 
