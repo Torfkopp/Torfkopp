@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can access the DB from the UI.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario point to NULL, Null scares.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Nichts ist wahr in der Seemannsbar.
+> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
