@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario drops a table it's bloody but silent.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Kleine Bosheiten erhalten die Feindschaft.
+> Was Hänschen nicht lernt, werden ihm die Mädchen beibringen.
 
 ---
 
