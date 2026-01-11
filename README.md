@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can binary search unsorted data.
+- Weird, it always works on Mario's machine.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Man soll den Tag nicht vor dem Elternabend loben.
+> Wissen ist Macht, ich weiß nichts, macht nichts.
 
 ---
 
