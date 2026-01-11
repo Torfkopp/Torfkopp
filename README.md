@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario exits vim by typing "exit"
 - Weird, it always works on Mario's machine.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wissen ist Macht, ich weiß nichts, macht nichts.
+> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
 
 ---
 
