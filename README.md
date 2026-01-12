@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can't test for equality because he has no equal.
-- When Mario point to NULL, Null scares.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can store the value 256 in one byte
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
