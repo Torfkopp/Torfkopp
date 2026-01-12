@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Bei Dreckfuhlern muss man aufpassen wie ein Lachs.
+> Warum sachlich werden, wenn es auch persönlich geht.
 
 ---
 
