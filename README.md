@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario can delete the Recycle Bin.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Windows 7 was Mario's idea.
+- Mario can't test for equality because he has no equal.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
+> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
 
 ---
 
