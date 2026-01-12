@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wut tut gut.
+> Lieber Himbeergeist als Männerverstand.
 
 ---
 
