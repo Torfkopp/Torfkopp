@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
+> Praxis ist, wenn alles funktioniert und keiner weiß warum.
 
 ---
 
