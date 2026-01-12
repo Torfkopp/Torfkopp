@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Weird, it always works on Mario's machine.
-- Mario never has to use the -f option when deleting files.
+- Mario develops in prod.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Trag nie eine Anstecknadel, wenn du erkältet bist.
+> Wut tut gut.
 
 ---
 
