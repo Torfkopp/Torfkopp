@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber kleckern als kotzen.
+> Ein Gehirn wäscht das andere.
 
 ---
 
