@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario writes code that optimizes itself.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Weird, it always works on Mario's machine.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
+> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
 
 ---
 
