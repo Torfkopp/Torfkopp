@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- To Mario, everything contains a vulnerability.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wer den Schaden hat, braucht für den Schrott nicht zu sorgen.
+> Eine Öko-Mähne ist eine Perücke aus Echthaar.
 
 ---
 
