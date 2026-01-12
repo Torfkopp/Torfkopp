@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario develops in prod.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Eine Öko-Mähne ist eine Perücke aus Echthaar.
+> Bei Dreckfuhlern muss man aufpassen wie ein Lachs.
 
 ---
 
