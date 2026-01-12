@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario plugs in USB sticks perfectly the first time every time
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Der Vater rülpst, die Kinder lachen: so ist billig Freude machen.
 
 ---
 
