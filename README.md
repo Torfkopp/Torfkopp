@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario exits vim by typing "exit"
+- When Mario drops a table it's bloody but silent.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Warum sachlich werden, wenn es auch persönlich geht.
+> Hey Kids, let's kotz.
 
 ---
 
