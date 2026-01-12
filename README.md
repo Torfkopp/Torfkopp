@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario plugs in USB sticks perfectly the first time every time
-- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario writes code that optimizes itself.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Der Vater rülpst, die Kinder lachen: so ist billig Freude machen.
+> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
 
 ---
 
