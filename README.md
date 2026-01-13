@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can access the DB from the UI.
+- Windows 7 was Mario's idea.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Ich verspreche nichts; und das halte ich auch.
+> Frauen gemeinsam sind stark geschädigt.
 
 ---
 
