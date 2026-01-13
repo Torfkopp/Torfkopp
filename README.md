@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't make http requests. He makes http demands.
-- 404 errors simply mean that Mario has been there before you.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can compile syntax errors.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wenn der Krieg ausbricht, war der Frieden offenbar ein Gefängnis.
+> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
 
 ---
 
