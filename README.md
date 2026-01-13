@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario programs do not accept input.
+- Mario can access the DB from the UI.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber zusammen aus- als allein eingehen.
+> Es gibt Fach- und Mehrfachidioten.
 
 ---
 
