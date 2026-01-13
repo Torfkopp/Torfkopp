@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
+> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
 
 ---
 
