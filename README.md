@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can compile syntax errors.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario drops a table it's bloody but silent.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
+> Ein voller Bauch fällt nicht weit vom Stamm.
 
 ---
 
