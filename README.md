@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Rückgrat bitte beim Chef abgeben.
+> Ohne Fleiß kein Verschleiß.
 
 ---
 
