@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario plugs in USB sticks perfectly the first time every time
+- Parent is the child of Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Freiheit für Grönland! Nieder mit dem Packeis!
 
 ---
 
