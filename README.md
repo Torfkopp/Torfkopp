@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never has to use the -f option when deleting files.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can binary search unsorted data.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Gepflegter Bart küsst weich und zart.
+> Rückgrat bitte beim Chef abgeben.
 
 ---
 
