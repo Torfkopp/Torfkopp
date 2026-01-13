@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Eher kommt ein Kamel durchs Nadelöhr als ein Elefant ins Mausoleum.
+> Lieber zusammen aus- als allein eingehen.
 
 ---
 
