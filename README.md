@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Ohne Fleiß kein Verschleiß.
+> Ich verspreche nichts; und das halte ich auch.
 
 ---
 
