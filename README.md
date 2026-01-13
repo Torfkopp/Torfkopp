@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario drops a table it's bloody but silent.
-- Parent is the child of Mario.
+- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Ein voller Bauch fällt nicht weit vom Stamm.
+> Eher kommt ein Kamel durchs Nadelöhr als ein Elefant ins Mausoleum.
 
 ---
 
