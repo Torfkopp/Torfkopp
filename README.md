@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can store the value 256 in one byte
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Frauen gemeinsam sind stark geschädigt.
+> Wut tut gut.
 
 ---
 
