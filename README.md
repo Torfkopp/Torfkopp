@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario exits vim by typing "exit"
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never has to use the -f option when deleting files.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Freiheit für Grönland! Nieder mit dem Packeis!
+> Gepflegter Bart küsst weich und zart.
 
 ---
 
