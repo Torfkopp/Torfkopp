@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can compile syntax errors.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
+> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
 
 ---
 
