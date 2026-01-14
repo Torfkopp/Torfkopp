@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario programs do not accept input.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can delete the Recycle Bin.
+- Mario doesn't use web standards as the web will conform to him.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Lieber 'n Glas Dortmunder als 'ne Wanne Eickel.
+> Nonsens ist der Sieg des Geistes über die Vernunft.
 
 ---
 
