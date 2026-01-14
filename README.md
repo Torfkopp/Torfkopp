@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Lieber FKK als FDP.
+> Liebe ist, zusammen ins Deutsche Museum zu gehen.
 
 ---
 
