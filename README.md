@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Liebe ist, zusammen ins Deutsche Museum zu gehen.
+> Lieber Hochstapler als Tiefflieger.
 
 ---
 
