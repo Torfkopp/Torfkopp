@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can access the DB from the UI.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Lieber Hochstapler als Tiefflieger.
+> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
 
 ---
 
