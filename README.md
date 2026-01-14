@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can compile syntax errors.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Ich verspreche nichts; und das halte ich auch.
+> Andiamo – an den Dynamo
 
 ---
 
