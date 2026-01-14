@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can write to ROM.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario throws exceptions, it's across the room.
+- Windows 7 was Mario's idea.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Montagmorgen 10 nach 8, und die Woche nimmt kein Ende.
+> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
 
 ---
 
