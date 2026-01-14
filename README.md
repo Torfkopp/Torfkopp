@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Andiamo – an den Dynamo
+> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
 
 ---
 
