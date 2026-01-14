@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario develops in prod.
+- Mario programs do not accept input.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
+> Lieber 'n Glas Dortmunder als 'ne Wanne Eickel.
 
 ---
 
