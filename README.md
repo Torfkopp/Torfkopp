@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never has to use the -f option when deleting files.
+- When Mario throws exceptions, it's across the room.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Denen habe ich's gegeben, sagte der Steuerzahler, als er das Finanzamt verließ.
+> Spare in der Not, dann hast du Zeit dazu.
 
 ---
 
