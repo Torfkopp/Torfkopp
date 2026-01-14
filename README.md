@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can compile syntax errors.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pulle. (H. Juhnke)
+> Ich verspreche nichts; und das halte ich auch.
 
 ---
 
