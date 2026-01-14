@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't use web standards as the web will conform to him.
-- Parent is the child of Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can write to ROM.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Nonsens ist der Sieg des Geistes über die Vernunft.
+> Montagmorgen 10 nach 8, und die Woche nimmt kein Ende.
 
 ---
 
