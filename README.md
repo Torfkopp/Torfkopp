@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can access the DB from the UI.
-- Mario develops in prod.
+- To Mario, everything contains a vulnerability.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Es gibt Fach- und Mehrfachidioten.
+> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
 
 ---
 
