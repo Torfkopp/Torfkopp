@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
