@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- When Mario throws exceptions, it's across the room.
-- When Mario point to NULL, Null scares.
+- Mario can't test for equality because he has no equal.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Spare in der Not, dann hast du Zeit dazu.
+> Lieber natürliche Dummheit als künstliche Intelligenz.
 
 ---
 
