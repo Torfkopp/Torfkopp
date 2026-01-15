@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can compile syntax errors.
-- Mario CAN divide by 0.
+- When Mario drops a table it's bloody but silent.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
+> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
 
 ---
 
