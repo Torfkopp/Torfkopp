@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can delete the Recycle Bin.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> If you wanna be a wife cut your dickie with a knife.
+> Frisch gewachst ist halb gefallen.
 
 ---
 
