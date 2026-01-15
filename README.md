@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't make http requests. He makes http demands.
+- Mario uses /dev/null as STDIN.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Nichts ist schwerer zu ertragen als Reißverschluss auf vollem Magen.
+> Wozu noch recht schreiben, wenn man links denkt?
 
 ---
 
