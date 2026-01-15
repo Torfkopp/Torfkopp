@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario CAN divide by 0.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can't test for equality because he has no equal.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
+> Wir sparen jeden Pfennig - koste es was es wolle.
 
 ---
 
