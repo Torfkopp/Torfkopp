@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Windows 7 was Mario's idea.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can access the DB from the UI.
+- Mario can compile syntax errors.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Ich bin nicht feige; ich bin nur stärker als der Held in mir.
+> Wer zuletzt lacht, stirbt wenigstens fröhlich.
 
 ---
 
