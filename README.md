@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Frisch gewachst ist halb gefallen.
+> Wer abnimmt, hat mehr vom Telefon.
 
 ---
 
