@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can delete the Recycle Bin.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario throws exceptions, it's across the room.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wozu noch recht schreiben, wenn man links denkt?
+> Sprühen bringt Beton zum Blühen.
 
 ---
 
