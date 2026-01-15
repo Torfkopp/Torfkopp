@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can't test for equality because he has no equal.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
+> Nichts ist schwerer zu ertragen als Reißverschluss auf vollem Magen.
 
 ---
 
