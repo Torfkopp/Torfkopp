@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario CAN divide by 0.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Lieber natürliche Dummheit als künstliche Intelligenz.
+> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
 
 ---
 
