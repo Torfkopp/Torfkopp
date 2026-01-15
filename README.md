@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can compile syntax errors.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can delete the Recycle Bin.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, stirbt wenigstens fröhlich.
+> If you wanna be a wife cut your dickie with a knife.
 
 ---
 
