@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario develops in prod.
-- Mario can binary search unsorted data.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can compile syntax errors.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Die Zunge ist das einzige Werkzeug, das durch ständigen Gebrauch noch schärfer wird.
+> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
 
 ---
 
