@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario drops a table it's bloody but silent.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario point to NULL, Null scares.
+- Windows 7 was Mario's idea.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Gott sei Punk.
+> Ich bin nicht feige; ich bin nur stärker als der Held in mir.
 
 ---
 
