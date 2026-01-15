@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario throws exceptions, it's across the room.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Sprühen bringt Beton zum Blühen.
+> Gott sei Punk.
 
 ---
 
