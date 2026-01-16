@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
+> Lieber Eber-hart als Sau-weich.
 
 ---
 
