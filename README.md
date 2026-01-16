@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario throws exceptions, it's across the room.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Gut gemeint ist auch nicht besser.
+> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
 
 ---
 
