@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario can store the value 256 in one byte
-- When Mario throws an exception it's either across the room or out the window.
+- Mario develops in prod.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Was liegt bei Reisen näher als die Ferne?
+> Hey Mister Taliban, tally me Banana.
 
 ---
 
