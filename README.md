@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Weird, it always works on Mario's machine.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario exits vim by typing "exit"
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
+> Gesunde Verdorbenheit ist besser als verdorbene Gesundheit.
 
 ---
 
