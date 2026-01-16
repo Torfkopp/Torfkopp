@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario writes code that optimizes itself.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
+> Vielleicht muss der große Bruder gar nicht kommen, weil alle schon den kleinen Mann im Ohr haben.
 
 ---
 
