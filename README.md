@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario develops in prod.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Sprühen bringt Beton zum Blühen.
+> Cave Caplanem.
 
 ---
 
