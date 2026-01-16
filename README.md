@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario programs do not accept input.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario develops in prod.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Vielleicht muss der große Bruder gar nicht kommen, weil alle schon den kleinen Mann im Ohr haben.
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
