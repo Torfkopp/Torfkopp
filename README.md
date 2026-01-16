@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can delete the Recycle Bin.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Muss es erst duster sein, bevor uns ein Licht aufgeht?
+> Sprühen bringt Beton zum Blühen.
 
 ---
 
