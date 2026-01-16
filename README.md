@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Windows 7 was Mario's idea.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Früher las ich Karl Marx, doch dann entdeckte ich Pippi Langstrumpf.
+> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
 
 ---
 
