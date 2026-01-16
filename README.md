@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't use web standards as the web will conform to him.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario exits vim by typing "exit"
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Gesunde Verdorbenheit ist besser als verdorbene Gesundheit.
+> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
 
 ---
 
