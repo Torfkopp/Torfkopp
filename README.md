@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario develops in prod.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario programs do not accept input.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer abnimmt, hat mehr vom Telefon.
+> Früher las ich Karl Marx, doch dann entdeckte ich Pippi Langstrumpf.
 
 ---
 
