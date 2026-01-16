@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario develops in prod.
-- Mario never has to use the -f option when deleting files.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't use web standards as the web will conform to him.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Der Dschingis Khan, wenn er nur will.
+> Oh, frivol ist mir am Abend.
 
 ---
 
