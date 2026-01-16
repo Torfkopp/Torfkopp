@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Parent is the child of Mario.
+- Mario can store the value 256 in one byte
 - When Mario throws an exception it's either across the room or out the window.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Lieber Eber-hart als Sau-weich.
+> Was liegt bei Reisen näher als die Ferne?
 
 ---
 
