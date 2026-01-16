@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can't test for equality because he has no equal.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Spontaneität will wohlüberlegt sein.
+> Gut gemeint ist auch nicht besser.
 
 ---
 
