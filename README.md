@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario drops a table it's bloody but silent.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Hey Mister Taliban, tally me Banana.
+> Muss es erst duster sein, bevor uns ein Licht aufgeht?
 
 ---
 
