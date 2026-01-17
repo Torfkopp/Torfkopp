@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Windows 7 was Mario's idea.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
+> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
 
 ---
 
