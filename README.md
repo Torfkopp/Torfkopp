@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario exits vim by typing "exit"
+- Mario can delete the Recycle Bin.
+- Mario does not code in cycles, he codes in strikes.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Lieber fernsehmüde als radioaktiv.
+> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
 
 ---
 
