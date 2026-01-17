@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario CAN divide by 0.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can compile syntax errors.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
+> Ich wollte die Einschulung aus Gewissensgründen verweigern.
 
 ---
 
