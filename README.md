@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario does not code in cycles, he codes in strikes.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can binary search unsorted data.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
+> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
 
 ---
 
