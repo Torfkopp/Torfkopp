@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can write to ROM.
+- Mario never has to use the -f option when deleting files.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Frisch verzagt ist halb verzweifelt.
+> Wissen ist Macht, ich weiß nichts, macht nichts.
 
 ---
 
