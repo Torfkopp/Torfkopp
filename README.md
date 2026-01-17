@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Ich wollte die Einschulung aus Gewissensgründen verweigern.
+> Kann denn Sprühen Sünde sein?
 
 ---
 
