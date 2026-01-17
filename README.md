@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario never has to use the -f option when deleting files.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can binary search unsorted data.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
+> Wer Klinken putzt, wird schneller krank.
 
 ---
 
