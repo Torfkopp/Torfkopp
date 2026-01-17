@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Schnauze, sonst Beule.
+> Magerquark macht uns stark; Haferbrei macht uns frei.
 
 ---
 
