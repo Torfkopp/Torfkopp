@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 - Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Kann denn Sprühen Sünde sein?
+> Lieber Eber-hart als Sau-weich.
 
 ---
 
