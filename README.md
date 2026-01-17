@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario never has to use the -f option when deleting files.
-- Mario exits vim by typing "exit"
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario CAN divide by 0.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wissen ist Macht, ich weiß nichts, macht nichts.
+> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
 
 ---
 
