@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario develops in prod.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
+> Frisch verzagt ist halb verzweifelt.
 
 ---
 
