@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario throws exceptions, it's across the room.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Magerquark macht uns stark; Haferbrei macht uns frei.
+> Nicht jeder, der aus dem Rahmen fällt, war vorher im Bilde.
 
 ---
 
