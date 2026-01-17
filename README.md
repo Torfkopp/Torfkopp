@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der aus dem Rahmen fällt, war vorher im Bilde.
+> Was liegt bei Reisen näher als die Ferne?
 
 ---
 
