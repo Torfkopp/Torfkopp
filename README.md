@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- 404 errors simply mean that Mario has been there before you.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario develops in prod.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wir wollen keine Entsorgung; laßt uns wenigstens unsere Sorgen.
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
