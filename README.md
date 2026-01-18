@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't use web standards as the web will conform to him.
+- 404 errors simply mean that Mario has been there before you.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Legt die Nordsee trocken, wir wollen nach England.
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
