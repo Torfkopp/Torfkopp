@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Was liegt bei Reisen näher als die Ferne?
+> Lieber Glück im Unglück als Pech in der Strähne.
 
 ---
 
