@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Lieber fröhlich im Bett als traurig bei der Arbeit.
+> Der Kanzler lenkt - aber wer denkt?
 
 ---
 
