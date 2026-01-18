@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- When Mario drops a table it's bloody but silent.
-- Mario can binary search unsorted data.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wer früher stirbt, ist länger tot.
+> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
 
 ---
 
