@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can delete the Recycle Bin.
-- Mario develops in prod.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can access the DB from the UI.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
+> Ende gut, alles putt.
 
 ---
 
