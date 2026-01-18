@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can compile syntax errors.
+- Mario CAN divide by 0.
+- To Mario, everything contains a vulnerability.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
+> Der Student geht so lange zur Mensa bis er bricht.
 
 ---
 
