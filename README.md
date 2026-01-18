@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- 404 errors simply mean that Mario has been there before you.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Lieber fröhlich im Bett als traurig bei der Arbeit.
 
 ---
 
