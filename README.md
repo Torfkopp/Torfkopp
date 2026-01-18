@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Sage mir, warum, und ich sage dir, weshalb.
+> Je tiefer das Loch, desto plumps.
 
 ---
 
