@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- To Mario, everything contains a vulnerability.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario programs do not accept input.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Der Student geht so lange zur Mensa bis er bricht.
+> Sage mir, warum, und ich sage dir, weshalb.
 
 ---
 
