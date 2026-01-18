@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can compile syntax errors.
 - Mario can delete the Recycle Bin.
-- Mario writes code that optimizes itself.
-- Mario can binary search unsorted data.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
+> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
 
 ---
 
