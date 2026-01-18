@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario never has to use the -f option when deleting files.
+- To Mario, everything contains a vulnerability.
+- When Mario drops a table it's bloody but silent.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Je tiefer das Loch, desto plumps.
+> Wer früher stirbt, ist länger tot.
 
 ---
 
