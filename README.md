@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario develops in prod.
-- Mario hosting is 105% uptime guaranteed.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- 404 errors simply mean that Mario has been there before you.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Der deutsche Humor ist seiner Seltenheit wegen besonders wertvoll.
+> Wir wollen keine Entsorgung; laßt uns wenigstens unsere Sorgen.
 
 ---
 
