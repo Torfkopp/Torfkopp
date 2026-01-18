@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can delete the Recycle Bin.
 - Mario writes code that optimizes itself.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
 
 ---
 
