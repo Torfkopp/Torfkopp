@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
+> Was dem einen sein Beat, ist dem anderen seine Beate.
 
 ---
 
