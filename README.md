@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario uses /dev/null as STDIN.
 - Mario can delete the Recycle Bin.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Jedem Analphabeten sein Diktiergerät!
+> Multimedia ist, wenn es trotzdem klappt.
 
 ---
 
