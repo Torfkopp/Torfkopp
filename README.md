@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
+> Professorenglatze ist Waldsterben auf höherer Ebene.
 
 ---
 
