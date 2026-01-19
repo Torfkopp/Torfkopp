@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario CAN divide by 0.
-- Mario can store the value 256 in one byte
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can't test for equality because he has no equal.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Denen habe ich's gegeben, sagte der Steuerzahler, als er das Finanzamt verließ.
+> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
 
 ---
 
