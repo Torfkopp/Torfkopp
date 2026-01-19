@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Weird, it always works on Mario's machine.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Professorenglatze ist Waldsterben auf höherer Ebene.
+> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
 
 ---
 
