@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can compile syntax errors.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
+> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
 
 ---
 
