@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario uses /dev/null as STDIN.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Ouzo statt Juso.
+> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
 
 ---
 
