@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can't test for equality because he has no equal.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario CAN divide by 0.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
+> Denen habe ich's gegeben, sagte der Steuerzahler, als er das Finanzamt verließ.
 
 ---
 
