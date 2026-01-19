@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario can write to ROM.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario writes code that optimizes itself.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
+> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
 
 ---
 
