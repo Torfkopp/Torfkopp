@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Gut Kind will Keile haben. (nach M. Luther)
+> Ich summe, also bien ich.
 
 ---
 
