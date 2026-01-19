@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario uses /dev/null as STDIN.
-- Windows 7 was Mario's idea.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
+> Jedem Analphabeten sein Diktiergerät!
 
 ---
 
