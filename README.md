@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can delete the Recycle Bin.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Multimedia ist, wenn es trotzdem klappt.
+> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
 
 ---
 
