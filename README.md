@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
+- When Mario point to NULL, Null scares.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't use web standards as the web will conform to him.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber eine dunkle Kneipe als ein lichter Arbeitsplatz.
+> Der Plebs trinkt Schweppes.
 
 ---
 
