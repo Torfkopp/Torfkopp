@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Weird, it always works on Mario's machine.
-- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Komm zurück, Godot; es ist alles verziehen.
+> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
 
 ---
 
