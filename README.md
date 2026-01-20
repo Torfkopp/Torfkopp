@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Weird, it always works on Mario's machine.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Wille. (Therapeut)
+> Komm zurück, Godot; es ist alles verziehen.
 
 ---
 
