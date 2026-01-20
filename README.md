@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can store the value 256 in one byte
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Beat, ist dem anderen seine Beate.
+> Lieber eine dunkle Kneipe als ein lichter Arbeitsplatz.
 
 ---
 
