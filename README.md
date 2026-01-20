@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario uses /dev/null as STDIN.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
+> Die größte Offenbarung ist der Wille. (Therapeut)
 
 ---
 
