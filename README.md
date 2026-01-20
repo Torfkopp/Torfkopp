@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Windows 7 was Mario's idea.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Der Plebs trinkt Schweppes.
+> Ich muss die Nase meiner Ollen an jeder Grenze neu verzollen.
 
 ---
 
