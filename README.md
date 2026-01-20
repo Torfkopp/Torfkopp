@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can write to ROM.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wer sich nicht wehrt, endet am Herd.
+> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
 
 ---
 
