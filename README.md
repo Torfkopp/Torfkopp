@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Müde und satt, wie schön is dat.
+> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
 
 ---
 
