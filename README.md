@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can write to ROM.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
+> Wer sich nicht wehrt, endet am Herd.
 
 ---
 
