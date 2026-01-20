@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can store the value 256 in one byte
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
+> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
 
 ---
 
