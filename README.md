@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario point to NULL, Null scares.
+- To Mario, everything contains a vulnerability.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Lieber entlarvt als entschärft.
+> Alles Geschmackssache, dachte der Affe und biss in die Seife.
 
 ---
 
