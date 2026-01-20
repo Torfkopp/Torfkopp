@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can access the DB from the UI.
-- Mario can't test for equality because he has no equal.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Ein Student geht so lange zur Mensa, bis er bricht.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
