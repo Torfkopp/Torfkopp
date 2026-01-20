@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can store the value 256 in one byte
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can access the DB from the UI.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
+> Ein Student geht so lange zur Mensa, bis er bricht.
 
 ---
 
