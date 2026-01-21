@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
+- Mario invented binary by performing a roundhouse on the number 10.
 - Mario programs occupy 150% of CPU, even when they are not executing.
-- Windows 7 was Mario's idea.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
+> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
 
 ---
 
