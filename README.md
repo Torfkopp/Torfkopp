@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario uses /dev/null as STDIN.
 - Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Nicht Güte zählt, sondern Bonität.
+> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
 
 ---
 
