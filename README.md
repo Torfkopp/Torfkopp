@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario can compile syntax errors.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Vorsicht: der Schütze schützt nicht, er schießt!
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
