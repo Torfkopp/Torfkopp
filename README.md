@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario point to NULL, Null scares.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
+> Sonderlinge lachen sogar beim Zwiebelschneiden.
 
 ---
 
