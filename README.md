@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario hosting is 105% uptime guaranteed.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
+> Krieg ist, wenn es trrotzdem kracht.
 
 ---
 
