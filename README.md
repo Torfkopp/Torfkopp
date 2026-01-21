@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario develops in prod.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Manche würden eher sterben als nachdenken. Und sie tun es auch.
+> Schule macht Angst, Angst macht Schule.
 
 ---
 
