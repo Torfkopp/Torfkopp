@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario point to NULL, Null scares.
-- Mario writes code that optimizes itself.
+- Mario does not code in cycles, he codes in strikes.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Dem Philosoph ist nichts zu doof.
+> Jetzt gehen wir der Sache auf den Grund, sprach der Bauer und sprang in die Jauchegrube.
 
 ---
 
