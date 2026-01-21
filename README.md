@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can't test for equality because he has no equal.
+- Mario can compile syntax errors.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Alles Geschmackssache, dachte der Affe und biss in die Seife.
+> Warum sachlich werden, wenn es auch persönlich geht.
 
 ---
 
