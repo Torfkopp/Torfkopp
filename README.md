@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't make http requests. He makes http demands.
+- Mario can store the value 256 in one byte
+- Mario develops in prod.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Krieg ist, wenn es trrotzdem kracht.
+> Manche würden eher sterben als nachdenken. Und sie tun es auch.
 
 ---
 
