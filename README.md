@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can delete the Recycle Bin.
+- Mario exits vim by typing "exit"
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
+> Wenn die Dunstglocke läutet, hat das Sterbeglöckchen Hochkonjunktur.
 
 ---
 
