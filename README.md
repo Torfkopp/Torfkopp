@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't use web standards as the web will conform to him.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Sonderlinge lachen sogar beim Zwiebelschneiden.
+> Lass mich doch fett sein, es kann nicht jeder beim Ballett sein.
 
 ---
 
