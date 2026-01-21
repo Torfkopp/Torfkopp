@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can delete the Recycle Bin.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Lass mich doch fett sein, es kann nicht jeder beim Ballett sein.
+> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
 
 ---
 
