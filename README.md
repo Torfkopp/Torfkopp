@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario develops in prod.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario point to NULL, Null scares.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Schule macht Angst, Angst macht Schule.
+> Dem Philosoph ist nichts zu doof.
 
 ---
 
