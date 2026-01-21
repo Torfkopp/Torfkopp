@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario throws exceptions, it's across the room.
 - Mario can compile syntax errors.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- 404 errors simply mean that Mario has been there before you.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Warum sachlich werden, wenn es auch persönlich geht.
+> Vorsicht: der Schütze schützt nicht, er schießt!
 
 ---
 
