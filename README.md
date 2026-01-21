@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Ein blindes Huhn findet auch mal eine lahme Ente.
+> Nicht Güte zählt, sondern Bonität.
 
 ---
 
