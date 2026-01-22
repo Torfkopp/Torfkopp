@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 - Mario can't test for equality because he has no equal.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
