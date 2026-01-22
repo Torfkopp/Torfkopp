@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Weird, it always works on Mario's machine.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Besser Video als gar kein Deo.
+> Was meinen Sie als Unbeteiligter zum Thema Intelligenz?
 
 ---
 
