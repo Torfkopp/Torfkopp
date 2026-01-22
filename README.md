@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can't test for equality because he has no equal.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario invented binary by performing a roundhouse on the number 10.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
