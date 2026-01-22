@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario writes code that optimizes itself.
+- Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
 
 ---
 
