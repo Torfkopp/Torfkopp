@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Was meinen Sie als Unbeteiligter zum Thema Intelligenz?
+> Raritäten, die in Massen auftreten, sind besonders selten.
 
 ---
 
