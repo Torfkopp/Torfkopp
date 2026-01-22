@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can't test for equality because he has no equal.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Raritäten, die in Massen auftreten, sind besonders selten.
+> Haben Krawattenträger nicht schon genug am Halse?
 
 ---
 
