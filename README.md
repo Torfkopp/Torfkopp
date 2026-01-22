@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario drops a table it's bloody but silent.
+- Mario can delete the Recycle Bin.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
+> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
 
 ---
 
