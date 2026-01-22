@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- 404 errors simply mean that Mario has been there before you.
-- Mario CAN divide by 0.
+- When Mario point to NULL, Null scares.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Der Student geht so lange zur Mensa bis er bricht.
+> Wir wollen alles, und davon möglichst viel.
 
 ---
 
