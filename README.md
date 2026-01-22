@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can access the DB from the UI.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
