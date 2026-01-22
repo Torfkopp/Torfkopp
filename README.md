@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- To Mario, everything contains a vulnerability.
+- Mario can compile syntax errors.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wir wollen alles, und davon möglichst viel.
+> Besser Video als gar kein Deo.
 
 ---
 
