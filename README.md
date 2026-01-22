@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario invented binary by performing a roundhouse on the number 10.
-- 404 errors simply mean that Mario has been there before you.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Weird, it always works on Mario's machine.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
+> Wenn Dummheit Klingeln würde, dann bräuchtest Du gar kein Handy mehr.
 
 ---
 
