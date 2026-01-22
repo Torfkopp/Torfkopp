@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flasche Bier als ne Wanne Eickel.
+> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
