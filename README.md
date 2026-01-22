@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- To Mario, everything contains a vulnerability.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber eine dunkle Kneipe als ein lichter Arbeitsplatz.
+> Wer kein Schwein ist, wird bald zur Sau gemacht.
 
 ---
 
