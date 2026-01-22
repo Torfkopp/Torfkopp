@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- To Mario, everything contains a vulnerability.
-- Mario can access the DB from the UI.
+- Mario can store the value 256 in one byte
+- 404 errors simply mean that Mario has been there before you.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wer kein Schwein ist, wird bald zur Sau gemacht.
+> Der Student geht so lange zur Mensa bis er bricht.
 
 ---
 
