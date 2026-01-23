@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can store the value 256 in one byte
 - Mario doesn't use web standards as the web will conform to him.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Windows 7 was Mario's idea.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
+> Lieber am Po als am Arsch (Touristenwerbung).
 
 ---
 
