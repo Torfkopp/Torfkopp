@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario never has to use the -f option when deleting files.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can't test for equality because he has no equal.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Wir wollen Männer, keine Ersatzteile.
+> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
