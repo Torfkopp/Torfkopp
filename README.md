@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Keiner redet dümmer als er ist.
+> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
 
 ---
 
