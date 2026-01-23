@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Parent is the child of Mario.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wenn Nebel aus den Wiesen steigt, die Fledermaus das Wiesel geigt.
+> Wir wollen Männer, keine Ersatzteile.
 
 ---
 
