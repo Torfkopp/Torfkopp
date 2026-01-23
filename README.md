@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can't test for equality because he has no equal.
-- When Mario drops a table it's bloody but silent.
+- Mario uses /dev/null as STDIN.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
 
 ---
 
