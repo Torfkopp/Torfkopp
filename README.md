@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario never has to use the -f option when deleting files.
-- Mario can access the DB from the UI.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
+> Was dem einen sein Beat, ist dem anderen seine Beate.
 
 ---
 
