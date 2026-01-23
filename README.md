@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Beat, ist dem anderen seine Beate.
+> Genitiv ins Wasser, weil es Dativ ist.
 
 ---
 
