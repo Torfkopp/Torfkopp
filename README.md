@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can access the DB from the UI.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Jeder Tag ist gleich lang, aber verschieden breit.
+> Ohne Fleiß kein Preis; ohne Leim kein Reim.
 
 ---
 
