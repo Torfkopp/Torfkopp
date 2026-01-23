@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never has to use the -f option when deleting files.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
+> Arbeit ist der Untergang der trinkenden Klasse.
 
 ---
 
