@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can't test for equality because he has no equal.
+- Mario never has to use the -f option when deleting files.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
+> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
 
 ---
 
