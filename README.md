@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can store the value 256 in one byte
-- Mario doesn't use web standards as the web will conform to him.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario programs do not accept input.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Lieber am Po als am Arsch (Touristenwerbung).
+> Lieber lächerlich als bürgerlich.
 
 ---
 
