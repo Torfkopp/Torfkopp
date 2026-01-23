@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario programs do not accept input.
-- Mario exits vim by typing "exit"
+- When Mario throws exceptions, it's across the room.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Lieber lächerlich als bürgerlich.
+> Nonsens statt Konsens.
 
 ---
 
