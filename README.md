@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario never has to use the -f option when deleting files.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can access the DB from the UI.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Arbeit ist der Untergang der trinkenden Klasse.
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
