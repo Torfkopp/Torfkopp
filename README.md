@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can delete the Recycle Bin.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wenn man auch überall aneckt, geht's noch lange nicht rund.
+> Die größte Offenbarung ist der Bulle. (cow in season)
 
 ---
 
