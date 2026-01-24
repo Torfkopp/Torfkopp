@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can write to ROM.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario CAN divide by 0.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
+> Schneeflöckchen, Weißröckchen, Stinksöckchen.
 
 ---
 
