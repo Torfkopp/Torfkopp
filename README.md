@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Weird, it always works on Mario's machine.
+- Mario invented binary by performing a roundhouse on the number 10.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Schneeflöckchen, Weißröckchen, Stinksöckchen.
+> Gescheit, gescheiter, gescheitert.
 
 ---
 
