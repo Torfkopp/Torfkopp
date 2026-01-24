@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario programs do not accept input.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wenn eine Schraube locker ist, hat das Leben etwas mehr Spiel.
+> Ich bin klein, mein Herz ist schmutzig, ist das nicht putzig?
 
 ---
 
