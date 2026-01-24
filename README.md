@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can access the DB from the UI.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario point to NULL, Null scares.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Kreuzbrave sind meist piksauber.
+> Ein Student geht so lange zur Mensa, bis er bricht.
 
 ---
 
