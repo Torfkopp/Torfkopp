@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Gescheit, gescheiter, gescheitert.
+> Narrenhände betatschen Brust und Lende.
 
 ---
 
