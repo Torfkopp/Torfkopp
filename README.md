@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Ich bin klein, mein Herz ist schmutzig, ist das nicht putzig?
+> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
 
 ---
 
