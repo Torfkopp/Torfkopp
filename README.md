@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario throws an exception it's either across the room or out the window.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer für die Katz arbeitet, kommt auf den Hund.
+> Lieber den Faust im Kopf als auf dem Auge.
 
 ---
 
