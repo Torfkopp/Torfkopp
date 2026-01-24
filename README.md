@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws exceptions, it's across the room.
+- Mario can delete the Recycle Bin.
+- Mario can write to ROM.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
+> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
 
 ---
 
