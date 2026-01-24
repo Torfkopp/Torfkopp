@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario programs occupy 150% of CPU, even when they are not executing.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die nächste Steinzeit kommt bestimmt.
+> Rauche jetzt, zahle später.
 
 ---
 
