@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can binary search unsorted data.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Alles ist so, wie es ist, nur schlechter.
+> Kreuzbrave sind meist piksauber.
 
 ---
 
