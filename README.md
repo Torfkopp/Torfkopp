@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't make http requests. He makes http demands.
 - When Mario throws exceptions, it's across the room.
+- Mario programs do not accept input.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Bulle. (cow in season)
+> Wenn eine Schraube locker ist, hat das Leben etwas mehr Spiel.
 
 ---
 
