@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Lieber den Faust im Kopf als auf dem Auge.
+> Die nächste Steinzeit kommt bestimmt.
 
 ---
 
