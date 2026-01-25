@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario point to NULL, Null scares.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
+> Selig, wer nichts zu sagen hat und doch schweigt.
 
 ---
 
