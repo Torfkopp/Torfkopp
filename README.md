@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Selig, wer nichts zu sagen hat und doch schweigt.
+> Lieber eine Meise als gar keinen Vogel.
 
 ---
 
