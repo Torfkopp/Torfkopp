@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario CAN divide by 0.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws exceptions, it's across the room.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
+> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
 
 ---
 
