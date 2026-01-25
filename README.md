@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario writes code that optimizes itself.
+- Mario never has to use the -f option when deleting files.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Lieber Frust im Kopf als Faust aufs Auge.
+> Hardware sucht Software für Bumsware.
 
 ---
 
