@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario point to NULL, Null scares.
+- Mario CAN divide by 0.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
