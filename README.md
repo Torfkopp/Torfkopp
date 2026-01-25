@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Durch Arbeit versaut man sich den ganzen Tag.
+> Ein Taucher, der nicht taucht, taucht nix.
 
 ---
 
