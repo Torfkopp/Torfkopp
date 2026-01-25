@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario develops in prod.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can't test for equality because he has no equal.
+- Mario can store the value 256 in one byte
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Lieber fünf vor zwölf als keine nach eins.
+> Lieber eine Fliege im Porzellanladen, als ein Elefant in der Suppe!
 
 ---
 
