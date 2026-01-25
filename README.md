@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario never has to use the -f option when deleting files.
-- Mario programs do not accept input.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Hardware sucht Software für Bumsware.
+> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
 
 ---
 
