@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can compile syntax errors.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Und von wem haben Sie Ihre Meinung?
+> Der Arbeitstag beginnt um sieben; doch nicht, wenn du im Bett geblieben.
 
 ---
 
