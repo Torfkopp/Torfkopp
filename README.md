@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario programs do not accept input.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Der Arbeitstag beginnt um sieben; doch nicht, wenn du im Bett geblieben.
+> Durch Arbeit versaut man sich den ganzen Tag.
 
 ---
 
