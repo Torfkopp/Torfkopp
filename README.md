@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can't test for equality because he has no equal.
+- Mario CAN divide by 0.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Ein Taucher, der nicht taucht, taucht nix.
+> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
 
 ---
 
