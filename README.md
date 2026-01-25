@@ -6,13 +6,13 @@
 
 ### About Mario
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Viele Köche sind des Hasen Tod.
+> Arbeitskraft? Nein danke.
 
 ---
 
