@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario writes code that optimizes itself.
+- Mario can delete the Recycle Bin.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Lieber eine Meise als gar keinen Vogel.
+> Lieber Frust im Kopf als Faust aufs Auge.
 
 ---
 
