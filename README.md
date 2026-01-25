@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario point to NULL, Null scares.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber fernsehmüde als radioaktiv.
+> Und von wem haben Sie Ihre Meinung?
 
 ---
 
