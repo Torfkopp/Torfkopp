@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Im Schatten ist es ruhig, weil man das Licht nicht hört.
+> Gemeinsam sind wir unausstehlich.
 
 ---
 
