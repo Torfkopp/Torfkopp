@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario CAN divide by 0.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Das nehm ich dir übel, sprach der Dübel, und verschwand in der Wand, wo ihn niemand wiederfand.
+> Lieber Gott, macht mich blind, dass ich diese Welt gut find.
 
 ---
 
