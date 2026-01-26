@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario exits vim by typing "exit"
+- Mario writes code that optimizes itself.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Der Computer ist die Antwort ... Was war eigentlich die Frage?
+> Wir beiben unserm Grundsatz treu: trickreich, scharf und arbeitsscheu.
 
 ---
 
