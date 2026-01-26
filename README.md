@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- When Mario throws exceptions, it's across the room.
-- Mario uses /dev/null as STDIN.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Nonsens ist der Sieg des Geistes über die Vernunft.
+> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
 
 ---
 
