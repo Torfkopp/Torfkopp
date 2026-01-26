@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber Gott, macht mich blind, dass ich diese Welt gut find.
+> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
 
 ---
 
