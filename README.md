@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario writes code that optimizes itself.
-- Mario can write to ROM.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario throws exceptions, it's across the room.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wir beiben unserm Grundsatz treu: trickreich, scharf und arbeitsscheu.
+> Nonsens ist der Sieg des Geistes über die Vernunft.
 
 ---
 
