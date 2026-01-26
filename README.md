@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- 404 errors simply mean that Mario has been there before you.
+- Weird, it always works on Mario's machine.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Macht der Blechknopf plötzlich peng, waren deine Jeans zu eng.
+> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
 
 ---
 
