@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario programs do not accept input.
+- Mario can binary search unsorted data.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
+> Lieber mit einer kleinen Maus aufwachen als mit einem großen Kater.
 
 ---
 
