@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can binary search unsorted data.
-- When Mario point to NULL, Null scares.
+- Parent is the child of Mario.
+- When Mario drops a table it's bloody but silent.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Lieber mit einer kleinen Maus aufwachen als mit einem großen Kater.
+> Wer Hamburger nachmacht oder verfälscht, wird mit Donalds nicht unter fünf Mac bestraft.
 
 ---
 
