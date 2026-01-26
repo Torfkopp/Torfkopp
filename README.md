@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario programs do not accept input.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Arbeitskraft? Nein danke.
+> Der Computer ist die Antwort ... Was war eigentlich die Frage?
 
 ---
 
