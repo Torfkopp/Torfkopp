@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can compile syntax errors.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
+> Im Schatten ist es ruhig, weil man das Licht nicht hört.
 
 ---
 
