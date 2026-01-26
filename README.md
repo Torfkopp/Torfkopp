@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can compile syntax errors.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
+> Macht der Blechknopf plötzlich peng, waren deine Jeans zu eng.
 
 ---
 
