@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario drops a table it's bloody but silent.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Weird, it always works on Mario's machine.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wer Hamburger nachmacht oder verfälscht, wird mit Donalds nicht unter fünf Mac bestraft.
+> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
 
 ---
 
