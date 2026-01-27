@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario programs do not accept input.
-- Mario can write to ROM.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can binary search unsorted data.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Wir fordern Haftpflicht für künstliche Gebisse.
 
 ---
 
