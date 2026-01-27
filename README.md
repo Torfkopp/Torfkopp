@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not code in cycles, he codes in strikes.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Auch Dornröschen trug kein Höschen.
+> Biste in der EDV, kennt deine Daten jede Sau.
 
 ---
 
