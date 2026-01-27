@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
+> Man soll die Gäste feuern, wie sie fallen.
 
 ---
 
