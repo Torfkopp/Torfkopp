@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario does not code in cycles, he codes in strikes.
-- Parent is the child of Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Biste in der EDV, kennt deine Daten jede Sau.
+> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
 
 ---
 
