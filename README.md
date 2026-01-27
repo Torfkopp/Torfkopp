@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
+- Mario develops in prod.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario programs do not accept input.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Man soll die Gäste feuern, wie sie fallen.
+> Jeder ist seines Glückes Störenfried.
 
 ---
 
