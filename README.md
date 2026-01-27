@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Warum nur den Lukas hauen? Markus, Matthäus und Johannes sind auch noch da!
+> Milch trinken ist besser als Quark reden.
 
 ---
 
