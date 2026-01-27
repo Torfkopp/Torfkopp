@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can't test for equality because he has no equal.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Jeder ist seines Glückes Störenfried.
+> Auch Dornröschen trug kein Höschen.
 
 ---
 
