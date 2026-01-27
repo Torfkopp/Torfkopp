@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can write to ROM.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
