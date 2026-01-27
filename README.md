@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario exits vim by typing "exit"
+- Parent is the child of Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Milch trinken ist besser als Quark reden.
+> Der Papst zu Thomas Gottschalk: Wetten, dass ich 200 Flughäfen am Geschmack erkenne?
 
 ---
 
