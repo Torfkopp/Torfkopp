@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can binary search unsorted data.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can compile syntax errors.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wir fordern Haftpflicht für künstliche Gebisse.
+> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
 
 ---
 
