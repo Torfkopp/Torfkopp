@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- 404 errors simply mean that Mario has been there before you.
-- When Mario point to NULL, Null scares.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Weird, it always works on Mario's machine.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
+> Vendi laus amoris, paxe, trixe, caputisse.
 
 ---
 
