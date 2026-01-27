@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
 - Mario exits vim by typing "exit"
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Unrecht Gut gedeiht, nicht?
+> Mit den Händen in den Taschen kann man keine Fliegen haschen.
 
 ---
 
