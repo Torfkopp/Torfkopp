@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Windows 7 was Mario's idea.
+- Mario can binary search unsorted data.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Mit den Händen in den Taschen kann man keine Fliegen haschen.
+> Warum nur den Lukas hauen? Markus, Matthäus und Johannes sind auch noch da!
 
 ---
 
