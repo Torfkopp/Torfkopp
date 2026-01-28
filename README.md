@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 - Mario writes code that optimizes itself.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
