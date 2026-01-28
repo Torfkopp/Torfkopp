@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can store the value 256 in one byte
+- When Mario point to NULL, Null scares.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
+> Warum sachlich werden, wenn es auch persönlich geht.
 
 ---
 
