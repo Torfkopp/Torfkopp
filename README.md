@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario develops in prod.
+- Mario can delete the Recycle Bin.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
+> Für Geld tue ich alles, sogar arbeiten.
 
 ---
 
