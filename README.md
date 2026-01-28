@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario hosting is 105% uptime guaranteed.
+- Mario writes code that optimizes itself.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Warum sachlich werden, wenn es auch persönlich geht.
+> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
 
 ---
 
