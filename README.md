@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Bei diesem Neeklischee und Parföng ward's dem Alten zu eng.
+> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
 
 ---
 
