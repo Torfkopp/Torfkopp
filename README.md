@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario writes code that optimizes itself.
-- When Mario throws exceptions, it's across the room.
+- Parent is the child of Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Es gibt viel zu tun, nix wie weg.
+> Wir wollen endlich alle Kanzler werden!
 
 ---
 
