@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never has to use the -f option when deleting files.
+- Mario can delete the Recycle Bin.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht; alles zahlt, ALDI lacht.
+> Lieber Himbeergeist als Männerverstand.
 
 ---
 
