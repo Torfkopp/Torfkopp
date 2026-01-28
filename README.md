@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws exceptions, it's across the room.
+- When Mario point to NULL, Null scares.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Lehrer sind Menschen, die nach der Schule in Pension gehen.
+> Bei diesem Neeklischee und Parföng ward's dem Alten zu eng.
 
 ---
 
