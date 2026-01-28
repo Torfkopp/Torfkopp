@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The compiler fixes its own mistakes and never warns Mario about anything.
 - Parent is the child of Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario develops in prod.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Der Papst zu Thomas Gottschalk: Wetten, dass ich 200 Flughäfen am Geschmack erkenne?
+> Coeo, ergo sum.
 
 ---
 
