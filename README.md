@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Parent is the child of Mario.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can compile syntax errors.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Coeo, ergo sum.
+> Warum sachlich werden, wenn es auch persönlich geht.
 
 ---
 
