@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never has to use the -f option when deleting files.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Für Geld tue ich alles, sogar arbeiten.
+> Nirwana ist nirgendwo, Banana ist überall.
 
 ---
 
