@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Windows 7 was Mario's idea.
+- Mario CAN divide by 0.
+- Mario hosting is 105% uptime guaranteed.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Sonderlinge lachen sogar beim Zwiebelschneiden.
+> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
 
 ---
 
