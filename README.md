@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Man kann sich an allem gewöhnen, auch am Dativ.
+> Muss es erst duster sein, bevor uns ein Licht aufgeht?
 
 ---
 
