@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can write to ROM.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Enthaltsamkeit ist aller Laster Anfang.
+> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
 
 ---
 
