@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario point to NULL, Null scares.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Legal - Illegal - Scheißegal!
+> Der Bauer pflügt, der Bauer eggt, derweil im Stall das Vieh verreckt.
 
 ---
 
