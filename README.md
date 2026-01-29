@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Ist Silvester hell und klar, ist am andern Tag Neujahr.
+> Legal - Illegal - Scheißegal!
 
 ---
 
