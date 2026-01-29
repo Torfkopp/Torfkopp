@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario exits vim by typing "exit"
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Langweilige Frauen haben blitzsaubere Küchen.
+> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
 
 ---
 
