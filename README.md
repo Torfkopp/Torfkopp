@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can write to ROM.
-- Mario never has to use the -f option when deleting files.
+- Mario can store the value 256 in one byte
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Sonderlinge lachen sogar beim Zwiebelschneiden.
 
 ---
 
