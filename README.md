@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario hosting is 105% uptime guaranteed.
-- Weird, it always works on Mario's machine.
+- Mario programs do not accept input.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
+> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
 
 ---
 
