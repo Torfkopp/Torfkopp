@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Mario can write to ROM.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario drops a table it's bloody but silent.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
+> Auch stille Wasser sind nass.
 
 ---
 
