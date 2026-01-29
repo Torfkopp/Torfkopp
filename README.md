@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't make http requests. He makes http demands.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can binary search unsorted data.
+- Mario develops in prod.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
+> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
 
 ---
 
