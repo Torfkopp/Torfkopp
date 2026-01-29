@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario writes code that optimizes itself.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Ab zwanzig Uhr wird zurückgesungen! (Kalle Pohl über die Eurovisions-Vorentscheidung am 19.2.2000)
+> Man kann sich an allem gewöhnen, auch am Dativ.
 
 ---
 
