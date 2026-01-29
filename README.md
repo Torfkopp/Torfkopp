@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario does not code in cycles, he codes in strikes.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Muss es erst duster sein, bevor uns ein Licht aufgeht?
+> Langweilige Frauen haben blitzsaubere Küchen.
 
 ---
 
