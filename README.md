@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario writes code that optimizes itself.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Lieber von Picasso gemalt als vom Schicksal gezeichnet.
+> Mens sana in Campari Soda.
 
 ---
 
