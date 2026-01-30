@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never has to use the -f option when deleting files.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Mens sana in Campari Soda.
+> Multimedia ist, wenn es trotzdem klappt.
 
 ---
 
