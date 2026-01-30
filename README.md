@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 - Mario exits vim by typing "exit"
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
+> Lieber entlarvt als entschärft.
 
 ---
 
