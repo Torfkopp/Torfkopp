@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Parent is the child of Mario.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
+> Lieber von Picasso gemalt als vom Schicksal gezeichnet.
 
 ---
 
