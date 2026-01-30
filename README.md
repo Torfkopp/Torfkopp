@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can compile syntax errors.
+- Mario develops in prod.
+- Parent is the child of Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Multimedia ist, wenn es trotzdem klappt.
+> Andiamo – an den Dynamo
 
 ---
 
