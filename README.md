@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never has to use the -f option when deleting files.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can write to ROM.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Libero als gekocht.
+> Wer A sagt, kann auch gleich Halstabletten nehmen.
 
 ---
 
