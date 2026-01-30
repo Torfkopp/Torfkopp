@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can compile syntax errors.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario writes code that optimizes itself.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Lieber Blödeleien als blöde Laien.
+> Lieber von Picasso gemalt als vom Schicksal gezeichnet.
 
 ---
 
