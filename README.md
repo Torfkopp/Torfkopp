@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Parent is the child of Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can store the value 256 in one byte
+- Mario exits vim by typing "exit"
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Andiamo – an den Dynamo
+> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
 
 ---
 
