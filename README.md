@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can't test for equality because he has no equal.
-- Mario doesn't use web standards as the web will conform to him.
+- Windows 7 was Mario's idea.
+- Parent is the child of Mario.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Ab zwanzig Uhr wird zurückgesungen! (Kalle Pohl über die Eurovisions-Vorentscheidung am 19.2.2000)
+> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
 
 ---
 
