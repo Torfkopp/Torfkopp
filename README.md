@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario exits vim by typing "exit"
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Weird, it always works on Mario's machine.
+- Mario can delete the Recycle Bin.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lieber entlarvt als entschärft.
+> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
 
 ---
 
