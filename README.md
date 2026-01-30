@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario exits vim by typing "exit"
-- Mario can delete the Recycle Bin.
+- When Mario drops a table it's bloody but silent.
+- Mario programs do not accept input.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
+> Wer Wind sät, scheut das Feuer.
 
 ---
 
