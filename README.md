@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario programs do not accept input.
 - The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Wer Wind sät, scheut das Feuer.
+> Lieber niederträchtig als hochschwanger.
 
 ---
 
