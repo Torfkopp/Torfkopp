@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario uses /dev/null as STDIN.
+- Mario writes code that optimizes itself.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Lieber von Picasso gemalt als vom Schicksal gezeichnet.
+> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
 
 ---
 
