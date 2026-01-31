@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Ehe = errare humanum est.
+> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
 
 ---
 
