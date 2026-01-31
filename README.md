@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario uses /dev/null as STDIN.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario programs do not accept input.
+- Mario doesn't make http requests. He makes http demands.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Raritäten, die in Massen auftreten, sind besonders selten.
+> Schneeflöckchen, Weißröckchen, Stinksöckchen.
 
 ---
 
