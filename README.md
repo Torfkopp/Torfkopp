@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can store the value 256 in one byte
+- Mario CAN divide by 0.
 - Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
+> Die Intelligenz verfolgt mich, doch ich bin schneller.
 
 ---
 
