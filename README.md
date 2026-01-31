@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can't test for equality because he has no equal.
+- Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Die Axt im Haus ist die Mutter der Porzellankiste.
+> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
 
 ---
 
