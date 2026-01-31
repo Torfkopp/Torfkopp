@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can't test for equality because he has no equal.
-- Mario develops in prod.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario point to NULL, Null scares.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
