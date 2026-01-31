@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- To Mario, everything contains a vulnerability.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Sturm ist erst, wenn Schafe keine Locken mehr haben.
 
 ---
 
