@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't make http requests. He makes http demands.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can't test for equality because he has no equal.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Schneeflöckchen, Weißröckchen, Stinksöckchen.
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
