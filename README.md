@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario CAN divide by 0.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs do not accept input.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
+> Ehe = errare humanum est.
 
 ---
 
