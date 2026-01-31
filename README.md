@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
+> Nicht jeder Mann, der raucht, ist ein Vulkan.
 
 ---
 
