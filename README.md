@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario does not code in cycles, he codes in strikes.
+- Mario uses /dev/null as STDIN.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Nicht jeder Mann, der raucht, ist ein Vulkan.
+> Raritäten, die in Massen auftreten, sind besonders selten.
 
 ---
 
