@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- To Mario, everything contains a vulnerability.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario exits vim by typing "exit"
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Sturm ist erst, wenn Schafe keine Locken mehr haben.
+> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
 
 ---
 
