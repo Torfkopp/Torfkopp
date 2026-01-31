@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario CAN divide by 0.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario exits vim by typing "exit"
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Die Intelligenz verfolgt mich, doch ich bin schneller.
+> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
 
 ---
 
