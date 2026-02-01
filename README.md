@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario drops a table it's bloody but silent.
-- Windows 7 was Mario's idea.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Es wird nicht alles so heiß gegessen wie man sich fühlt.
+> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
 
 ---
 
