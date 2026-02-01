@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario point to NULL, Null scares.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Besser niederträchtig als hochschwanger.
 
 ---
 
