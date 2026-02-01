@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can't test for equality because he has no equal.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
+> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
 
 ---
 
