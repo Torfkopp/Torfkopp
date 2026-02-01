@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario can write to ROM.
-- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Dummheit, verlass ihn nicht, sonst steht er ganz allein.
+> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
 
 ---
 
