@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - When Mario throws an exception it's either across the room or out the window.
+- Mario can binary search unsorted data.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
+> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
 
 ---
 
