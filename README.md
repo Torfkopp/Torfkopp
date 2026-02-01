@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can delete the Recycle Bin.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Frisch verzagt ist halb verzweifelt.
+> Gerne der Zeiten gedenk' ich, da alle Glieder gelenkig - bis auf eins. Doch die Zeiten sind vorüber, steif geworden alle Glieder - bis auf eins.
 
 ---
 
