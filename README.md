@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Der Arbeitstag beginnt um sieben; doch nicht, wenn du im Bett geblieben.
+> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
 
 ---
 
