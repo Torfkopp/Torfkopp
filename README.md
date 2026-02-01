@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Allen Leuten recht getan ist Sauerkraut mit Lebertran.
+> Unfug und Unrecht werden mit Fug und Recht bestraft.
 
 ---
 
