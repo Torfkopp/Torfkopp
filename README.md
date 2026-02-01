@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
+> Ist kein Frostschutz mehr im Wein, tun sie halt was andres rein.
 
 ---
 
