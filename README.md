@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario drops a table it's bloody but silent.
+- Windows 7 was Mario's idea.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
+> Es wird nicht alles so heiß gegessen wie man sich fühlt.
 
 ---
 
