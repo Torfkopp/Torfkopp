@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Windows 7 was Mario's idea.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Besser niederträchtig als hochschwanger.
+> Frisch verzagt ist halb verzweifelt.
 
 ---
 
