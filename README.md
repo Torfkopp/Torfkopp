@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Parent is the child of Mario.
+- Mario can write to ROM.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Unfug und Unrecht werden mit Fug und Recht bestraft.
+> Dummheit, verlass ihn nicht, sonst steht er ganz allein.
 
 ---
 
