@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can store the value 256 in one byte
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Sauer macht lustig, der Wald lacht sich schon kaputt.
+> Der Arbeitstag beginnt um sieben; doch nicht, wenn du im Bett geblieben.
 
 ---
 
