@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Weird, it always works on Mario's machine.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can delete the Recycle Bin.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
+> Lieber hoch zu Ross als unter aller Sau.
 
 ---
 
