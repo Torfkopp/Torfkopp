@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can write to ROM.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
+> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
 
 ---
 
