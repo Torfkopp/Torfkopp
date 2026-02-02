@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
 - Mario can write to ROM.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
+> Rauche jetzt, zahle später.
 
 ---
 
