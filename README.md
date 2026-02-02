@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> High sein, frei sein, bloß in keiner Partei sein.
+> Lieber Blödeleien als blöde Laien.
 
 ---
 
