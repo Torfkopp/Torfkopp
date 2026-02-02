@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never has to use the -f option when deleting files.
+- Weird, it always works on Mario's machine.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Der deutsche Humor ist seiner Seltenheit wegen besonders wertvoll.
+> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
 
 ---
 
