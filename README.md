@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can't test for equality because he has no equal.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Ich kann fliegen, sagte der Wurm, als er mit dem Apfel vom Baum fiel.
+> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
 
 ---
 
