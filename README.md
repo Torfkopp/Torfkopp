@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario writes code that optimizes itself.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Planung ist der Ersatz des Zufalls durch den Irrtum.
+> Der deutsche Humor ist seiner Seltenheit wegen besonders wertvoll.
 
 ---
 
