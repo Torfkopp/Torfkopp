@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can't test for equality because he has no equal.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario writes code that optimizes itself.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Lieber Blödeleien als blöde Laien.
+> Planung ist der Ersatz des Zufalls durch den Irrtum.
 
 ---
 
