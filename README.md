@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can binary search unsorted data.
+- Mario can't test for equality because he has no equal.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Homer ist, wenn man trotzdem lacht.
+> Ich bin zutiefst gerührt, sprach der Teig.
 
 ---
 
