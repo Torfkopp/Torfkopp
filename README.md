@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario develops in prod.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Sie haben die Macht, doch wir haben die Nacht.
+> Homer ist, wenn man trotzdem lacht.
 
 ---
 
