@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never has to use the -f option when deleting files.
+- Mario develops in prod.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Ist kein Frostschutz mehr im Wein, tun sie halt was andres rein.
+> Sie haben die Macht, doch wir haben die Nacht.
 
 ---
 
