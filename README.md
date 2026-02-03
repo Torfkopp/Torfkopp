@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario hosting is 105% uptime guaranteed.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can binary search unsorted data.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Der Klügere zählt nach.
+> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
 
 ---
 
