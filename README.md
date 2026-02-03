@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can binary search unsorted data.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never has to use the -f option when deleting files.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
+> Legt die Nordsee trocken, wir wollen nach England.
 
 ---
 
