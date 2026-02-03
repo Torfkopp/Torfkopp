@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can store the value 256 in one byte
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Libero als gekocht.
+> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
 
 ---
 
