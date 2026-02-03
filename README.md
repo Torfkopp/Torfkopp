@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can compile syntax errors.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
+> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
 
 ---
 
