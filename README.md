@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario develops in prod.
-- Mario does not code in cycles, he codes in strikes.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Keiner redet dümmer als er ist.
+> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
 
 ---
 
