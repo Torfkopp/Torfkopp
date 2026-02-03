@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario CAN divide by 0.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- To Mario, everything contains a vulnerability.
+- Mario hosting is 105% uptime guaranteed.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Nirwana ist nirgendwo, Banana ist überall.
+> Der Klügere zählt nach.
 
 ---
 
