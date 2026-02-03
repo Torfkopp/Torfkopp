@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- 404 errors simply mean that Mario has been there before you.
 - Mario plugs in USB sticks perfectly the first time every time
-- Mario can't test for equality because he has no equal.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
+> Gewollte Brillanz ergibt nur Brillantine.
 
 ---
 
