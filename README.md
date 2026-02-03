@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can delete the Recycle Bin.
+- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Hier spraye ich und kann nicht anders.
+> Unfug und Unrecht werden mit Fug und Recht bestraft.
 
 ---
 
