@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never has to use the -f option when deleting files.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Legt die Nordsee trocken, wir wollen nach England.
+> Wer ein langes Gesicht macht, hat mehr zu rasieren.
 
 ---
 
