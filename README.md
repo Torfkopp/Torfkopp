@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario CAN divide by 0.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Gewollte Brillanz ergibt nur Brillantine.
+> Nirwana ist nirgendwo, Banana ist überall.
 
 ---
 
