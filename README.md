@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario does not code in cycles, he codes in strikes.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Der Klügere gibt vor, nachzugeben.
+> Libero als gekocht.
 
 ---
 
