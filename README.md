@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Parent is the child of Mario.
-- Mario can write to ROM.
+- Weird, it always works on Mario's machine.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Die Pflicht ruft? Wir rufen zurück.
+> Hier spraye ich und kann nicht anders.
 
 ---
 
