@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario invented binary by performing a roundhouse on the number 10.
 - Mario programs do not accept input.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Unfug und Unrecht werden mit Fug und Recht bestraft.
+> Ich wollte die Einschulung aus Gewissensgründen verweigern.
 
 ---
 
