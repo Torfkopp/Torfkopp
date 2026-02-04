@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- To Mario, everything contains a vulnerability.
-- Mario exits vim by typing "exit"
+- Weird, it always works on Mario's machine.
+- Parent is the child of Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
+> Wo viel Lid ist, ist auch viel Schatten.
 
 ---
 
