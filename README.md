@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario CAN divide by 0.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Arbeit ist der Untergang der trinkenden Klasse.
+> Ist kein Frostschutz mehr im Wein, tun sie halt was andres rein.
 
 ---
 
