@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Parent is the child of Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wo viel Lid ist, ist auch viel Schatten.
+> Sturm ist erst, wenn Schafe keine Locken mehr haben.
 
 ---
 
