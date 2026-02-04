@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario CAN divide by 0.
-- Weird, it always works on Mario's machine.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Lieber niederträchtig als hochschwanger.
+> Frisch gewagt ist halb verschrottet.
 
 ---
 
