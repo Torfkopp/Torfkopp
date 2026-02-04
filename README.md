@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario hosting is 105% uptime guaranteed.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario CAN divide by 0.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
+> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
 
 ---
 
