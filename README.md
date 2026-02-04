@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario programs do not accept input.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can compile syntax errors.
+- To Mario, everything contains a vulnerability.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Ich wollte die Einschulung aus Gewissensgründen verweigern.
+> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
 
 ---
 
