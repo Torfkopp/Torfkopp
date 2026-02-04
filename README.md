@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can binary search unsorted data.
+- Mario CAN divide by 0.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Ist kein Frostschutz mehr im Wein, tun sie halt was andres rein.
+> Lieber Gold in der Kehle als Silber im Blick.
 
 ---
 
