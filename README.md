@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs do not accept input.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Je leerer die Versprechungen, desto voller die Absicht.
+> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
 
 ---
 
