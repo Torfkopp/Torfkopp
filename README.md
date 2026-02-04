@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - Mario CAN divide by 0.
-- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
+> Arbeit ist der Untergang der trinkenden Klasse.
 
 ---
 
