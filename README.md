@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
+- Mario can't test for equality because he has no equal.
 - Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Sturm ist erst, wenn Schafe keine Locken mehr haben.
+> Je leerer die Versprechungen, desto voller die Absicht.
 
 ---
 
