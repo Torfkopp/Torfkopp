@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 - Mario programs do not accept input.
-- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
+> Ich bin ein Vampir: wasch dir den Hals!
 
 ---
 
