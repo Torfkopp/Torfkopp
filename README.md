@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Lieber Kröten im Beutel als 'nen Frosch im Hals.
+> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
 
 ---
 
