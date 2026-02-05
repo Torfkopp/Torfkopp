@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can compile syntax errors.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can store the value 256 in one byte
+- When Mario drops a table it's bloody but silent.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Nimms leicht, sonst nimmts ein anderer.
 
 ---
 
