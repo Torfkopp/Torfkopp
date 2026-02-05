@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario hosting is 105% uptime guaranteed.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario point to NULL, Null scares.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Frisch gewagt ist halb verschrottet.
+> Dummheit, verlass ihn nicht, sonst steht er ganz allein.
 
 ---
 
