@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- When Mario drops a table it's bloody but silent.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can compile syntax errors.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Nimms leicht, sonst nimmts ein anderer.
+> Ich sage, was ich denke, damit ich höre, was ich weiß.
 
 ---
 
