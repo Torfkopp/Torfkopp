@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario point to NULL, Null scares.
-- Mario can store the value 256 in one byte
+- Mario writes code that optimizes itself.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Dummheit, verlass ihn nicht, sonst steht er ganz allein.
+> Lieber leb' ich meiner Lust als Stempeluhr und Arbeitsfrust.
 
 ---
 
