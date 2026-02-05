@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Er hat Haare auf der Brust. Na und? Lassie etwa nicht?
+> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
 
 ---
 
