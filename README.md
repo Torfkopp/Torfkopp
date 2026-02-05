@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Lieber Mixed Pickles als Akne.
+> Alle angenehmen Dinge sind entweder unmoralisch, illegal oder machen dick.
 
 ---
 
