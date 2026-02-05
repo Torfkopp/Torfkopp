@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Weird, it always works on Mario's machine.
+- To Mario, everything contains a vulnerability.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Ich sage, was ich denke, damit ich höre, was ich weiß.
+> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
 
 ---
 
