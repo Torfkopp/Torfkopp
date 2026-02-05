@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario exits vim by typing "exit"
-- Mario can binary search unsorted data.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Windows 7 was Mario's idea.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
+> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
 
 ---
 
