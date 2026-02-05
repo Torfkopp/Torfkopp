@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario exits vim by typing "exit"
 - Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
+> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
 
 ---
 
