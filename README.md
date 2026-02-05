@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can access the DB from the UI.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
+> Er hat Haare auf der Brust. Na und? Lassie etwa nicht?
 
 ---
 
