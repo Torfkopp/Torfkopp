@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario develops in prod.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Lieber leb' ich meiner Lust als Stempeluhr und Arbeitsfrust.
+> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
 
 ---
 
