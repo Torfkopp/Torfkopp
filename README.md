@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario develops in prod.
-- When Mario drops a table it's bloody but silent.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
+> Lieber Mixed Pickles als Akne.
 
 ---
 
