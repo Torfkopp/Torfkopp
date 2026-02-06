@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Hau niemals ab - hau einfach zu!
+> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
 
 ---
 
