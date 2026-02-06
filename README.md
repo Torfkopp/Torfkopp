@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When Mario drops a table it's bloody but silent.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Freiheit für alle! Weg mit der Schwerkraft!
+> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
 
 ---
 
