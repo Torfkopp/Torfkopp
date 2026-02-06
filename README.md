@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can't test for equality because he has no equal.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Olle. (Kind eines großzügigen Vaters)
+> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
 
 ---
 
