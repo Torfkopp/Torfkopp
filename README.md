@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
+> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
 
 ---
 
