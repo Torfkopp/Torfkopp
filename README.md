@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Die Luft ist Schein, und der trügt.
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
