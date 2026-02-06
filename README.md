@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can store the value 256 in one byte
+- Mario uses /dev/null as STDIN.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Sie haben die Macht, doch wir haben die Nacht.
+> Alles ist so, wie es ist, nur schlechter.
 
 ---
 
