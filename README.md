@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- To Mario, everything contains a vulnerability.
-- Weird, it always works on Mario's machine.
+- Mario can store the value 256 in one byte
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Jolle. (Segler)
+> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
 
 ---
 
