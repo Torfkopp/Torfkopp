@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario develops in prod.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can delete the Recycle Bin.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Es gibt viel zu tun, nix wie weg.
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
