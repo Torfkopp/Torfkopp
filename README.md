@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- To Mario, everything contains a vulnerability.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Fährt man rückwärts an den Baum, verkleinert sich der Kofferraum.
+> Mens sana in Campari Soda.
 
 ---
 
