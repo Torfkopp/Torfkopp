@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- To Mario, everything contains a vulnerability.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Mens sana in Campari Soda.
+> Die größte Offenbarung ist der Olle. (Kind eines großzügigen Vaters)
 
 ---
 
