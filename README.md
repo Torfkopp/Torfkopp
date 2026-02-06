@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
+> Die Luft ist Schein, und der trügt.
 
 ---
 
