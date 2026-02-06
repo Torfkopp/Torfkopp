@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Erst grübeln, dann dübeln.
+> Hau niemals ab - hau einfach zu!
 
 ---
 
