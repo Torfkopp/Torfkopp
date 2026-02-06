@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
+> Die größte Offenbarung ist die Jolle. (Segler)
 
 ---
 
