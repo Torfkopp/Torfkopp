@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can delete the Recycle Bin.
-- 404 errors simply mean that Mario has been there before you.
+- When Mario throws exceptions, it's across the room.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Ein blindes Huhn findet auch mal eine lahme Ente.
+> Erst grübeln, dann dübeln.
 
 ---
 
