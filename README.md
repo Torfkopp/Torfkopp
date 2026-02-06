@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario uses /dev/null as STDIN.
-- Mario programs do not accept input.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario drops a table it's bloody but silent.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Alles ist so, wie es ist, nur schlechter.
+> Freiheit für alle! Weg mit der Schwerkraft!
 
 ---
 
