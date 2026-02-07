@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When Mario point to NULL, Null scares.
+- Mario exits vim by typing "exit"
+- Mario can binary search unsorted data.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Global investieren - lokal ruinieren.
+> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
 
 ---
 
