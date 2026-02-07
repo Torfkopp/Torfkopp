@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
+> Die nächste Steinzeit kommt bestimmt.
 
 ---
 
