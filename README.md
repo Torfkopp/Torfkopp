@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
 - Mario exits vim by typing "exit"
-- Mario can binary search unsorted data.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
+> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
 
 ---
 
