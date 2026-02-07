@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't make http requests. He makes http demands.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Biss demnächst, sagte der Vampir.
+> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
 
 ---
 
