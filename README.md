@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
+> Für einen Anlass gibt es immer eine Gelegenheit.
 
 ---
 
