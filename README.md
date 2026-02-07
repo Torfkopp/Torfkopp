@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can't test for equality because he has no equal.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- To Mario, everything contains a vulnerability.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> Wer den Teufel an die Wand malt, spart die Tapete.
 
 ---
 
