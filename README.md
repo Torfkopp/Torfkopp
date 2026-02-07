@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- To Mario, everything contains a vulnerability.
-- 404 errors simply mean that Mario has been there before you.
+- Parent is the child of Mario.
+- When Mario point to NULL, Null scares.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer den Teufel an die Wand malt, spart die Tapete.
+> Lieber träumen unter Bäumen als schaffen unter Affen.
 
 ---
 
