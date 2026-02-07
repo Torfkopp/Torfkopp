@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario point to NULL, Null scares.
-- Windows 7 was Mario's idea.
+- Mario can binary search unsorted data.
+- When Mario throws exceptions, it's across the room.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber träumen unter Bäumen als schaffen unter Affen.
+> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
 
 ---
 
