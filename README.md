@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- When Mario throws exceptions, it's across the room.
-- Mario CAN divide by 0.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
+> Hunde, die schielen, beißen daneben.
 
 ---
 
