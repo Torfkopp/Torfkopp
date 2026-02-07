@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Weird, it always works on Mario's machine.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
+> Die größte Offenbarung ist die Wolle. (Strickwarenfabrikant)
 
 ---
 
