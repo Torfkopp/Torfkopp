@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario can write to ROM.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Die nächste Steinzeit kommt bestimmt.
+> Global investieren - lokal ruinieren.
 
 ---
 
