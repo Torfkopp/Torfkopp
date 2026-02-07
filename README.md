@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario CAN divide by 0.
-- Mario can compile syntax errors.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Schützt die Glühbirnen vor dem Lampenfieber.
+> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
 
 ---
 
