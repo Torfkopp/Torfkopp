@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario hosting is 105% uptime guaranteed.
+- Mario CAN divide by 0.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Wolle. (Strickwarenfabrikant)
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
