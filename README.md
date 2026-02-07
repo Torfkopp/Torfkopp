@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario uses /dev/null as STDIN.
+- Mario CAN divide by 0.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Hunde, die schielen, beißen daneben.
+> Schützt die Glühbirnen vor dem Lampenfieber.
 
 ---
 
