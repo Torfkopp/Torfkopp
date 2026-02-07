@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- To Mario, everything contains a vulnerability.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Für einen Anlass gibt es immer eine Gelegenheit.
+> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
 
 ---
 
