@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
+> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
 
 ---
 
