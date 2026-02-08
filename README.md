@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can access the DB from the UI.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Ich summe, also bien ich.
+> Wer nichts wird, wird Zwischenwirt.
 
 ---
 
