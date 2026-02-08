@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Windows 7 was Mario's idea.
-- Parent is the child of Mario.
+- Mario CAN divide by 0.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Rote Lippen sind erotisch, blaue leider nicht eblautisch.
+> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
