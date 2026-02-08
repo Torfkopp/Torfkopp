@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario develops in prod.
+- Mario hosting is 105% uptime guaranteed.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer nichts wird, wird Zwischenwirt.
+> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
 
 ---
 
