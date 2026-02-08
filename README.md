@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario does not code in cycles, he codes in strikes.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
+> Der Klügere gibt vor, nachzugeben.
 
 ---
 
