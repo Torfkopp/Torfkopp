@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
+> Auch stille Wasser sind nass.
 
 ---
 
