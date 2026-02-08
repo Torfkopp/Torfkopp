@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
-- Mario exits vim by typing "exit"
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
+> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
 
 ---
 
