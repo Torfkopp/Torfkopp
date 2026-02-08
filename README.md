@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario hosting is 105% uptime guaranteed.
+- Mario can delete the Recycle Bin.
 - Windows 7 was Mario's idea.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
+> Rote Lippen sind erotisch, blaue leider nicht eblautisch.
 
 ---
 
