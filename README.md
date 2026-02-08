@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can access the DB from the UI.
+- Mario can store the value 256 in one byte
+- Mario never has to use the -f option when deleting files.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Wer dem Chef in den Hintern kriecht, muss damit rechnen, dass er ihm eines Tages zum Hals heraushängt.
 
 ---
 
