@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario never has to use the -f option when deleting files.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer dem Chef in den Hintern kriecht, muss damit rechnen, dass er ihm eines Tages zum Hals heraushängt.
+> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
 
 ---
 
