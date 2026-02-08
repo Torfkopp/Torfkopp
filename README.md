@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws an exception it's either across the room or out the window.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
+> Sturm ist erst, wenn Schafe keine Locken mehr haben.
 
 ---
 
