@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario develops in prod.
 - Mario can store the value 256 in one byte
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Der Klügere gibt vor, nachzugeben.
+> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
 
 ---
 
