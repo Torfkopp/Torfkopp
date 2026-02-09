@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario can't test for equality because he has no equal.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
+> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
 
 ---
 
