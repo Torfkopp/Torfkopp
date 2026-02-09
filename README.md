@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Windows 7 was Mario's idea.
+- Mario can't test for equality because he has no equal.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Nur die Harten kommen in den Garten.
+> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
 
 ---
 
