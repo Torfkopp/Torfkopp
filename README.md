@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Windows 7 was Mario's idea.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never has to use the -f option when deleting files.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Arbeit ist eine lustvolle Variante des Schwachsinns.
+> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
 
 ---
 
