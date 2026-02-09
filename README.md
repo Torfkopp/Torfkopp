@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can write to ROM.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario plugs in USB sticks perfectly the first time every time
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Frisch gewachst ist halb gefallen.
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
