@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can write to ROM.
+- Mario CAN divide by 0.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden.
+> Trimm dich, spring mal über deinen Schatten.
 
 ---
 
