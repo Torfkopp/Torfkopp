@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never has to use the -f option when deleting files.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws an exception it's either across the room or out the window.
+- Weird, it always works on Mario's machine.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
+> Hau niemals ab - hau einfach zu!
 
 ---
 
