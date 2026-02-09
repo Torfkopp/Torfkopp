@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can write to ROM.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
+> Frisch gewachst ist halb gefallen.
 
 ---
 
