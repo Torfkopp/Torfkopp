@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can delete the Recycle Bin.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't make http requests. He makes http demands.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
 
 ---
 
