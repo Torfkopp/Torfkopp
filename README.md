@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario drops a table it's bloody but silent.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
+> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
 
 ---
 
