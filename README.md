@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- When Mario drops a table it's bloody but silent.
+- Mario plugs in USB sticks perfectly the first time every time
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
+> Zwischen Leber und Milz ist noch Platz für ein Pils.
 
 ---
 
