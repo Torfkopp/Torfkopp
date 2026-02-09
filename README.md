@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
+- To Mario, everything contains a vulnerability.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Zwischen Leber und Milz ist noch Platz für ein Pils.
+> Wir wollen endlich alle Kanzler werden.
 
 ---
 
