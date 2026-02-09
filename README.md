@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't use web standards as the web will conform to him.
+- 404 errors simply mean that Mario has been there before you.
+- Windows 7 was Mario's idea.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Arbeit ist eine lustvolle Variante des Schwachsinns.
 
 ---
 
