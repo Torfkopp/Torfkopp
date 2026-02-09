@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Weird, it always works on Mario's machine.
-- Mario doesn't make http requests. He makes http demands.
+- Mario uses /dev/null as STDIN.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Hau niemals ab - hau einfach zu!
+> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
 
 ---
 
