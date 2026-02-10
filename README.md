@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario CAN divide by 0.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Trimm dich, spring mal über deinen Schatten.
+> Frisch gewachst ist halb gefallen.
 
 ---
 
