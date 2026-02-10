@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 - Mario can access the DB from the UI.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
+> Wer den Feind umarmt, macht ihn bewegungsunfähig.
 
 ---
 
