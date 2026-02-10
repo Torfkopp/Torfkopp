@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can access the DB from the UI.
-- Mario develops in prod.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wer den Feind umarmt, macht ihn bewegungsunfähig.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
