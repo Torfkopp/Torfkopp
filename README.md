@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario point to NULL, Null scares.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Lieber Mixed Pickles als Akne.
+> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
 
 ---
 
