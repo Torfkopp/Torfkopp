@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can binary search unsorted data.
 - Mario can write to ROM.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Lieber ein schwarzes Schaf als ein blauer Bock.
+> Die Pflicht ruft? Wir rufen zurück.
 
 ---
 
