@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can't test for equality because he has no equal.
-- Mario CAN divide by 0.
+- Parent is the child of Mario.
+- Mario never has to use the -f option when deleting files.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Sei schlau, bleib dumm.
+> Im Wald da sitzt ein Auerhahn und schaut mich ganz schön sauer an, was mich nicht stört, weil ich grad penne, und zwar auf seiner Auer-Henne.
 
 ---
 
