@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario programs do not accept input.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario throws exceptions, it's across the room.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
+> Zwischen Leber und Milz ist noch Platz für ein Pils.
 
 ---
 
