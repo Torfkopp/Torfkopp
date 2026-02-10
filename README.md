@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
+- Mario plugs in USB sticks perfectly the first time every time
 - Mario never has to use the -f option when deleting files.
-- Windows 7 was Mario's idea.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Im Wald da sitzt ein Auerhahn und schaut mich ganz schön sauer an, was mich nicht stört, weil ich grad penne, und zwar auf seiner Auer-Henne.
+> Lieber Mixed Pickles als Akne.
 
 ---
 
