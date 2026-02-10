@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - Mario programs occupy 150% of CPU, even when they are not executing.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Frisch gewachst ist halb gefallen.
+> Arbeit macht Spaß; man kann stundenlang zuschauen.
 
 ---
 
