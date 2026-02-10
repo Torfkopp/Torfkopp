@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; man kann stundenlang zuschauen.
+> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
 
 ---
 
