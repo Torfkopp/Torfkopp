@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario throws exceptions, it's across the room.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario uses /dev/null as STDIN.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Zwischen Leber und Milz ist noch Platz für ein Pils.
+> Lieber ein schwarzes Schaf als ein blauer Bock.
 
 ---
 
