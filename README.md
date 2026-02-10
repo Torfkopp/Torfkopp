@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't use web standards as the web will conform to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can't test for equality because he has no equal.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
+> Sei schlau, bleib dumm.
 
 ---
 
