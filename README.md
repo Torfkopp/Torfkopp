@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
+> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
 
 ---
 
