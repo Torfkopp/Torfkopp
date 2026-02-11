@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't make http requests. He makes http demands.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
+> Es wird nicht alles so heiß gegessen wie man sich fühlt.
 
 ---
 
