@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario point to NULL, Null scares.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can store the value 256 in one byte
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
+> Besser Sex für Geld als kein Sex und kein Geld.
 
 ---
 
