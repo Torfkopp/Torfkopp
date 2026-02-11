@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Windows 7 was Mario's idea.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Nieder mit dem Bockbier! Es lebe die Ziegenmilch!
+> Trinkt der Bill viel Kölsch vom Fass, macht's auch mit Hilary wieder Spaß.
 
 ---
 
