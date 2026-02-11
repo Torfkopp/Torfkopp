@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario exits vim by typing "exit"
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Es wird nicht alles so heiß gegessen wie man sich fühlt.
+> Lieber süßen Nebel als sauren Regen.
 
 ---
 
