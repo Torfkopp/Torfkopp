@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can store the value 256 in one byte
-- When Mario drops a table it's bloody but silent.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario programs do not accept input.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Besser Sex für Geld als kein Sex und kein Geld.
+> Ab zwanzig Uhr wird zurückgesungen! (Kalle Pohl über die Eurovisions-Vorentscheidung am 19.2.2000)
 
 ---
 
