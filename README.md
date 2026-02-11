@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can write to ROM.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Die Pflicht ruft? Wir rufen zurück.
+> Wer mehr kann, kann bald nicht mehr.
 
 ---
 
