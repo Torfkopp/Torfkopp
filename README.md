@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario point to NULL, Null scares.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer nicht hören will, muss fernsehen.
+> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
 
 ---
 
