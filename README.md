@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Trinkt der Bill viel Kölsch vom Fass, macht's auch mit Hilary wieder Spaß.
+> Die größte Offenbarung ist die Pupille. (Optiker)
 
 ---
 
