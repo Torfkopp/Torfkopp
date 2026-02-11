@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can't test for equality because he has no equal.
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Rot denken, grün wählen, blau machen, schwarz schaffen.
+> Wer nicht hören will, muss fernsehen.
 
 ---
 
