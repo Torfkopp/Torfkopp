@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Windows 7 was Mario's idea.
-- When Mario throws exceptions, it's across the room.
+- Mario develops in prod.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer rennt und lacht, kommt in Verdacht.
+> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
 
 ---
 
