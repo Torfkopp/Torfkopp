@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario exits vim by typing "exit"
-- When Mario throws exceptions, it's across the room.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber süßen Nebel als sauren Regen.
+> Rot denken, grün wählen, blau machen, schwarz schaffen.
 
 ---
 
