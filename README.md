@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
+- Windows 7 was Mario's idea.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pupille. (Optiker)
+> Wer rennt und lacht, kommt in Verdacht.
 
 ---
 
