@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario programs do not accept input.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws exceptions, it's across the room.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Genieße das Leben beständig, denn du bist länger tot als lebendig.
+> Lieber reich und gesund als arm und krank.
 
 ---
 
