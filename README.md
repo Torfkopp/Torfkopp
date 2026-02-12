@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
+> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
 
 ---
 
