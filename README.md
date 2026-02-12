@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never has to use the -f option when deleting files.
+- Windows 7 was Mario's idea.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Ein Playboy hat immer was in Petting.
+> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
 
 ---
 
