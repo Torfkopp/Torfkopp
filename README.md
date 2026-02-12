@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- When Mario throws exceptions, it's across the room.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber ungebunden als angebunden.
+> Lieber Himbeergeist als Männerverstand.
 
 ---
 
