@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario exits vim by typing "exit"
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Lieber reich und gesund als arm und krank.
+> Jedem Analphabeten sein Diktiergerät!
 
 ---
 
