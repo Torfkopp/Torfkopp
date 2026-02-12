@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario point to NULL, Null scares.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Wer früher stirbt, ist länger tot.
 
 ---
 
