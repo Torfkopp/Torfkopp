@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Windows 7 was Mario's idea.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
+> Genieße das Leben beständig, denn du bist länger tot als lebendig.
 
 ---
 
