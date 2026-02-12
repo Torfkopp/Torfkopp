@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario uses /dev/null as STDIN.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can binary search unsorted data.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wer früher stirbt, ist länger tot.
+> Freiheit für Grönland! Nieder mit dem Packeis!
 
 ---
 
