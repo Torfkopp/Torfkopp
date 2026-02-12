@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can binary search unsorted data.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Jedem Analphabeten sein Diktiergerät!
+> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
 
 ---
 
