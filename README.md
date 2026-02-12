@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can binary search unsorted data.
-- Mario develops in prod.
+- Mario never has to use the -f option when deleting files.
+- Mario can store the value 256 in one byte
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Freiheit für Grönland! Nieder mit dem Packeis!
+> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
 
 ---
 
