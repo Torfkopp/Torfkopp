@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When Mario drops a table it's bloody but silent.
-- Mario hosting is 105% uptime guaranteed.
+- Mario programs do not accept input.
+- When Mario throws exceptions, it's across the room.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
+> Lieber ungebunden als angebunden.
 
 ---
 
