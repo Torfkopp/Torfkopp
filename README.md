@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario can store the value 256 in one byte
-- When Mario point to NULL, Null scares.
+- Parent is the child of Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
+> Benutze die geile Gehirnmaschine!
 
 ---
 
