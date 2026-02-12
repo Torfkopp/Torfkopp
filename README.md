@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never has to use the -f option when deleting files.
 - It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
+> Spontaneität will wohlüberlegt sein.
 
 ---
 
