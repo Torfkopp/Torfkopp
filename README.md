@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Weird, it always works on Mario's machine.
+- When Mario drops a table it's bloody but silent.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Benutze die geile Gehirnmaschine!
+> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
 
 ---
 
