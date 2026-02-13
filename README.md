@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario uses /dev/null as STDIN.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wozu noch recht schreiben, wenn man links denkt?
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
