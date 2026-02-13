@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Parent is the child of Mario.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario throws exceptions, it's across the room.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
+> Informationsfreiheit für alle! Macht die Wände dünner!
 
 ---
 
