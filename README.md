@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario exits vim by typing "exit"
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
+> Drum prüfe, wer sich ewig schindet ...
 
 ---
 
