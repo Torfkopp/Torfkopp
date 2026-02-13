@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- To Mario, everything contains a vulnerability.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Informationsfreiheit für alle! Macht die Wände dünner!
+> Jedem Fiaker seine Viagra!
 
 ---
 
