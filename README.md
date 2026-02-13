@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario writes code that optimizes itself.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Genitiv ins Wasser, weil es Dativ ist.
+> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
 
 ---
 
