@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Parent is the child of Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Pubertät ist, wenn die Eltern anfangen schwierig zu werden.
+> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
 
 ---
 
