@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario develops in prod.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber Himbeergeist als Männerverstand.
+> Wer nichts wird, wird Zwischenwirt.
 
 ---
 
