@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- To Mario, everything contains a vulnerability.
+- Mario can access the DB from the UI.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Bei Dreckfuhlern muss man aufpassen wie ein Lachs.
+> Pubertät ist, wenn die Eltern anfangen schwierig zu werden.
 
 ---
 
