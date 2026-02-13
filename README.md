@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't use web standards as the web will conform to him.
-- Weird, it always works on Mario's machine.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario drops a table it's bloody but silent.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pille. (Familienplaner)
+> Frauen gemeinsam sind stark geschädigt.
 
 ---
 
