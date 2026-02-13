@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario develops in prod.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not code in cycles, he codes in strikes.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
