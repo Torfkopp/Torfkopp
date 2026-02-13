@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - When Mario drops a table it's bloody but silent.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Frauen gemeinsam sind stark geschädigt.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
