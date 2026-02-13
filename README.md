@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario uses /dev/null as STDIN.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Windows 7 was Mario's idea.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Bei Dreckfuhlern muss man aufpassen wie ein Lachs.
 
 ---
 
