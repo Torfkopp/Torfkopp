@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario drops a table it's bloody but silent.
-- When Mario point to NULL, Null scares.
+- Mario programs do not accept input.
+- Mario exits vim by typing "exit"
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
+> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
 
 ---
 
