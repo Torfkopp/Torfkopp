@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not code in cycles, he codes in strikes.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't use web standards as the web will conform to him.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
+> Die größte Offenbarung ist die Pille. (Familienplaner)
 
 ---
 
