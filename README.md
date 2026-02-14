@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Windows 7 was Mario's idea.
-- Mario can delete the Recycle Bin.
+- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Alle wollen zurück zur Natur; aber keiner zu Fuß.
+> Stille Nacht, heilige Nacht, schmeißt Bomben und Raketen, bis es kracht.
 
 ---
 
