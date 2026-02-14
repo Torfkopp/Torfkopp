@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Überlegen macht überlegen.
+> Wenn sich zwei streiten, freut sich der Anwalt.
 
 ---
 
