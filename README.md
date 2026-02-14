@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- To Mario, everything contains a vulnerability.
+- Mario can access the DB from the UI.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht, schmeißt Bomben und Raketen, bis es kracht.
+> Gute Mädchen kommen in den Himmel; böse überallhin.
 
 ---
 
