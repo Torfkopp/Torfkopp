@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can't test for equality because he has no equal.
 - Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Pessimisten finden auch in der Fischsuppe ein Haar.
+> Lieber hoch zu Ross als unter aller Sau.
 
 ---
 
