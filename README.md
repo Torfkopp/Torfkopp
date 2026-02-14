@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't make http requests. He makes http demands.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
+> Tu was fürs Vaterland: wandre aus.
 
 ---
 
