@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wenn sich zwei streiten, freut sich der Anwalt.
+> Lieber mit einer kleinen Maus aufwachen als mit einem großen Kater.
 
 ---
 
