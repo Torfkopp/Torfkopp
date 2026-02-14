@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario CAN divide by 0.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Muss es erst duster sein, bevor uns ein Licht aufgeht?
+> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
 
 ---
 
