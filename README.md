@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Weird, it always works on Mario's machine.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Gute Mädchen kommen in den Himmel; böse überallhin.
+> Drum prüfe, wer sich ewig schindet ...
 
 ---
 
