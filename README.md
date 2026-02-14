@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
 - Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Tu was fürs Vaterland: wandre aus.
+> Alle wollen zurück zur Natur; aber keiner zu Fuß.
 
 ---
 
