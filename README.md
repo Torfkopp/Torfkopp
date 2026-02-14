@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can binary search unsorted data.
+- Mario does not code in cycles, he codes in strikes.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Bei diesem Neeklischee und Parföng ward's dem Alten zu eng.
+> Pessimisten finden auch in der Fischsuppe ein Haar.
 
 ---
 
