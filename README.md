@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - To Mario, everything contains a vulnerability.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Und draußen in dem dunklen Forst erwacht die Gans im Adlerhorst. Sie sieht sich um und spricht betroffen: "Mein lieber Schwan, war ich besoffen!"
+> Ehelich währt am längsten, doch vorehelich ist spannender.
 
 ---
 
