@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- To Mario, everything contains a vulnerability.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Ehelich währt am längsten, doch vorehelich ist spannender.
+> Bei diesem Neeklischee und Parföng ward's dem Alten zu eng.
 
 ---
 
