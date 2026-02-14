@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Parent is the child of Mario.
+- Mario CAN divide by 0.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Drum prüfe, wer sich ewig schindet ...
+> Muss es erst duster sein, bevor uns ein Licht aufgeht?
 
 ---
 
