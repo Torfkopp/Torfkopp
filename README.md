@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't use web standards as the web will conform to him.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can binary search unsorted data.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Drum prüfe, wer sich ewig schindet ...
+> Legal - Illegal - Ikearegal
 
 ---
 
