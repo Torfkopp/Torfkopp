@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario throws an exception it's either across the room or out the window.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
+> Service ist Verdienst vom Kunden.
 
 ---
 
