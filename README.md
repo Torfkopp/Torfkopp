@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can store the value 256 in one byte
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario drops a table it's bloody but silent.
+- Mario never has to use the -f option when deleting files.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Ein Gehirn wäscht das andere.
 
 ---
 
