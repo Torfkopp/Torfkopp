@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario develops in prod.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Mit Phantasie kommt man leichter zu Geld als mit Geld zu Phantasie.
+> In der Not legt der Teufel Fliesen.
 
 ---
 
