@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can write to ROM.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Lieber hoch zu Ross als unter aller Sau.
+> In mir schlummert ein Genie, nur wird das Biest nicht wach.
 
 ---
 
