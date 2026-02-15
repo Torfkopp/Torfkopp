@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario can store the value 256 in one byte
+- Mario can delete the Recycle Bin.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Service ist Verdienst vom Kunden.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
