@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - When Mario drops a table it's bloody but silent.
-- Mario never has to use the -f option when deleting files.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Eine Kuh macht muh; viele Kühe machen Mühe.
 
 ---
 
