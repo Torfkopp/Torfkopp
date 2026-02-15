@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
+- Parent is the child of Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> In der Not legt der Teufel Fliesen.
+> Homer ist, wenn man trotzdem lacht.
 
 ---
 
