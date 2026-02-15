@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario can delete the Recycle Bin.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
