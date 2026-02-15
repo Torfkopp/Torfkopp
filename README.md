@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Parent is the child of Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario programs do not accept input.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Homer ist, wenn man trotzdem lacht.
+> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
 
 ---
 
