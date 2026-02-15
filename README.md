@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Früher las ich Karl Marx, doch dann entdeckte ich Pippi Langstrumpf.
+> Was dem einen sein Beat, ist dem anderen seine Beate.
 
 ---
 
