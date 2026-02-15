@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can't test for equality because he has no equal.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
+> Lieber Kröten im Beutel als 'nen Frosch im Hals.
 
 ---
 
