@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- To Mario, everything contains a vulnerability.
+- Mario can store the value 256 in one byte
 - Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> In mir schlummert ein Genie, nur wird das Biest nicht wach.
+> Praxis ist, wenn alles funktioniert und keiner weiß warum.
 
 ---
 
