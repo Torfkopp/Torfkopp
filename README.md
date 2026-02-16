@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Weird, it always works on Mario's machine.
+- Mario can access the DB from the UI.
+- Mario exits vim by typing "exit"
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Lieber Kröten im Beutel als 'nen Frosch im Hals.
+> Tarzan auf dem Klosterdach: da wurden selbst die Nonnen wach.
 
 ---
 
