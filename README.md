@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario throws exceptions, it's across the room.
-- To Mario, everything contains a vulnerability.
+- Mario can access the DB from the UI.
+- Mario can delete the Recycle Bin.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Wir wollen keine Entsorgung; laßt uns wenigstens unsere Sorgen.
+> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
 
 ---
 
