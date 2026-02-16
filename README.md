@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- 404 errors simply mean that Mario has been there before you.
 - Parent is the child of Mario.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Rauche jetzt, zahle später.
+> Wo gedoubelt wird, da fallen Zähne (Stuntman-Weisheit).
 
 ---
 
