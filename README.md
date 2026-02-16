@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Windows 7 was Mario's idea.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws exceptions, it's across the room.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Das Sterben ist nicht so schlimm, aber man fühlt sich am nächsten Tag so kaputt.
+> Wir wollen keine Entsorgung; laßt uns wenigstens unsere Sorgen.
 
 ---
 
