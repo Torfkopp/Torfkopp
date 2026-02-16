@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario exits vim by typing "exit"
-- Mario uses /dev/null as STDIN.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can binary search unsorted data.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Tarzan auf dem Klosterdach: da wurden selbst die Nonnen wach.
+> Lieber Blödeleien als blöde Laien.
 
 ---
 
