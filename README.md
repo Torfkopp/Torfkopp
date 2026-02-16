@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can delete the Recycle Bin.
-- Mario can compile syntax errors.
+- Parent is the child of Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Keine Angst: wir kommen nicht in die Hölle. Wir leben schon drin.
+> Das Sterben ist nicht so schlimm, aber man fühlt sich am nächsten Tag so kaputt.
 
 ---
 
