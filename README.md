@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When Mario drops a table it's bloody but silent.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never has to use the -f option when deleting files.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Coeo, ergo sum.
+> Ein Masochist, der zurückhaut, ist pervers.
 
 ---
 
