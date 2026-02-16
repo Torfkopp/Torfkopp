@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't make http requests. He makes http demands.
+- When Mario throws exceptions, it's across the room.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Manche würden eher sterben als nachdenken. Und sie tun es auch.
+> Trimm dich, spring mal über deinen Schatten.
 
 ---
 
