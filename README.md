@@ -6,13 +6,13 @@
 
 ### About Mario
 - 404 errors simply mean that Mario has been there before you.
-- To Mario, everything contains a vulnerability.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can delete the Recycle Bin.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wo wir sind, geht alles schief. Aber wir können ja nicht überall sein (Losung der mobilen Einsatzkommandos)
+> Keine Angst: wir kommen nicht in die Hölle. Wir leben schon drin.
 
 ---
 
