@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
+- Parent is the child of Mario.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Windows 7 was Mario's idea.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Ein Masochist, der zurückhaut, ist pervers.
+> Rauche jetzt, zahle später.
 
 ---
 
