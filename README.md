@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can binary search unsorted data.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Lieber Blödeleien als blöde Laien.
+> Manche würden eher sterben als nachdenken. Und sie tun es auch.
 
 ---
 
