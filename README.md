@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When Mario throws exceptions, it's across the room.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Parent is the child of Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Trimm dich, spring mal über deinen Schatten.
+> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
 
 ---
 
