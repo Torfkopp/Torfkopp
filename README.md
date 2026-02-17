@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can compile syntax errors.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Parent is the child of Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Biste in der EDV, kennt deine Daten jede Sau.
+> Macht der Blechknopf plötzlich peng, waren deine Jeans zu eng.
 
 ---
 
