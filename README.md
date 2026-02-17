@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario CAN divide by 0.
+- When Mario throws exceptions, it's across the room.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer den Feind umarmt, macht ihn bewegungsunfähig.
+> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
 
 ---
 
