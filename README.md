@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario develops in prod.
+- Mario can write to ROM.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
+> Fährt man rückwärts an den Baum, verkleinert sich der Kofferraum.
 
 ---
 
