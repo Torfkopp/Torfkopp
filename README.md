@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario plugs in USB sticks perfectly the first time every time
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario exits vim by typing "exit"
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber einmal Sydne Rome als zweimal Paris-Dakar.
+> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
 
 ---
 
