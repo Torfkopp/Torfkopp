@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario develops in prod.
-- Mario doesn't use web standards as the web will conform to him.
+- Parent is the child of Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Entschuldige, dass ich lebe - werde es auch nie wieder tun!
+> Wer den Feind umarmt, macht ihn bewegungsunfähig.
 
 ---
 
