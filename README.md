@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can binary search unsorted data.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Treib Sport, oder du bleibst gesund.
+> Lieber ein Zebra streifen als einen Bullen anfahren.
 
 ---
 
