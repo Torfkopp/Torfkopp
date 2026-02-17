@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws exceptions, it's across the room.
+- Mario can't test for equality because he has no equal.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber ein Zebra streifen als einen Bullen anfahren.
+> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
 
 ---
 
