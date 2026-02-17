@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
+> Nicht Güte zählt, sondern Bonität.
 
 ---
 
