@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario exits vim by typing "exit"
-- Mario develops in prod.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
+> Treib Sport, oder du bleibst gesund.
 
 ---
 
