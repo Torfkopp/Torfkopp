@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario can't test for equality because he has no equal.
-- Mario develops in prod.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
+> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
 
 ---
 
