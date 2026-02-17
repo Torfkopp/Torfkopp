@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wer abnimmt, hat mehr vom Telefon.
+> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
 
 ---
 
