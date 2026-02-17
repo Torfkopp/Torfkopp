@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario develops in prod.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Gott sei Punk.
+> Entschuldige, dass ich lebe - werde es auch nie wieder tun!
 
 ---
 
