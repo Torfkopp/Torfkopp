@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario throws exceptions, it's across the room.
-- Mario can't test for equality because he has no equal.
+- Mario programs do not accept input.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
+> Biste in der EDV, kennt deine Daten jede Sau.
 
 ---
 
