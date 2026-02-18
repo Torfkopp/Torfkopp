@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can write to ROM.
+- Mario can't test for equality because he has no equal.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Falle. (Trapper)
+> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
 
 ---
 
