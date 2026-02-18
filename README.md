@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Weird, it always works on Mario's machine.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
+> Homer ist, wenn man trotzdem lacht.
 
 ---
 
