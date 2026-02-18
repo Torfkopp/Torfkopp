@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario develops in prod.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
