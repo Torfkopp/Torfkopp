@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario never has to use the -f option when deleting files.
-- When Mario point to NULL, Null scares.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Kinder unter fünf Jahren sind mit Klebeband oder Vorhängeschloss zu sichern.
+> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
 
 ---
 
