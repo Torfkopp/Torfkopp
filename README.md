@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can't test for equality because he has no equal.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can binary search unsorted data.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
+> Die größte Offenbarung ist die Falle. (Trapper)
 
 ---
 
