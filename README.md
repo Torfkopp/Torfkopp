@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Windows 7 was Mario's idea.
-- Mario can store the value 256 in one byte
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wer abnimmt, hat mehr vom Telefon.
+> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
 
 ---
 
