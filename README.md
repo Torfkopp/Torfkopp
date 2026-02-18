@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can delete the Recycle Bin.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
+> Lieber ein schwarzes Schaf als ein blauer Bock.
 
 ---
 
