@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- 404 errors simply mean that Mario has been there before you.
 - When Mario throws exceptions, it's across the room.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can't test for equality because he has no equal.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Ein blindes Huhn findet auch mal eine lahme Ente.
+> Lieber ein schwarzes Schaf als ein blauer Bock.
 
 ---
 
