@@ -5,9 +5,9 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can delete the Recycle Bin.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
