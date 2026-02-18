@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- When Mario throws exceptions, it's across the room.
-- Mario can write to ROM.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Lieber ein schwarzes Schaf als ein blauer Bock.
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
