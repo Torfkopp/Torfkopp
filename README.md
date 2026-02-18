@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario drops a table it's bloody but silent.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Es gibt viel zu tun, nix wie weg.
+> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
 
 ---
 
