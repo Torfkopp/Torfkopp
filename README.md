@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Weird, it always works on Mario's machine.
-- Mario can binary search unsorted data.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> "Die Milch wird sauer, das Bier wird schal - im Fernsehn spricht der Löwenthal ..."
+> Wohltätig ist des Feuers Macht, entsteht kein Brandstiftungsverdacht.
 
 ---
 
