@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Welle. (Schwingkreis)
+> Viele Ängste sind des Hasen Fuß.
 
 ---
 
