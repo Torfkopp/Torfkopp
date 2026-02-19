@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can delete the Recycle Bin.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Wer ein langes Gesicht macht, hat mehr zu rasieren.
+> Wer trinkt, schadet dem Durst.
 
 ---
 
