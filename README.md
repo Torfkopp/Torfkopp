@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario drops a table it's bloody but silent.
+- Mario never has to use the -f option when deleting files.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Hunde, die schielen, beißen daneben.
+> Ich bin Hacki, der Specht - komm her, du Rinde!
 
 ---
 
