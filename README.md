@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can compile syntax errors.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
+> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
 
 ---
 
