@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario CAN divide by 0.
+- Mario hosting is 105% uptime guaranteed.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Ich bin tolerant; wem das nicht passt, dem hau ich eine.
+> Lieber Gold in der Kehle als Silber im Blick.
 
 ---
 
