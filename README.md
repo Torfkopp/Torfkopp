@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario throws exceptions, it's across the room.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Lieber Gold in der Kehle als Silber im Blick.
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
