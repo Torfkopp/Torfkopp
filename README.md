@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can compile syntax errors.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws an exception it's either across the room or out the window.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
+> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
 
 ---
 
