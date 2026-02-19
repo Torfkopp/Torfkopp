@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario exits vim by typing "exit"
+- Mario CAN divide by 0.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
+> Wer ein langes Gesicht macht, hat mehr zu rasieren.
 
 ---
 
