@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wer trinkt, schadet dem Durst.
+> Der Student geht so lange zur Mensa bis er bricht.
 
 ---
 
