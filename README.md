@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario throws an exception it's either across the room or out the window.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario uses /dev/null as STDIN.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
+> Die größte Offenbarung ist die Welle. (Schwingkreis)
 
 ---
 
