@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Viele Ängste sind des Hasen Fuß.
+> Ich bin tolerant; wem das nicht passt, dem hau ich eine.
 
 ---
 
