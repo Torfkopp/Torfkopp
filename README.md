@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wer über Humor streitet, hat keinen.
+> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
 
 ---
 
