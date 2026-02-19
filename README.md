@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario never has to use the -f option when deleting files.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario throws exceptions, it's across the room.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Ich bin Hacki, der Specht - komm her, du Rinde!
+> Wer über Humor streitet, hat keinen.
 
 ---
 
