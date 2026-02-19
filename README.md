@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Windows 7 was Mario's idea.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario doesn't make http requests. He makes http demands.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
+> Hunde, die schielen, beißen daneben.
 
 ---
 
