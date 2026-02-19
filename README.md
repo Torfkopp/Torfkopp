@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Parent is the child of Mario.
-- Mario never has to use the -f option when deleting files.
+- Mario writes code that optimizes itself.
+- Windows 7 was Mario's idea.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Hey Kids, let's kotz.
+> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
 
 ---
 
