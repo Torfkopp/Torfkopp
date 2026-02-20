@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can write to ROM.
+- To Mario, everything contains a vulnerability.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
+> Manche sind wie die Erde: immer auf Achse und trotzdem rund.
 
 ---
 
