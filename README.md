@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can't test for equality because he has no equal.
-- Mario can write to ROM.
+- Mario can store the value 256 in one byte
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer Wind sät, scheut das Feuer.
+> Es nützt nichts zu fliehen, Schulen gibt es überall.
 
 ---
 
