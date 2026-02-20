@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario point to NULL, Null scares.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Was Krupp in Essen sind wir im Trinken.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
