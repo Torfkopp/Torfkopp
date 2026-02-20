@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario point to NULL, Null scares.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Wer faul ist, schaft Arbeitsplätze.
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
