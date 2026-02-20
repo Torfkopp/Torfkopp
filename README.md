@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't make http requests. He makes http demands.
+- Mario develops in prod.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
+> Professorenglatze ist Waldsterben auf höherer Ebene.
 
 ---
 
