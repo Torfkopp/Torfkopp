@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario uses /dev/null as STDIN.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can compile syntax errors.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wer langsam geht, kommt auch zu spät.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
