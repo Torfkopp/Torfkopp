@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Windows 7 was Mario's idea.
+- Parent is the child of Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Es nützt nichts zu fliehen, Schulen gibt es überall.
+> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
 
 ---
 
