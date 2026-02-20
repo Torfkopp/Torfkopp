@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario CAN divide by 0.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Charme ist das einzige, das sich nicht unter Druck versprühen lässt.
 
 ---
 
