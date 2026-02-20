@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario programs do not accept input.
+- Mario develops in prod.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
+> Unrecht Gut gedeiht, nicht?
 
 ---
 
