@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- To Mario, everything contains a vulnerability.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Manche sind wie die Erde: immer auf Achse und trotzdem rund.
+> Wer faul ist, schaft Arbeitsplätze.
 
 ---
 
