@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can't test for equality because he has no equal.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> Wer Wind sät, scheut das Feuer.
 
 ---
 
