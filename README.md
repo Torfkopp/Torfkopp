@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario point to NULL, Null scares.
-- Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
+> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
 
 ---
 
