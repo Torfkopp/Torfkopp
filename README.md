@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario writes code that optimizes itself.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Unrecht Gut gedeiht, nicht?
+> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
 
 ---
 
