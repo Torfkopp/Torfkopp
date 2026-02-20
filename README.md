@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario exits vim by typing "exit"
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario CAN divide by 0.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Der Student geht so lange zur Mensa bis er bricht.
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
