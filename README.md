@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario uses /dev/null as STDIN.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Charme ist das einzige, das sich nicht unter Druck versprühen lässt.
+> Wer langsam geht, kommt auch zu spät.
 
 ---
 
