@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario hosting is 105% uptime guaranteed.
-- Mario CAN divide by 0.
+- Mario writes code that optimizes itself.
+- When Mario drops a table it's bloody but silent.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
+> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
 
 ---
 
