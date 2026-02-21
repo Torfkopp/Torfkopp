@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- 404 errors simply mean that Mario has been there before you.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 - Mario programs do not accept input.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
+> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
 
 ---
 
