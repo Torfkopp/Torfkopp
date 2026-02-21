@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can store the value 256 in one byte
+- 404 errors simply mean that Mario has been there before you.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Auch Dornröschen trug kein Höschen.
+> Je weniger Haare man hat, desto mehr Gesicht muss man waschen.
 
 ---
 
