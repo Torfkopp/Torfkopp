@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- 404 errors simply mean that Mario has been there before you.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
 
 ---
 
