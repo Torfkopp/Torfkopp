@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can't test for equality because he has no equal.
+- Mario can store the value 256 in one byte
+- Mario hosting is 105% uptime guaranteed.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Komm zurück, Godot; es ist alles verziehen.
+> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
