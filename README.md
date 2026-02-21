@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Weird, it always works on Mario's machine.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario uses /dev/null as STDIN.
 - Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Sprühen bringt Beton zum Blühen.
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
