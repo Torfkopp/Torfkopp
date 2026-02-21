@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario programs do not accept input.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario CAN divide by 0.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
+> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
 
 ---
 
