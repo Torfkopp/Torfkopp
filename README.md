@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario programs do not accept input.
-- Mario can access the DB from the UI.
+- Mario develops in prod.
+- Weird, it always works on Mario's machine.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
+> Sprühen bringt Beton zum Blühen.
 
 ---
 
