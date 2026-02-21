@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario point to NULL, Null scares.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
+> Man düngt keinen Garten, indem man durch den Zaun furzt.
 
 ---
 
