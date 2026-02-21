@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario drops a table it's bloody but silent.
-- Mario CAN divide by 0.
+- Mario exits vim by typing "exit"
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
+> Komm zurück, Godot; es ist alles verziehen.
 
 ---
 
