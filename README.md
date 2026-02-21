@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario drops a table it's bloody but silent.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario programs do not accept input.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
+> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
 
 ---
 
