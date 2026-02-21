@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- 404 errors simply mean that Mario has been there before you.
-- Mario develops in prod.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Je weniger Haare man hat, desto mehr Gesicht muss man waschen.
+> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
 
 ---
 
