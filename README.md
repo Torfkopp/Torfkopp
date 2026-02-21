@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario can store the value 256 in one byte
-- When Mario drops a table it's bloody but silent.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Diäten hoch, Phrasen platt - wie schön is dat!
+> Auch Dornröschen trug kein Höschen.
 
 ---
 
