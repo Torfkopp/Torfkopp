@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario uses /dev/null as STDIN.
-- Mario exits vim by typing "exit"
+- Mario never has to use the -f option when deleting files.
+- Mario can store the value 256 in one byte
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Diäten hoch, Phrasen platt - wie schön is dat!
 
 ---
 
