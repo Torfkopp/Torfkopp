@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can delete the Recycle Bin.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario develops in prod.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Man düngt keinen Garten, indem man durch den Zaun furzt.
+> Ende gut, alles putt.
 
 ---
 
