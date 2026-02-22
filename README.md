@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
+> Ein Schwein kommt selten allein.
 
 ---
 
