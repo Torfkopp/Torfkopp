@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can delete the Recycle Bin.
+- Mario never has to use the -f option when deleting files.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Ein Schwein kommt selten allein.
+> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
 
 ---
 
