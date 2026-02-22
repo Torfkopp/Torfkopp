@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- When Mario throws an exception it's either across the room or out the window.
-- When Mario point to NULL, Null scares.
+- Mario CAN divide by 0.
+- Mario can access the DB from the UI.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
+> Biste in der EDV, kennt deine Daten jede Sau.
 
 ---
 
