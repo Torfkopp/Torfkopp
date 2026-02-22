@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Unrecht Gut gedeiht, nicht?
+> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
 
 ---
 
