@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- 404 errors simply mean that Mario has been there before you.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never has to use the -f option when deleting files.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Frech gesagt ist halb gefeuert.
+> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
 
 ---
 
