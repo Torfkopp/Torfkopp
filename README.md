@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario writes code that optimizes itself.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
+> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
 
 ---
 
