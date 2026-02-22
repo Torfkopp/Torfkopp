@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario never has to use the -f option when deleting files.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can access the DB from the UI.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
+> Lieber Hochstapler als Tiefflieger.
 
 ---
 
