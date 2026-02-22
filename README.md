@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario writes code that optimizes itself.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
+> Wenn die Erde schreien könnte, wären wir alle taub.
 
 ---
 
