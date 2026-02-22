@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- To Mario, everything contains a vulnerability.
+- Mario can write to ROM.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Lieber Hochstapler als Tiefflieger.
+> Frisch gewachst ist halb gefallen.
 
 ---
 
