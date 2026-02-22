@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario CAN divide by 0.
+- Parent is the child of Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Auch ein Anzug von BOSS macht aus Ihnen keinen CHEF.
+> Der Wintereinbruch ist nicht strafbar.
 
 ---
 
