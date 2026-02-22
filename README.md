@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario CAN divide by 0.
-- Mario exits vim by typing "exit"
+- Mario can't test for equality because he has no equal.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
+> Frech gesagt ist halb gefeuert.
 
 ---
 
