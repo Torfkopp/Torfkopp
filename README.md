@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario can access the DB from the UI.
-- Parent is the child of Mario.
+- Mario writes code that optimizes itself.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Biste in der EDV, kennt deine Daten jede Sau.
+> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
 
 ---
 
