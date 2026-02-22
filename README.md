@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't use web standards as the web will conform to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Frisch gewachst ist halb gefallen.
+> Die größte Offenbarung ist die Rolle. (Starlet)
 
 ---
 
