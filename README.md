@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't use web standards as the web will conform to him.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Rolle. (Starlet)
+> Unrecht Gut gedeiht, nicht?
 
 ---
 
