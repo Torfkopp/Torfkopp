@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can access the DB from the UI.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Der Wintereinbruch ist nicht strafbar.
+> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
 
 ---
 
