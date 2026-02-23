@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Weird, it always works on Mario's machine.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Fährt man rückwärts an den Baum, verkleinert sich der Kofferraum.
+> Besser Video als gar kein Deo.
 
 ---
 
