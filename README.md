@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- To Mario, everything contains a vulnerability.
-- Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Ein voller Bauch fällt nicht weit vom Stamm.
+> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
 
 ---
 
