@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can access the DB from the UI.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
+> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
 
 ---
 
