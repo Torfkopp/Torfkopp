@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario hosting is 105% uptime guaranteed.
+- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
+> Die größte Offenbarung ist der Kolle. (Aufklärer)
 
 ---
 
