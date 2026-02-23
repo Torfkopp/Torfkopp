@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
+> Riech ich dein Aroma, fall ich gleich ins Koma.
 
 ---
 
