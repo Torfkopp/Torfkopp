@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Weird, it always works on Mario's machine.
-- Windows 7 was Mario's idea.
+- Mario can write to ROM.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Kolle. (Aufklärer)
+> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
 
 ---
 
