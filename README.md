@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Parent is the child of Mario.
+- To Mario, everything contains a vulnerability.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Auch Arme haben Beine.
+> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
 
 ---
 
