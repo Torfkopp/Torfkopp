@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario point to NULL, Null scares.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario plugs in USB sticks perfectly the first time every time
+- When Mario drops a table it's bloody but silent.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Riech ich dein Aroma, fall ich gleich ins Koma.
+> Dem Ingenieur ist nichts zu schwör: wenn er nichts weiß, dann nimmt er ein Relais.
 
 ---
 
