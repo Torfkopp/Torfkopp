@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario drops a table it's bloody but silent.
+- Mario never has to use the -f option when deleting files.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
+> Fährt man rückwärts an den Baum, verkleinert sich der Kofferraum.
 
 ---
 
