@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario hosting is 105% uptime guaranteed.
+- Mario programs do not accept input.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Besser Video als gar kein Deo.
+> Auch Arme haben Beine.
 
 ---
 
