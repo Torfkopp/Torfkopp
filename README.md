@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- 404 errors simply mean that Mario has been there before you.
 - To Mario, everything contains a vulnerability.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario hosting is 105% uptime guaranteed.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Ein voller Bauch fällt nicht weit vom Stamm.
 
 ---
 
