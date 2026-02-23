@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario CAN divide by 0.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - When Mario drops a table it's bloody but silent.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Dem Ingenieur ist nichts zu schwör: wenn er nichts weiß, dann nimmt er ein Relais.
+> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
 
 ---
 
