@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario CAN divide by 0.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
+> Nicht jeder, der aus dem Rahmen fällt, war vorher im Bilde.
 
 ---
 
