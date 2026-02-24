@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Die Liebe ist das Licht des Lebens, die Ehe ist die Stromabrechnung.
+> Zwischen Leber und Milz ist noch Platz für ein Pils.
 
 ---
 
