@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario writes code that optimizes itself.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Zwischen Leber und Milz ist noch Platz für ein Pils.
+> Für Geld tue ich alles, sogar arbeiten.
 
 ---
 
