@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario uses /dev/null as STDIN.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
+> Lieber Kröten im Beutel als 'nen Frosch im Hals.
 
 ---
 
