@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario CAN divide by 0.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can binary search unsorted data.
+- To Mario, everything contains a vulnerability.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der aus dem Rahmen fällt, war vorher im Bilde.
+> Lieber hoch zu Ross als unter aller Sau.
 
 ---
 
