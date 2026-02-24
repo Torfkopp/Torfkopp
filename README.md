@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can delete the Recycle Bin.
-- Mario CAN divide by 0.
+- Parent is the child of Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
+> Die Liebe ist das Licht des Lebens, die Ehe ist die Stromabrechnung.
 
 ---
 
