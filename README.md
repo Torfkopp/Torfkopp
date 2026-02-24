@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Hasse dich nicht schon am Morgen: schlaf bis Mittag.
+> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
 
 ---
 
