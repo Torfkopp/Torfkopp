@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
+> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
 
 ---
 
