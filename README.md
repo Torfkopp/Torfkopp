@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never has to use the -f option when deleting files.
+- Mario invented binary by performing a roundhouse on the number 10.
 - Mario writes code that optimizes itself.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Für Geld tue ich alles, sogar arbeiten.
+> Müde und satt, wie schön is dat.
 
 ---
 
