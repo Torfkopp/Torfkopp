@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario throws an exception it's either across the room or out the window.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Frisch gewagt ist halb verschrottet.
+> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
 
 ---
 
