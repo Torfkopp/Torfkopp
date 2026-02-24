@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario writes code that optimizes itself.
+- Mario can write to ROM.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Müde und satt, wie schön is dat.
+> Frisch gewagt ist halb verschrottet.
 
 ---
 
