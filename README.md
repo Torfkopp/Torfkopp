@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- To Mario, everything contains a vulnerability.
 - Mario does not code in cycles, he codes in strikes.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Lieber hoch zu Ross als unter aller Sau.
+> Hasse dich nicht schon am Morgen: schlaf bis Mittag.
 
 ---
 
