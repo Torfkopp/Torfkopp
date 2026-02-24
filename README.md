@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
+> Liebe vergeht, Hektar besteht.
 
 ---
 
