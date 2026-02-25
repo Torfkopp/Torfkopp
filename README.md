@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs do not accept input.
+- Mario can binary search unsorted data.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Wille. (Therapeut)
+> Löwenmaul und Leumund haben nur wenig gemeinsam.
 
 ---
 
