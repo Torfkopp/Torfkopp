@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario uses /dev/null as STDIN.
-- When Mario drops a table it's bloody but silent.
+- Mario can store the value 256 in one byte
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Molle. (Kneipenwirt, Berlin)
+> Lieber Schweißperlen als gar keinen Schmuck.
 
 ---
 
