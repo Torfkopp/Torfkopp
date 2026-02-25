@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario point to NULL, Null scares.
-- Mario exits vim by typing "exit"
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Frei ist, wer will, was er ohnehin muss.
+> Die größte Offenbarung ist der Wille. (Therapeut)
 
 ---
 
