@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Windows 7 was Mario's idea.
+- Mario writes code that optimizes itself.
+- Mario can binary search unsorted data.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Für einen Anlass gibt es immer eine Gelegenheit.
+> Elite? Nein danke.
 
 ---
 
