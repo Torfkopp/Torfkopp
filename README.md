@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario writes code that optimizes itself.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Alles wird besser, nichts wird gut.
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
