@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
 - Weird, it always works on Mario's machine.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Lieber Schweißperlen als gar keinen Schmuck.
+> Alles wird besser, nichts wird gut.
 
 ---
 
