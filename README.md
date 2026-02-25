@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can delete the Recycle Bin.
+- Mario writes code that optimizes itself.
+- Parent is the child of Mario.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber Gold in der Kehle als Silber im Blick.
+> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
 
 ---
 
