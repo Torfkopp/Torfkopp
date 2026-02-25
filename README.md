@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can compile syntax errors.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
 
 ---
 
