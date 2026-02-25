@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can access the DB from the UI.
+- When Mario point to NULL, Null scares.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
+> Frei ist, wer will, was er ohnehin muss.
 
 ---
 
