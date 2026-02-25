@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can binary search unsorted data.
-- When Mario throws an exception it's either across the room or out the window.
+- When Mario drops a table it's bloody but silent.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Löwenmaul und Leumund haben nur wenig gemeinsam.
+> Lieber Gold in der Kehle als Silber im Blick.
 
 ---
 
