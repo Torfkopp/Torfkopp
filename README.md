@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- 404 errors simply mean that Mario has been there before you.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Ich bin Hacki, der Specht - komm her, du Rinde!
+> Wie man sich füttert, so wiegt man.
 
 ---
 
