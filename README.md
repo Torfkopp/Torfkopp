@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 - Parent is the child of Mario.
-- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
+> Die größte Offenbarung ist die Molle. (Kneipenwirt, Berlin)
 
 ---
 
