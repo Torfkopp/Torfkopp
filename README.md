@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- 404 errors simply mean that Mario has been there before you.
-- Mario uses /dev/null as STDIN.
+- Mario CAN divide by 0.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wie man sich füttert, so wiegt man.
+> Die Basis des Fundamentalen ist das Grundlegende.
 
 ---
 
