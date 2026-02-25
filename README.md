@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can compile syntax errors.
+- Mario uses /dev/null as STDIN.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Die Basis des Fundamentalen ist das Grundlegende.
+> Die größte Offenbarung ist die Molle. (Kneipenwirt, Berlin)
 
 ---
 
