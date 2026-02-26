@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario does not code in cycles, he codes in strikes.
-- Mario exits vim by typing "exit"
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can store the value 256 in one byte
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Was nicht allzu teuer ist, das können wir erlösen.
+> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
 
 ---
 
