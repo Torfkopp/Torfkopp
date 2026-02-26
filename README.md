@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario does not code in cycles, he codes in strikes.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Besser Video als gar kein Deo.
+> Was nicht allzu teuer ist, das können wir erlösen.
 
 ---
 
