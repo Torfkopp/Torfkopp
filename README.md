@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Windows 7 was Mario's idea.
+- When Mario throws an exception it's either across the room or out the window.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Lieber in Form als infam.
+> Ohne Fleiß kein Verschleiß.
 
 ---
 
