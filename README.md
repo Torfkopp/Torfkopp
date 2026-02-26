@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Gülle. (Landwirt)
+> LABELLO, und kein Kuss quietscht mehr.
 
 ---
 
