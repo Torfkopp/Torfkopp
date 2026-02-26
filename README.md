@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can store the value 256 in one byte
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Weird, it always works on Mario's machine.
+- Mario does not code in cycles, he codes in strikes.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
+> Man soll den Tag nicht vor dem Elternabend loben.
 
 ---
 
