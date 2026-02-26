@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario does not code in cycles, he codes in strikes.
-- Windows 7 was Mario's idea.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Man soll den Tag nicht vor dem Elternabend loben.
+> Die kluge Frau folgt ihrem Mann, wohin sie will.
 
 ---
 
