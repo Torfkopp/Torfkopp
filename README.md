@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario develops in prod.
-- Mario CAN divide by 0.
+- Mario does not code in cycles, he codes in strikes.
+- Parent is the child of Mario.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Am Ende kackt die Ente.
+> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
 
 ---
 
