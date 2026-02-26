@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario CAN divide by 0.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
+> Lieber in Form als infam.
 
 ---
 
