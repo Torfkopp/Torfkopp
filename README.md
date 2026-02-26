@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario does not code in cycles, he codes in strikes.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can access the DB from the UI.
+- Mario develops in prod.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Die kluge Frau folgt ihrem Mann, wohin sie will.
+> Am Ende kackt die Ente.
 
 ---
 
