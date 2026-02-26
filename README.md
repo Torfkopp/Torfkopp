@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario develops in prod.
-- Mario programs do not accept input.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Behaltet euer Tränengas - es gibt genug zum Heulen.
+> Die größte Offenbarung ist die Gülle. (Landwirt)
 
 ---
 
