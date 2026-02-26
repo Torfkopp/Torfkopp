@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't make http requests. He makes http demands.
-- When Mario throws an exception it's either across the room or out the window.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Nichts ist wahr in der Seemannsbar.
 
 ---
 
