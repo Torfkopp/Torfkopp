@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can write to ROM.
+- Mario never has to use the -f option when deleting files.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> LABELLO, und kein Kuss quietscht mehr.
+> Dem Ingenieur ist nichts zu schwör: wenn er nichts weiß, dann nimmt er ein Relais.
 
 ---
 
