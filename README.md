@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws an exception it's either across the room or out the window.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
+> Regnets im Mai, ist der April vorbei. (Bauernregel)
 
 ---
 
