@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can't test for equality because he has no equal.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Dem Ingenieur ist nichts zu schwör: wenn er nichts weiß, dann nimmt er ein Relais.
+> Eine Lösung hatte ich, aber sie passte nicht zum Problem.
 
 ---
 
