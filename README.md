@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario writes code that optimizes itself.
-- Mario never has to use the -f option when deleting files.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
+> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
 
 ---
 
