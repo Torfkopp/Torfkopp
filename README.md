@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can't test for equality because he has no equal.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario uses /dev/null as STDIN.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Eine Lösung hatte ich, aber sie passte nicht zum Problem.
+> Ich denke, also spinn ich.
 
 ---
 
