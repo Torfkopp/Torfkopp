@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't make http requests. He makes http demands.
+- Windows 7 was Mario's idea.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
+> Lieber aussteigen als eingehen.
 
 ---
 
