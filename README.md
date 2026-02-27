@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- To Mario, everything contains a vulnerability.
+- Mario can store the value 256 in one byte
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
+> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
 
 ---
 
