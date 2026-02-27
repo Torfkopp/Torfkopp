@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Weird, it always works on Mario's machine.
 - When Mario throws an exception it's either across the room or out the window.
-- When Mario point to NULL, Null scares.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Regnets im Mai, ist der April vorbei. (Bauernregel)
+> Wer am lautesten quakt, hat die meisten Kröten.
 
 ---
 
