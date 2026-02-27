@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never has to use the -f option when deleting files.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can binary search unsorted data.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Das Hemd hemmt den Politiker weniger als die weiße Weste.
+> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
 
 ---
 
