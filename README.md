@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario uses /dev/null as STDIN.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario programs do not accept input.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Ich denke, also spinn ich.
+> Und draußen in dem dunklen Forst erwacht die Gans im Adlerhorst. Sie sieht sich um und spricht betroffen: "Mein lieber Schwan, war ich besoffen!"
 
 ---
 
