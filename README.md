@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- 404 errors simply mean that Mario has been there before you.
+- Mario plugs in USB sticks perfectly the first time every time
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
+> Lerne lachen ohne zu weinen.
 
 ---
 
