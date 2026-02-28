@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Weird, it always works on Mario's machine.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can access the DB from the UI.
+- Mario CAN divide by 0.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Es ist noch kein Kleister vom Himmel gefallen.
+> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
 
 ---
 
