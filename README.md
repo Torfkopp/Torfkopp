@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never has to use the -f option when deleting files.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Windows 7 was Mario's idea.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Was Krupp in Essen sind wir im Trinken.
+> Eher kommt ein Kamel durchs Nadelöhr als ein Elefant ins Mausoleum.
 
 ---
 
