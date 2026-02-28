@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario develops in prod.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Mich kennen heißt mich lieben.
+> Lieber ein Zebra streifen als einen Bullen anfahren.
 
 ---
 
