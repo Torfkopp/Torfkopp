@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- When Mario throws exceptions, it's across the room.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can binary search unsorted data.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
+> Keiner redet dümmer als er ist.
 
 ---
 
