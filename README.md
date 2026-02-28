@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario drops a table it's bloody but silent.
-- Mario CAN divide by 0.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario uses /dev/null as STDIN.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Lieber ein Zebra streifen als einen Bullen anfahren.
+> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
 
 ---
 
