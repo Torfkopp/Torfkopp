@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario writes code that optimizes itself.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario uses /dev/null as STDIN.
+- Weird, it always works on Mario's machine.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
+> Es ist noch kein Kleister vom Himmel gefallen.
 
 ---
 
