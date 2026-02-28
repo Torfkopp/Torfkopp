@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario point to NULL, Null scares.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Eher kommt ein Kamel durchs Nadelöhr als ein Elefant ins Mausoleum.
+> Spieglein, Spieglein im Regal - die Männer sind mir scheißegal.
 
 ---
 
