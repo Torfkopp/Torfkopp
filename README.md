@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario writes code that optimizes itself.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Sage mir, warum, und ich sage dir, weshalb.
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
