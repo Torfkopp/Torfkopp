@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can binary search unsorted data.
-- When Mario drops a table it's bloody but silent.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never has to use the -f option when deleting files.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Keiner redet dümmer als er ist.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
