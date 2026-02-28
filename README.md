@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- To Mario, everything contains a vulnerability.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
+> Ich bin zutiefst gerührt, sprach der Teig.
 
 ---
 
