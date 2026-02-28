@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario CAN divide by 0.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario point to NULL, Null scares.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
+> Das Hemd hemmt den Politiker weniger als die weiße Weste.
 
 ---
 
