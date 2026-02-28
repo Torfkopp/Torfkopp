@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Spieglein, Spieglein im Regal - die Männer sind mir scheißegal.
+> Sage mir, warum, und ich sage dir, weshalb.
 
 ---
 
