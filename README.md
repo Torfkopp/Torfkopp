@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario uses /dev/null as STDIN.
+- Mario can access the DB from the UI.
 - When Mario throws exceptions, it's across the room.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
