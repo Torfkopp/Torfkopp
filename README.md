@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- 404 errors simply mean that Mario has been there before you.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can store the value 256 in one byte
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Ich bin zutiefst gerührt, sprach der Teig.
+> Mich kennen heißt mich lieben.
 
 ---
 
