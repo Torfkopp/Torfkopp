@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario point to NULL, Null scares.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws exceptions, it's across the room.
+- Mario can store the value 256 in one byte
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Das Hemd hemmt den Politiker weniger als die weiße Weste.
+> Unterstützt die Wiedervereinigung der Spalttablette!
 
 ---
 
