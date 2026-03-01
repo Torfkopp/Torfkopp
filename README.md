@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can compile syntax errors.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hölle. (Luzifer)
+> Lieber ein Zebra streifen als einen Bullen anfahren.
 
 ---
 
