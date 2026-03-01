@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can access the DB from the UI.
-- Mario CAN divide by 0.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
+> Ich bin tolerant; wem das nicht passt, dem hau ich eine.
 
 ---
 
