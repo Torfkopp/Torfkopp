@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't use web standards as the web will conform to him.
+- Mario does not code in cycles, he codes in strikes.
 - Mario programs occupy 150% of CPU, even when they are not executing.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
+> Tut Ench Amun, was Nofre täte?
 
 ---
 
