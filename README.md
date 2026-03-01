@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario does not code in cycles, he codes in strikes.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Tut Ench Amun, was Nofre täte?
+> Lieber eine Fliege im Porzellanladen, als ein Elefant in der Suppe!
 
 ---
 
