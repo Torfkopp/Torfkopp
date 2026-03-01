@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario develops in prod.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can access the DB from the UI.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wer nicht hören will, muss fernsehen.
+> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
 
 ---
 
