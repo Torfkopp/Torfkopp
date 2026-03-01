@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
 
 ---
 
