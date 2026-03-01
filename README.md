@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario uses /dev/null as STDIN.
-- Mario programs do not accept input.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can write to ROM.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
+> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
 
 ---
 
