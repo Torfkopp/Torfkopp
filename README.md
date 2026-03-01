@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Genieße das Leben beständig, denn du bist länger tot als lebendig.
+> Lieber Glück im Unglück als Pech in der Strähne.
 
 ---
 
