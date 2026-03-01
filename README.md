@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario can store the value 256 in one byte
-- Mario exits vim by typing "exit"
+- Mario hosting is 105% uptime guaranteed.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Unterstützt die Wiedervereinigung der Spalttablette!
+> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
 
 ---
 
