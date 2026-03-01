@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can write to ROM.
-- Windows 7 was Mario's idea.
+- Mario programs do not accept input.
+- Mario develops in prod.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
+> Wer nicht hören will, muss fernsehen.
 
 ---
 
