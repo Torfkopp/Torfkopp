@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario uses /dev/null as STDIN.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Lieber ein Zebra streifen als einen Bullen anfahren.
+> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
 
 ---
 
