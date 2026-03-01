@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can write to ROM.
+- Mario can delete the Recycle Bin.
+- Mario can compile syntax errors.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
+> Die größte Offenbarung ist die Hölle. (Luzifer)
 
 ---
 
