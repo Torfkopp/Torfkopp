@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When Mario drops a table it's bloody but silent.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
+> Der Schwätzer sagt, was der Kopflose denkt.
 
 ---
 
