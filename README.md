@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario exits vim by typing "exit"
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
+> Wo wir sind, geht alles schief. Aber wir können ja nicht überall sein (Losung der mobilen Einsatzkommandos)
 
 ---
 
