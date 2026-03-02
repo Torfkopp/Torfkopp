@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario plugs in USB sticks perfectly the first time every time
+- Parent is the child of Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Der Schwätzer sagt, was der Kopflose denkt.
+> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
 
 ---
 
