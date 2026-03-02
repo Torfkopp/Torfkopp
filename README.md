@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not code in cycles, he codes in strikes.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wenn die Bettwanzen beißen, beiß zurück!
+> Ich wollte die Einschulung aus Gewissensgründen verweigern.
 
 ---
 
