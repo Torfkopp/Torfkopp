@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario develops in prod.
+- Mario writes code that optimizes itself.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Meine Glotze ist kaputt, drum lern' ich lesen.
+> Mädchen, schützt euch - esst Knoblauch.
 
 ---
 
