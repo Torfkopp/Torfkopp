@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario writes code that optimizes itself.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Mädchen, schützt euch - esst Knoblauch.
+> Steuern werden immer nur erhoben, nie erniedrigt.
 
 ---
 
