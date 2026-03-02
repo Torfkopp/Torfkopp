@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
+> Meine Glotze ist kaputt, drum lern' ich lesen.
 
 ---
 
