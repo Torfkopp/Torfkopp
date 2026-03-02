@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can't test for equality because he has no equal.
+- Weird, it always works on Mario's machine.
+- Mario writes code that optimizes itself.
 - Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
+> Lieber hoch zu Ross als unter aller Sau.
 
 ---
 
