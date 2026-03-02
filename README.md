@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario uses /dev/null as STDIN.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Lieber ein Bund fürs Leben als ein Leben für den Bund.
+> Lieber fünf Minuten feige als ein Leben lang tot.
 
 ---
 
