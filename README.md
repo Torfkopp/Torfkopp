@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario uses /dev/null as STDIN.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wer den Teufel an die Wand malt, spart die Tapete.
+> Lieber ein Bund fürs Leben als ein Leben für den Bund.
 
 ---
 
