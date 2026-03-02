@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario writes code that optimizes itself.
-- Mario uses /dev/null as STDIN.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario programs do not accept input.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lieber hoch zu Ross als unter aller Sau.
+> Wo ein Wille ist, da ist auch ein Gebüsch.
 
 ---
 
