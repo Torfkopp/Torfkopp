@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can't test for equality because he has no equal.
+- Mario can binary search unsorted data.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
+> Wer den Teufel an die Wand malt, spart die Tapete.
 
 ---
 
