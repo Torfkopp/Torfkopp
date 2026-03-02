@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can compile syntax errors.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Sage mir, warum, und ich sage dir, weshalb.
+> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
 
 ---
 
