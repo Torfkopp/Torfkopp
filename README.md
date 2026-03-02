@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can't test for equality because he has no equal.
 - Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Lieber fünf Minuten feige als ein Leben lang tot.
+> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
 
 ---
 
