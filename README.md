@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
 
 ---
 
