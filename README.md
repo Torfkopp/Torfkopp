@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can binary search unsorted data.
+- Mario can write to ROM.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario CAN divide by 0.
-- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Vorsicht: der Schütze schützt nicht, er schießt!
+> Steter Tropfen schützt vor Torheit nicht.
 
 ---
 
