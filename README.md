@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs do not accept input.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario drops a table it's bloody but silent.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Die Pflicht ruft? Wir rufen zurück.
+> Gewollte Brillanz ergibt nur Brillantine.
 
 ---
 
