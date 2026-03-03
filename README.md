@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- 404 errors simply mean that Mario has been there before you.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Parent is the child of Mario.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Willst Du einen Punker quälen, musst Du ihm sein Haarspray stehlen.
+> Lieber eine Meise als gar keinen Vogel.
 
 ---
 
