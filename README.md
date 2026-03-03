@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario drops a table it's bloody but silent.
-- Mario uses /dev/null as STDIN.
+- Mario can delete the Recycle Bin.
+- When Mario throws exceptions, it's across the room.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Gewollte Brillanz ergibt nur Brillantine.
+> Lieber Hahn im Korb als Hähnchen im Wienerwald.
 
 ---
 
