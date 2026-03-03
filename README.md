@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs do not accept input.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pulle. (H. Juhnke)
+> Die Pflicht ruft? Wir rufen zurück.
 
 ---
 
