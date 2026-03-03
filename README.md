@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can delete the Recycle Bin.
+- Mario can binary search unsorted data.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wo wir sind, geht alles schief. Aber wir können ja nicht überall sein (Losung der mobilen Einsatzkommandos)
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
