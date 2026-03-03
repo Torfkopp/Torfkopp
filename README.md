@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can't test for equality because he has no equal.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
+> Weil die Klugen nachgeben, regieren Deppen die Welt.
 
 ---
 
