@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can write to ROM.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs do not accept input.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen schützt vor Torheit nicht.
+> Polygamie ist Demokratie im Bett.
 
 ---
 
