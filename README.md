@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario programs do not accept input.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Fährt man rückwärts an den Baum, verkleinert sich der Kofferraum.
+> Die größte Offenbarung ist die Pulle. (H. Juhnke)
 
 ---
 
