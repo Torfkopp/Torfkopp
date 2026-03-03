@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario programs do not accept input.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> Fährt man rückwärts an den Baum, verkleinert sich der Kofferraum.
 
 ---
 
