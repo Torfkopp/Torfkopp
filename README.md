@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- When Mario throws exceptions, it's across the room.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- To Mario, everything contains a vulnerability.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Lieber Hahn im Korb als Hähnchen im Wienerwald.
+> Arbeit adelt; wir aber bleiben bürgerlich.
 
 ---
 
