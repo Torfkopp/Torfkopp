@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Parent is the child of Mario.
-- Mario programs do not accept input.
+- Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber eine Meise als gar keinen Vogel.
+> Vorsicht: der Schütze schützt nicht, er schießt!
 
 ---
 
