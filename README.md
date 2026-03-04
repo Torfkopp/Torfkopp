@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario plugs in USB sticks perfectly the first time every time
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario does not code in cycles, he codes in strikes.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wer am lautesten quakt, hat die meisten Kröten.
+> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
 
 ---
 
