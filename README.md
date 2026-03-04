@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- To Mario, everything contains a vulnerability.
+- When Mario drops a table it's bloody but silent.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Das einzig Echte an manchen Menschen ist ihre Falschheit.
+> Die nächste Steinzeit kommt bestimmt.
 
 ---
 
