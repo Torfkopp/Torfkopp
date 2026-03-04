@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario plugs in USB sticks perfectly the first time every time
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Ein Student geht so lange zur Mensa, bis er bricht.
+> Wer am lautesten quakt, hat die meisten Kröten.
 
 ---
 
