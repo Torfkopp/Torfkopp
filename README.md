@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario develops in prod.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Dem Philosoph ist nichts zu doof.
+> Liebe ist, zusammen ins Deutsche Museum zu gehen.
 
 ---
 
