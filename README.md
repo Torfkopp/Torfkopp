@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario CAN divide by 0.
+- When Mario drops a table it's bloody but silent.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
+> Gepflegter Bart küsst weich und zart.
 
 ---
 
