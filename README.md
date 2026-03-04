@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can access the DB from the UI.
+- Mario can delete the Recycle Bin.
+- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
+> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
 
 ---
 
