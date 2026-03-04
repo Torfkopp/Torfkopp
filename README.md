@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- When Mario point to NULL, Null scares.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
+> Das einzig Echte an manchen Menschen ist ihre Falschheit.
 
 ---
 
