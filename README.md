@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario can access the DB from the UI.
-- 404 errors simply mean that Mario has been there before you.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario throws exceptions, it's across the room.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
