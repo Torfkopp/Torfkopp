@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario drops a table it's bloody but silent.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can't test for equality because he has no equal.
+- Mario can access the DB from the UI.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Gepflegter Bart küsst weich und zart.
+> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
