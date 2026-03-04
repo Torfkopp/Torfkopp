@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario writes code that optimizes itself.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Mario can access the DB from the UI.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
+> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
 
 ---
 
