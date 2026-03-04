@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario does not code in cycles, he codes in strikes.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
+> Wir beiben unserm Grundsatz treu: trickreich, scharf und arbeitsscheu.
 
 ---
 
