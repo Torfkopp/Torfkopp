@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can compile syntax errors.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Liebe ist, zusammen ins Deutsche Museum zu gehen.
+> Ein Student geht so lange zur Mensa, bis er bricht.
 
 ---
 
