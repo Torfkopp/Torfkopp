@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- 404 errors simply mean that Mario has been there before you.
+- Mario CAN divide by 0.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer anderen eine Schule baut, muss selbst hinein.
+> Wer trinkt, schadet dem Durst.
 
 ---
 
