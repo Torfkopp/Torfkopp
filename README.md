@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Parent is the child of Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can write to ROM.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wir beiben unserm Grundsatz treu: trickreich, scharf und arbeitsscheu.
+> Pessimisten finden auch in der Fischsuppe ein Haar.
 
 ---
 
