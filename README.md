@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Jeder Tag ist gleich lang, aber verschieden breit.
+> Haben Sie keine Angst vor Fachbüchern. Ungelesen sind sie alle harmlos.
 
 ---
 
