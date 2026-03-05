@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can write to ROM.
-- Mario CAN divide by 0.
+- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wanzen im Telefon schaffen Unterhaltung.
+> Wer anderen eine Schule baut, muss selbst hinein.
 
 ---
 
