@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario writes code that optimizes itself.
+- Mario exits vim by typing "exit"
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Haben Sie keine Angst vor Fachbüchern. Ungelesen sind sie alle harmlos.
+> Lieber kleckern als kotzen.
 
 ---
 
