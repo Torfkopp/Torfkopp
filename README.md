@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can write to ROM.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
+> Wanzen im Telefon schaffen Unterhaltung.
 
 ---
 
