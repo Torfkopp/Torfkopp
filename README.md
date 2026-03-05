@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can write to ROM.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can delete the Recycle Bin.
+- Mario exits vim by typing "exit"
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Pessimisten finden auch in der Fischsuppe ein Haar.
+> Was tut das Volk? Es folgt!
 
 ---
 
