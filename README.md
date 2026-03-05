@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Windows 7 was Mario's idea.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Ich bin Hacki, der Specht - komm her, du Rinde!
+> Behaltet euer Tränengas - es gibt genug zum Heulen.
 
 ---
 
