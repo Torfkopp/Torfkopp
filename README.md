@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- 404 errors simply mean that Mario has been there before you.
+- Mario exits vim by typing "exit"
+- Mario invented binary by performing a roundhouse on the number 10.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
+> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
 
 ---
 
