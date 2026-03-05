@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario programs do not accept input.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Allen Leuten recht getan ist Sauerkraut mit Lebertran.
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
