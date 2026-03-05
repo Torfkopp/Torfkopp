@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario exits vim by typing "exit"
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Was tut das Volk? Es folgt!
+> Allen Leuten recht getan ist Sauerkraut mit Lebertran.
 
 ---
 
