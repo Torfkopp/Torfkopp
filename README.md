@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario invented binary by performing a roundhouse on the number 10.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
+> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
 
 ---
 
