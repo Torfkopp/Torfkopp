@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario exits vim by typing "exit"
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Lieber kleckern als kotzen.
+> Ich bin Hacki, der Specht - komm her, du Rinde!
 
 ---
 
