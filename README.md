@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can't test for equality because he has no equal.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wer trinkt, schadet dem Durst.
+> Unter dem Pflaster liegt der Strand.
 
 ---
 
