@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- When Mario drops a table it's bloody but silent.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Ein voller Bauch fällt nicht weit vom Stamm.
+> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
 
 ---
 
