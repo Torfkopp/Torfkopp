@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario exits vim by typing "exit"
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can compile syntax errors.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
+> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
 
 ---
 
