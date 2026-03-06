@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never has to use the -f option when deleting files.
 - Parent is the child of Mario.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario exits vim by typing "exit"
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
+> Lieber den Faust im Kopf als auf dem Auge.
 
 ---
 
