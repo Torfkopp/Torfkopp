@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Weird, it always works on Mario's machine.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Kein Fachmann ohne Flachmann.
+> Mit Phantasie kommt man leichter zu Geld als mit Geld zu Phantasie.
 
 ---
 
