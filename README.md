@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario throws exceptions, it's across the room.
+- When Mario throws an exception it's either across the room or out the window.
+- When Mario point to NULL, Null scares.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
+> Selig, wer nichts zu sagen hat und doch schweigt.
 
 ---
 
