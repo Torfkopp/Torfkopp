@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can't test for equality because he has no equal.
+- Mario hosting is 105% uptime guaranteed.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Je tiefer das Loch, desto plumps.
+> Seit ich ihm Kitekat ins Essen tue, geht es mir besser als je zuvor.
 
 ---
 
