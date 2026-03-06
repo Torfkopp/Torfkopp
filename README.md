@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Weird, it always works on Mario's machine.
-- Mario can write to ROM.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Mit Phantasie kommt man leichter zu Geld als mit Geld zu Phantasie.
+> Je tiefer das Loch, desto plumps.
 
 ---
 
