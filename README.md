@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- 404 errors simply mean that Mario has been there before you.
-- Mario can compile syntax errors.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Unter dem Pflaster liegt der Strand.
+> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
 
 ---
 
