@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario hosting is 105% uptime guaranteed.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't make http requests. He makes http demands.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Seit ich ihm Kitekat ins Essen tue, geht es mir besser als je zuvor.
+> Wut tut gut.
 
 ---
 
