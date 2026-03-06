@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario never has to use the -f option when deleting files.
-- Mario can compile syntax errors.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can't test for equality because he has no equal.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
+> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
 
 ---
 
