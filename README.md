@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario uses /dev/null as STDIN.
 - Mario never has to use the -f option when deleting files.
-- Parent is the child of Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber den Faust im Kopf als auf dem Auge.
+> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
 
 ---
 
