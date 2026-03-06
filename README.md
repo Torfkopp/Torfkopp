@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario can't test for equality because he has no equal.
-- 404 errors simply mean that Mario has been there before you.
+- Mario exits vim by typing "exit"
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
+> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
 
 ---
 
