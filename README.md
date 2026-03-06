@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario drops a table it's bloody but silent.
+- Parent is the child of Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wut tut gut.
+> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
 
 ---
 
