@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario never has to use the -f option when deleting files.
-- 404 errors simply mean that Mario has been there before you.
+- Windows 7 was Mario's idea.
+- Mario can write to ROM.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Hau niemals ab - hau einfach zu!
+> Besser Sex für Geld als kein Sex und kein Geld.
 
 ---
 
