@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can delete the Recycle Bin.
-- Mario never has to use the -f option when deleting files.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Drinnen ist es wie draußen: bloß anders.
+> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
 
 ---
 
