@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Windows 7 was Mario's idea.
-- Mario never has to use the -f option when deleting files.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Lieber Mixed Pickles als Akne.
+> Wenn man das Licht schnell genug ausschaltet, kann man sehen, wie die Dunkelheit aussieht.
 
 ---
 
