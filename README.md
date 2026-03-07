@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Parent is the child of Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can compile syntax errors.
+- Windows 7 was Mario's idea.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Lieber abends später ins Bett als morgens früher aufstehen.
+> Lieber Mixed Pickles als Akne.
 
 ---
 
