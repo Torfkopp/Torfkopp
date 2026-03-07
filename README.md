@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario does not code in cycles, he codes in strikes.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Stoßstangen sind aller Laster Anfang.
+> Sprühen bringt Beton zum Blühen.
 
 ---
 
