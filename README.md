@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- When Mario throws exceptions, it's across the room.
-- When Mario drops a table it's bloody but silent.
+- Mario writes code that optimizes itself.
+- Mario uses /dev/null as STDIN.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
+> Wissen ist Macht, ich weiß nichts, macht nichts.
 
 ---
 
