@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario exits vim by typing "exit"
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can delete the Recycle Bin.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Sprühen bringt Beton zum Blühen.
+> Drinnen ist es wie draußen: bloß anders.
 
 ---
 
