@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario does not code in cycles, he codes in strikes.
-- Mario hosting is 105% uptime guaranteed.
+- Mario can access the DB from the UI.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
+> Lieber Hosenträger als gar keinen Halt.
 
 ---
 
