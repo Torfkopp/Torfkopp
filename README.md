@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario never has to use the -f option when deleting files.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario CAN divide by 0.
+- Parent is the child of Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> In mir schlummert ein Genie, nur wird das Biest nicht wach.
+> Lieber abends später ins Bett als morgens früher aufstehen.
 
 ---
 
