@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Mädchen, schützt euch - esst Knoblauch.
+> Vendi laus amoris, paxe, trixe, caputisse.
 
 ---
 
