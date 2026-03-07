@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Windows 7 was Mario's idea.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario hosting is 105% uptime guaranteed.
+- Mario does not code in cycles, he codes in strikes.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Vendi laus amoris, paxe, trixe, caputisse.
+> Stoßstangen sind aller Laster Anfang.
 
 ---
 
