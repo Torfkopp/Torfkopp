@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Parent is the child of Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario exits vim by typing "exit"
+- Mario never has to use the -f option when deleting files.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Abgeordnete sind immer zu tausend Spesen aufgelegt.
+> In mir schlummert ein Genie, nur wird das Biest nicht wach.
 
 ---
 
