@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can write to ROM.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario exits vim by typing "exit"
+- When Mario throws exceptions, it's across the room.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Besser Sex für Geld als kein Sex und kein Geld.
+> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
 
 ---
 
