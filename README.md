@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario uses /dev/null as STDIN.
-- Mario can access the DB from the UI.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario does not code in cycles, he codes in strikes.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wissen ist Macht, ich weiß nichts, macht nichts.
+> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
 
 ---
 
