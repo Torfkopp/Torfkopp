@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario does not code in cycles, he codes in strikes.
-- Windows 7 was Mario's idea.
+- Mario programs do not accept input.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
+> Der Arbeit kann man leicht entgehen, vermeidet man es aufzustehen.
 
 ---
 
