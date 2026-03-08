@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario plugs in USB sticks perfectly the first time every time
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Tolle. (Friseur)
+> Wir wollen alles, und davon möglichst viel.
 
 ---
 
