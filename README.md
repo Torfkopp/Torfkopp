@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can binary search unsorted data.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can write to ROM.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Frisch gewachst ist halb gefallen.
+> Tu was fürs Vaterland: wandre aus.
 
 ---
 
