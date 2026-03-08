@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can access the DB from the UI.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Tausche betonierte Zukunft gegen blühende Vergangenheit.
+> Arbeit ist süß; ich bin aber Diabetiker.
 
 ---
 
