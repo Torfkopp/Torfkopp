@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can store the value 256 in one byte
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Der direkteste Weg der Listigen ist die Schlangenlinie.
+> Warum nur den Lukas hauen? Markus, Matthäus und Johannes sind auch noch da!
 
 ---
 
