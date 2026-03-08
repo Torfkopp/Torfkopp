@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
+- Mario can access the DB from the UI.
 - Mario plugs in USB sticks perfectly the first time every time
-- Mario can write to ROM.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wo nix läuft, läuft der Fernseher [oder: Computer].
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
