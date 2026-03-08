@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can read all encrypted data, because nothing can hide from Mario.
 - Mario can compile syntax errors.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Warum nur den Lukas hauen? Markus, Matthäus und Johannes sind auch noch da!
+> Wo nix läuft, läuft der Fernseher [oder: Computer].
 
 ---
 
