@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Weird, it always works on Mario's machine.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber Gold in der Kehle als Silber im Blick.
+> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
 
 ---
 
