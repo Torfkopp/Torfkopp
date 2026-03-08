@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can write to ROM.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Lieber ein Altbier als eine Neurose.
+> Der direkteste Weg der Listigen ist die Schlangenlinie.
 
 ---
 
