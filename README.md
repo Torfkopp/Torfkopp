@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Der Arbeit kann man leicht entgehen, vermeidet man es aufzustehen.
+> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
 
 ---
 
