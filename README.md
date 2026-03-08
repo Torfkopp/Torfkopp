@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- The compiler fixes its own mistakes and never warns Mario about anything.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wenn man das Licht schnell genug ausschaltet, kann man sehen, wie die Dunkelheit aussieht.
+> Tausche betonierte Zukunft gegen blühende Vergangenheit.
 
 ---
 
