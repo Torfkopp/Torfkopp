@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can access the DB from the UI.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Parent is the child of Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Arbeit ist süß; ich bin aber Diabetiker.
+> Elite? Nein danke.
 
 ---
 
