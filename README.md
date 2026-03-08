@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
+> Lieber ein Altbier als eine Neurose.
 
 ---
 
