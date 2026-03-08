@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario CAN divide by 0.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can binary search unsorted data.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Weil die Klugen nachgeben, regieren Deppen die Welt.
+> Frisch gewachst ist halb gefallen.
 
 ---
 
