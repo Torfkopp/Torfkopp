@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario hosting is 105% uptime guaranteed.
+- Mario can't test for equality because he has no equal.
+- When Mario point to NULL, Null scares.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wenn die Dunstglocke läutet, hat das Sterbeglöckchen Hochkonjunktur.
+> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
 
 ---
 
