@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario programs do not accept input.
+- When Mario throws an exception it's either across the room or out the window.
 - Parent is the child of Mario.
-- Mario can write to ROM.
-- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Jedes Pro und Contra hat sein Für und Wider.
+> Volkstrauertag: das ist das Erntedankfest der Rüstungsindustrie.
 
 ---
 
