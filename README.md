@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario uses /dev/null as STDIN.
+- Parent is the child of Mario.
+- Mario can write to ROM.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Arbeit ist eine lustvolle Variante des Schwachsinns.
+> Jedes Pro und Contra hat sein Für und Wider.
 
 ---
 
