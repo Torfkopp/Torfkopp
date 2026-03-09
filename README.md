@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws exceptions, it's across the room.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Lieber einmal Sydne Rome als zweimal Paris-Dakar.
+> Wir fordern Haftpflicht für künstliche Gebisse.
 
 ---
 
