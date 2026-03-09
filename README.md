@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- When Mario point to NULL, Null scares.
-- Mario can compile syntax errors.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
+> Arbeit ist eine lustvolle Variante des Schwachsinns.
 
 ---
 
