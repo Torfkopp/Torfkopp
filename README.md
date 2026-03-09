@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- When Mario throws an exception it's either across the room or out the window.
-- Parent is the child of Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Weird, it always works on Mario's machine.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Volkstrauertag: das ist das Erntedankfest der Rüstungsindustrie.
+> Coeo, ergo sum.
 
 ---
 
