@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Weird, it always works on Mario's machine.
-- Mario invented binary by performing a roundhouse on the number 10.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Coeo, ergo sum.
+> Jeder ist seines Glückes Störenfried.
 
 ---
 
