@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario develops in prod.
-- Mario hosting is 105% uptime guaranteed.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
+> Magerquark macht uns stark; Haferbrei macht uns frei.
 
 ---
 
