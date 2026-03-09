@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can write to ROM.
+- Mario develops in prod.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Jeder ist seines Glückes Störenfried.
+> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
 
 ---
 
