@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can write to ROM.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wir fordern Haftpflicht für künstliche Gebisse.
+> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
 
 ---
 
