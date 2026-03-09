@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can access the DB from the UI.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario drops a table it's bloody but silent.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
+> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
 
 ---
 
