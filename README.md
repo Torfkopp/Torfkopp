@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario drops a table it's bloody but silent.
-- Mario develops in prod.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario throws exceptions, it's across the room.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
+> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
 
 ---
 
