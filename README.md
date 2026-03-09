@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario does not code in cycles, he codes in strikes.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario programs do not accept input.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Nonsens statt Konsens.
+> Lieber einmal Sydne Rome als zweimal Paris-Dakar.
 
 ---
 
