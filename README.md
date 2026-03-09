@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can binary search unsorted data.
+- Mario does not code in cycles, he codes in strikes.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Magerquark macht uns stark; Haferbrei macht uns frei.
+> Nonsens statt Konsens.
 
 ---
 
