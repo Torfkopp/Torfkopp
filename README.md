@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario develops in prod.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Wenn die Dunstglocke läutet, hat das Sterbeglöckchen Hochkonjunktur.
 
 ---
 
