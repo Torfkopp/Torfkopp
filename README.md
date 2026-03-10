@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario exits vim by typing "exit"
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario develops in prod.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
