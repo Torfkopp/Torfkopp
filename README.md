@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario point to NULL, Null scares.
-- Mario doesn't make http requests. He makes http demands.
+- Mario can compile syntax errors.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Lieber aussteigen als eingehen.
+> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
 
 ---
 
