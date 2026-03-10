@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario writes code that optimizes itself.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Enthaltsamkeit ist aller Laster Anfang.
+> Mit den Händen in den Taschen kann man keine Fliegen haschen.
 
 ---
 
