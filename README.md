@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario develops in prod.
-- Mario writes code that optimizes itself.
+- Mario programs do not accept input.
+- 404 errors simply mean that Mario has been there before you.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
+> Gott ist allmächtig, nur nicht auf der Erde.
 
 ---
 
