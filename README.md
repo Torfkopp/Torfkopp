@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - 404 errors simply mean that Mario has been there before you.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Gott ist allmächtig, nur nicht auf der Erde.
+> Die größte Offenbarung ist die Rolle. (Starlet)
 
 ---
 
