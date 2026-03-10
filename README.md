@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario develops in prod.
+- Mario can binary search unsorted data.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Ehe = errare humanum est.
+> Ohne Fleiß kein Verschleiß.
 
 ---
 
