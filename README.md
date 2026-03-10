@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario throws exceptions, it's across the room.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario point to NULL, Null scares.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
+> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
 
 ---
 
