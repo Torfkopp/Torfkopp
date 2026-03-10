@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario point to NULL, Null scares.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can compile syntax errors.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Kein Fachmann ohne Flachmann.
+> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
 
 ---
 
