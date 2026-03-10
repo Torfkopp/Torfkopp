@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario does not code in cycles, he codes in strikes.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
+> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
 
 ---
 
