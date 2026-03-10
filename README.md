@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Parent is the child of Mario.
-- To Mario, everything contains a vulnerability.
+- Mario writes code that optimizes itself.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Kein Fachmann ohne Flachmann.
 
 ---
 
