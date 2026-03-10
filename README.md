@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can store the value 256 in one byte
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
+> Enthaltsamkeit ist aller Laster Anfang.
 
 ---
 
