@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario programs do not accept input.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Männer machen Geschichte, Frauen machen Geschichten.
+> Durch Arbeit versaut man sich den ganzen Tag.
 
 ---
 
