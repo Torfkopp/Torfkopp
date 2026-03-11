@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can binary search unsorted data.
-- Mario can store the value 256 in one byte
+- Mario doesn't use web standards as the web will conform to him.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
+> Ist das Freibad voll wie nie, läuft Wimbledon im Pay-TV.
 
 ---
 
