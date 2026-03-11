@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario does not code in cycles, he codes in strikes.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
+> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
 
 ---
 
