@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario can binary search unsorted data.
-- Mario can compile syntax errors.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Ohne Fleiß kein Verschleiß.
+> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
 
 ---
 
