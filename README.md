@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
+> Der Klügere zählt nach.
 
 ---
 
