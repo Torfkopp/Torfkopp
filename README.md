@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Durch Arbeit versaut man sich den ganzen Tag.
+> Gott sei Punk.
 
 ---
 
