@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Weird, it always works on Mario's machine.
+- Mario programs do not accept input.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Auch Dornröschen trug kein Höschen.
+> Biss demnächst, sagte der Vampir.
 
 ---
 
