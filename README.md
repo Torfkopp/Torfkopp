@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never has to use the -f option when deleting files.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario exits vim by typing "exit"
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Lieber Rosinen im Kopf als Haare im Kuchen.
+> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
 
 ---
 
