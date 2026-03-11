@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario programs do not accept input.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Biss demnächst, sagte der Vampir.
+> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
 
 ---
 
