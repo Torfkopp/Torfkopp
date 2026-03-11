@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario exits vim by typing "exit"
-- When Mario point to NULL, Null scares.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
+> Lieber Wurstfinger als Knoblauchzehen.
 
 ---
 
