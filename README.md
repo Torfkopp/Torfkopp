@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario throws exceptions, it's across the room.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Ist das Freibad voll wie nie, läuft Wimbledon im Pay-TV.
+> Wenn man das Licht schnell genug ausschaltet, kann man sehen, wie die Dunkelheit aussieht.
 
 ---
 
