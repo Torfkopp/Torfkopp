@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario never has to use the -f option when deleting files.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario invented binary by performing a roundhouse on the number 10.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
+> Hau niemals ab - hau einfach zu!
 
 ---
 
