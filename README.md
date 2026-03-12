@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
+> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
 
 ---
 
