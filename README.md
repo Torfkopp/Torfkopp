@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario programs do not accept input.
+- Mario writes code that optimizes itself.
+- 404 errors simply mean that Mario has been there before you.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
+> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
 
 ---
 
