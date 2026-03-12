@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can delete the Recycle Bin.
 - 404 errors simply mean that Mario has been there before you.
-- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
+> Es wird nicht alles so heiß gegessen wie man sich fühlt.
 
 ---
 
