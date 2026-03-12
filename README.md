@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can delete the Recycle Bin.
-- 404 errors simply mean that Mario has been there before you.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario drops a table it's bloody but silent.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Es wird nicht alles so heiß gegessen wie man sich fühlt.
+> Gepflegter Bart küsst weich und zart.
 
 ---
 
