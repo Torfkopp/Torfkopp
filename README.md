@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can write to ROM.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Gott sei Punk.
+> Die größte Offenbarung ist die Gülle. (Landwirt)
 
 ---
 
