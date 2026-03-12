@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can compile syntax errors.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Weil die Klugen nachgeben, regieren Deppen die Welt.
+> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
 
 ---
 
