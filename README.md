@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario invented binary by performing a roundhouse on the number 10.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario programs do not accept input.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Hau niemals ab - hau einfach zu!
+> Kann denn Sprühen Sünde sein?
 
 ---
 
