@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario drops a table it's bloody but silent.
-- To Mario, everything contains a vulnerability.
+- Mario exits vim by typing "exit"
+- Mario can store the value 256 in one byte
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Gepflegter Bart küsst weich und zart.
+> Lieber eine Meise als gar keinen Vogel.
 
 ---
 
