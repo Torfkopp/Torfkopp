@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can write to ROM.
-- To Mario, everything contains a vulnerability.
+- Mario plugs in USB sticks perfectly the first time every time
+- 404 errors simply mean that Mario has been there before you.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Gülle. (Landwirt)
+> Liebe ist, zusammen ins Deutsche Museum zu gehen.
 
 ---
 
