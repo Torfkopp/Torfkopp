@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Mario plugs in USB sticks perfectly the first time every time
-- 404 errors simply mean that Mario has been there before you.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Liebe ist, zusammen ins Deutsche Museum zu gehen.
+> Stille Nacht, heilige Nacht, schmeißt Bomben und Raketen, bis es kracht.
 
 ---
 
