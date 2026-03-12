@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can binary search unsorted data.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Kann denn Sprühen Sünde sein?
+> Sonderlinge lachen sogar beim Zwiebelschneiden.
 
 ---
 
