@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario plugs in USB sticks perfectly the first time every time
+- Weird, it always works on Mario's machine.
+- Mario can compile syntax errors.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht, schmeißt Bomben und Raketen, bis es kracht.
+> Die größte Offenbarung ist die Pupille. (Optiker)
 
 ---
 
