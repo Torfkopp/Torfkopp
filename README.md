@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario can store the value 256 in one byte
-- Mario develops in prod.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber eine Meise als gar keinen Vogel.
+> Weil die Klugen nachgeben, regieren Deppen die Welt.
 
 ---
 
