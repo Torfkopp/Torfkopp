@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario can compile syntax errors.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario plugs in USB sticks perfectly the first time every time
+- To Mario, everything contains a vulnerability.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
+> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
 
 ---
 
