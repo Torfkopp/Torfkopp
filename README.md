@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario can store the value 256 in one byte
+- Mario can compile syntax errors.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
+> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
 
 ---
 
