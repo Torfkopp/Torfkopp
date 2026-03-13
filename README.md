@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can delete the Recycle Bin.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never has to use the -f option when deleting files.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Es gibt jetzt endlich die Pille für den Mann. Sie wird nach dem Verkehr eingenommen und verändert die Blutgruppe.
+> Lieber Eis am Stiel, als Dreck am Stecken.
 
 ---
 
