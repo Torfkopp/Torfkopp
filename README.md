@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Das Leben gibt's gratis, der Rest ist käuflich.
+> Wozu AKWs? Bei uns kommt der Strom aus der Steckdose.
 
 ---
 
