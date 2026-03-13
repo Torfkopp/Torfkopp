@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario can compile syntax errors.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario writes code that optimizes itself.
+- When Mario drops a table it's bloody but silent.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Hau niemals ab - hau einfach zu!
+> Je härter, desto knack.
 
 ---
 
