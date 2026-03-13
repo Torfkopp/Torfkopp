@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario plugs in USB sticks perfectly the first time every time
-- Windows 7 was Mario's idea.
+- Weird, it always works on Mario's machine.
+- Mario can compile syntax errors.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Ihr habt das Land, doch wir haben die Wand.
+> Hau niemals ab - hau einfach zu!
 
 ---
 
