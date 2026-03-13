@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario drops a table it's bloody but silent.
-- Mario can't test for equality because he has no equal.
+- Mario can delete the Recycle Bin.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Je härter, desto knack.
+> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
 
 ---
 
