@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When Mario throws exceptions, it's across the room.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario plugs in USB sticks perfectly the first time every time
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber Hosenträger als gar keinen Halt.
+> Ihr habt das Land, doch wir haben die Wand.
 
 ---
 
