@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Weird, it always works on Mario's machine.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- 404 errors simply mean that Mario has been there before you.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Ich bin intelligent, schön und gebildet, doch das Beste an mir ist meine Bescheidenheit.
+> "Jetzt geht's rund!", sprach der Spatz und flog in den Ventilator.
 
 ---
 
