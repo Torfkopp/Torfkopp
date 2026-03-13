@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can store the value 256 in one byte
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wie man sich füttert, so wiegt man.
+> Pessimisten finden auch in der Fischsuppe ein Haar.
 
 ---
 
