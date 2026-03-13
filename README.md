@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can access the DB from the UI.
+- Windows 7 was Mario's idea.
+- Mario can store the value 256 in one byte
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Sonderlinge lachen sogar beim Zwiebelschneiden.
+> Wie man sich füttert, so wiegt man.
 
 ---
 
