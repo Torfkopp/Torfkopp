@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- To Mario, everything contains a vulnerability.
-- Mario writes code that optimizes itself.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Weird, it always works on Mario's machine.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
+> Ich bin intelligent, schön und gebildet, doch das Beste an mir ist meine Bescheidenheit.
 
 ---
 
