@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario does not code in cycles, he codes in strikes.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario point to NULL, Null scares.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Das nehm ich dir übel, sprach der Dübel, und verschwand in der Wand, wo ihn niemand wiederfand.
+> Lieber Schweißperlen als gar keinen Schmuck.
 
 ---
 
