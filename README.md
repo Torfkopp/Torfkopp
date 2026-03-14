@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 - Mario doesn't use web standards as the web will conform to him.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
+> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
 
 ---
 
