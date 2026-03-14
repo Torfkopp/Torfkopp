@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario plugs in USB sticks perfectly the first time every time
-- Mario writes code that optimizes itself.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
+> Global investieren - lokal ruinieren.
 
 ---
 
