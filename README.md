@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario plugs in USB sticks perfectly the first time every time
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario uses /dev/null as STDIN.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Global investieren - lokal ruinieren.
+> Das einzige, was Reiche nicht haben, ist kein Geld.
 
 ---
 
