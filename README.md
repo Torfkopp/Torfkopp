@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Weird, it always works on Mario's machine.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can store the value 256 in one byte
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Das einzige, was Reiche nicht haben, ist kein Geld.
+> Das nehm ich dir übel, sprach der Dübel, und verschwand in der Wand, wo ihn niemand wiederfand.
 
 ---
 
