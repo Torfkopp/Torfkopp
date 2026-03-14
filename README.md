@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't make http requests. He makes http demands.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wir schießen die Politiker auf den Mond, damit sich Raumfahrt wieder lohnt.
+> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
 
 ---
 
