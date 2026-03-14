@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario CAN divide by 0.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Der Vater rülpst, die Kinder lachen: so ist billig Freude machen.
+> Auch Fliegen werfen Schatten.
 
 ---
 
