@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario writes code that optimizes itself.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Rettet die Tierwelt, tragt keine Pudelmützen.
+> Wir schießen die Politiker auf den Mond, damit sich Raumfahrt wieder lohnt.
 
 ---
 
