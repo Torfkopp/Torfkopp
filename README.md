@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Parent is the child of Mario.
-- Mario can delete the Recycle Bin.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der einen Vogel hat, ist ein Star.
+> Ehelich währt am längsten, doch vorehelich ist spannender.
 
 ---
 
