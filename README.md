@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario CAN divide by 0.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
+> Der Vater rülpst, die Kinder lachen: so ist billig Freude machen.
 
 ---
 
