@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can't test for equality because he has no equal.
+- Parent is the child of Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Cogito, ergo Husum.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
