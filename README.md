@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Parent is the child of Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
+> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
 
 ---
 
