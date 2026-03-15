@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can access the DB from the UI.
-- Mario can delete the Recycle Bin.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
+> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
 
 ---
 
