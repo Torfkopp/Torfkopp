@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario does not code in cycles, he codes in strikes.
-- Mario uses /dev/null as STDIN.
+- Mario exits vim by typing "exit"
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
+> Krieg ist, wenn es trrotzdem kracht.
 
 ---
 
