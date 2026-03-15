@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wer dir glaubt, wird garantiert nicht selig.
+> Drinnen ist es wie draußen: bloß anders.
 
 ---
 
