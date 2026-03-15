@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Weird, it always works on Mario's machine.
-- Mario can store the value 256 in one byte
+- Windows 7 was Mario's idea.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wir sparen jeden Pfennig - koste es was es wolle.
+> Gott ist nicht tot; nur beim Wort zum Sonntag eingeschlafen.
 
 ---
 
