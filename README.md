@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can access the DB from the UI.
 - Mario can delete the Recycle Bin.
-- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Ich summe, also bien ich.
+> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
 
 ---
 
