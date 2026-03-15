@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario CAN divide by 0.
+- 404 errors simply mean that Mario has been there before you.
+- Weird, it always works on Mario's machine.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
+> Wir sparen jeden Pfennig - koste es was es wolle.
 
 ---
 
