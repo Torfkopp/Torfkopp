@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario plugs in USB sticks perfectly the first time every time
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario uses /dev/null as STDIN.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
+> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
 
 ---
 
