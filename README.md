@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Parent is the child of Mario.
-- Mario can compile syntax errors.
+- Mario hosting is 105% uptime guaranteed.
+- Mario does not code in cycles, he codes in strikes.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
+> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
 
 ---
 
