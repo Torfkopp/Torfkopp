@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can delete the Recycle Bin.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Lieber niederträchtig als hochschwanger.
+> Selten Dumme sind nicht selten, aber dumm.
 
 ---
 
