@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can access the DB from the UI.
-- To Mario, everything contains a vulnerability.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Drinnen ist es wie draußen: bloß anders.
+> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
 
 ---
 
