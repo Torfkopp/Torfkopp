@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario never has to use the -f option when deleting files.
-- Mario can binary search unsorted data.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can delete the Recycle Bin.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Biss demnächst, sagte der Vampir.
+> Lieber niederträchtig als hochschwanger.
 
 ---
 
