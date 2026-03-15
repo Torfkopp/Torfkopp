@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can write to ROM.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Gott ist nicht tot; nur beim Wort zum Sonntag eingeschlafen.
+> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
 
 ---
 
