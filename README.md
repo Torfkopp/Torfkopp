@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario does not code in cycles, he codes in strikes.
+- Mario never has to use the -f option when deleting files.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> "Ach wie war das schön", sagte der Ochse, "als ich noch ein Boulevard."
+> Biss demnächst, sagte der Vampir.
 
 ---
 
