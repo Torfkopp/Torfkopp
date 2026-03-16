@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can delete the Recycle Bin.
+- Windows 7 was Mario's idea.
+- Mario exits vim by typing "exit"
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Für einen Anlass gibt es immer eine Gelegenheit.
+> Alle Menschen werden [noch!] als Original geboren, die meisten sterben als Kopie.
 
 ---
 
