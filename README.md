@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
+> Frech gesagt ist halb gefeuert.
 
 ---
 
