@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario exits vim by typing "exit"
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Alle Menschen werden [noch!] als Original geboren, die meisten sterben als Kopie.
+> Input - Output - ganz putt.
 
 ---
 
