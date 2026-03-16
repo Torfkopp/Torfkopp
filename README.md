@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can delete the Recycle Bin.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario drops a table it's bloody but silent.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Die dämlichsten Herren haben oft die herrlichsten Damen.
+> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
 
 ---
 
