@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can access the DB from the UI.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Professorenglatze ist Waldsterben auf höherer Ebene.
+> Für einen Anlass gibt es immer eine Gelegenheit.
 
 ---
 
