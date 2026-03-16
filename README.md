@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario programs do not accept input.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Das höchste Glück der Pferde ist der Reiter auf der Erde.
+> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
 
 ---
 
