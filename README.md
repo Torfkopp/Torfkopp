@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can binary search unsorted data.
+- Mario can compile syntax errors.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Input - Output - ganz putt.
+> Die dämlichsten Herren haben oft die herrlichsten Damen.
 
 ---
 
