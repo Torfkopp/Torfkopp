@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- When Mario drops a table it's bloody but silent.
-- Mario can write to ROM.
+- When Mario point to NULL, Null scares.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
+> Wer am Fleischwolf steht, sollte nicht gleich durchdrehen.
 
 ---
 
