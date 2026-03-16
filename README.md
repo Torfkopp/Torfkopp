@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario uses /dev/null as STDIN.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
+> Lieber Gold in der Kehle als Silber im Blick.
 
 ---
 
