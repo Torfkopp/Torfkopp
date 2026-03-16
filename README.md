@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario plugs in USB sticks perfectly the first time every time
-- Parent is the child of Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can delete the Recycle Bin.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Frech gesagt ist halb gefeuert.
+> Die Unterdrückten der Gegenwart sind die Unterdrücker der Zukunft.
 
 ---
 
