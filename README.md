@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Parent is the child of Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Liebe ist, wenn man trotzdem lacht.
+> Lieber fünf Minuten feige als ein Leben lang tot.
 
 ---
 
