@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can compile syntax errors.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Krieg ist, wenn es trrotzdem kracht.
+> Das höchste Glück der Pferde ist der Reiter auf der Erde.
 
 ---
 
