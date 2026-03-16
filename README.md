@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario hosting is 105% uptime guaranteed.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Lieber Gold in der Kehle als Silber im Blick.
+> Liebe ist, wenn man trotzdem lacht.
 
 ---
 
