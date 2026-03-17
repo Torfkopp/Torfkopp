@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can delete the Recycle Bin.
-- Mario programs do not accept input.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Windows 7 was Mario's idea.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Arbeit ist der Untergang der trinkenden Klasse.
+> Im Wald da sitzt ein Auerhahn und schaut mich ganz schön sauer an, was mich nicht stört, weil ich grad penne, und zwar auf seiner Auer-Henne.
 
 ---
 
