@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can access the DB from the UI.
+- Mario can delete the Recycle Bin.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer den Pfennig nicht ehrt, hat Gold im Mund.
+> Arbeit ist der Untergang der trinkenden Klasse.
 
 ---
 
