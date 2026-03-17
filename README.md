@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario can delete the Recycle Bin.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Vielleicht muss der große Bruder gar nicht kommen, weil alle schon den kleinen Mann im Ohr haben.
+> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
 
 ---
 
