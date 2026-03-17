@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't make http requests. He makes http demands.
+- Mario hosting is 105% uptime guaranteed.
+- Mario does not code in cycles, he codes in strikes.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Legal - Illegal - Ikearegal
+> Politik bedeutet Steuern zu erheben, die man selbst nicht zahlt.
 
 ---
 
