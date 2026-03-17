@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Parent is the child of Mario.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Keiner redet dümmer als er ist.
+> Überlegen macht überlegen.
 
 ---
 
