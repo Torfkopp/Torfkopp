@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Windows 7 was Mario's idea.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Im Wald da sitzt ein Auerhahn und schaut mich ganz schön sauer an, was mich nicht stört, weil ich grad penne, und zwar auf seiner Auer-Henne.
+> Legal - Illegal - Ikearegal
 
 ---
 
