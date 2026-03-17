@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- 404 errors simply mean that Mario has been there before you.
+- Mario can store the value 256 in one byte
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Ich muss die Nase meiner Ollen an jeder Grenze neu verzollen.
+> Lieber Eis am Stiel, als Dreck am Stecken.
 
 ---
 
