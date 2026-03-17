@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can't test for equality because he has no equal.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario drops a table it's bloody but silent.
+- Mario can compile syntax errors.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Niemand verschönt den Betriebsausflug so wie die, die nicht dabei sind.
+> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
 
 ---
 
