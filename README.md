@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws exceptions, it's across the room.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Mädchen, schützt euch - esst Knoblauch.
+> Wer den Pfennig nicht ehrt, hat Gold im Mund.
 
 ---
 
