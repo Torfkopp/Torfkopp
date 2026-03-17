@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never has to use the -f option when deleting files.
+- To Mario, everything contains a vulnerability.
+- Mario can't test for equality because he has no equal.
 - Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Schule macht Angst, Angst macht Schule.
+> Niemand verschönt den Betriebsausflug so wie die, die nicht dabei sind.
 
 ---
 
