@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario can compile syntax errors.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario writes code that optimizes itself.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
+> Mädchen, schützt euch - esst Knoblauch.
 
 ---
 
