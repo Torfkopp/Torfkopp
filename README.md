@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario does not code in cycles, he codes in strikes.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Politik bedeutet Steuern zu erheben, die man selbst nicht zahlt.
+> Die größte Offenbarung ist die Pulle. (H. Juhnke)
 
 ---
 
