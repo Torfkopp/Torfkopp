@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario develops in prod.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Parent is the child of Mario.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Lieber ein schwarzes Schaf als ein blauer Bock.
+> Keiner redet dümmer als er ist.
 
 ---
 
