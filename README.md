@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario point to NULL, Null scares.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber Eis am Stiel, als Dreck am Stecken.
+> Lieber ein schwarzes Schaf als ein blauer Bock.
 
 ---
 
