@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario programs do not accept input.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Überlegen macht überlegen.
+> Vielleicht muss der große Bruder gar nicht kommen, weil alle schon den kleinen Mann im Ohr haben.
 
 ---
 
