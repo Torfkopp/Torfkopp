@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can delete the Recycle Bin.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
+> Schule macht Angst, Angst macht Schule.
 
 ---
 
