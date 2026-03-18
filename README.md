@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- To Mario, everything contains a vulnerability.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario throws exceptions, it's across the room.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
+> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
 
 ---
 
