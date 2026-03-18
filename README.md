@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Eine Frau ohne Mann ist wie ein Fisch ohne Fahrrad.
+> Du hast so schöne Zähne: gibt's die auch in Weiß?
 
 ---
 
