@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario develops in prod.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Wer Klinken putzt, wird schneller krank.
+> Wer Ordnung hält, ist nur zu faul zum Suchen.
 
 ---
 
