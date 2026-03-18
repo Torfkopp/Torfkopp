@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario throws exceptions, it's across the room.
-- Mario can't test for equality because he has no equal.
+- Mario exits vim by typing "exit"
+- Mario can write to ROM.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
+> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
 
 ---
 
