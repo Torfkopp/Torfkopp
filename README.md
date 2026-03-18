@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario CAN divide by 0.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can write to ROM.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
+> Ein Bild von Meister Remmebrand das wär mir lieber an der Wand.
 
 ---
 
