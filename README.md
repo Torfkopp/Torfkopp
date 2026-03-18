@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can write to ROM.
-- Mario programs do not accept input.
+- Mario plugs in USB sticks perfectly the first time every time
+- Weird, it always works on Mario's machine.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Ein Bild von Meister Remmebrand das wär mir lieber an der Wand.
+> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
 
 ---
 
