@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't use web standards as the web will conform to him.
+- When Mario point to NULL, Null scares.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Du hast so schöne Zähne: gibt's die auch in Weiß?
+> Man düngt keinen Garten, indem man durch den Zaun furzt.
 
 ---
 
