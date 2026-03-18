@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Weird, it always works on Mario's machine.
-- Mario develops in prod.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
+> Wer stirbt, ist nur zu faul zum Leben.
 
 ---
 
