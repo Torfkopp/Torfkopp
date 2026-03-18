@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never has to use the -f option when deleting files.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Parent is the child of Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pulle. (H. Juhnke)
+> Ich bin tolerant; wem das nicht passt, dem hau ich eine.
 
 ---
 
