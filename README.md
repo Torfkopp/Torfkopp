@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Ist das Hirn auch noch so klein, ein bisschen Stroh passt immer rein.
+> Eine Frau ohne Mann ist wie ein Fisch ohne Fahrrad.
 
 ---
 
