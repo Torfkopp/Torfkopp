@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario CAN divide by 0.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario develops in prod.
-- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Lieber Null Bock als keine Ziege.
+> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
 
 ---
 
