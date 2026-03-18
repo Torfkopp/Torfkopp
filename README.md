@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can store the value 256 in one byte
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Nur Idioten halten Ordnung; ein Genie beherrscht das Chaos.
 
 ---
 
