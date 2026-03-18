@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario can write to ROM.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario develops in prod.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
+> Lieber Null Bock als keine Ziege.
 
 ---
 
