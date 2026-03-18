@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- To Mario, everything contains a vulnerability.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Man düngt keinen Garten, indem man durch den Zaun furzt.
+> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
 
 ---
 
