@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Wer Ordnung hält, ist nur zu faul zum Suchen.
+> Ist das Hirn auch noch so klein, ein bisschen Stroh passt immer rein.
 
 ---
 
