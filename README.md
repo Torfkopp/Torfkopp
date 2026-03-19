@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't make http requests. He makes http demands.
+- When Mario throws an exception it's either across the room or out the window.
 - Weird, it always works on Mario's machine.
-- Mario never has to use the -f option when deleting files.
-- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; man kann stundenlang zuschauen.
+> Der Mond ist nicht nur kleiner als die Erde, sondern auch weiter von ihr entfernt.
 
 ---
 
