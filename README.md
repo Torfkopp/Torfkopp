@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario programs do not accept input.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wo nix läuft, läuft der Fernseher [oder: Computer].
+> Nur Idioten halten Ordnung; ein Genie beherrscht das Chaos.
 
 ---
 
