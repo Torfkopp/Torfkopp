@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Weird, it always works on Mario's machine.
-- When Mario point to NULL, Null scares.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Lieber niederträchtig als hochschwanger.
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
