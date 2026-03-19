@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario point to NULL, Null scares.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Anything goes, nur nicht Albrecht Goes.
 
 ---
 
