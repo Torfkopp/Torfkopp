@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When Mario throws an exception it's either across the room or out the window.
-- Weird, it always works on Mario's machine.
+- When Mario drops a table it's bloody but silent.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Der Mond ist nicht nur kleiner als die Erde, sondern auch weiter von ihr entfernt.
+> Erst schließen wir die Augen; dann sehen wir weiter.
 
 ---
 
