@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Parent is the child of Mario.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Lieber Glück im Unglück als Pech in der Strähne.
+> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
 
 ---
 
