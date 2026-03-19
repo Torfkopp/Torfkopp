@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario programs do not accept input.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Nur Idioten halten Ordnung; ein Genie beherrscht das Chaos.
+> Meine Glotze ist kaputt, drum lern' ich lesen.
 
 ---
 
