@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario throws exceptions, it's across the room.
+- Mario programs do not accept input.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
+> Zum Leben muss man geboren sein.
 
 ---
 
