@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario point to NULL, Null scares.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 - Mario can delete the Recycle Bin.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Lieber ein schwarzes Schaf als ein blauer Bock.
+> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
 
 ---
 
