@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario point to NULL, Null scares.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Zum Leben muss man geboren sein.
+> Lieber ein schwarzes Schaf als ein blauer Bock.
 
 ---
 
