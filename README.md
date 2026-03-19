@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can store the value 256 in one byte
-- When Mario throws exceptions, it's across the room.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Weird, it always works on Mario's machine.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Nur Idioten halten Ordnung; ein Genie beherrscht das Chaos.
+> Lieber niederträchtig als hochschwanger.
 
 ---
 
