@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario invented binary by performing a roundhouse on the number 10.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Erst schließen wir die Augen; dann sehen wir weiter.
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
