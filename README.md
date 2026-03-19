@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario plugs in USB sticks perfectly the first time every time
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> Lieber Glück im Unglück als Pech in der Strähne.
 
 ---
 
