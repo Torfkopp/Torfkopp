@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can delete the Recycle Bin.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can store the value 256 in one byte
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
+> Wo nix läuft, läuft der Fernseher [oder: Computer].
 
 ---
 
