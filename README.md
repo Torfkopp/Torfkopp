@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Du hast so schöne Zähne: gibt's die auch in Weiß?
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
