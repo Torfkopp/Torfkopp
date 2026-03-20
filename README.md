@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario programs do not accept input.
+- Mario CAN divide by 0.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
+> Aller Mannfang ist schwer.
 
 ---
 
