@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
+- Mario plugs in USB sticks perfectly the first time every time
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Aller Mannfang ist schwer.
+> Sei schlau, bleib dumm.
 
 ---
 
