@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario does not code in cycles, he codes in strikes.
-- Mario never has to use the -f option when deleting files.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Parent is the child of Mario.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Stille Wasser beißen nicht.
 
 ---
 
