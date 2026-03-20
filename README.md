@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Parent is the child of Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Stille Wasser beißen nicht.
+> Ein voller Bauch fällt nicht weit vom Stamm.
 
 ---
 
