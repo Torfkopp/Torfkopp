@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario uses /dev/null as STDIN.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario does not code in cycles, he codes in strikes.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Sei schlau, bleib dumm.
+> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
 
 ---
 
