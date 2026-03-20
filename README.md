@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario drops a table it's bloody but silent.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ein voller Bauch fällt nicht weit vom Stamm.
+> Ich kann fliegen, sagte der Wurm, als er mit dem Apfel vom Baum fiel.
 
 ---
 
