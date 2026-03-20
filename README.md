@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario CAN divide by 0.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Frisch gewagt ist halb verschrottet.
+> Ein Masochist, der zurückhaut, ist pervers.
 
 ---
 
