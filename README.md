@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario does not code in cycles, he codes in strikes.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Die Frauen sind viel zu liebenswert, als dass man sie den Feministinnen überlassen sollte.
+> Lieber eine Fliege im Porzellanladen, als ein Elefant in der Suppe!
 
 ---
 
