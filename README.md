@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
+> Man kann sich an allem gewöhnen, auch am Dativ.
 
 ---
 
