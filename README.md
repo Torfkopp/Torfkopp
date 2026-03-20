@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Parent is the child of Mario.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
+> Die Frauen sind viel zu liebenswert, als dass man sie den Feministinnen überlassen sollte.
 
 ---
 
