@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
+> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
 
 ---
 
