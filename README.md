@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
