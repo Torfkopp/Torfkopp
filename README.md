@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Parent is the child of Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Ich kann fliegen, sagte der Wurm, als er mit dem Apfel vom Baum fiel.
+> Du hast so schöne Zähne: gibt's die auch in Weiß?
 
 ---
 
