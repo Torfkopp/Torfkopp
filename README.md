@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can binary search unsorted data.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Ein Masochist, der zurückhaut, ist pervers.
+> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
 
 ---
 
