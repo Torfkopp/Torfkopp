@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario invented binary by performing a roundhouse on the number 10.
 - Mario can delete the Recycle Bin.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Man kann sich an allem gewöhnen, auch am Dativ.
+> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
 
 ---
 
