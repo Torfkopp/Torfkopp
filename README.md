@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can store the value 256 in one byte
+- Parent is the child of Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Jeder ist seines Glückes Störenfried.
+> Mit leerem Kopf nickt es sich leichter.
 
 ---
 
