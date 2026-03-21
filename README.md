@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
+> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
 
 ---
 
