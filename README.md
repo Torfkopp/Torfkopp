@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario CAN divide by 0.
-- 404 errors simply mean that Mario has been there before you.
+- Mario hosting is 105% uptime guaranteed.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Vielleicht muss der große Bruder gar nicht kommen, weil alle schon den kleinen Mann im Ohr haben.
+> Besser Sex für Geld als kein Sex und kein Geld.
 
 ---
 
