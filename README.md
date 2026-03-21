@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can't test for equality because he has no equal.
+- Parent is the child of Mario.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
+> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
 
 ---
 
