@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can't test for equality because he has no equal.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario CAN divide by 0.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Nimm alles, dann brauchst du nichts.
+> Vielleicht muss der große Bruder gar nicht kommen, weil alle schon den kleinen Mann im Ohr haben.
 
 ---
 
