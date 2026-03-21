@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Parent is the child of Mario.
-- Mario can write to ROM.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Der Herr zum Knecht: "Heut geht's mir schlecht!" Der Knecht zum Herrn: "Das hört man gern!"
+> Hau niemals ab - hau einfach zu!
 
 ---
 
