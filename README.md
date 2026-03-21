@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can store the value 256 in one byte
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Lieber eine Fliege im Porzellanladen, als ein Elefant in der Suppe!
+> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
 
 ---
 
