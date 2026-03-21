@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Mit leerem Kopf nickt es sich leichter.
+> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
 
 ---
 
