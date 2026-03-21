@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Parent is the child of Mario.
-- Mario can write to ROM.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Guter Staat ist teuer.
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
