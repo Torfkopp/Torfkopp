@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario drops a table it's bloody but silent.
-- Mario plugs in USB sticks perfectly the first time every time
+- Weird, it always works on Mario's machine.
+- Parent is the child of Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
+> Der Herr zum Knecht: "Heut geht's mir schlecht!" Der Knecht zum Herrn: "Das hört man gern!"
 
 ---
 
