@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario drops a table it's bloody but silent.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws an exception it's either across the room or out the window.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Besser Sex für Geld als kein Sex und kein Geld.
+> Erst schließen wir die Augen; dann sehen wir weiter.
 
 ---
 
