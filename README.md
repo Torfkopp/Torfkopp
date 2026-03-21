@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario drops a table it's bloody but silent.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can't test for equality because he has no equal.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Hau niemals ab - hau einfach zu!
+> Nimm alles, dann brauchst du nichts.
 
 ---
 
