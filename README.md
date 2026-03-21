@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can store the value 256 in one byte
-- When Mario point to NULL, Null scares.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario drops a table it's bloody but silent.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wenn am Sarg die Witwe kichert, war ihr Alter gut versichert.
+> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
 
 ---
 
