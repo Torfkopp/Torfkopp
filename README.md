@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can write to ROM.
-- When Mario throws an exception it's either across the room or out the window.
+- Parent is the child of Mario.
+- Mario can store the value 256 in one byte
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Der Geist denkt, das Geld lenkt.
+> Sturm ist erst, wenn Schafe keine Locken mehr haben.
 
 ---
 
