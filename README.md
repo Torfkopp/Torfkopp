@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario writes code that optimizes itself.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Ein voller Kopf studiert nicht gern.
+> Es ist noch kein Kleister vom Himmel gefallen.
 
 ---
 
