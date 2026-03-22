@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Kleine Bosheiten erhalten die Feindschaft.
+> Was der Bauer nicht kennt, vergisst er nicht.
 
 ---
 
