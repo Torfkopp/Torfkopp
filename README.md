@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario programs do not accept input.
+- Windows 7 was Mario's idea.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Was der Bauer nicht kennt, vergisst er nicht.
+> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
 
 ---
 
