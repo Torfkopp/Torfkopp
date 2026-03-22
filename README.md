@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario invented binary by performing a roundhouse on the number 10.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Zwei im Büro, und einer arbeitet? Ein Beamter und ein Ventilator.
+> Schützt die Glühbirnen vor dem Lampenfieber.
 
 ---
 
