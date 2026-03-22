@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario can store the value 256 in one byte
-- Mario doesn't use web standards as the web will conform to him.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Sturm ist erst, wenn Schafe keine Locken mehr haben.
+> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
 
 ---
 
