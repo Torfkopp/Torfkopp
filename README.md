@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't make http requests. He makes http demands.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Es ist noch kein Kleister vom Himmel gefallen.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
