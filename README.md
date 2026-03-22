@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can compile syntax errors.
+- Mario can delete the Recycle Bin.
+- Mario can write to ROM.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Besser niederträchtig als hochschwanger.
+> Der Geist denkt, das Geld lenkt.
 
 ---
 
