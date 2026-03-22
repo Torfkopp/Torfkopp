@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario programs do not accept input.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Zwei im Büro, und einer arbeitet? Ein Beamter und ein Ventilator.
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
