@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Parent is the child of Mario.
+- Mario CAN divide by 0.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> Ein voller Kopf studiert nicht gern.
 
 ---
 
