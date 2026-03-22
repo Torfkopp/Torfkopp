@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
+> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
 
 ---
 
