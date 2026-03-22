@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Windows 7 was Mario's idea.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can store the value 256 in one byte
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> An die Waffeln, Bürger!
+> Zwei im Büro, und einer arbeitet? Ein Beamter und ein Ventilator.
 
 ---
 
