@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Windows 7 was Mario's idea.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can binary search unsorted data.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
+> Man soll den Tag nicht vor dem Elternabend loben.
 
 ---
 
