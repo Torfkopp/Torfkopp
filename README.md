@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can binary search unsorted data.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Schützt die Glühbirnen vor dem Lampenfieber.
+> Zwei im Büro, und einer arbeitet? Ein Beamter und ein Ventilator.
 
 ---
 
