@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
+> Kleine Bosheiten erhalten die Feindschaft.
 
 ---
 
