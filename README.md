@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario CAN divide by 0.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
+> Licht ist nicht vorhandene Dunkelheit.
 
 ---
 
