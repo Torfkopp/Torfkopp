@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Man soll den Tag nicht vor dem Elternabend loben.
+> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
 
 ---
 
