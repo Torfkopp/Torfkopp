@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When Mario point to NULL, Null scares.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Kreuzbrave sind meist piksauber.
+> Wer ein langes Gesicht macht, hat mehr zu rasieren.
 
 ---
 
