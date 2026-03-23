@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario CAN divide by 0.
-- Mario writes code that optimizes itself.
+- Mario uses /dev/null as STDIN.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Licht ist nicht vorhandene Dunkelheit.
+> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
 
 ---
 
