@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario throws exceptions, it's across the room.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Elite? Nein danke.
+> Wie man sich füttert, so wiegt man.
 
 ---
 
