@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario never has to use the -f option when deleting files.
-- Mario can access the DB from the UI.
+- Mario can store the value 256 in one byte
+- 404 errors simply mean that Mario has been there before you.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
+> Oh, frivol ist mir am Abend.
 
 ---
 
