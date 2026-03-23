@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Input - Output - ganz putt.
+> Lieber ein Zebra streifen als einen Bullen anfahren.
 
 ---
 
