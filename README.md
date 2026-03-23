@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario never has to use the -f option when deleting files.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer mehr kann, kann bald nicht mehr.
+> Aller Mannfang ist schwer.
 
 ---
 
