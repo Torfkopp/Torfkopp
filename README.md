@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can access the DB from the UI.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer ein langes Gesicht macht, hat mehr zu rasieren.
+> Wenn der Krieg ausbricht, war der Frieden offenbar ein Gefängnis.
 
 ---
 
