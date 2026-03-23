@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario drops a table it's bloody but silent.
+- Mario never has to use the -f option when deleting files.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
+> Wer mehr kann, kann bald nicht mehr.
 
 ---
 
