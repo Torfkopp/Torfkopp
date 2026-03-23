@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario writes code that optimizes itself.
+- Mario can access the DB from the UI.
+- Mario programs do not accept input.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Aller Mannfang ist schwer.
+> Lieber Hochstapler als Tiefflieger.
 
 ---
 
