@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario programs do not accept input.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Lieber Hochstapler als Tiefflieger.
+> Elite? Nein danke.
 
 ---
 
