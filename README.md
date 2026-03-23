@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can write to ROM.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wie man sich füttert, so wiegt man.
+> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
 
 ---
 
