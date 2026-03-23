@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't use web standards as the web will conform to him.
+- Parent is the child of Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber ein Zebra streifen als einen Bullen anfahren.
+> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
 
 ---
 
