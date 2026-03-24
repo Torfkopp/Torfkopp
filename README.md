@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can binary search unsorted data.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario throws exceptions, it's across the room.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Ihr da Ohm, macht doch Watt ihr Volt.
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
