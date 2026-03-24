@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario does not code in cycles, he codes in strikes.
-- Mario uses /dev/null as STDIN.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
+> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
 
 ---
 
