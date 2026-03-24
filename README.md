@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Windows 7 was Mario's idea.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws exceptions, it's across the room.
+- Mario does not code in cycles, he codes in strikes.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Langweilige Frauen haben blitzsaubere Küchen.
+> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
 
 ---
 
