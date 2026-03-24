@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario writes code that optimizes itself.
 - Windows 7 was Mario's idea.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Fettflecke werden wie neu, wenn man sie regelmäßig mit Butter bestreicht.
+> Langweilige Frauen haben blitzsaubere Küchen.
 
 ---
 
