@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
 - Parent is the child of Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
 
 ---
 
