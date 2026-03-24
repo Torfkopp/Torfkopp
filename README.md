@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario CAN divide by 0.
+- When Mario point to NULL, Null scares.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
+> Unter dem Pflaster liegt der Strand.
 
 ---
 
