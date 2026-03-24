@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
+> Er sagte 'Isabelle'. Und Isa bellte.
 
 ---
 
