@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario CAN divide by 0.
+- Mario writes code that optimizes itself.
+- Mario can delete the Recycle Bin.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Er sagte 'Isabelle'. Und Isa bellte.
+> Die meisten Holzwege enden in einer Sackgasse.
 
 ---
 
