@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can write to ROM.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- To Mario, everything contains a vulnerability.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wenn der Krieg ausbricht, war der Frieden offenbar ein Gefängnis.
+> Frisch gewagt ist halb verschrottet.
 
 ---
 
