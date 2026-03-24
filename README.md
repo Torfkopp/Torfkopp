@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- To Mario, everything contains a vulnerability.
-- When Mario throws exceptions, it's across the room.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can binary search unsorted data.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Frisch gewagt ist halb verschrottet.
+> Ihr da Ohm, macht doch Watt ihr Volt.
 
 ---
 
