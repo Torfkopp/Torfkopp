@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can access the DB from the UI.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario writes code that optimizes itself.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Lieber zusammen aus- als allein eingehen.
+> Die größte Offenbarung ist der Bulle. (cow in season)
 
 ---
 
