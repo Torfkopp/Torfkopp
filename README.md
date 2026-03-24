@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario point to NULL, Null scares.
-- Mario doesn't use web standards as the web will conform to him.
+- Windows 7 was Mario's idea.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Unter dem Pflaster liegt der Strand.
+> Fettflecke werden wie neu, wenn man sie regelmäßig mit Butter bestreicht.
 
 ---
 
