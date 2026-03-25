@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario throws exceptions, it's across the room.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't make http requests. He makes http demands.
+- Mario uses /dev/null as STDIN.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Lieber Himbeergeist als Männerverstand.
+> Durch Arbeit versaut man sich den ganzen Tag.
 
 ---
 
