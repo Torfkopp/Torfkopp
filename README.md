@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wer den Schaden hat, braucht für den Schrott nicht zu sorgen.
+> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
 
 ---
 
