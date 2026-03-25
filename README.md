@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can't test for equality because he has no equal.
+- Mario never has to use the -f option when deleting files.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
+> Wer nicht hören will, muss fernsehen.
 
 ---
 
