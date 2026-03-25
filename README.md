@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario uses /dev/null as STDIN.
-- Mario never has to use the -f option when deleting files.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Durch Arbeit versaut man sich den ganzen Tag.
+> Wer den Schaden hat, braucht für den Schrott nicht zu sorgen.
 
 ---
 
