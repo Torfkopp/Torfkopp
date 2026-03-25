@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario point to NULL, Null scares.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
+> Wir wollen Männer, keine Ersatzteile.
 
 ---
 
