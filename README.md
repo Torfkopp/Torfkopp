@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario uses /dev/null as STDIN.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Windows 7 was Mario's idea.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
