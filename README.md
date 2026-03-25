@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario never has to use the -f option when deleting files.
-- Parent is the child of Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario throws exceptions, it's across the room.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wer nicht hören will, muss fernsehen.
+> Lieber Himbeergeist als Männerverstand.
 
 ---
 
