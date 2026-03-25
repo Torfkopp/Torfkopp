@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- To Mario, everything contains a vulnerability.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario writes code that optimizes itself.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Im Schatten ist es ruhig, weil man das Licht nicht hört.
+> Je tiefer das Loch, desto plumps.
 
 ---
 
