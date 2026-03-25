@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario point to NULL, Null scares.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Je tiefer das Loch, desto plumps.
+> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
 
 ---
 
