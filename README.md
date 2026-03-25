@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can binary search unsorted data.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Und von wem haben Sie Ihre Meinung?
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
