@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can delete the Recycle Bin.
+- Mario writes code that optimizes itself.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wir wollen Männer, keine Ersatzteile.
+> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
 
 ---
 
