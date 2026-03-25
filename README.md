@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario exits vim by typing "exit"
+- Mario can binary search unsorted data.
+- To Mario, everything contains a vulnerability.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wo ein Wille ist, da ist auch ein Gebüsch.
+> Im Schatten ist es ruhig, weil man das Licht nicht hört.
 
 ---
 
