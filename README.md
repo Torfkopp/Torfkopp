@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws exceptions, it's across the room.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
+> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
 
 ---
 
