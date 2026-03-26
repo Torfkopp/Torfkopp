@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> In einer guten Beziehung hat niemand die Hosen an. Die stören ja nur.
+> Krieg ist, wenn es trrotzdem kracht.
 
 ---
 
