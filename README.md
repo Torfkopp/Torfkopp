@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can write to ROM.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Jeder Tag ist gleich lang, aber verschieden breit.
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
