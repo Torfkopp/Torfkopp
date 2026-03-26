@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Es gibt Fach- und Mehrfachidioten.
+> In einer guten Beziehung hat niemand die Hosen an. Die stören ja nur.
 
 ---
 
