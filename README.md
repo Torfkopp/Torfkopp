@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
+- When Mario drops a table it's bloody but silent.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Je härter, desto knack.
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
