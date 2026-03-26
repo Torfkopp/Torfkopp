@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario point to NULL, Null scares.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Lieber 'n Altbier als 'ne Neurose.
+> Früh gewagt ist früh gestorben.
 
 ---
 
