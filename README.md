@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario exits vim by typing "exit"
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can write to ROM.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Krieg ist, wenn es trrotzdem kracht.
+> Je härter, desto knack.
 
 ---
 
