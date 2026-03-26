@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can delete the Recycle Bin.
+- Mario can binary search unsorted data.
 - Mario can't test for equality because he has no equal.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Lieber fünf Minuten feige als ein Leben lang tot.
+> Arbeit adelt; wir aber bleiben bürgerlich.
 
 ---
 
