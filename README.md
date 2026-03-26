@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario point to NULL, Null scares.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Manche würden eher sterben als nachdenken. Und sie tun es auch.
+> Lieber 'n Altbier als 'ne Neurose.
 
 ---
 
