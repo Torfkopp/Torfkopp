@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can delete the Recycle Bin.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Wer abnimmt, hat mehr vom Telefon.
 
 ---
 
