@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario programs do not accept input.
-- When Mario drops a table it's bloody but silent.
+- Mario plugs in USB sticks perfectly the first time every time
+- Parent is the child of Mario.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
+> Lieber Blödeleien als blöde Laien.
 
 ---
 
