@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Windows 7 was Mario's idea.
-- Mario never has to use the -f option when deleting files.
+- Mario CAN divide by 0.
+- Mario programs do not accept input.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der einen Vogel hat, ist ein Star.
+> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
 
 ---
 
