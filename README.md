@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can store the value 256 in one byte
+- Mario writes code that optimizes itself.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer abnimmt, hat mehr vom Telefon.
+> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
 
 ---
 
