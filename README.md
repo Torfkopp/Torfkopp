@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Parent is the child of Mario.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Lieber Blödeleien als blöde Laien.
+> Manche würden eher sterben als nachdenken. Und sie tun es auch.
 
 ---
 
