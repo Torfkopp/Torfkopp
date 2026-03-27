@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can't test for equality because he has no equal.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
+> Wir wollen Männer, keine Ersatzteile.
 
 ---
 
