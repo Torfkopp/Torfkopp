@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer dir glaubt, wird garantiert nicht selig.
+> Hasse dich nicht schon am Morgen: schlaf bis Mittag.
 
 ---
 
