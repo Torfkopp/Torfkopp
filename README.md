@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario uses /dev/null as STDIN.
 - Windows 7 was Mario's idea.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Hasse dich nicht schon am Morgen: schlaf bis Mittag.
+> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
 
 ---
 
