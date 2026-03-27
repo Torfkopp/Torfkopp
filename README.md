@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario drops a table it's bloody but silent.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
+> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
 
 ---
 
