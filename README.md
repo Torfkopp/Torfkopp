@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario writes code that optimizes itself.
-- Mario can write to ROM.
+- Mario can access the DB from the UI.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
+> Die größte Offenbarung ist die Stulle. (Bauarbeiter)
 
 ---
 
