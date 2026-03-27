@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Windows 7 was Mario's idea.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Parent is the child of Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
+> Bei diesem Neeklischee und Parföng ward's dem Alten zu eng.
 
 ---
 
