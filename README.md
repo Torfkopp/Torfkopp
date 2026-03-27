@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Parent is the child of Mario.
-- Mario can write to ROM.
+- Mario can access the DB from the UI.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Bei diesem Neeklischee und Parföng ward's dem Alten zu eng.
+> Ich brauch kein Hasch; ich nehme DASH.
 
 ---
 
