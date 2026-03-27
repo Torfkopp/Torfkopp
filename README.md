@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can compile syntax errors.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario develops in prod.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Ein Schwein kommt selten allein.
+> Wo gedoubelt wird, da fallen Zähne (Stuntman-Weisheit).
 
 ---
 
