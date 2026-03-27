@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario hosting is 105% uptime guaranteed.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Stulle. (Bauarbeiter)
+> Keine Angst: wir kommen nicht in die Hölle. Wir leben schon drin.
 
 ---
 
