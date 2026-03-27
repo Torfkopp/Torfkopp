@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario develops in prod.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can store the value 256 in one byte
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wo gedoubelt wird, da fallen Zähne (Stuntman-Weisheit).
+> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
 
 ---
 
