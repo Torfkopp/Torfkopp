@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't make http requests. He makes http demands.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Windows 7 was Mario's idea.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Trag nie eine Anstecknadel, wenn du erkältet bist.
+> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
 
 ---
 
