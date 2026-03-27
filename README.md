@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario drops a table it's bloody but silent.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
+> Trag nie eine Anstecknadel, wenn du erkältet bist.
 
 ---
 
