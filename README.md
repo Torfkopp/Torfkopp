@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario uses /dev/null as STDIN.
+- Mario writes code that optimizes itself.
+- Mario develops in prod.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
+> Lieber den Faust im Kopf als auf dem Auge.
 
 ---
 
