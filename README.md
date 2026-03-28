@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can't test for equality because he has no equal.
+- Mario can delete the Recycle Bin.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Auf neuen Stühlen denkt sich's besser, sofern man mit dem Hintern denkt.
+> Dem Philosoph ist nichts zu doof.
 
 ---
 
