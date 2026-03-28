@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario programs do not accept input.
+- Mario can delete the Recycle Bin.
 - Mario writes code that optimizes itself.
-- Mario develops in prod.
-- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber den Faust im Kopf als auf dem Auge.
+> Wer sich nicht wehrt, endet am Herd.
 
 ---
 
