@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Ich brauch kein Hasch; ich nehme DASH.
+> Der Klügere gibt so lange nach, bis er der Dumme ist.
 
 ---
 
