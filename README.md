@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario throws exceptions, it's across the room.
-- Mario hosting is 105% uptime guaranteed.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- 404 errors simply mean that Mario has been there before you.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Gib mir Deinen Ausweis, und ich sage Dir, wer Du bist.
 
 ---
 
