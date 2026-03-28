@@ -5,9 +5,9 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
