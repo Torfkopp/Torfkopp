@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- 404 errors simply mean that Mario has been there before you.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Gib mir Deinen Ausweis, und ich sage Dir, wer Du bist.
+> Auf neuen Stühlen denkt sich's besser, sofern man mit dem Hintern denkt.
 
 ---
 
