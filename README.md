@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can't test for equality because he has no equal.
-- Mario can delete the Recycle Bin.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never has to use the -f option when deleting files.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Dem Philosoph ist nichts zu doof.
+> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
 
 ---
 
