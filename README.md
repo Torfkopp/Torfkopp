@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario programs do not accept input.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can access the DB from the UI.
+- Mario CAN divide by 0.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Nimm alles, dann brauchst du nichts.
+> Lieber am Po als am Arsch (Touristenwerbung).
 
 ---
 
