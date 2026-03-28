@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can delete the Recycle Bin.
-- Mario writes code that optimizes itself.
+- Mario can store the value 256 in one byte
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer sich nicht wehrt, endet am Herd.
+> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
 
 ---
 
