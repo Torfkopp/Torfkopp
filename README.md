@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wenn der Kuchen spricht, schweigt der Krümel.
+> Lieber ein Bund fürs Leben als ein Leben für den Bund.
 
 ---
 
