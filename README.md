@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can access the DB from the UI.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Lieber ein Bund fürs Leben als ein Leben für den Bund.
+> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
 
 ---
 
