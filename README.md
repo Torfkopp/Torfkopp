@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Windows 7 was Mario's idea.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Lieber Hosenträger als gar keinen Halt.
+> LABELLO, und kein Kuss quietscht mehr.
 
 ---
 
