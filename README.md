@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario exits vim by typing "exit"
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
+> Lieber Hosenträger als gar keinen Halt.
 
 ---
 
