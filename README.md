@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario programs do not accept input.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Frei ist, wer will, was er ohnehin muss.
+> Zu viel Eisbein schadet dem Steißbein.
 
 ---
 
