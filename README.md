@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can compile syntax errors.
-- Windows 7 was Mario's idea.
+- Mario can binary search unsorted data.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Jeder Tag ist gleich lang, aber verschieden breit.
+> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
 
 ---
 
