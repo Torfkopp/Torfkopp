@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario exits vim by typing "exit"
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Ich schaue in den Spiegel und denk', ich hab' Besuch.
+> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
 
 ---
 
