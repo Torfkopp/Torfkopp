@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Parent is the child of Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Homer ist, wenn man trotzdem lacht.
+> Ich brauch kein Hasch; ich nehme DASH.
 
 ---
 
