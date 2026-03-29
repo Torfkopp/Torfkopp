@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario develops in prod.
+- Mario can compile syntax errors.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Muss es erst duster sein, bevor uns ein Licht aufgeht?
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
