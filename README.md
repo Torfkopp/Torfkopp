@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario exits vim by typing "exit"
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
+> Ich schaue in den Spiegel und denk', ich hab' Besuch.
 
 ---
 
