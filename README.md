@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario hosting is 105% uptime guaranteed.
+- Mario exits vim by typing "exit"
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Zu viel Eisbein schadet dem Steißbein.
+> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
 
 ---
 
