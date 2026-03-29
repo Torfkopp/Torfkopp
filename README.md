@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario CAN divide by 0.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Lieber am Po als am Arsch (Touristenwerbung).
+> Wer den Feind umarmt, macht ihn bewegungsunfähig.
 
 ---
 
