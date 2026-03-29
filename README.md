@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario uses /dev/null as STDIN.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wer den Feind umarmt, macht ihn bewegungsunfähig.
+> Frei ist, wer will, was er ohnehin muss.
 
 ---
 
