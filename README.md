@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario CAN divide by 0.
-- Mario never has to use the -f option when deleting files.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Langweilige Frauen haben blitzsaubere Küchen.
+> Homer ist, wenn man trotzdem lacht.
 
 ---
 
