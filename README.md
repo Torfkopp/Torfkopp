@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario CAN divide by 0.
 - Mario never has to use the -f option when deleting files.
-- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Milch trinken ist besser als Quark reden.
+> Langweilige Frauen haben blitzsaubere Küchen.
 
 ---
 
