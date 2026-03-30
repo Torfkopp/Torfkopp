@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can delete the Recycle Bin.
-- When Mario point to NULL, Null scares.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Mich kennen heißt mich lieben.
+> Homer ist, wenn man trotzdem lacht.
 
 ---
 
