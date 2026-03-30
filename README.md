@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario throws exceptions, it's across the room.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
+> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
 
 ---
 
