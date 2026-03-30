@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario can binary search unsorted data.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
+> Rauche jetzt, zahle später.
 
 ---
 
