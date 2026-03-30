@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't make http requests. He makes http demands.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario plugs in USB sticks perfectly the first time every time
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Ich verspreche nichts; und das halte ich auch.
+> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
 
 ---
 
