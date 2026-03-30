@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can store the value 256 in one byte
+- Mario can access the DB from the UI.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wer früher stirbt, ist länger tot.
+> Je leerer die Versprechungen, desto voller die Absicht.
 
 ---
 
