@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't make http requests. He makes http demands.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Planung ist der Ersatz des Zufalls durch den Irrtum.
+> Ich verspreche nichts; und das halte ich auch.
 
 ---
 
