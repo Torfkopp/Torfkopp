@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario throws an exception it's either across the room or out the window.
+- Weird, it always works on Mario's machine.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
+> Wer früher stirbt, ist länger tot.
 
 ---
 
