@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Weird, it always works on Mario's machine.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
+> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
 
 ---
 
