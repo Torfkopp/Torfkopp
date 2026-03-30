@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - When Mario point to NULL, Null scares.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Ein Schwein kommt selten allein.
+> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
 
 ---
 
