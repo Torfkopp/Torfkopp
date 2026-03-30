@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario does not code in cycles, he codes in strikes.
+- Mario writes code that optimizes itself.
+- Mario can binary search unsorted data.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Je leerer die Versprechungen, desto voller die Absicht.
+> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
 
 ---
 
