@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can compile syntax errors.
-- Mario can access the DB from the UI.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Komm zurück, Godot; es ist alles verziehen.
+> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
 
 ---
 
