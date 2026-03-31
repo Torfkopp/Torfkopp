@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 - To Mario, everything contains a vulnerability.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Lieber ein erregter Bekannter als ein unbekannter Erreger.
+> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
 
 ---
 
