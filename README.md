@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario drops a table it's bloody but silent.
-- Mario can compile syntax errors.
+- Mario can write to ROM.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
+> Komm lieber Mai und mache den SCHILY wieder grün.
 
 ---
 
