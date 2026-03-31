@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- To Mario, everything contains a vulnerability.
+- Mario can delete the Recycle Bin.
+- Mario CAN divide by 0.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
+> Im Herbst, da fallen die Blätter; das liegt wohl am Wetter.
 
 ---
 
