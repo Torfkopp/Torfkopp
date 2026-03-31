@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
+- Mario can store the value 256 in one byte
+- Mario doesn't use web standards as the web will conform to him.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Die Pflicht ruft? Wir rufen zurück.
+> Komm zurück, Godot; es ist alles verziehen.
 
 ---
 
