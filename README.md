@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can store the value 256 in one byte
-- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Riech ich dein Aroma, fall ich gleich ins Koma.
+> Ist das Hirn auch noch so klein, ein bisschen Stroh passt immer rein.
 
 ---
 
