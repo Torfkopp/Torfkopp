@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Komm lieber Mai und mache den SCHILY wieder grün.
+> Lieber ein erregter Bekannter als ein unbekannter Erreger.
 
 ---
 
