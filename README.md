@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never has to use the -f option when deleting files.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
+> Ich bin intelligent, schön und gebildet, doch das Beste an mir ist meine Bescheidenheit.
 
 ---
 
