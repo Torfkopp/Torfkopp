@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can compile syntax errors.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
+> Komm zurück, Godot; es ist alles verziehen.
 
 ---
 
