@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario throws exceptions, it's across the room.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario exits vim by typing "exit"
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Ist das Hirn auch noch so klein, ein bisschen Stroh passt immer rein.
+> Die Pflicht ruft? Wir rufen zurück.
 
 ---
 
