@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario drops a table it's bloody but silent.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Ich bin intelligent, schön und gebildet, doch das Beste an mir ist meine Bescheidenheit.
+> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
 
 ---
 
