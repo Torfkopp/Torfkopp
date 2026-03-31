@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can compile syntax errors.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Spare in der Not, dann hast du Zeit dazu.
+> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
 
 ---
 
