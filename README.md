@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario CAN divide by 0.
+- When Mario throws exceptions, it's across the room.
+- Weird, it always works on Mario's machine.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
+> Kurze Röcke, lange Stielaugen.
 
 ---
 
