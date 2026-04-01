@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario drops a table it's bloody but silent.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario writes code that optimizes itself.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Nimms leicht, sonst nimmts ein anderer.
+> Wenn die Bettwanzen beißen, beiß zurück!
 
 ---
 
