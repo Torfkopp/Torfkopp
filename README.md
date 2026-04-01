@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can't test for equality because he has no equal.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> An die Waffeln, Bürger!
+> Wir beiben unserm Grundsatz treu: trickreich, scharf und arbeitsscheu.
 
 ---
 
