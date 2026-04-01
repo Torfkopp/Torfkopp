@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Weird, it always works on Mario's machine.
-- Mario can't test for equality because he has no equal.
+- Mario uses /dev/null as STDIN.
+- Parent is the child of Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Kurze Röcke, lange Stielaugen.
+> Der Student geht so lange zur Mensa bis er bricht.
 
 ---
 
