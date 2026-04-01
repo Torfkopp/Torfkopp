@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can access the DB from the UI.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Eine Frau ohne Mann ist wie ein Fisch ohne Fahrrad.
+> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
 
 ---
 
