@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario writes code that optimizes itself.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wenn die Bettwanzen beißen, beiß zurück!
+> Lieber entlarvt als entschärft.
 
 ---
 
