@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can't test for equality because he has no equal.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Sommersprossen sind auch Gesichtspunkte.
+> Eine Frau ohne Mann ist wie ein Fisch ohne Fahrrad.
 
 ---
 
