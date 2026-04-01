@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Parent is the child of Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario exits vim by typing "exit"
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Der Student geht so lange zur Mensa bis er bricht.
+> Lieber Rosinen im Kopf als Haare im Kuchen.
 
 ---
 
