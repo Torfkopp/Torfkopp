@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can delete the Recycle Bin.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can store the value 256 in one byte
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Liebe ist, wenn man trotzdem lacht.
+> Lieber am Po als am Arsch (Touristenwerbung).
 
 ---
 
