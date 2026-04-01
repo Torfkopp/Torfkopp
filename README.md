@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- When Mario drops a table it's bloody but silent.
-- Mario does not code in cycles, he codes in strikes.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
+> Sommersprossen sind auch Gesichtspunkte.
 
 ---
 
