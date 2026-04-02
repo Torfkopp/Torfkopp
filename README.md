@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can write to ROM.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Tolle. (Friseur)
+> Warum in die Ferne schweifen, wenn im Dorf die Mädels reifen.
 
 ---
 
