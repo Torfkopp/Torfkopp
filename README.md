@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can compile syntax errors.
+- When Mario throws exceptions, it's across the room.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Ich summe, also bien ich.
+> Ein Taucher, der nicht taucht, taucht nix.
 
 ---
 
