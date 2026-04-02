@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can write to ROM.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario develops in prod.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, stirbt wenigstens fröhlich.
+> Kippt Kaiser Franz von der Empore, gab's in der Nachspielzeit zwei Tore.
 
 ---
 
