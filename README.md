@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario writes code that optimizes itself.
+- Mario can write to ROM.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Warum in die Ferne schweifen, wenn im Dorf die Mädels reifen.
+> Ich summe, also bien ich.
 
 ---
 
