@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario drops a table it's bloody but silent.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can delete the Recycle Bin.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
+> Wer zuletzt lacht, stirbt wenigstens fröhlich.
 
 ---
 
