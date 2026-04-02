@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
+> Die größte Offenbarung ist der Bulle. (cow in season)
 
 ---
 
