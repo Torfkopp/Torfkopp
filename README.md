@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario CAN divide by 0.
 - When Mario drops a table it's bloody but silent.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Das Fleisch war billig, und der Geist war willig.
+> Durch Arbeit versaut man sich den ganzen Tag.
 
 ---
 
