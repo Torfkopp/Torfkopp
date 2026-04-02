@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario never has to use the -f option when deleting files.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario exits vim by typing "exit"
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Pessimisten finden auch in der Fischsuppe ein Haar.
+> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
 
 ---
 
