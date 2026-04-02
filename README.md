@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario invented binary by performing a roundhouse on the number 10.
 - Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Die Regierung spart, jetzt müssen sich 20 Minister ein Gehirn teilen.
+> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
 
 ---
 
