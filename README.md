@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario throws exceptions, it's across the room.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario point to NULL, Null scares.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Ein Taucher, der nicht taucht, taucht nix.
+> Die Regierung spart, jetzt müssen sich 20 Minister ein Gehirn teilen.
 
 ---
 
