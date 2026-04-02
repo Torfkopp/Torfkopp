@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Parent is the child of Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
