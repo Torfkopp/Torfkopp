@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario uses /dev/null as STDIN.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Im Herbst, da fallen die Blätter; das liegt wohl am Wetter.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
