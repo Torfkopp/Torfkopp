@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not code in cycles, he codes in strikes.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
+> Im Herbst, da fallen die Blätter; das liegt wohl am Wetter.
 
 ---
 
