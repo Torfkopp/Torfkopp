@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario throws exceptions, it's across the room.
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario develops in prod.
-- Mario programs do not accept input.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Kippt Kaiser Franz von der Empore, gab's in der Nachspielzeit zwei Tore.
+> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
 
 ---
 
