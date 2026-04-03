@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
+- Mario doesn't use web standards as the web will conform to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
+> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
 
 ---
 
