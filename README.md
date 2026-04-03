@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
+- Mario can write to ROM.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
+> Lieber süßen Nebel als sauren Regen.
 
 ---
 
