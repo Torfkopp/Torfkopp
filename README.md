@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Lieber abends später ins Bett als morgens früher aufstehen.
+> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
 
 ---
 
