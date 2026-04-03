@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario hosting is 105% uptime guaranteed.
+- To Mario, everything contains a vulnerability.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
+> Kluge leben von den Dummen, Dumme von der Arbeit.
 
 ---
 
