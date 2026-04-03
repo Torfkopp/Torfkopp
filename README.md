@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario can write to ROM.
-- Parent is the child of Mario.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lieber süßen Nebel als sauren Regen.
+> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
 
 ---
 
