@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Weird, it always works on Mario's machine.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario develops in prod.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
+> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
 
 ---
 
