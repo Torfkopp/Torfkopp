@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can compile syntax errors.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der einen Vogel hat, ist ein Star.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
