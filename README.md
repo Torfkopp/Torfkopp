@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
+> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
 
 ---
 
