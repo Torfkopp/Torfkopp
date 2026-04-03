@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario develops in prod.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can write to ROM.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
+> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
 
 ---
 
