@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer für die Katz arbeitet, kommt auf den Hund.
+> Die größte Offenbarung ist der Bulle. (cow in season)
 
 ---
 
