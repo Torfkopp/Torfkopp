@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario writes code that optimizes itself.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs do not accept input.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Bulle. (cow in season)
+> Friedhelm statt Stahlhelm.
 
 ---
 
