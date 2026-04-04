@@ -6,13 +6,13 @@
 
 ### About Mario
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario programs do not accept input.
-- Mario can store the value 256 in one byte
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Friedhelm statt Stahlhelm.
+> Jetzt gehen wir der Sache auf den Grund, sprach der Bauer und sprang in die Jauchegrube.
 
 ---
 
