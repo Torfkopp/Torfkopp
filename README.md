@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs do not accept input.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Ich schaue in den Spiegel und denk', ich hab' Besuch.
+> Lieber träumen unter Bäumen als schaffen unter Affen.
 
 ---
 
