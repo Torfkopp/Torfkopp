@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs do not accept input.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> Ich schaue in den Spiegel und denk', ich hab' Besuch.
 
 ---
 
