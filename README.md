@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can binary search unsorted data.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can delete the Recycle Bin.
+- To Mario, everything contains a vulnerability.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Der Wintereinbruch ist nicht strafbar.
+> Lieber neureich als nie reich.
 
 ---
 
