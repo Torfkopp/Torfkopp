@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario develops in prod.
-- Mario can store the value 256 in one byte
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Parent is the child of Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
+> Genieße das Leben beständig, denn du bist länger tot als lebendig.
 
 ---
 
