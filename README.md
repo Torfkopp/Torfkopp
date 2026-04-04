@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario exits vim by typing "exit"
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Faulheit ist: sich ausruhen, bevor man müde wird.
+> Alle angenehmen Dinge sind entweder unmoralisch, illegal oder machen dick.
 
 ---
 
