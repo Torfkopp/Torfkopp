@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario CAN divide by 0.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- 404 errors simply mean that Mario has been there before you.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Input - Output - ganz putt.
+> Wer für die Katz arbeitet, kommt auf den Hund.
 
 ---
 
