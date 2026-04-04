@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario point to NULL, Null scares.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario CAN divide by 0.
+- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
+> Faulheit ist: sich ausruhen, bevor man müde wird.
 
 ---
 
