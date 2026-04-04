@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario develops in prod.
 - Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
+> Hast du mal ein kleines Laster, bist du auch schon gleich im Raster.
 
 ---
 
