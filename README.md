@@ -6,13 +6,13 @@
 
 ### About Mario
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
+> Wohltätig ist des Feuers Macht, entsteht kein Brandstiftungsverdacht.
 
 ---
 
