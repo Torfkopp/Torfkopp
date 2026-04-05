@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario exits vim by typing "exit"
-- Mario can access the DB from the UI.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario CAN divide by 0.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Lieber Frust im Kopf als Faust aufs Auge.
+> An die Waffeln, Bürger!
 
 ---
 
