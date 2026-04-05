@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Enthaltsamkeit ist aller Laster Anfang.
+> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
 
 ---
 
