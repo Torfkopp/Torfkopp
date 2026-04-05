@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flasche Bier als ne Wanne Eickel.
+> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
 
 ---
 
