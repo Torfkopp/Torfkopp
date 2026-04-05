@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario throws an exception it's either across the room or out the window.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
+> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
 
 ---
 
