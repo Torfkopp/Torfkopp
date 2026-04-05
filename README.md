@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - Mario develops in prod.
-- Mario can't test for equality because he has no equal.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Rache ist süß: Jede Süßigkeit rächt sich.
+> Kein Abriss unter dieser Nummer.
 
 ---
 
