@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- 404 errors simply mean that Mario has been there before you.
 - Mario can access the DB from the UI.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Kein Abriss unter dieser Nummer.
+> Enthaltsamkeit ist aller Laster Anfang.
 
 ---
 
