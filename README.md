@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- To Mario, everything contains a vulnerability.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario uses /dev/null as STDIN.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Lieber neureich als nie reich.
+> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
 
 ---
 
