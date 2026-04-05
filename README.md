@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
+> Wenn die Erde schreien könnte, wären wir alle taub.
 
 ---
 
