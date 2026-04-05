@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't make http requests. He makes http demands.
+- Mario exits vim by typing "exit"
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> In der Disco ist was los, wenn ich tanze nackt und bloß.
+> Lieber Frust im Kopf als Faust aufs Auge.
 
 ---
 
