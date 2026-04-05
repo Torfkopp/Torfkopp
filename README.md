@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wenn die Erde schreien könnte, wären wir alle taub.
+> Anything goes, nur nicht Albrecht Goes.
 
 ---
 
