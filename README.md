@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario uses /dev/null as STDIN.
-- Mario can store the value 256 in one byte
+- Windows 7 was Mario's idea.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
+> Lieber eine Flasche Bier als ne Wanne Eickel.
 
 ---
 
