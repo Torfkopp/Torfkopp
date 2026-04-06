@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
+> Vater und Mutter gehn immer kaputter.
 
 ---
 
