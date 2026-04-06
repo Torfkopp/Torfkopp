@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario exits vim by typing "exit"
-- Mario can access the DB from the UI.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Weird, it always works on Mario's machine.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> Ich schaue in den Spiegel und denk', ich hab' Besuch.
 
 ---
 
