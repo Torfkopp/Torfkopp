@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario programs do not accept input.
+- Mario can write to ROM.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Erst schließen wir die Augen; dann sehen wir weiter.
+> Global investieren - lokal ruinieren.
 
 ---
 
