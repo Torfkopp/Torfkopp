@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can compile syntax errors.
+- Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
+> Erst schließen wir die Augen; dann sehen wir weiter.
 
 ---
 
