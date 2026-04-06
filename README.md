@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can write to ROM.
-- Mario CAN divide by 0.
+- Mario can delete the Recycle Bin.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Global investieren - lokal ruinieren.
+> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
 
 ---
 
