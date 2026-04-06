@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario programs do not accept input.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario point to NULL, Null scares.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Erst schließen wir die Augen; dann sehen wir weiter.
+> Global investieren - lokal ruinieren.
 
 ---
 
