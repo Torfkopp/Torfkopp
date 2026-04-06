@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can access the DB from the UI.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can binary search unsorted data.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Vater und Mutter gehn immer kaputter.
+> Der Spekulant verdient sein Brot mit Hausverfall und Wohnungsnot.
 
 ---
 
