@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario uses /dev/null as STDIN.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
+> Lieber sechs Stunden Uni am Tag als gar keinen Schlaf.
 
 ---
 
