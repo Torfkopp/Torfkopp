@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can't test for equality because he has no equal.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber sechs Stunden Uni am Tag als gar keinen Schlaf.
+> Andiamo – an den Dynamo
 
 ---
 
