@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario point to NULL, Null scares.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wer rennt und lacht, kommt in Verdacht.
+> Erst schließen wir die Augen; dann sehen wir weiter.
 
 ---
 
