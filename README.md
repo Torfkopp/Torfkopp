@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can binary search unsorted data.
-- Mario can store the value 256 in one byte
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario exits vim by typing "exit"
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Der Spekulant verdient sein Brot mit Hausverfall und Wohnungsnot.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
