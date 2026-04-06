@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Weird, it always works on Mario's machine.
-- 404 errors simply mean that Mario has been there before you.
+- When Mario point to NULL, Null scares.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Ich schaue in den Spiegel und denk', ich hab' Besuch.
+> Wer rennt und lacht, kommt in Verdacht.
 
 ---
 
