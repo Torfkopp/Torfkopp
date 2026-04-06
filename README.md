@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Parent is the child of Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wohltätig ist des Feuers Macht, entsteht kein Brandstiftungsverdacht.
+> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
 
 ---
 
