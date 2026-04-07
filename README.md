@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can store the value 256 in one byte
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
+> Ein voller Kopf studiert nicht gern.
 
 ---
 
