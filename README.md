@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario hosting is 105% uptime guaranteed.
-- Mario can delete the Recycle Bin.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Auch Arme haben Beine.
+> Polygamie ist Demokratie im Bett.
 
 ---
 
