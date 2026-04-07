@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Windows 7 was Mario's idea.
+- Mario can write to ROM.
+- Mario can access the DB from the UI.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wohltätig ist des Feuers Macht, entsteht kein Brandstiftungsverdacht.
+> Freies Chatten für alle! Macht die Wände dünner!
 
 ---
 
