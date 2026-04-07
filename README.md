@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario point to NULL, Null scares.
+- Weird, it always works on Mario's machine.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
