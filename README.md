@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario writes code that optimizes itself.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Die meisten Menschen werden kleiner, wenn man sie unter die Lupe nimmt.
+> Hier spraye ich und kann nicht anders.
 
 ---
 
