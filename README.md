@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario exits vim by typing "exit"
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Parent is the child of Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Molle. (Kneipenwirt, Berlin)
+> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
 
 ---
 
