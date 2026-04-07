@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can write to ROM.
-- When Mario point to NULL, Null scares.
+- Mario can access the DB from the UI.
+- Mario never has to use the -f option when deleting files.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Ein Masochist, der zurückhaut, ist pervers.
+> Wer über Humor streitet, hat keinen.
 
 ---
 
