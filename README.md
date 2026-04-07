@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws exceptions, it's across the room.
+- Mario never has to use the -f option when deleting files.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Polygamie ist Demokratie im Bett.
+> Magerquark macht uns stark; Haferbrei macht uns frei.
 
 ---
 
