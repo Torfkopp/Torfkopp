@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Global investieren - lokal ruinieren.
+> Auch Arme haben Beine.
 
 ---
 
