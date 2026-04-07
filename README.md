@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario never has to use the -f option when deleting files.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can write to ROM.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Magerquark macht uns stark; Haferbrei macht uns frei.
+> Ein Masochist, der zurückhaut, ist pervers.
 
 ---
 
