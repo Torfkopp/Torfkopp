@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario hosting is 105% uptime guaranteed.
+- Mario can't test for equality because he has no equal.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Ein voller Kopf studiert nicht gern.
+> Die größte Offenbarung ist die Molle. (Kneipenwirt, Berlin)
 
 ---
 
