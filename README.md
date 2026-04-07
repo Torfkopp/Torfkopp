@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario writes code that optimizes itself.
-- Mario can compile syntax errors.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Hier spraye ich und kann nicht anders.
+> Wohltätig ist des Feuers Macht, entsteht kein Brandstiftungsverdacht.
 
 ---
 
