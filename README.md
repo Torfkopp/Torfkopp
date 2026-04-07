@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario never has to use the -f option when deleting files.
-- Mario uses /dev/null as STDIN.
+- When Mario throws exceptions, it's across the room.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Wer über Humor streitet, hat keinen.
+> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
 
 ---
 
