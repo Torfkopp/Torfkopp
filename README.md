@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario writes code that optimizes itself.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Nonsens statt Konsens.
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
