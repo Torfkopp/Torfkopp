@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario throws an exception it's either across the room or out the window.
-- Mario uses /dev/null as STDIN.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Hinten sind die Schweine fett.
+> Steter Tropfen leert das Hirn.
 
 ---
 
