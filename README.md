@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario point to NULL, Null scares.
-- Mario can write to ROM.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Der Dschingis Khan, wenn er nur will.
+> Im Schatten ist es ruhig, weil man das Licht nicht hört.
 
 ---
 
