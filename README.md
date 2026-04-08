@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- To Mario, everything contains a vulnerability.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario point to NULL, Null scares.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
