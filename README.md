@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can store the value 256 in one byte
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lieber natürliche Dummheit als künstliche Intelligenz.
+> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
 
 ---
 
