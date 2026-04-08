@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- 404 errors simply mean that Mario has been there before you.
+- Mario does not code in cycles, he codes in strikes.
+- Mario develops in prod.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
