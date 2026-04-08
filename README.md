@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- To Mario, everything contains a vulnerability.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
+> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
 
 ---
 
