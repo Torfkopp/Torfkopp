@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Parent is the child of Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
+> Ab zwanzig Uhr wird zurückgesungen! (Kalle Pohl über die Eurovisions-Vorentscheidung am 19.2.2000)
 
 ---
 
