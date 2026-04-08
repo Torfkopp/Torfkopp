@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Parent is the child of Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen leert das Hirn.
+> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
 
 ---
 
