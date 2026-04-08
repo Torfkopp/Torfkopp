@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can compile syntax errors.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Ein Mann wie ein Baum, sie nannten ihn Bonsai.
+> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
 
 ---
 
