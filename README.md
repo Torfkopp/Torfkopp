@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never has to use the -f option when deleting files.
-- Mario writes code that optimizes itself.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
+> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
 
 ---
 
