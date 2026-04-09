@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Zieh Leine, deine Mutter hat Wäsche.
 
 ---
 
