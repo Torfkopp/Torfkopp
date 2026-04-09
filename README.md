@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can store the value 256 in one byte
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Mit einer Wanze im Telefon wirst du zum Entertainer.
+> Es gibt Fach- und Mehrfachidioten.
 
 ---
 
