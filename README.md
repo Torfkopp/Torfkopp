@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ohne Fleiß kein Verschleiß.
+> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
 
 ---
 
