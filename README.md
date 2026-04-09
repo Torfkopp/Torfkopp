@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can't test for equality because he has no equal.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
-- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Langweilige Frauen haben blitzsaubere Küchen.
+> Praxis ist, wenn alles funktioniert und keiner weiß warum.
 
 ---
 
