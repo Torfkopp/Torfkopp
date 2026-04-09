@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario develops in prod.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> In Wirklichkeit ist die Realität ganz anders.
+> Ohne Fleiß kein Verschleiß.
 
 ---
 
