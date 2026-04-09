@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario uses /dev/null as STDIN.
-- Weird, it always works on Mario's machine.
+- Parent is the child of Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
+> Wir wollen endlich alle Kanzler werden!
 
 ---
 
