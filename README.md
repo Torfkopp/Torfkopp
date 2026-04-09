@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
+- Mario doesn't use web standards as the web will conform to him.
 - Mario uses /dev/null as STDIN.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Jetzt gehen wir der Sache auf den Grund, sprach der Bauer und sprang in die Jauchegrube.
+> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
 
 ---
 
