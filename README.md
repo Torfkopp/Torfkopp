@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Parent is the child of Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
+> Frauenpower macht uns sauer.
 
 ---
 
