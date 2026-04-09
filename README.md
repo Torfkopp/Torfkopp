@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario invented binary by performing a roundhouse on the number 10.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden!
+> Langweilige Frauen haben blitzsaubere Küchen.
 
 ---
 
