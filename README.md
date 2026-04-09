@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario exits vim by typing "exit"
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lieber hoch zu Ross als unter aller Sau.
+> Mit einer Wanze im Telefon wirst du zum Entertainer.
 
 ---
 
