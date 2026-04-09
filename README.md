@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario hosting is 105% uptime guaranteed.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can binary search unsorted data.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lügen haben kurze Beine, aber tausend Füße.
+> Wenn man gut sitzt, braucht man keinen Standpunkt.
 
 ---
 
