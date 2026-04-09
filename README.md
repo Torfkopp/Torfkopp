@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Mario never has to use the -f option when deleting files.
-- Mario doesn't make http requests. He makes http demands.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Frauenpower macht uns sauer.
+> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
 
 ---
 
