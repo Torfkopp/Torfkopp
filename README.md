@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- When Mario throws exceptions, it's across the room.
-- Mario plugs in USB sticks perfectly the first time every time
+- Parent is the child of Mario.
+- Mario exits vim by typing "exit"
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Der fette Vogel bricht den Ast.
+> Der Plebs trinkt Schweppes.
 
 ---
 
