@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario point to NULL, Null scares.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can access the DB from the UI.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Nimms leicht, sonst nimmts ein anderer.
+> Ich brauch kein Hasch; ich nehme DASH.
 
 ---
 
