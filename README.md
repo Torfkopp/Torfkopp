@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario drops a table it's bloody but silent.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws exceptions, it's across the room.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Ich brauch kein Hasch; ich nehme DASH.
+> Sogar eine halbe Portion kann ein Doppelleben führen.
 
 ---
 
