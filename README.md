@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario point to NULL, Null scares.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Man düngt keinen Garten, indem man durch den Zaun furzt.
+> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
 
 ---
 
