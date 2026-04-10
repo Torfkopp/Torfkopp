@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario exits vim by typing "exit"
-- Mario can binary search unsorted data.
+- Mario writes code that optimizes itself.
+- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Der Plebs trinkt Schweppes.
+> Andiamo – an den Dynamo
 
 ---
 
