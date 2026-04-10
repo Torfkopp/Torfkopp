@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario throws exceptions, it's across the room.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Sogar eine halbe Portion kann ein Doppelleben führen.
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
