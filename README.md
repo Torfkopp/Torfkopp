@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Weird, it always works on Mario's machine.
-- Parent is the child of Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
+> Man düngt keinen Garten, indem man durch den Zaun furzt.
 
 ---
 
