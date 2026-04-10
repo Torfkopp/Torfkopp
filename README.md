@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario exits vim by typing "exit"
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- To Mario, everything contains a vulnerability.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Guter Staat ist teuer.
+> Liebe deinen Nächsten wie dein Auto.
 
 ---
 
