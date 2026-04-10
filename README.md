@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can store the value 256 in one byte
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't use web standards as the web will conform to him.
+- Weird, it always works on Mario's machine.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Es gibt Fach- und Mehrfachidioten.
+> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
 
 ---
 
