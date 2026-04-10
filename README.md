@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- To Mario, everything contains a vulnerability.
-- Mario can access the DB from the UI.
+- Mario can compile syntax errors.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Liebe deinen Nächsten wie dein Auto.
+> Gewollte Brillanz ergibt nur Brillantine.
 
 ---
 
