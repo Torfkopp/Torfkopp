@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never has to use the -f option when deleting files.
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario point to NULL, Null scares.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber Schweißperlen als gar keinen Schmuck.
+> Nimms leicht, sonst nimmts ein anderer.
 
 ---
 
