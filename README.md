@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Parent is the child of Mario.
-- 404 errors simply mean that Mario has been there before you.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden!
+> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
 
 ---
 
