@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Es gibt viel zu tun, nix wie weg.
+> Guter Staat ist teuer.
 
 ---
 
