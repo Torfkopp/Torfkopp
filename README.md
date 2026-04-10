@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario CAN divide by 0.
+- Mario can store the value 256 in one byte
+- When Mario throws exceptions, it's across the room.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Gewollte Brillanz ergibt nur Brillantine.
+> Der fette Vogel bricht den Ast.
 
 ---
 
