@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can write to ROM.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
+> Lieber Schweißperlen als gar keinen Schmuck.
 
 ---
 
