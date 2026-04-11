@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can compile syntax errors.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Die Axt im Haus ist die Mutter der Porzellankiste.
+> Planung ist der Ersatz des Zufalls durch den Irrtum.
 
 ---
 
