@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can store the value 256 in one byte
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Jeder Tag ist gleich lang, aber verschieden breit.
+> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
 
 ---
 
