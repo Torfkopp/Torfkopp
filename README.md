@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can't test for equality because he has no equal.
+- Mario can delete the Recycle Bin.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
