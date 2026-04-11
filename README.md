@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario doesn't use web standards as the web will conform to him.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
+> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
 
 ---
 
