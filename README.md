@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Weird, it always works on Mario's machine.
-- 404 errors simply mean that Mario has been there before you.
+- Mario can delete the Recycle Bin.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Es tut NIVEA als beim ersten Mal.
+> Die größte Offenbarung ist die Gülle. (Landwirt)
 
 ---
 
