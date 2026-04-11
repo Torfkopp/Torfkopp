@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can store the value 256 in one byte
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
+> Eine Kuh macht muh; viele Kühe machen Mühe.
 
 ---
 
