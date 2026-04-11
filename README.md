@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario can delete the Recycle Bin.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Gülle. (Landwirt)
+> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
 
 ---
 
