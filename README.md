@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario throws exceptions, it's across the room.
+- Weird, it always works on Mario's machine.
+- Mario uses /dev/null as STDIN.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
+> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
 
 ---
 
