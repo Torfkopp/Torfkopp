@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can compile syntax errors.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can access the DB from the UI.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Planung ist der Ersatz des Zufalls durch den Irrtum.
+> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
 
 ---
 
