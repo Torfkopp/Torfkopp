@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
+> Liebe deinen Nächsten wie dein Auto.
 
 ---
 
