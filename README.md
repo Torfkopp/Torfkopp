@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can access the DB from the UI.
-- Mario can binary search unsorted data.
+- Parent is the child of Mario.
+- Weird, it always works on Mario's machine.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
+> Es tut NIVEA als beim ersten Mal.
 
 ---
 
