@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can delete the Recycle Bin.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
+> Das Faustrecht ist nicht abgeschafft; es ist nur in die Ellenbogen umgezogen.
 
 ---
 
