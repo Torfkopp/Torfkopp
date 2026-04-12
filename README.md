@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario develops in prod.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Lieber spät und richtig als nie und falsch.
+> Riech ich dein Aroma, fall ich gleich ins Koma.
 
 ---
 
