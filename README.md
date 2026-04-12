@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario develops in prod.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Lieber den Faust im Kopf als auf dem Auge.
+> Lieber spät und richtig als nie und falsch.
 
 ---
 
