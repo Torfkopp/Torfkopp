@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario drops a table it's bloody but silent.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ich bin Hacki, der Specht - komm her, du Rinde!
+> Nicht jeder Mann, der raucht, ist ein Vulkan.
 
 ---
 
