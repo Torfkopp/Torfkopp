@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- 404 errors simply mean that Mario has been there before you.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can compile syntax errors.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Lieber Ostern als Western.
+> Lieber den Faust im Kopf als auf dem Auge.
 
 ---
 
