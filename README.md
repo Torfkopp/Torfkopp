@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario drops a table it's bloody but silent.
-- Parent is the child of Mario.
+- Mario develops in prod.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Nicht jeder Mann, der raucht, ist ein Vulkan.
+> Lieber Ostern als Western.
 
 ---
 
