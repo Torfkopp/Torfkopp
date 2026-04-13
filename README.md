@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- To Mario, everything contains a vulnerability.
+- Mario can't test for equality because he has no equal.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Riech ich dein Aroma, fall ich gleich ins Koma.
+> Lieber Eber-hart als Sau-weich.
 
 ---
 
