@@ -2,8 +2,10 @@ name: Update README
 
 on:
   schedule:
-    - cron: "17 0/2 * * *" 
-  workflow_dispatch:
+    - cron: "37 0/2 * * *" 
+permissions:
+  contents: write
+  
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -11,8 +13,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_PAT }}
 
       - name: Set up Python
         uses: actions/setup-python@v5
