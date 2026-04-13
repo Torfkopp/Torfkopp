@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't make http requests. He makes http demands.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Lieber Eber-hart als Sau-weich.
+> Vater Staat bringt uns noch alle unter Mutter Erde.
 
 ---
 
