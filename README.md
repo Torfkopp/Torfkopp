@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario can compile syntax errors.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't use web standards as the web will conform to him.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Ist das Freibad voll wie nie, läuft Wimbledon im Pay-TV.
+> Ich wollte die Einschulung aus Gewissensgründen verweigern.
 
 ---
 
