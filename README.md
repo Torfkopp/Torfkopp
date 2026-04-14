@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't make http requests. He makes http demands.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario develops in prod.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Vater Staat bringt uns noch alle unter Mutter Erde.
+> Magerquark macht uns stark; Haferbrei macht uns frei.
 
 ---
 
