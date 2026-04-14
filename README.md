@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario invented binary by performing a roundhouse on the number 10.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't make http requests. He makes http demands.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Hasse dich nicht schon am Morgen: schlaf bis Mittag.
+> Vendi laus amoris, paxe, trixe, caputisse.
 
 ---
 
