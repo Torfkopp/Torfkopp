@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Weird, it always works on Mario's machine.
-- When Mario throws exceptions, it's across the room.
+- Mario programs do not accept input.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
+> Hasse dich nicht schon am Morgen: schlaf bis Mittag.
 
 ---
 
