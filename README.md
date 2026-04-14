@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario drops a table it's bloody but silent.
+- Windows 7 was Mario's idea.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Die Regierung spart, jetzt müssen sich 20 Minister ein Gehirn teilen.
+> Tu was fürs Vaterland: wandre aus.
 
 ---
 
