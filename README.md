@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't use web standards as the web will conform to him.
-- Weird, it always works on Mario's machine.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario CAN divide by 0.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Ich wollte die Einschulung aus Gewissensgründen verweigern.
+> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
 
 ---
 
