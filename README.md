@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario point to NULL, Null scares.
+- Mario can access the DB from the UI.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Sonderlinge lachen sogar beim Zwiebelschneiden.
+> Die Regierung spart, jetzt müssen sich 20 Minister ein Gehirn teilen.
 
 ---
 
