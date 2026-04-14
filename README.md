@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
 - The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Vendi laus amoris, paxe, trixe, caputisse.
+> Sonderlinge lachen sogar beim Zwiebelschneiden.
 
 ---
 
