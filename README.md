@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Windows 7 was Mario's idea.
-- Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can compile syntax errors.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Tu was fürs Vaterland: wandre aus.
+> Ist das Freibad voll wie nie, läuft Wimbledon im Pay-TV.
 
 ---
 
