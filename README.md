@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Viele Ängste sind des Hasen Fuß.
+> Lieber den Faust im Kopf als auf dem Auge.
 
 ---
 
