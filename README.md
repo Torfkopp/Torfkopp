@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario programs do not accept input.
-- Mario can access the DB from the UI.
+- Mario writes code that optimizes itself.
+- When Mario point to NULL, Null scares.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wer viel arbeitet, macht viele Fehler; wer keine Fehler macht, ist ein fauler Hund.
+> Diäten hoch, Phrasen platt - wie schön is dat!
 
 ---
 
