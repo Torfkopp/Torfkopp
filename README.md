@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario hosting is 105% uptime guaranteed.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario programs do not accept input.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Manche würden eher sterben als nachdenken. Und sie tun es auch.
+> Wer viel arbeitet, macht viele Fehler; wer keine Fehler macht, ist ein fauler Hund.
 
 ---
 
