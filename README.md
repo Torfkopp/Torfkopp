@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can write to ROM.
+- Mario develops in prod.
+- Mario hosting is 105% uptime guaranteed.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Je weniger Haare man hat, desto mehr Gesicht muss man waschen.
+> Manche würden eher sterben als nachdenken. Und sie tun es auch.
 
 ---
 
