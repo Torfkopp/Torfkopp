@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When Mario drops a table it's bloody but silent.
-- Parent is the child of Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
+> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
 
 ---
 
