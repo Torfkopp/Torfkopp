@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario point to NULL, Null scares.
+- Mario develops in prod.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
+> Viele Ängste sind des Hasen Fuß.
 
 ---
 
