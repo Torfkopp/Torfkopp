@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario point to NULL, Null scares.
+- Weird, it always works on Mario's machine.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Diäten hoch, Phrasen platt - wie schön is dat!
+> Lieber aussteigen als eingehen.
 
 ---
 
