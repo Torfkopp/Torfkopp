@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario exits vim by typing "exit"
+- Mario can't test for equality because he has no equal.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer A sagt, kann auch gleich Halstabletten nehmen.
+> Je weniger Haare man hat, desto mehr Gesicht muss man waschen.
 
 ---
 
