@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario CAN divide by 0.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario drops a table it's bloody but silent.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
+> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
 
 ---
 
