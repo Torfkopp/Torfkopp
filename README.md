@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Lieber den Faust im Kopf als auf dem Auge.
+> Wer A sagt, kann auch gleich Halstabletten nehmen.
 
 ---
 
