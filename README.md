@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario hosting is 105% uptime guaranteed.
+- Mario develops in prod.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wir beiben unserm Grundsatz treu: trickreich, scharf und arbeitsscheu.
+> Der Apfel fällt nicht weit vom Zank.
 
 ---
 
