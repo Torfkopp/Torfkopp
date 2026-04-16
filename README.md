@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- When Mario drops a table it's bloody but silent.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't make http requests. He makes http demands.
+- Windows 7 was Mario's idea.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
+> Harrisburger: da strahlt die ganze Familie.
 
 ---
 
