@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario develops in prod.
-- To Mario, everything contains a vulnerability.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can binary search unsorted data.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Der Apfel fällt nicht weit vom Zank.
+> Was keiner kann, das kann ich auch.
 
 ---
 
