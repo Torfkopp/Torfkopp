@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can binary search unsorted data.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can compile syntax errors.
+- When Mario drops a table it's bloody but silent.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Was keiner kann, das kann ich auch.
+> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
 
 ---
 
