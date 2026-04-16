@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario throws exceptions, it's across the room.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
+> Steter Tropfen leert das Hirn.
 
 ---
 
