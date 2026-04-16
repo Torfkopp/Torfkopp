@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario writes code that optimizes itself.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen leert das Hirn.
+> Lieber eine Flinte im Korn als Waffen im Weltraum.
 
 ---
 
