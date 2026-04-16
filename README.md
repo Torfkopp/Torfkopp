@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario hosting is 105% uptime guaranteed.
+- Mario can access the DB from the UI.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Magerquark macht uns stark; Haferbrei macht uns frei.
+> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
 
 ---
 
