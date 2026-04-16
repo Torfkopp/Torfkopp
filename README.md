@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Windows 7 was Mario's idea.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario uses /dev/null as STDIN.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Harrisburger: da strahlt die ganze Familie.
+> Trimm dich, spring mal über deinen Schatten.
 
 ---
 
