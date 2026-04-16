@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario uses /dev/null as STDIN.
-- Mario can write to ROM.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Trimm dich, spring mal über deinen Schatten.
+> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
 
 ---
 
