@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Windows 7 was Mario's idea.
-- Mario can compile syntax errors.
+- Mario doesn't make http requests. He makes http demands.
+- Mario develops in prod.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Lieber oberaffengeil als unterallersau.
+> Vendi laus amoris, paxe, trixe, caputisse.
 
 ---
 
