@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario hosting is 105% uptime guaranteed.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario exits vim by typing "exit"
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Langweilige Frauen haben blitzsaubere Küchen.
+> Du hast so schöne Zähne: gibt's die auch in Weiß?
 
 ---
 
