@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario exits vim by typing "exit"
-- When Mario point to NULL, Null scares.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Du hast so schöne Zähne: gibt's die auch in Weiß?
+> Wenn die Erde schreien könnte, wären wir alle taub.
 
 ---
 
