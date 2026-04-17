@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Parent is the child of Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario plugs in USB sticks perfectly the first time every time
+- Weird, it always works on Mario's machine.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
+> Gäste, die voll kommen, sind nicht vollkommen.
 
 ---
 
