@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario develops in prod.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Der Papst zu Thomas Gottschalk: Wetten, dass ich 200 Flughäfen am Geschmack erkenne?
+> Unter dem Pflaster liegt der Strand.
 
 ---
 
