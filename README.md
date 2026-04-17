@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Windows 7 was Mario's idea.
-- Mario can't test for equality because he has no equal.
+- When Mario throws exceptions, it's across the room.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wer abnimmt, hat mehr vom Telefon.
+> Langweilige Frauen haben blitzsaubere Küchen.
 
 ---
 
