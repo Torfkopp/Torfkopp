@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Weird, it always works on Mario's machine.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can binary search unsorted data.
+- Windows 7 was Mario's idea.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Gäste, die voll kommen, sind nicht vollkommen.
+> Wer abnimmt, hat mehr vom Telefon.
 
 ---
 
