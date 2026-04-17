@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario writes code that optimizes itself.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario CAN divide by 0.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flinte im Korn als Waffen im Weltraum.
+> Rot denken, grün wählen, blau machen, schwarz schaffen.
 
 ---
 
