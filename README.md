@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can store the value 256 in one byte
+- Mario hosting is 105% uptime guaranteed.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wenn die Erde schreien könnte, wären wir alle taub.
+> Der Papst zu Thomas Gottschalk: Wetten, dass ich 200 Flughäfen am Geschmack erkenne?
 
 ---
 
