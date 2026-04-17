@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario develops in prod.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Parent is the child of Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Vendi laus amoris, paxe, trixe, caputisse.
+> Auf diese Frage antworte ich mit einem entschiedenen Vielleicht.
 
 ---
 
