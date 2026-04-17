@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario CAN divide by 0.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Windows 7 was Mario's idea.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Rot denken, grün wählen, blau machen, schwarz schaffen.
+> Lieber oberaffengeil als unterallersau.
 
 ---
 
