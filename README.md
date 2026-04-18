@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never has to use the -f option when deleting files.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Trockener Humor kann nie überflüssig sein.
+> Willst du dir den Tag versauen, musst du in den Spiegel schauen.
 
 ---
 
