@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- When Mario drops a table it's bloody but silent.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't make http requests. He makes http demands.
+- Mario writes code that optimizes itself.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Hey Kids, let's kotz.
+> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
 
 ---
 
