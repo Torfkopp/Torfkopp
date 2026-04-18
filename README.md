@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can binary search unsorted data.
+- When Mario point to NULL, Null scares.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can store the value 256 in one byte
-- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
+> Gute Mädchen kommen in den Himmel; böse überallhin.
 
 ---
 
