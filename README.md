@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- 404 errors simply mean that Mario has been there before you.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can store the value 256 in one byte
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Unter dem Pflaster liegt der Strand.
+> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
 
 ---
 
