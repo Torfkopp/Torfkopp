@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Windows 7 was Mario's idea.
+- When Mario drops a table it's bloody but silent.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
+> Hey Kids, let's kotz.
 
 ---
 
