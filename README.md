@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Windows 7 was Mario's idea.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - Mario CAN divide by 0.
-- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Falle. (Trapper)
+> Hunde, die schielen, beißen daneben.
 
 ---
 
