@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario CAN divide by 0.
+- To Mario, everything contains a vulnerability.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Hunde, die schielen, beißen daneben.
+> Trockener Humor kann nie überflüssig sein.
 
 ---
 
