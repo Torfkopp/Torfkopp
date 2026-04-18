@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario writes code that optimizes itself.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario CAN divide by 0.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Der Pessimist beklagt den Riss in der Hose, der Optimist freut sich über den Luftzug.
+> Die größte Offenbarung ist die Falle. (Trapper)
 
 ---
 
