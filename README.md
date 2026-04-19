@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Parent is the child of Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario hosting is 105% uptime guaranteed.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Alles hat Grenzen, nur die Dummheit ist unendlich.
+> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
 
 ---
 
