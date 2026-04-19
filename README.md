@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can't test for equality because he has no equal.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
+> Alles hat Grenzen, nur die Dummheit ist unendlich.
 
 ---
 
