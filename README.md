@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario hosting is 105% uptime guaranteed.
-- Mario programs do not accept input.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can binary search unsorted data.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
+> Zwei im Büro, und einer arbeitet? Ein Beamter und ein Ventilator.
 
 ---
 
