@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can binary search unsorted data.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can access the DB from the UI.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Zwei im Büro, und einer arbeitet? Ein Beamter und ein Ventilator.
+> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
 
 ---
 
