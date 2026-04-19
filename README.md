@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- 404 errors simply mean that Mario has been there before you.
+- Mario does not code in cycles, he codes in strikes.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Willst du dir den Tag versauen, musst du in den Spiegel schauen.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
