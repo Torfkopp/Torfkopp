@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can't test for equality because he has no equal.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
+> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
 
 ---
 
