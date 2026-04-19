@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can access the DB from the UI.
-- Mario exits vim by typing "exit"
+- Mario programs do not accept input.
+- When Mario drops a table it's bloody but silent.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
+> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
 
 ---
 
