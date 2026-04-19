@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- When Mario drops a table it's bloody but silent.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
 
 ---
 
