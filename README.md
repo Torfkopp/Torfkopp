@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can binary search unsorted data.
+- When Mario point to NULL, Null scares.
+- Mario can't test for equality because he has no equal.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Muss es erst duster sein, bevor uns ein Licht aufgeht?
+> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
 
 ---
 
