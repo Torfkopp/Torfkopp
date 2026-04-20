@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws exceptions, it's across the room.
+- Mario hosting is 105% uptime guaranteed.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Willst du dir den Tag versauen, musst du in den Spiegel schauen.
+> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
 
 ---
 
