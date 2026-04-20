@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario writes code that optimizes itself.
-- Mario can write to ROM.
+- Parent is the child of Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
+> Karneval ist Nonsens in Rheinkultur.
 
 ---
 
