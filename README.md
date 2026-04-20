@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Parent is the child of Mario.
-- Mario uses /dev/null as STDIN.
+- When Mario throws an exception it's either across the room or out the window.
+- When Mario throws exceptions, it's across the room.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
+> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
 
 ---
 
