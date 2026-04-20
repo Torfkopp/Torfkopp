@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Windows 7 was Mario's idea.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Karneval ist Nonsens in Rheinkultur.
+> Wer trinkt, schadet dem Durst.
 
 ---
 
