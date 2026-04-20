@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario exits vim by typing "exit"
-- Mario hosting is 105% uptime guaranteed.
+- When Mario point to NULL, Null scares.
+- Mario writes code that optimizes itself.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer dem Chef in den Hintern kriecht, muss damit rechnen, dass er ihm eines Tages zum Hals heraushängt.
+> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
 
 ---
 
