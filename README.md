@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Weird, it always works on Mario's machine.
 - Windows 7 was Mario's idea.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Wer trinkt, schadet dem Durst.
+> Männer machen Geschichte, Frauen machen Geschichten.
 
 ---
 
