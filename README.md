@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- To Mario, everything contains a vulnerability.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario point to NULL, Null scares.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Sei schlau, bleib dumm.
+> Die größte Offenbarung ist die Pupille. (Optiker)
 
 ---
 
