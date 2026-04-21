@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Weird, it always works on Mario's machine.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Parent is the child of Mario.
+- Mario can compile syntax errors.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
+> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
 
 ---
 
