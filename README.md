@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can access the DB from the UI.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario throws exceptions, it's across the room.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Der Mond ist voll, und ich hab auch schon Durst.
+> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
 
 ---
 
