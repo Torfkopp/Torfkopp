@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario programs do not accept input.
+- Mario can compile syntax errors.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Selig, wer nichts zu sagen hat und doch schweigt.
+> Man düngt keinen Garten, indem man durch den Zaun furzt.
 
 ---
 
