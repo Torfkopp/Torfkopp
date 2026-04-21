@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario can compile syntax errors.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Kein Atom-Müll zum Mars! Mars bringt verbrauchte Energie sofort zurück.
+> Sei schlau, bleib dumm.
 
 ---
 
