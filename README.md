@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario hosting is 105% uptime guaranteed.
-- When Mario point to NULL, Null scares.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pupille. (Optiker)
+> Der Mond ist voll, und ich hab auch schon Durst.
 
 ---
 
