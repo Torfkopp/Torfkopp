@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario throws exceptions, it's across the room.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario uses /dev/null as STDIN.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Genitiv ins Wasser, weil es Dativ ist.
+> Lieber 'ne frohe Kunde als 'ne traurige Verkäuferin.
 
 ---
 
