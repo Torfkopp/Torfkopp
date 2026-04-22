@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Parent is the child of Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer abnimmt, hat mehr vom Telefon.
+> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
 
 ---
 
