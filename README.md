@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario programs do not accept input.
+- Mario does not code in cycles, he codes in strikes.
+- Mario uses /dev/null as STDIN.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Wer wird denn gleich in den Puff gehen!
+> Homer ist, wenn man trotzdem lacht.
 
 ---
 
