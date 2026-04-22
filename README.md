@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can access the DB from the UI.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Lieber Ouzo als Juso.
+> Wer Blüten druckt, muss rechtzeitig verduften.
 
 ---
 
