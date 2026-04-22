@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario exits vim by typing "exit"
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Selig, wer nichts zu sagen hat und doch schweigt.
+> Wer wird denn gleich in den Puff gehen!
 
 ---
 
