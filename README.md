@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario develops in prod.
+- When Mario throws an exception it's either across the room or out the window.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
+> Lieber Ouzo als Juso.
 
 ---
 
