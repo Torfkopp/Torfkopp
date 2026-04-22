@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Windows 7 was Mario's idea.
+- Weird, it always works on Mario's machine.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Cave Caplanem.
+> Ich muss die Nase meiner Ollen an jeder Grenze neu verzollen.
 
 ---
 
