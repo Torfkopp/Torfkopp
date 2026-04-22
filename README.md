@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can store the value 256 in one byte
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wer Blüten druckt, muss rechtzeitig verduften.
+> Selig, wer nichts zu sagen hat und doch schweigt.
 
 ---
 
