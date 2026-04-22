@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can write to ROM.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> In meinem Zimmer rußt der Ofen, in meinem Herzen ruhst nur du.
+> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
 
 ---
 
