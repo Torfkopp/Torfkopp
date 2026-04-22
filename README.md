@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- When Mario throws exceptions, it's across the room.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can binary search unsorted data.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
+> Cave Caplanem.
 
 ---
 
