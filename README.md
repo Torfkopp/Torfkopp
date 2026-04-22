@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario CAN divide by 0.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario develops in prod.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Wer abnimmt, hat mehr vom Telefon.
 
 ---
 
