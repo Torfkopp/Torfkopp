@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can compile syntax errors.
-- Mario does not code in cycles, he codes in strikes.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Mit einer Wanze im Telefon wirst du zum Entertainer.
+> Global investieren - lokal ruinieren.
 
 ---
 
