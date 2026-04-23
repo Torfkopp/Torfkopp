@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws exceptions, it's across the room.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Dummheit, verlass ihn nicht, sonst steht er ganz allein.
+> Wenn die Erde schreien könnte, wären wir alle taub.
 
 ---
 
