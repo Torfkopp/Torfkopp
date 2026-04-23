@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can compile syntax errors.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Gut gemeint ist auch nicht besser.
+> Mit einer Wanze im Telefon wirst du zum Entertainer.
 
 ---
 
