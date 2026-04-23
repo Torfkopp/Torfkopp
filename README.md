@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario CAN divide by 0.
 - Mario doesn't need a password to access your system, the system simply gives him access.
 - It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Welle. (Schwingkreis)
+> Ihr da Ohm, macht doch Watt ihr Volt.
 
 ---
 
