@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario uses /dev/null as STDIN.
-- When Mario point to NULL, Null scares.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Homer ist, wenn man trotzdem lacht.
+> Gut gemeint ist auch nicht besser.
 
 ---
 
