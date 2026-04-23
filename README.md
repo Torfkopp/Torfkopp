@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario CAN divide by 0.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Kröten im Beutel als 'nen Frosch im Hals.
+> Dummheit, verlass ihn nicht, sonst steht er ganz allein.
 
 ---
 
