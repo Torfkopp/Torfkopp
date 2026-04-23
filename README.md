@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ihr da Ohm, macht doch Watt ihr Volt.
+> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
 
 ---
 
