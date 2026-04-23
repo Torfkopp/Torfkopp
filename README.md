@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wenn die Erde schreien könnte, wären wir alle taub.
+> Die größte Offenbarung ist die Welle. (Schwingkreis)
 
 ---
 
