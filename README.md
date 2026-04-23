@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need a password to access your system, the system simply gives him access.
 - Mario exits vim by typing "exit"
+- Mario CAN divide by 0.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Global investieren - lokal ruinieren.
+> Lieber Kröten im Beutel als 'nen Frosch im Hals.
 
 ---
 
