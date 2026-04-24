@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- 404 errors simply mean that Mario has been there before you.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Parent is the child of Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
+> Wer ATA braucht, ist noch lange nicht bescheuert.
 
 ---
 
