@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can compile syntax errors.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
+> Lieber Hosenträger als gar keinen Halt.
 
 ---
 
