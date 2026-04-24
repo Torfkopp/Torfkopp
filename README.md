@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario exits vim by typing "exit"
+- Mario can access the DB from the UI.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Abgeordnete sind immer zu tausend Spesen aufgelegt.
+> Wer über Humor streitet, hat keinen.
 
 ---
 
