@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario throws exceptions, it's across the room.
-- Mario does not code in cycles, he codes in strikes.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario writes code that optimizes itself.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
+> Wir fordern Haftpflicht für künstliche Gebisse.
 
 ---
 
