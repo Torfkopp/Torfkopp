@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can binary search unsorted data.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Lieber Hosenträger als gar keinen Halt.
+> Abgeordnete sind immer zu tausend Spesen aufgelegt.
 
 ---
 
