@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- 404 errors simply mean that Mario has been there before you.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
+> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
 
 ---
 
