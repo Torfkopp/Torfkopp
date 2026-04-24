@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can delete the Recycle Bin.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Je weniger Haare man hat, desto mehr Gesicht muss man waschen.
+> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
 
 ---
 
