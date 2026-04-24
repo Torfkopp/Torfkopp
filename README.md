@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario never has to use the -f option when deleting files.
+- When Mario throws exceptions, it's across the room.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Wer ATA braucht, ist noch lange nicht bescheuert.
+> Sage mir, warum, und ich sage dir, weshalb.
 
 ---
 
