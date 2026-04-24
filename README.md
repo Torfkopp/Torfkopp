@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario writes code that optimizes itself.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wir fordern Haftpflicht für künstliche Gebisse.
+> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
 
 ---
 
