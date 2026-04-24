@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Sage mir, warum, und ich sage dir, weshalb.
+> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
 
 ---
 
