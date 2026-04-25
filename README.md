@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can access the DB from the UI.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not code in cycles, he codes in strikes.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
