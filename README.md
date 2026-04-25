@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can access the DB from the UI.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Tust du Wasser in den Diesel, hüpft der Traktor wie ein Wiesel.
+> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
 
 ---
 
