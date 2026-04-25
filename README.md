@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
 - When Mario throws exceptions, it's across the room.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Alle wollen zurück zur Natur; aber keiner zu Fuß.
+> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
 
 ---
 
