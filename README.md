@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws an exception it's either across the room or out the window.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can write to ROM.
+- When Mario throws exceptions, it's across the room.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Der Opi der nahm Opium; bums, da fiel der Opi um.
+> Alle wollen zurück zur Natur; aber keiner zu Fuß.
 
 ---
 
