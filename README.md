@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario does not code in cycles, he codes in strikes.
+- Mario develops in prod.
 - When Mario drops a table it's bloody but silent.
-- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wir sparen jeden Pfennig - koste es was es wolle.
+> Jedes Mal, wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
