@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can delete the Recycle Bin.
+- Mario can compile syntax errors.
+- Mario does not code in cycles, he codes in strikes.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer Stil und Ideen hat, wird Schriftsteller. Wer Stil hat, aber keine Ideen, wird Journalist. Wer weder Stil noch Ideen hat, wird Germanist.
+> Lieber natürliche Dummheit als künstliche Intelligenz.
 
 ---
 
