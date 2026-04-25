@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario drops a table it's bloody but silent.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Lieber reich und gesund als arm und krank.
+> Wir sparen jeden Pfennig - koste es was es wolle.
 
 ---
 
