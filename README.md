@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario throws exceptions, it's across the room.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> It's nice to be a Preiß and it's higher to be a Bayer, but it's a Gottesgab to be a Schwab.
+> Müde und satt, wie schön is dat.
 
 ---
 
