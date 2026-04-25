@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario does not code in cycles, he codes in strikes.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws an exception it's either across the room or out the window.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Lieber natürliche Dummheit als künstliche Intelligenz.
+> Der Opi der nahm Opium; bums, da fiel der Opi um.
 
 ---
 
