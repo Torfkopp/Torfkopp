@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario hosting is 105% uptime guaranteed.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Der Student geht so lange zur Mensa bis er bricht.
+> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
 
 ---
 
