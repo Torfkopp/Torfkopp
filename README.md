@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Mario develops in prod.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Das Faustrecht ist nicht abgeschafft; es ist nur in die Ellenbogen umgezogen.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
