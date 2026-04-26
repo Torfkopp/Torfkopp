@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario programs do not accept input.
-- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Andiamo – an den Dynamo
+> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
 
 ---
 
