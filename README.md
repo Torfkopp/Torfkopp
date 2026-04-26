@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario hosting is 105% uptime guaranteed.
+- Mario programs do not accept input.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Unfug und Unrecht werden mit Fug und Recht bestraft.
+> Andiamo – an den Dynamo
 
 ---
 
