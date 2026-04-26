@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario exits vim by typing "exit"
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
+> Der Klügere gibt vor, nachzugeben.
 
 ---
 
