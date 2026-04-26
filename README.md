@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can write to ROM.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
+> Der Student geht so lange zur Mensa bis er bricht.
 
 ---
 
