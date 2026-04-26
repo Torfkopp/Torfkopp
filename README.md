@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario CAN divide by 0.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can delete the Recycle Bin.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
+> Unfug und Unrecht werden mit Fug und Recht bestraft.
 
 ---
 
