@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario develops in prod.
-- When Mario drops a table it's bloody but silent.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario CAN divide by 0.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Jedes Mal, wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
 
 ---
 
