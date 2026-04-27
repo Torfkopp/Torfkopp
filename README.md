@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't make http requests. He makes http demands.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
+> Sitzt der Hahn auf einer Krähe, war kein Huhn in seiner Nähe.
 
 ---
 
