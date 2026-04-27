@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can access the DB from the UI.
+- Mario doesn't make http requests. He makes http demands.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer den Pfennig nicht ehrt, hat Gold im Mund.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
