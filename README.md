@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario CAN divide by 0.
+- To Mario, everything contains a vulnerability.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Der Arbeitstag beginnt um sieben; doch nicht, wenn du im Bett geblieben.
+> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
 
 ---
 
