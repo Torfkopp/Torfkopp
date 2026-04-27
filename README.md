@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't use web standards as the web will conform to him.
 - Mario can access the DB from the UI.
-- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
+> Wer den Pfennig nicht ehrt, hat Gold im Mund.
 
 ---
 
