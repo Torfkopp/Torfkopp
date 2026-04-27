@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can store the value 256 in one byte
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Charme ist das einzige, das sich nicht unter Druck versprühen lässt.
+> Der Arbeit kann man leicht entgehen, vermeidet man es aufzustehen.
 
 ---
 
