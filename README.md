@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario drops a table it's bloody but silent.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can compile syntax errors.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Sitzt der Hahn auf einer Krähe, war kein Huhn in seiner Nähe.
+> Gäste, die voll kommen, sind nicht vollkommen.
 
 ---
 
