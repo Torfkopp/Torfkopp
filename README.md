@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can compile syntax errors.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can store the value 256 in one byte
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Gäste, die voll kommen, sind nicht vollkommen.
+> Charme ist das einzige, das sich nicht unter Druck versprühen lässt.
 
 ---
 
