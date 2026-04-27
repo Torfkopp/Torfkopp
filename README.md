@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario writes code that optimizes itself.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Der Klügere gibt vor, nachzugeben.
+> Der Arbeitstag beginnt um sieben; doch nicht, wenn du im Bett geblieben.
 
 ---
 
