@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can store the value 256 in one byte
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario develops in prod.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Der Apfel fällt nicht weit vom Zank.
+> Wenn man das Licht schnell genug ausschaltet, kann man sehen, wie die Dunkelheit aussieht.
 
 ---
 
