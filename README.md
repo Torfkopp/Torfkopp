@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario hosting is 105% uptime guaranteed.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Lieber Ostern als Western.
+> Lieber ungebunden als angebunden.
 
 ---
 
