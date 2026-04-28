@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario develops in prod.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Was tut das Volk? Es folgt!
+> High sein, frei sein, bloß in keiner Partei sein.
 
 ---
 
