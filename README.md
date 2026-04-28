@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can delete the Recycle Bin.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Lieber ungebunden als angebunden.
+> Was tut das Volk? Es folgt!
 
 ---
 
