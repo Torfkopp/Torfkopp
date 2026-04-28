@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> High sein, frei sein, bloß in keiner Partei sein.
+> If you wanna be a wife cut your dickie with a knife.
 
 ---
 
