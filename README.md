@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario develops in prod.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario writes code that optimizes itself.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wenn man das Licht schnell genug ausschaltet, kann man sehen, wie die Dunkelheit aussieht.
+> Behaltet euer Tränengas - es gibt genug zum Heulen.
 
 ---
 
