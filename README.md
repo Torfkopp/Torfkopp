@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can store the value 256 in one byte
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> If you wanna be a wife cut your dickie with a knife.
+> Der Apfel fällt nicht weit vom Zank.
 
 ---
 
