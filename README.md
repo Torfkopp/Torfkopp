@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can access the DB from the UI.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can compile syntax errors.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Behaltet euer Tränengas - es gibt genug zum Heulen.
+> Er war Mathematiker, sie war unberechenbar.
 
 ---
 
