@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs do not accept input.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wenn der Krieg ausbricht, war der Frieden offenbar ein Gefängnis.
+> Gesunde Verdorbenheit ist besser als verdorbene Gesundheit.
 
 ---
 
