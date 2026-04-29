@@ -6,13 +6,13 @@
 
 ### About Mario
 - 404 errors simply mean that Mario has been there before you.
-- Mario hosting is 105% uptime guaranteed.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer den Feind umarmt, macht ihn bewegungsunfähig.
+> Wer heute den Kopf in den Sand steckt, knirscht morgen mit den Zähnen.
 
 ---
 
