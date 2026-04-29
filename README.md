@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws an exception it's either across the room or out the window.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Hinter jedem lustigen Mann steht eine Frau, die ihre Augen verdreht.
+> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
 
 ---
 
