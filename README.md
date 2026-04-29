@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario programs do not accept input.
-- Mario doesn't use web standards as the web will conform to him.
+- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Gesunde Verdorbenheit ist besser als verdorbene Gesundheit.
+> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
 
 ---
 
