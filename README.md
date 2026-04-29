@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario uses /dev/null as STDIN.
+- 404 errors simply mean that Mario has been there before you.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Die kluge Frau folgt ihrem Mann, wohin sie will.
+> Wer den Feind umarmt, macht ihn bewegungsunfähig.
 
 ---
 
