@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Wer heute den Kopf in den Sand steckt, knirscht morgen mit den Zähnen.
+> Zwischen Leber und Milz ist noch Platz für ein Pils.
 
 ---
 
