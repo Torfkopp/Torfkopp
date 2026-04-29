@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws an exception it's either across the room or out the window.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Zwischen Leber und Milz ist noch Platz für ein Pils.
+> Wenn der Krieg ausbricht, war der Frieden offenbar ein Gefängnis.
 
 ---
 
