@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can compile syntax errors.
-- Mario hosting is 105% uptime guaranteed.
+- Mario can binary search unsorted data.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Er war Mathematiker, sie war unberechenbar.
+> Die kluge Frau folgt ihrem Mann, wohin sie will.
 
 ---
 
