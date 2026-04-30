@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can compile syntax errors.
+- Mario doesn't make http requests. He makes http demands.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Unter dem Pflaster liegt der Strand.
+> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
 
 ---
 
