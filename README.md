@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario does not code in cycles, he codes in strikes.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Kreuzbrave sind meist piksauber.
+> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
 
 ---
 
