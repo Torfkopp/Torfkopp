@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- 404 errors simply mean that Mario has been there before you.
-- Mario can delete the Recycle Bin.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Eine Schwalbe macht noch keinen Elfmeter.
+> Unter dem Pflaster liegt der Strand.
 
 ---
 
