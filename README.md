@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't make http requests. He makes http demands.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can compile syntax errors.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
+> Lügen haben kurze Beine, aber tausend Füße.
 
 ---
 
