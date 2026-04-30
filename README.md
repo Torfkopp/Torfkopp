@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
+> Liebe beginnt mit Fieber und endet mit Gähnen.
 
 ---
 
