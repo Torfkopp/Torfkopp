@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario drops a table it's bloody but silent.
+- Mario can access the DB from the UI.
+- Mario does not code in cycles, he codes in strikes.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Ist kein Frostschutz mehr im Wein, tun sie halt was andres rein.
+> Kreuzbrave sind meist piksauber.
 
 ---
 
