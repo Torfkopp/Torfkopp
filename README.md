@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can store the value 256 in one byte
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can binary search unsorted data.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
+> Planung ist der Ersatz des Zufalls durch den Irrtum.
 
 ---
 
