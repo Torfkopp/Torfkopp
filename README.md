@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario CAN divide by 0.
+- Mario programs do not accept input.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Liebe beginnt mit Fieber und endet mit Gähnen.
+> Eine Schwalbe macht noch keinen Elfmeter.
 
 ---
 
