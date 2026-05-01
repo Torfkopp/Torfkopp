@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - When Mario point to NULL, Null scares.
+- Mario develops in prod.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
+> Frauenpower macht uns sauer.
 
 ---
 
