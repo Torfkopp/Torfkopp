@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can write to ROM.
+- Windows 7 was Mario's idea.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
+> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
 
 ---
 
