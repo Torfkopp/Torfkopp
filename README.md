@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Weird, it always works on Mario's machine.
 - Mario develops in prod.
-- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lerne lachen ohne zu weinen.
+> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
 
 ---
 
