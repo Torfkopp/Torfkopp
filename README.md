@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario point to NULL, Null scares.
-- Mario develops in prod.
+- Mario can write to ROM.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
+> Lieber Gott, macht mich blind, dass ich diese Welt gut find.
 
 ---
 
