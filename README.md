@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario can compile syntax errors.
-- Mario uses /dev/null as STDIN.
+- Parent is the child of Mario.
+- Mario develops in prod.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lügen haben kurze Beine, aber tausend Füße.
+> Lerne lachen ohne zu weinen.
 
 ---
 
