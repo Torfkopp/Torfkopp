@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Weird, it always works on Mario's machine.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - When Mario point to NULL, Null scares.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
+> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
 
 ---
 
