@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Weird, it always works on Mario's machine.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Der Mond ist voll, und ich hab auch schon Durst.
+> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
 
 ---
 
