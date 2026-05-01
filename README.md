@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can compile syntax errors.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lieber Gott, macht mich blind, dass ich diese Welt gut find.
+> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
 
 ---
 
