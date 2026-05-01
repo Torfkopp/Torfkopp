@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario drops a table it's bloody but silent.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
+> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
 
 ---
 
