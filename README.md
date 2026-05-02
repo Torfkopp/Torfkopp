@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
+> Ich summe, also bien ich.
 
 ---
 
