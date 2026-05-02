@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario develops in prod.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Ich summe, also bien ich.
+> Sogar eine halbe Portion kann ein Doppelleben führen.
 
 ---
 
