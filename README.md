@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can store the value 256 in one byte
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Windows 7 was Mario's idea.
-- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Bulle. (cow in season)
+> Ohne Fleiß kein Verschleiß.
 
 ---
 
