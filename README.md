@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario programs do not accept input.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Windows 7 was Mario's idea.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Spontaneität will wohlüberlegt sein.
+> Die größte Offenbarung ist der Bulle. (cow in season)
 
 ---
 
