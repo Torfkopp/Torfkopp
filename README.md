@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario exits vim by typing "exit"
-- Mario can compile syntax errors.
+- Mario programs do not accept input.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Sogar eine halbe Portion kann ein Doppelleben führen.
+> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
 
 ---
 
