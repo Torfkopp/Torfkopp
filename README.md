@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Windows 7 was Mario's idea.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Sogar eine halbe Portion kann ein Doppelleben führen.
+> Treib Sport, oder du bleibst gesund.
 
 ---
 
