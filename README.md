@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Löwenmaul und Leumund haben nur wenig gemeinsam.
+> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
 
 ---
 
