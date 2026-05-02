@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can store the value 256 in one byte
+- To Mario, everything contains a vulnerability.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Ohne Fleiß kein Verschleiß.
+> Löwenmaul und Leumund haben nur wenig gemeinsam.
 
 ---
 
