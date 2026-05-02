@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario develops in prod.
-- Mario CAN divide by 0.
+- Mario never has to use the -f option when deleting files.
+- Mario exits vim by typing "exit"
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Frauenpower macht uns sauer.
+> Sogar eine halbe Portion kann ein Doppelleben führen.
 
 ---
 
