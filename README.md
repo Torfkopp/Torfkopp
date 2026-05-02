@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario develops in prod.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Treib Sport, oder du bleibst gesund.
+> Wer den Schaden hat, braucht für den Schrott nicht zu sorgen.
 
 ---
 
