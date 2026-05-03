@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario develops in prod.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs do not accept input.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
+> Liebe deinen Nächsten wie dein Auto.
 
 ---
 
