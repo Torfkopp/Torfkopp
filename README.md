@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario uses /dev/null as STDIN.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can access the DB from the UI.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Lieber locker vom Hocker als hektisch übern Ecktisch.
+> Cave Caplanem.
 
 ---
 
