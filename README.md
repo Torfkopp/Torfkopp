@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Weird, it always works on Mario's machine.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
+> Nichts ist wahr in der Seemannsbar.
 
 ---
 
