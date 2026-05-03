@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not code in cycles, he codes in strikes.
+- Mario develops in prod.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Ich wollte die Einschulung aus Gewissensgründen verweigern.
+> Wer Glück im Spiel hat, hat mehr Geld für die Liebe.
 
 ---
 
