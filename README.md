@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Weird, it always works on Mario's machine.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario writes code that optimizes itself.
+- Mario uses /dev/null as STDIN.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Nichts ist wahr in der Seemannsbar.
+> Lieber locker vom Hocker als hektisch übern Ecktisch.
 
 ---
 
