@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario does not code in cycles, he codes in strikes.
-- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Besser niederträchtig als hochschwanger.
+> Treib Sport, oder du bleibst gesund.
 
 ---
 
