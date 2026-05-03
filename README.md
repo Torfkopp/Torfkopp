@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Treib Sport, oder du bleibst gesund.
+> Lieber Frust im Kopf als Faust aufs Auge.
 
 ---
 
