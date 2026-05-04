@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario programs do not accept input.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario throws an exception it's either across the room or out the window.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Liebe deinen Nächsten wie dein Auto.
+> Wo die Frau nicht kocht, da kocht der Mann.
 
 ---
 
