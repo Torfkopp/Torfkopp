@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario writes code that optimizes itself.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Das einzige, was Reiche nicht haben, ist kein Geld.
+> Arbeit adelt; wir aber bleiben bürgerlich.
 
 ---
 
