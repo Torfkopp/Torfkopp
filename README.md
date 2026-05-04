@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not code in cycles, he codes in strikes.
+- Mario develops in prod.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Arbeit adelt; wir aber bleiben bürgerlich.
+> Wem du's heute kannst besorgen, den verschone nicht bis morgen.
 
 ---
 
