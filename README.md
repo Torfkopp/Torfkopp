@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario throws exceptions, it's across the room.
-- Mario writes code that optimizes itself.
+- Parent is the child of Mario.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
+> Wenn du aus Liebe heiratest, hast du schöne Nächte und schlimme Tage.
 
 ---
 
