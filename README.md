@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario develops in prod.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wem du's heute kannst besorgen, den verschone nicht bis morgen.
+> Wer rennt und lacht, kommt in Verdacht.
 
 ---
 
