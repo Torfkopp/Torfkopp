@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario CAN divide by 0.
-- Mario can access the DB from the UI.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Windows 7 was Mario's idea.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wer dir glaubt, wird garantiert nicht selig.
+> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
 
 ---
 
