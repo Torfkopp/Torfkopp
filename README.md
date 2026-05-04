@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Windows 7 was Mario's idea.
+- When Mario drops a table it's bloody but silent.
 - Mario doesn't make http requests. He makes http demands.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
+> Das einzige, was Reiche nicht haben, ist kein Geld.
 
 ---
 
