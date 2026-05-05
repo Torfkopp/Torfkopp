@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can compile syntax errors.
+- Mario does not code in cycles, he codes in strikes.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Es wird nicht alles so heiß gegessen wie man sich fühlt.
+> Rot denken, grün wählen, blau machen, schwarz schaffen.
 
 ---
 
