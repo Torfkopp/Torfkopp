@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario can compile syntax errors.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
 
 ---
 
