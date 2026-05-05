@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 - Mario can compile syntax errors.
-- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
+> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
 
 ---
 
