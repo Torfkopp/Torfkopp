@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario throws exceptions, it's across the room.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Wer rennt und lacht, kommt in Verdacht.
+> Ist das Freibad voll wie nie, läuft Wimbledon im Pay-TV.
 
 ---
 
