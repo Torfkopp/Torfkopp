@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario throws exceptions, it's across the room.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can write to ROM.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Die Basis des Fundamentalen ist das Grundlegende.
+> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
 
 ---
 
