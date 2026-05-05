@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
+> Es wird nicht alles so heiß gegessen wie man sich fühlt.
 
 ---
 
