@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario can write to ROM.
-- Mario programs do not accept input.
+- Mario can store the value 256 in one byte
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
+> Wer stirbt, ist nur zu faul zum Leben.
 
 ---
 
