@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Parent is the child of Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Ist das Freibad voll wie nie, läuft Wimbledon im Pay-TV.
+> Die Basis des Fundamentalen ist das Grundlegende.
 
 ---
 
