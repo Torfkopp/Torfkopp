@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario does not code in cycles, he codes in strikes.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario point to NULL, Null scares.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Rot denken, grün wählen, blau machen, schwarz schaffen.
+> Das jüngste Gericht wird sich vertagen müssen, weil sich die Frauen verspäten.
 
 ---
 
