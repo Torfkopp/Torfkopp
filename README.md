@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't make http requests. He makes http demands.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
+> Keiner redet dümmer als er ist.
 
 ---
 
