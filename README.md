@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- 404 errors simply mean that Mario has been there before you.
 - Mario does not code in cycles, he codes in strikes.
-- When Mario point to NULL, Null scares.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Das jüngste Gericht wird sich vertagen müssen, weil sich die Frauen verspäten.
+> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
 
 ---
 
