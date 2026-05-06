@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario plugs in USB sticks perfectly the first time every time
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Verliert im August der Bauer die Hose, war schon im Juli das Gummiband lose.
+> Lieber 'n Altbier als 'ne Neurose.
 
 ---
 
