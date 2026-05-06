@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario does not code in cycles, he codes in strikes.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer Klinken putzt, wird schneller krank.
+> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
 
 ---
 
