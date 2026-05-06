@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario drops a table it's bloody but silent.
+- Windows 7 was Mario's idea.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
+> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
 
 ---
 
