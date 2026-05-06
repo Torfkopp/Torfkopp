@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't make http requests. He makes http demands.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Keiner redet dümmer als er ist.
+> Liebe ist Elektrizität; in der Ehe kommt die Stromrechnung.
 
 ---
 
