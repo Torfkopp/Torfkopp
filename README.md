@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario does not code in cycles, he codes in strikes.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer andere mit Scheiße bewirft, muss aufpassen, dass kein Ventilator im Weg steht.
+> Wer Klinken putzt, wird schneller krank.
 
 ---
 
