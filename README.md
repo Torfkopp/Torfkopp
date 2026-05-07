@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario drops a table it's bloody but silent.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Lieber 'n Altbier als 'ne Neurose.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
