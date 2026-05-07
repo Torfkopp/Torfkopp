@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
+- Mario CAN divide by 0.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
+> Ist Silvester hell und klar, ist am andern Tag Neujahr.
 
 ---
 
