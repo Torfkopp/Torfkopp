@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
+> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
 
 ---
 
