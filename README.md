@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario writes code that optimizes itself.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario uses /dev/null as STDIN.
+- When Mario drops a table it's bloody but silent.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der einen Vogel hat, ist ein Star.
+> Lieber süßen Nebel als sauren Regen.
 
 ---
 
