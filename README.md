@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- 404 errors simply mean that Mario has been there before you.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
+> Elite? Nein danke.
 
 ---
 
