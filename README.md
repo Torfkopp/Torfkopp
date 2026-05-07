@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario CAN divide by 0.
+- Mario can access the DB from the UI.
+- Mario writes code that optimizes itself.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Ist Silvester hell und klar, ist am andern Tag Neujahr.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
