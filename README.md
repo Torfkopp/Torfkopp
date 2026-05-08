@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Elite? Nein danke.
+> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
 
 ---
 
