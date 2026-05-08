@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can't test for equality because he has no equal.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
+> Schnauze, sonst Beule.
 
 ---
 
