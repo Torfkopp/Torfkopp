@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
 - Mario does not code in cycles, he codes in strikes.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Pubertät ist, wenn die Eltern anfangen schwierig zu werden.
+> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
 
 ---
 
