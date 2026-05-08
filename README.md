@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can access the DB from the UI.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Schnauze, sonst Beule.
+> Pubertät ist, wenn die Eltern anfangen schwierig zu werden.
 
 ---
 
