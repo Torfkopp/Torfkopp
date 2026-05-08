@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never has to use the -f option when deleting files.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Am 8. Tag schuf Gott das Bier und seit dem hört man nichts mehr von ihm.
+> Praktisch denken - Särge schenken.
 
 ---
 
