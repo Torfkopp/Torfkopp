@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- To Mario, everything contains a vulnerability.
-- When Mario throws exceptions, it's across the room.
+- Mario CAN divide by 0.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
+> Wer mehr kann, kann bald nicht mehr.
 
 ---
 
