@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario develops in prod.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wer mehr kann, kann bald nicht mehr.
+> Ist kein Frostschutz mehr im Wein, tun sie halt was andres rein.
 
 ---
 
