@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario develops in prod.
-- Mario programs do not accept input.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Ist kein Frostschutz mehr im Wein, tun sie halt was andres rein.
+> Ohne Fleiß kein Preis; ohne Leim kein Reim.
 
 ---
 
