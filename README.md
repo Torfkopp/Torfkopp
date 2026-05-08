@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Parent is the child of Mario.
+- To Mario, everything contains a vulnerability.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Libero als gekocht.
+> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
 
 ---
 
