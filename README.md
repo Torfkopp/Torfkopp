@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Windows 7 was Mario's idea.
-- Mario hosting is 105% uptime guaranteed.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario develops in prod.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
+> Viele Ängste sind des Hasen Fuß.
 
 ---
 
