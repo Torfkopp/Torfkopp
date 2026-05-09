@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Oh, frivol ist mir am Abend.
+> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
 
 ---
 
