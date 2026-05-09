@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario never has to use the -f option when deleting files.
-- Windows 7 was Mario's idea.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can binary search unsorted data.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Praktisch denken - Särge schenken.
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
