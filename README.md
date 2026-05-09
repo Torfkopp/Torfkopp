@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Weird, it always works on Mario's machine.
+- Mario develops in prod.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Arbeit ist süß, aber sauer macht lustig.
+> Oh, frivol ist mir am Abend.
 
 ---
 
