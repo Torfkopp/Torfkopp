@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario can compile syntax errors.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't make http requests. He makes http demands.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Viele Stoppschilder bringen den Fahrer zum Rasen.
+> Schönheitschirurgen können auch ein langes Gesicht machen.
 
 ---
 
