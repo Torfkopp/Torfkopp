@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario develops in prod.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can't test for equality because he has no equal.
+- Mario can write to ROM.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Viele Ängste sind des Hasen Fuß.
+> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
 
 ---
 
