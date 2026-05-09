@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario throws an exception it's either across the room or out the window.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario doesn't make http requests. He makes http demands.
-- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Schönheitschirurgen können auch ein langes Gesicht machen.
+> Keiner redet dümmer als er ist.
 
 ---
 
