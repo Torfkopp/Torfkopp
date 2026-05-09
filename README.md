@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Weird, it always works on Mario's machine.
+- Mario can compile syntax errors.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
+> Viele Stoppschilder bringen den Fahrer zum Rasen.
 
 ---
 
