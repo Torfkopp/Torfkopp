@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario CAN divide by 0.
+- To Mario, everything contains a vulnerability.
+- Mario programs do not accept input.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Auf die Pauke hauen will jeder, nur tragen will sie keiner.
+> Es sind nicht nur die Optiker, die ständig nach Kontakt linsen.
 
 ---
 
