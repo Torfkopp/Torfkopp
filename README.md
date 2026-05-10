@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Parent is the child of Mario.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario hosting is 105% uptime guaranteed.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Alle bis zum Hals im Wasser, nur nicht Rainer, der ist kleiner.
+> Wer abnimmt, hat mehr vom Telefon.
 
 ---
 
