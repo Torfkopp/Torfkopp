@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wer abnimmt, hat mehr vom Telefon.
+> Jetzt wollen wir der Sache mal auf den Grund gehen, sagte der Bauer und sprang in die Jauchegrube.
 
 ---
 
