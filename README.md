@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario uses /dev/null as STDIN.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Jetzt wollen wir der Sache mal auf den Grund gehen, sagte der Bauer und sprang in die Jauchegrube.
+> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
 
 ---
 
