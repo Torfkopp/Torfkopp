@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
 - Mario can write to ROM.
-- Mario plugs in USB sticks perfectly the first time every time
+- Parent is the child of Mario.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
+> Die größte Offenbarung ist der Wille. (Therapeut)
 
 ---
 
