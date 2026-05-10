@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Ei laf ju änd ju laf mi - laf ma zam, wo laf ma hi?
+> Coeo, ergo sum.
 
 ---
 
