@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Coeo, ergo sum.
+> Legt die Nordsee trocken, wir wollen nach England.
 
 ---
 
