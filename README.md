@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Legt die Nordsee trocken, wir wollen nach England.
+> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
 
 ---
 
