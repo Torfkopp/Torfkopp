@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario CAN divide by 0.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
+> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
 
 ---
 
