@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario CAN divide by 0.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
 
 ---
 
