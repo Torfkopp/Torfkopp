@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario does not code in cycles, he codes in strikes.
 - Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Die meisten Leute reden nur, weil sie zu faul zum Lesen sind.
+> Ist feucht die Hose im August, dann hättest du aufs Klo gemusst.
 
 ---
 
