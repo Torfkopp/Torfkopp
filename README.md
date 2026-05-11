@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- 404 errors simply mean that Mario has been there before you.
-- Windows 7 was Mario's idea.
+- Mario doesn't make http requests. He makes http demands.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Abgeordnete sind immer zu tausend Spesen aufgelegt.
+> Arbeit ist süß; ich bin aber Diabetiker.
 
 ---
 
