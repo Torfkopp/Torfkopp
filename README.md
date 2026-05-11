@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can access the DB from the UI.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- 404 errors simply mean that Mario has been there before you.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Spieglein, Spieglein im Regal - die Männer sind mir scheißegal.
+> Abgeordnete sind immer zu tausend Spesen aufgelegt.
 
 ---
 
