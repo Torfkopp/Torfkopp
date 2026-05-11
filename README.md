@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario invented binary by performing a roundhouse on the number 10.
-- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Arbeit ist süß; ich bin aber Diabetiker.
+> Sie war "von und zu", er "auf und davon".
 
 ---
 
