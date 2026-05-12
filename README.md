@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Windows 7 was Mario's idea.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Früher haben wir uns vor der Arbeit gedrückt, heute schauen wir stundenlang zu.
+> Große Ereignisse werfen mitunter Schatten unter die Augen.
 
 ---
 
