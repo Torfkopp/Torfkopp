@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario programs do not accept input.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Große Ereignisse werfen mitunter Schatten unter die Augen.
+> Mit den Händen in den Taschen kann man keine Fliegen haschen.
 
 ---
 
