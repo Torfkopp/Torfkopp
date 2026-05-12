@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario throws exceptions, it's across the room.
+- Mario develops in prod.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
+> Wenn man den Garten düngen möchte, dann genügt es nicht, durch den Zaun zu furzen.
 
 ---
 
