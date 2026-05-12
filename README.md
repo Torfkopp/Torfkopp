@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wer Blüten druckt, muss rechtzeitig verduften.
+> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
 
 ---
 
