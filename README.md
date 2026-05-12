@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario exits vim by typing "exit"
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
+> Wenn man auch überall aneckt, geht's noch lange nicht rund.
 
 ---
 
