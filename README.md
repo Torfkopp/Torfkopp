@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario develops in prod.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario CAN divide by 0.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wenn man den Garten düngen möchte, dann genügt es nicht, durch den Zaun zu furzen.
+> Früher haben wir uns vor der Arbeit gedrückt, heute schauen wir stundenlang zu.
 
 ---
 
