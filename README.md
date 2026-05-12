@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can binary search unsorted data.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Mit den Händen in den Taschen kann man keine Fliegen haschen.
+> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
 
 ---
 
