@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario develops in prod.
-- Mario can't test for equality because he has no equal.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can binary search unsorted data.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Lieber oberaffengeil als unterallersau.
+> Wer viel arbeitet, macht viele Fehler; wer keine Fehler macht, ist ein fauler Hund.
 
 ---
 
