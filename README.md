@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Nimm alles, dann brauchst du nichts.
+> Rote Lippen sind erotisch, blaue leider nicht eblautisch.
 
 ---
 
