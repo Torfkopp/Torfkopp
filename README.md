@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario uses /dev/null as STDIN.
+- 404 errors simply mean that Mario has been there before you.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Regnets im Mai, ist der April vorbei. (Bauernregel)
+> Nimm alles, dann brauchst du nichts.
 
 ---
 
