@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario can delete the Recycle Bin.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Rote Lippen sind erotisch, blaue leider nicht eblautisch.
+> Das Leben gibt's gratis, der Rest ist käuflich.
 
 ---
 
