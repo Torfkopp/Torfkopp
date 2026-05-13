@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario writes code that optimizes itself.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Erst schließen wir die Augen; dann sehen wir weiter.
+> Ein Student geht so lange zur Mensa, bis er bricht.
 
 ---
 
