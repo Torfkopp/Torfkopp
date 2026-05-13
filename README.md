@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario writes code that optimizes itself.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can store the value 256 in one byte
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Ein Student geht so lange zur Mensa, bis er bricht.
+> Regnets im Mai, ist der April vorbei. (Bauernregel)
 
 ---
 
