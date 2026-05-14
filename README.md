@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can binary search unsorted data.
-- Mario programs do not accept input.
+- Windows 7 was Mario's idea.
+- Mario doesn't make http requests. He makes http demands.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wer viel arbeitet, macht viele Fehler; wer keine Fehler macht, ist ein fauler Hund.
+> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
 
 ---
 
