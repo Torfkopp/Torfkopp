@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Tolle. (Friseur)
+> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
 
 ---
 
