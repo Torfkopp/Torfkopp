@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can access the DB from the UI.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario throws exceptions, it's across the room.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
+> Gewollte Brillanz ergibt nur Brillantine.
 
 ---
 
