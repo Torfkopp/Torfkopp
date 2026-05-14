@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Windows 7 was Mario's idea.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can access the DB from the UI.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Die meisten Menschen werden kleiner, wenn man sie unter die Lupe nimmt.
+> Gott sei Punk.
 
 ---
 
