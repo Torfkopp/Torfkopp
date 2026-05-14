@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't make http requests. He makes http demands.
-- Mario hosting is 105% uptime guaranteed.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
+> Der Opi der nahm Opium; bums, da fiel der Opi um.
 
 ---
 
