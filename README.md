@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- When Mario point to NULL, Null scares.
+- Mario can delete the Recycle Bin.
+- Mario programs do not accept input.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Der Opi der nahm Opium; bums, da fiel der Opi um.
+> Wut tut gut.
 
 ---
 
