@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario programs do not accept input.
-- Parent is the child of Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Windows 7 was Mario's idea.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wut tut gut.
+> Die meisten Menschen werden kleiner, wenn man sie unter die Lupe nimmt.
 
 ---
 
