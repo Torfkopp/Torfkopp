@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario exits vim by typing "exit"
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Bei Dreckfuhlern muss man aufpassen wie ein Lachs.
 
 ---
 
