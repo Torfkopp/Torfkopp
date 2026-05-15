@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Gewollte Brillanz ergibt nur Brillantine.
+> Arbeitskraft? Nein danke.
 
 ---
 
