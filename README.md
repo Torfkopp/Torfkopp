@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Lieber locker vom Hocker als hektisch übern Ecktisch.
+> Jeder Tag ist gleich lang, aber verschieden breit.
 
 ---
 
