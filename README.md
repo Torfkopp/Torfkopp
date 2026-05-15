@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario exits vim by typing "exit"
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Parent is the child of Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Bei Dreckfuhlern muss man aufpassen wie ein Lachs.
+> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
 
 ---
 
