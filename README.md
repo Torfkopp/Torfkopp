@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Windows 7 was Mario's idea.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Kräht der Bauer auf dem Mist, hat der Gockel sich verpisst.
+> Lieber locker vom Hocker als hektisch übern Ecktisch.
 
 ---
 
