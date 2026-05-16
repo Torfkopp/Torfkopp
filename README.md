@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario never has to use the -f option when deleting files.
+- Mario CAN divide by 0.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
+> Lieber einen steilen Zahn als gar kein Gebiss.
 
 ---
 
