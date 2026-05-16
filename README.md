@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario develops in prod.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can delete the Recycle Bin.
+- Weird, it always works on Mario's machine.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
+> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
 
 ---
 
