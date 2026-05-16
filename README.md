@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can delete the Recycle Bin.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Ouzo statt Juso.
+> Vielleicht muss der große Bruder gar nicht kommen, weil alle schon den kleinen Mann im Ohr haben.
 
 ---
 
