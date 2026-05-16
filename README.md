@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can write to ROM.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- 404 errors simply mean that Mario has been there before you.
+- Mario programs do not accept input.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Tolle. (Friseur)
+> Wer hat denn den Käse ins Fernsehn gerollt?
 
 ---
 
