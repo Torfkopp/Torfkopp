@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't use web standards as the web will conform to him.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Windows 7 was Mario's idea.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Vielleicht muss der große Bruder gar nicht kommen, weil alle schon den kleinen Mann im Ohr haben.
+> Was Vatikan, kann Mutti schon lange.
 
 ---
 
