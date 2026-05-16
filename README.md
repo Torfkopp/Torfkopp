@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Weird, it always works on Mario's machine.
-- Mario programs do not accept input.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can write to ROM.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
