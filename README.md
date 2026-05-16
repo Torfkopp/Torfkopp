@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario writes code that optimizes itself.
-- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can write to ROM.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Ich brauch kein Hasch; ich nehme DASH.
+> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
 
 ---
 
