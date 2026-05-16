@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can write to ROM.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario hosting is 105% uptime guaranteed.
+- Mario never has to use the -f option when deleting files.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Mit einer Mieze feierte er Silvester, und mit einem Kater Neujahr.
+> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
 
 ---
 
