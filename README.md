@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not code in cycles, he codes in strikes.
-- Mario hosting is 105% uptime guaranteed.
+- Mario CAN divide by 0.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Keine will über ihren Kurschatten springen.
+> Frauen gemeinsam sind stark geschädigt.
 
 ---
 
