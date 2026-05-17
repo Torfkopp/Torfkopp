@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can't test for equality because he has no equal.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
+> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
 
 ---
 
