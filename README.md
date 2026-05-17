@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario throws exceptions, it's across the room.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Frauen gemeinsam sind stark geschädigt.
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
