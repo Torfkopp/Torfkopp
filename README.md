@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not code in cycles, he codes in strikes.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Gute Mädchen kommen in den Himmel; böse überallhin.
+> Keine will über ihren Kurschatten springen.
 
 ---
 
