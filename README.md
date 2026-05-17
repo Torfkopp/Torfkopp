@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario drops a table it's bloody but silent.
+- When Mario point to NULL, Null scares.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
+> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
 
 ---
 
