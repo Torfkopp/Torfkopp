@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can access the DB from the UI.
+- Mario hosting is 105% uptime guaranteed.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Cave Caplanem.
+> Ein Student geht so lange zur Mensa, bis er bricht.
 
 ---
 
