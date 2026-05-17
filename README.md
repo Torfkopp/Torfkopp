@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario programs do not accept input.
+- Mario exits vim by typing "exit"
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Lieber einen steilen Zahn als gar kein Gebiss.
+> Lieber zusammen aus- als allein eingehen.
 
 ---
 
