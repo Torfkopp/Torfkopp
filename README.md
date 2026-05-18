@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
+> Lieber Glück im Unglück als Pech in der Strähne.
 
 ---
 
