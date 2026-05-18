@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario CAN divide by 0.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer für die Katz arbeitet, kommt auf den Hund.
+> Lieber Kröten im Beutel als 'nen Frosch im Hals.
 
 ---
 
