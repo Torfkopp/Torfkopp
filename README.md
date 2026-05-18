@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can delete the Recycle Bin.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
