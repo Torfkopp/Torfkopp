@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can store the value 256 in one byte
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Ein Student geht so lange zur Mensa, bis er bricht.
+> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
 
 ---
 
