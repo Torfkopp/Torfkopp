@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario point to NULL, Null scares.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Hast du Zahnpasta im Ohr, kommt dir alles leiser vor.
 
 ---
 
