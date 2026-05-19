@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can't test for equality because he has no equal.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Lieber 'n Glas Dortmunder als 'ne Wanne Eickel.
+> An die Waffeln, Bürger!
 
 ---
 
