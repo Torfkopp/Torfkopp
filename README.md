@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - When Mario throws exceptions, it's across the room.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Nicht jeder Mann, der raucht, ist ein Vulkan.
+> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
 
 ---
 
