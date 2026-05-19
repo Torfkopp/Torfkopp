@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Jedes Mal, wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Nicht jeder Mann, der raucht, ist ein Vulkan.
 
 ---
 
