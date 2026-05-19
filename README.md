@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Parent is the child of Mario.
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario throws exceptions, it's across the room.
-- When Mario point to NULL, Null scares.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
+> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
 
 ---
 
