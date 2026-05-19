@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can't test for equality because he has no equal.
+- When Mario point to NULL, Null scares.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Sonderlinge lachen sogar beim Zwiebelschneiden.
+> Tut Ench Amun, was Nofre täte?
 
 ---
 
