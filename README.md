@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can write to ROM.
+- Mario can delete the Recycle Bin.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> An die Waffeln, Bürger!
+> Sonderlinge lachen sogar beim Zwiebelschneiden.
 
 ---
 
