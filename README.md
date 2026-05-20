@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario doesn't make http requests. He makes http demands.
-- To Mario, everything contains a vulnerability.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Dem Philosoph ist nichts zu doof.
+> Kann denn Sprühen Sünde sein?
 
 ---
 
