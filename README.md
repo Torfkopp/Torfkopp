@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Kann denn Sprühen Sünde sein?
+> Wer die Wahrheit sagt, braucht ein schnelles Pferd.
 
 ---
 
