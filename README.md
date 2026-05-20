@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can binary search unsorted data.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
 
 ---
 
