@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can binary search unsorted data.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Ich muss die Nase meiner Ollen an jeder Grenze neu verzollen.
+> Sie war "von und zu", er "auf und davon".
 
 ---
 
