@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't make http requests. He makes http demands.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
+> Dem Philosoph ist nichts zu doof.
 
 ---
 
