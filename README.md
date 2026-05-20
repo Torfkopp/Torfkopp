@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario does not code in cycles, he codes in strikes.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Tut Ench Amun, was Nofre täte?
+> Ich muss die Nase meiner Ollen an jeder Grenze neu verzollen.
 
 ---
 
