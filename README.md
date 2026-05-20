@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Windows 7 was Mario's idea.
+- Mario programs do not accept input.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
+> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
