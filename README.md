@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Parent is the child of Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can access the DB from the UI.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Der deutsche Humor ist seiner Seltenheit wegen besonders wertvoll.
+> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
 
 ---
 
