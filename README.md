@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can write to ROM.
+- Mario exits vim by typing "exit"
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
+> Krieg ist, wenn es trotzdem kracht.
 
 ---
 
