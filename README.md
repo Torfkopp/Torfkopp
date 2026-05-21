@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can access the DB from the UI.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Ist das Freibad voll wie nie, läuft Wimbledon im Pay-TV.
+> Der fette Vogel bricht den Ast.
 
 ---
 
