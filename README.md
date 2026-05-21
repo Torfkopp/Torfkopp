@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never has to use the -f option when deleting files.
+- Parent is the child of Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Hat der Bauer kalte Hände, flieht die Kuh in das Gelände.
+> Der deutsche Humor ist seiner Seltenheit wegen besonders wertvoll.
 
 ---
 
