@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario writes code that optimizes itself.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Welle. (Schwingkreis)
+> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
 
 ---
 
