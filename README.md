@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can delete the Recycle Bin.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Rille. (Plattenspieler-Nadel)
+> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
 
 ---
 
