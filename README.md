@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario writes code that optimizes itself.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can store the value 256 in one byte
+- When Mario drops a table it's bloody but silent.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
+> Die Liebe ist das Licht des Lebens, die Ehe ist die Stromabrechnung.
 
 ---
 
