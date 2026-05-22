@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can access the DB from the UI.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Der fette Vogel bricht den Ast.
+> Die größte Offenbarung ist die Rille. (Plattenspieler-Nadel)
 
 ---
 
