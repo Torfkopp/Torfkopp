@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can't test for equality because he has no equal.
+- Mario develops in prod.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
+> Spontaneität will wohlüberlegt sein.
 
 ---
 
