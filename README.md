@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can write to ROM.
+- Mario can access the DB from the UI.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
+> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
 
 ---
 
