@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- To Mario, everything contains a vulnerability.
-- Mario programs do not accept input.
+- Windows 7 was Mario's idea.
+- Mario hosting is 105% uptime guaranteed.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Lieber Blödeleien als blöde Laien.
+> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
 
 ---
 
