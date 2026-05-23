@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario invented binary by performing a roundhouse on the number 10.
 - To Mario, everything contains a vulnerability.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
+> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
 
 ---
 
