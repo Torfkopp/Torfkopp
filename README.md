@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can write to ROM.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- To Mario, everything contains a vulnerability.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Besser Sex für Geld als kein Sex und kein Geld.
+> Lieber Blödeleien als blöde Laien.
 
 ---
 
