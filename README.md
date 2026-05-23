@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario develops in prod.
-- When Mario point to NULL, Null scares.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Selten Dumme sind nicht selten, aber dumm.
+> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
 
 ---
 
