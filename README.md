@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- To Mario, everything contains a vulnerability.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can compile syntax errors.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
+> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
 
 ---
 
