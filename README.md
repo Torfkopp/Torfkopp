@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- When Mario drops a table it's bloody but silent.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Die Liebe ist das Licht des Lebens, die Ehe ist die Stromabrechnung.
+> Besser Sex für Geld als kein Sex und kein Geld.
 
 ---
 
