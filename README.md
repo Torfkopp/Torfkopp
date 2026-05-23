@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario hosting is 105% uptime guaranteed.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario develops in prod.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
+> Selten Dumme sind nicht selten, aber dumm.
 
 ---
 
