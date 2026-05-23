@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
+> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
 
 ---
 
