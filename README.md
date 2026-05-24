@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't make http requests. He makes http demands.
+- Mario develops in prod.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
+> Nichts ist wahr in der Seemannsbar.
 
 ---
 
