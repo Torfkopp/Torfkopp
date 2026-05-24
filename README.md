@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't make http requests. He makes http demands.
-- Mario develops in prod.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Weird, it always works on Mario's machine.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Nichts ist wahr in der Seemannsbar.
+> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
 
 ---
 
