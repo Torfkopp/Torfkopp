@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- 404 errors simply mean that Mario has been there before you.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can access the DB from the UI.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Alles hat Grenzen, nur die Dummheit ist unendlich.
+> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
 
 ---
 
