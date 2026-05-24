@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can access the DB from the UI.
+- Mario exits vim by typing "exit"
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Zu viel Eisbein schadet dem Steißbein.
+> Die Pflicht ruft? Wir rufen zurück.
 
 ---
 
