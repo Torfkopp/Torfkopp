@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never has to use the -f option when deleting files.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario uses /dev/null as STDIN.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Professorenglatze ist Waldsterben auf höherer Ebene.
+> Was dem einen sein Karl May, ist dem anderen sein Sepp Tember.
 
 ---
 
