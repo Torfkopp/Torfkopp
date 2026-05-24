@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario exits vim by typing "exit"
-- Mario can store the value 256 in one byte
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never has to use the -f option when deleting files.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Die Pflicht ruft? Wir rufen zurück.
+> Professorenglatze ist Waldsterben auf höherer Ebene.
 
 ---
 
