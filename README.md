@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario can access the DB from the UI.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario exits vim by typing "exit"
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
+> Die größte Offenbarung ist der Kolle. (Aufklärer)
 
 ---
 
