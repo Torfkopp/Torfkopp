@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can compile syntax errors.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Windows 7 was Mario's idea.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Lieber kleckern als kotzen.
+> Überlegen macht überlegen.
 
 ---
 
