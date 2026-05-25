@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Windows 7 was Mario's idea.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can write to ROM.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Überlegen macht überlegen.
+> Lieber Hosenträger als gar keinen Halt.
 
 ---
 
