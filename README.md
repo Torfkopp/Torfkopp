@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario writes code that optimizes itself.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
+> Lieber kleckern als kotzen.
 
 ---
 
