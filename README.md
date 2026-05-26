@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario develops in prod.
+- Weird, it always works on Mario's machine.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Enthaltsamkeit ist aller Laster Anfang.
+> Hic Rhodos, hic Malta.
 
 ---
 
