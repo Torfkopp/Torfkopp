@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario develops in prod.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Elite? Nein danke.
+> Er war Mathematiker, sie war unberechenbar.
 
 ---
 
