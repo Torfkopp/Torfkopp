@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 - Weird, it always works on Mario's machine.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Hic Rhodos, hic Malta.
+> Planung ist der Ersatz des Zufalls durch den Irrtum.
 
 ---
 
