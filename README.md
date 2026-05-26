@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- 404 errors simply mean that Mario has been there before you.
 - Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Alle können denken; nur bleibt es den meisten erspart.
+> Enthaltsamkeit ist aller Laster Anfang.
 
 ---
 
