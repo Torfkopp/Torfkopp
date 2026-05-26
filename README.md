@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Weird, it always works on Mario's machine.
+- Mario CAN divide by 0.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Planung ist der Ersatz des Zufalls durch den Irrtum.
+> Stille Nacht, heilige Nacht, schmeißt Bomben und Raketen, bis es kracht.
 
 ---
 
