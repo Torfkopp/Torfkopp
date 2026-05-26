@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht, schmeißt Bomben und Raketen, bis es kracht.
+> Lieber eine Flinte im Korn als Waffen im Weltraum.
 
 ---
 
