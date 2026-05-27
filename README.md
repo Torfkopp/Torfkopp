@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can binary search unsorted data.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not code in cycles, he codes in strikes.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Liebe beginnt mit Fieber und endet mit Gähnen.
+> Die nächste Steinzeit kommt bestimmt.
 
 ---
 
