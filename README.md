@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Weird, it always works on Mario's machine.
-- Mario can store the value 256 in one byte
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario develops in prod.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> Der Mond ist voll, und ich hab auch schon Durst.
 
 ---
 
