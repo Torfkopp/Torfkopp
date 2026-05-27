@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario develops in prod.
-- Mario CAN divide by 0.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Der Mond ist voll, und ich hab auch schon Durst.
+> Coeo, ergo sum.
 
 ---
 
