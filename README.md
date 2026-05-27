@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can access the DB from the UI.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Weird, it always works on Mario's machine.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Tarzan auf dem Klosterdach: da wurden selbst die Nonnen wach.
+> Sie war "von und zu", er "auf und davon".
 
 ---
 
