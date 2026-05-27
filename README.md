@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can compile syntax errors.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Die nächste Steinzeit kommt bestimmt.
+> Tarzan auf dem Klosterdach: da wurden selbst die Nonnen wach.
 
 ---
 
