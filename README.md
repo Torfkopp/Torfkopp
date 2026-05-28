@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can't test for equality because he has no equal.
+- When Mario point to NULL, Null scares.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Coeo, ergo sum.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
