@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never has to use the -f option when deleting files.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der einen Vogel hat, ist ein Star.
+> Ich bin ein Vampir: wasch dir den Hals!
 
 ---
 
