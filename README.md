@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can't test for equality because he has no equal.
-- Mario hosting is 105% uptime guaranteed.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
+> Nicht jeder, der einen Vogel hat, ist ein Star.
 
 ---
 
