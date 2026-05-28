@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- When Mario point to NULL, Null scares.
-- Mario writes code that optimizes itself.
+- Mario can write to ROM.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
+> Ein Masochist, der zurückhaut, ist pervers.
 
 ---
 
