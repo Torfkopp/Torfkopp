@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario programs do not accept input.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
+> Wer für die Katz arbeitet, kommt auf den Hund.
 
 ---
 
