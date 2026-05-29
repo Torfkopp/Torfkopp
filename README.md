@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wer für die Katz arbeitet, kommt auf den Hund.
+> Tut Ench Amun, was Nofre täte?
 
 ---
 
