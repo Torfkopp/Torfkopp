@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario drops a table it's bloody but silent.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Lieber oberaffengeil als unterallersau.
+> Ab heute wird nicht mehr getrunken, aber auch nicht weniger.
 
 ---
 
