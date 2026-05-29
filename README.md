@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario drops a table it's bloody but silent.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Hier spraye ich und kann nicht anders.
+> Lieber oberaffengeil als unterallersau.
 
 ---
 
