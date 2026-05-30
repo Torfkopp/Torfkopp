@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario writes code that optimizes itself.
-- Mario can compile syntax errors.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario exits vim by typing "exit"
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
+> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
