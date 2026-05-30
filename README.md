@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Und von wem haben Sie Ihre Meinung?
+> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
 
 ---
 
