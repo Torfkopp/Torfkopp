@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Weird, it always works on Mario's machine.
+- Mario doesn't make http requests. He makes http demands.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
+> Arbeit ist eine lustvolle Variante des Schwachsinns.
 
 ---
 
