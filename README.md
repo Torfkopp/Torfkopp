@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- When Mario drops a table it's bloody but silent.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - When Mario throws an exception it's either across the room or out the window.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Pessimisten finden auch in der Fischsuppe ein Haar.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
