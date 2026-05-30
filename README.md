@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario never has to use the -f option when deleting files.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
+> Billard ist bekannter als Billzdf.
 
 ---
 
