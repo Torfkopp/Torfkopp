@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario develops in prod.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario drops a table it's bloody but silent.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Arbeit ist eine lustvolle Variante des Schwachsinns.
+> Pessimisten finden auch in der Fischsuppe ein Haar.
 
 ---
 
