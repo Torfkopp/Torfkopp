@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Global investieren - lokal ruinieren.
+> Wo viel Lid ist, ist auch viel Schatten.
 
 ---
 
