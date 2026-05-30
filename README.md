@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario exits vim by typing "exit"
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
