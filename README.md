@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- 404 errors simply mean that Mario has been there before you.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Billard ist bekannter als Billzdf.
+> Global investieren - lokal ruinieren.
 
 ---
 
