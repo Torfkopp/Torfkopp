@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
+> Schnauze, sonst Beule.
 
 ---
 
