@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can binary search unsorted data.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can compile syntax errors.
+- When Mario throws exceptions, it's across the room.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Ihr da Ohm, macht doch Watt ihr Volt.
+> Nimm alles, dann brauchst du nichts.
 
 ---
 
