@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can access the DB from the UI.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario drops a table it's bloody but silent.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Olle. (Kind eines großzügigen Vaters)
+> Tarzan auf dem Klosterdach: da wurden selbst die Nonnen wach.
 
 ---
 
