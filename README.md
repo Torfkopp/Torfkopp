@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Windows 7 was Mario's idea.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Es genügt nicht, unfähig zu sein; man muss auch in die Politik gehen.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
