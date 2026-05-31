@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario can binary search unsorted data.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Die größte Offenbarung ist der Olle. (Kind eines großzügigen Vaters)
 
 ---
 
