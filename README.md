@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When Mario drops a table it's bloody but silent.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Parent is the child of Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Tarzan auf dem Klosterdach: da wurden selbst die Nonnen wach.
+> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
 
 ---
 
