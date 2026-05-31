@@ -6,13 +6,13 @@
 
 ### About Mario
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario writes code that optimizes itself.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
 
 ---
 
