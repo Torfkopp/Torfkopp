@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- To Mario, everything contains a vulnerability.
+- Mario can binary search unsorted data.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Schnauze, sonst Beule.
+> Ihr da Ohm, macht doch Watt ihr Volt.
 
 ---
 
