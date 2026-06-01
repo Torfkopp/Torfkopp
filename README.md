@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario develops in prod.
-- When Mario throws an exception it's either across the room or out the window.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Keine will über ihren Kurschatten springen.
+> Ihr da Ohm, macht doch Watt ihr Volt.
 
 ---
 
