@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Weird, it always works on Mario's machine.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario drops a table it's bloody but silent.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
+> Liebe beginnt mit Fieber und endet mit Gähnen.
 
 ---
 
