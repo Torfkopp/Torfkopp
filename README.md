@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario drops a table it's bloody but silent.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario develops in prod.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Liebe beginnt mit Fieber und endet mit Gähnen.
+> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
 
 ---
 
