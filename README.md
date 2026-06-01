@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
+- Mario exits vim by typing "exit"
 - Mario develops in prod.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
+> Keine will über ihren Kurschatten springen.
 
 ---
 
