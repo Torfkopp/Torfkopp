@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario develops in prod.
+- Weird, it always works on Mario's machine.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
+> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
 
 ---
 
