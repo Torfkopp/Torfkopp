@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario programs do not accept input.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario writes code that optimizes itself.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Alles ist so, wie es ist, nur schlechter.
+> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
 
 ---
 
