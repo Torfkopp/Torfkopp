@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario hosting is 105% uptime guaranteed.
+- Mario programs do not accept input.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Ihr da Ohm, macht doch Watt ihr Volt.
+> Alles ist so, wie es ist, nur schlechter.
 
 ---
 
