@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
+> Das Sterben ist nicht so schlimm, aber man fühlt sich am nächsten Tag so kaputt.
 
 ---
 
