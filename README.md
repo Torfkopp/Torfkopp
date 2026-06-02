@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can access the DB from the UI.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can delete the Recycle Bin.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Das Sterben ist nicht so schlimm, aber man fühlt sich am nächsten Tag so kaputt.
+> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
 
 ---
 
