@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
+> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
 
 ---
 
