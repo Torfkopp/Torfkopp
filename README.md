@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Windows 7 was Mario's idea.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
+- Mario hosting is 105% uptime guaranteed.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Ich bin intelligent, schön und gebildet, doch das Beste an mir ist meine Bescheidenheit.
+> Milch trinken ist besser als Quark reden.
 
 ---
 
