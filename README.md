@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario develops in prod.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- To Mario, everything contains a vulnerability.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Es tut NIVEA als beim ersten Mal.
+> Ich bin ein Vampir: wasch dir den Hals!
 
 ---
 
