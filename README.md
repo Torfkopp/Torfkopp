@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - Mario hosting is 105% uptime guaranteed.
-- Mario does not code in cycles, he codes in strikes.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Milch trinken ist besser als Quark reden.
+> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
 
 ---
 
