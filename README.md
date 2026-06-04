@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario hosting is 105% uptime guaranteed.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can compile syntax errors.
+- When Mario throws exceptions, it's across the room.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
+> Wer ATA braucht, ist noch lange nicht bescheuert.
 
 ---
 
