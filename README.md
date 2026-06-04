@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
+- Mario can compile syntax errors.
+- Mario develops in prod.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Raritäten, die in Massen auftreten, sind besonders selten.
+> Es tut NIVEA als beim ersten Mal.
 
 ---
 
