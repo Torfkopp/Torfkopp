@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can store the value 256 in one byte
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Rache ist süß: Jede Süßigkeit rächt sich.
+> Raritäten, die in Massen auftreten, sind besonders selten.
 
 ---
 
