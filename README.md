@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- When Mario throws exceptions, it's across the room.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wer ATA braucht, ist noch lange nicht bescheuert.
+> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
 
 ---
 
