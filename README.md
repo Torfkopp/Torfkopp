@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario CAN divide by 0.
+- Mario doesn't make http requests. He makes http demands.
+- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
+> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
 
 ---
 
