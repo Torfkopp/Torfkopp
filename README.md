@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario CAN divide by 0.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can access the DB from the UI.
+- Mario does not code in cycles, he codes in strikes.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Billard ist bekannter als Billzdf.
+> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
 
 ---
 
