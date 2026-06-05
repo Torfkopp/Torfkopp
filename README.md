@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can store the value 256 in one byte
 - Mario CAN divide by 0.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
+> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
 
 ---
 
