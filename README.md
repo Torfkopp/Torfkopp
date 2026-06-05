@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- To Mario, everything contains a vulnerability.
-- Mario can delete the Recycle Bin.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can store the value 256 in one byte
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Ich bin ein Vampir: wasch dir den Hals!
+> Wenn dein Mercedes plötzlich quakt, Hast Du auf einem Frosch geparkt!
 
 ---
 
