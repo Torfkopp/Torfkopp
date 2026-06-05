@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario writes code that optimizes itself.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario CAN divide by 0.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wo die Frau nicht kocht, da kocht der Mann.
+> Billard ist bekannter als Billzdf.
 
 ---
 
