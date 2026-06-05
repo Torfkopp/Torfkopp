@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario exits vim by typing "exit"
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
+> Die größte Offenbarung ist die Quelle. (Versandabhängige)
 
 ---
 
