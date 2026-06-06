@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can store the value 256 in one byte
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Windows 7 was Mario's idea.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Biste in der EDV, kennt deine Daten jede Sau.
+> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
 
 ---
 
