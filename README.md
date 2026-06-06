@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can delete the Recycle Bin.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can compile syntax errors.
+- Mario CAN divide by 0.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Zu viel Eisbein schadet dem Steißbein.
+> Das Leben gibt's gratis, der Rest ist käuflich.
 
 ---
 
