@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario CAN divide by 0.
-- When Mario point to NULL, Null scares.
+- Weird, it always works on Mario's machine.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Das Leben gibt's gratis, der Rest ist käuflich.
+> Die größte Offenbarung ist die Kelle. (Maurer; Autobahnpolizist)
 
 ---
 
