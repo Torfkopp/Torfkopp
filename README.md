@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Windows 7 was Mario's idea.
-- Mario can binary search unsorted data.
+- When Mario throws exceptions, it's across the room.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Der Verstand ist unser größtes Vermögen, aber Armut schändet nicht.
+> Liegt des Bauern Uhr im Mist, weiß er nicht, wie spät es ist.
 
 ---
 
