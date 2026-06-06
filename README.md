@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can delete the Recycle Bin.
+- Mario can store the value 256 in one byte
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wer den Teufel an die Wand malt, spart die Tapete.
+> Biste in der EDV, kennt deine Daten jede Sau.
 
 ---
 
