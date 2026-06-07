@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario CAN divide by 0.
-- Mario writes code that optimizes itself.
+- Mario can store the value 256 in one byte
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Manche halten zehnmal leichter eine Rede als einmal ihr Wort.
+> Hey Kids, let's kotz.
 
 ---
 
