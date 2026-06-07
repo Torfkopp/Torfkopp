@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario hosting is 105% uptime guaranteed.
-- Mario plugs in USB sticks perfectly the first time every time
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Gülle. (Landwirt)
+> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
 
 ---
 
