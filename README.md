@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Parent is the child of Mario.
+- Mario writes code that optimizes itself.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Kleine Bosheiten erhalten die Feindschaft.
+> Fighting for peace is like fucking for virginity.
 
 ---
 
