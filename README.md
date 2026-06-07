@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- To Mario, everything contains a vulnerability.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Die Luft ist Schein, und der trügt.
+> Kleine Bosheiten erhalten die Feindschaft.
 
 ---
 
