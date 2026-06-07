@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario writes code that optimizes itself.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can write to ROM.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Lieber ein Blatt vorm Mund als ein Brett vorm Kopf.
+> Dem Philosoph ist nichts zu doof.
 
 ---
 
