@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Dem Philosoph ist nichts zu doof.
+> Die Luft ist Schein, und der trügt.
 
 ---
 
