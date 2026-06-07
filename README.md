@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario writes code that optimizes itself.
-- Mario doesn't use web standards as the web will conform to him.
+- To Mario, everything contains a vulnerability.
+- Mario hosting is 105% uptime guaranteed.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer wird denn gleich in den Puff gehen!
+> Die größte Offenbarung ist die Gülle. (Landwirt)
 
 ---
 
