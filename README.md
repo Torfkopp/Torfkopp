@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario CAN divide by 0.
 - Mario writes code that optimizes itself.
-- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Fighting for peace is like fucking for virginity.
+> Manche halten zehnmal leichter eine Rede als einmal ihr Wort.
 
 ---
 
