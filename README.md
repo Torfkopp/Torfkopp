@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario develops in prod.
+- To Mario, everything contains a vulnerability.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Kinder unter fünf Jahren sind mit Klebeband oder Vorhängeschloss zu sichern.
+> Die größte Offenbarung ist die Jolle. (Segler)
 
 ---
 
