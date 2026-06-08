@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- To Mario, everything contains a vulnerability.
-- 404 errors simply mean that Mario has been there before you.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never has to use the -f option when deleting files.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Jolle. (Segler)
+> Löwenmaul und Leumund haben nur wenig gemeinsam.
 
 ---
 
