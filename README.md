@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can write to ROM.
+- Mario can access the DB from the UI.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Hey Kids, let's kotz.
+> Kinder unter fünf Jahren sind mit Klebeband oder Vorhängeschloss zu sichern.
 
 ---
 
