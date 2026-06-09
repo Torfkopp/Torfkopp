@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't make http requests. He makes http demands.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lieber fünf vor zwölf als keine nach eins.
+> Der direkteste Weg der Listigen ist die Schlangenlinie.
 
 ---
 
