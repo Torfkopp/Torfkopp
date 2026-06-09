@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario never has to use the -f option when deleting files.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario CAN divide by 0.
+- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Ich bin klein, mein Herz ist schmutzig, ist das nicht putzig?
+> Irgendwann begegnet man dem Whisky seines Lebens.
 
 ---
 
