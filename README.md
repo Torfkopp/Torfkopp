@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't make http requests. He makes http demands.
+- Windows 7 was Mario's idea.
+- Weird, it always works on Mario's machine.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
+> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
 
 ---
 
