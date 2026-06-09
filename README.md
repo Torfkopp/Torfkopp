@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Windows 7 was Mario's idea.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Irgendwann begegnet man dem Whisky seines Lebens.
+> Lieber fünf vor zwölf als keine nach eins.
 
 ---
 
