@@ -6,13 +6,13 @@
 
 ### About Mario
 - Windows 7 was Mario's idea.
-- Weird, it always works on Mario's machine.
-- Mario can access the DB from the UI.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer hier kein Schwein ist, wird bald zur Sau gemacht.
+> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
 
 ---
 
