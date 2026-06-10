@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
+> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
 
 ---
 
