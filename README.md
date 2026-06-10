@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
+> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
 
 ---
 
