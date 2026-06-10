@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario writes code that optimizes itself.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
+> Wer den Pfennig nicht ehrt, hat Gold im Mund.
 
 ---
 
