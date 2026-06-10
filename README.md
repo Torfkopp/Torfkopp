@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario writes code that optimizes itself.
-- Mario can access the DB from the UI.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer den Pfennig nicht ehrt, hat Gold im Mund.
+> Bei diesem Neeklischee und Parföng ward's dem Alten zu eng.
 
 ---
 
