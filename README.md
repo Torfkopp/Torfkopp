@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Der direkteste Weg der Listigen ist die Schlangenlinie.
+> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
 
 ---
 
