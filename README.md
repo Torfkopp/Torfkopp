@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can store the value 256 in one byte
+- When Mario throws exceptions, it's across the room.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Bei diesem Neeklischee und Parföng ward's dem Alten zu eng.
+> Die größte Offenbarung ist die Rolle. (Starlet)
 
 ---
 
