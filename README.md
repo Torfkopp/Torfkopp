@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario CAN divide by 0.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Rote Lippen sind erotisch, blaue leider nicht eblautisch.
+> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
 
 ---
 
