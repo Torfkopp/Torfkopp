@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can write to ROM.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Arbeit ist süß, aber sauer macht lustig.
+> Lieber 'n Glas Dortmunder als 'ne Wanne Eickel.
 
 ---
 
