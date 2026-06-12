@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can't test for equality because he has no equal.
-- Mario writes code that optimizes itself.
+- 404 errors simply mean that Mario has been there before you.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
+> Arbeit ist süß, aber sauer macht lustig.
 
 ---
 
