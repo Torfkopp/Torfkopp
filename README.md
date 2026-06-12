@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can write to ROM.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber 'n Glas Dortmunder als 'ne Wanne Eickel.
+> Rote Lippen sind erotisch, blaue leider nicht eblautisch.
 
 ---
 
