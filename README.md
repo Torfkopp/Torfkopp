@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can write to ROM.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can compile syntax errors.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Und draußen in dem dunklen Forst erwacht die Gans im Adlerhorst. Sie sieht sich um und spricht betroffen: "Mein lieber Schwan, war ich besoffen!"
+> Abgeordnete sind immer zu tausend Spesen aufgelegt.
 
 ---
 
