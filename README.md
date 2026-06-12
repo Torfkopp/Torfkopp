@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can compile syntax errors.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- To Mario, everything contains a vulnerability.
+- Mario can't test for equality because he has no equal.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Abgeordnete sind immer zu tausend Spesen aufgelegt.
+> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
 
 ---
 
