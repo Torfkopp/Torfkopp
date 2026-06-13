@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Windows 7 was Mario's idea.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 - Mario develops in prod.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
+> Denen habe ich's gegeben, sagte der Steuerzahler, als er das Finanzamt verließ.
 
 ---
 
