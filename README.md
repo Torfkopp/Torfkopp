@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can delete the Recycle Bin.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can binary search unsorted data.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Rückgrat bitte beim Chef abgeben.
+> Ein Masochist, der zurückhaut, ist pervers.
 
 ---
 
