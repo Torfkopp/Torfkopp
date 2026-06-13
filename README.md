@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can delete the Recycle Bin.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Rückgrat bitte beim Chef abgeben.
 
 ---
 
