@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Weird, it always works on Mario's machine.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
+> Rache ist süß: Jede Süßigkeit rächt sich.
 
 ---
 
