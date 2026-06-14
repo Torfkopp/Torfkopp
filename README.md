@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can't test for equality because he has no equal.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Je tiefer das Loch, desto plumps.
+> Ein Gehirn wäscht das andere.
 
 ---
 
