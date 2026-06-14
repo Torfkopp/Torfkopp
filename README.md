@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario exits vim by typing "exit"
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Alle wollen zurück zur Natur; aber keiner zu Fuß.
+> Jedes Pro und Contra hat sein Für und Wider.
 
 ---
 
