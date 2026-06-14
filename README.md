@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- 404 errors simply mean that Mario has been there before you.
-- When Mario point to NULL, Null scares.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can't test for equality because he has no equal.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
+> Je tiefer das Loch, desto plumps.
 
 ---
 
