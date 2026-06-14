@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
+> Alle wollen zurück zur Natur; aber keiner zu Fuß.
 
 ---
 
