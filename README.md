@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario plugs in USB sticks perfectly the first time every time
+- Weird, it always works on Mario's machine.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Jedes Pro und Contra hat sein Für und Wider.
+> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
 
 ---
 
