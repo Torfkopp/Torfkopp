@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can delete the Recycle Bin.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Ein Gehirn wäscht das andere.
+> Jedem Analphabeten sein Diktiergerät!
 
 ---
 
