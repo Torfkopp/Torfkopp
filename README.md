@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Windows 7 was Mario's idea.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- When Mario drops a table it's bloody but silent.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
+> Je größer das Konfekt, desto größer die Konfektion.
 
 ---
 
