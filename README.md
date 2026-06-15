@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- When Mario drops a table it's bloody but silent.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- To Mario, everything contains a vulnerability.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Je größer das Konfekt, desto größer die Konfektion.
+> Ich bin tolerant; wem das nicht passt, dem hau ich eine.
 
 ---
 
