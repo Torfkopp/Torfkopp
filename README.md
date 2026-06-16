@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can't test for equality because he has no equal.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario does not code in cycles, he codes in strikes.
+- Mario CAN divide by 0.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Arbeitskraft? Nein danke.
+> Wenn man den Garten düngen möchte, dann genügt es nicht, durch den Zaun zu furzen.
 
 ---
 
