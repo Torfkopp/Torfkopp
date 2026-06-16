@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario CAN divide by 0.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wenn man den Garten düngen möchte, dann genügt es nicht, durch den Zaun zu furzen.
+> Alle Menschen werden [noch!] als Original geboren, die meisten sterben als Kopie.
 
 ---
 
