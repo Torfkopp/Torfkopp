@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can write to ROM.
+- Mario can access the DB from the UI.
+- Mario uses /dev/null as STDIN.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Ich bin tolerant; wem das nicht passt, dem hau ich eine.
+> Zum Leben muss man geboren sein.
 
 ---
 
