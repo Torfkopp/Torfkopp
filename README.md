@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can compile syntax errors.
+- Mario can't test for equality because he has no equal.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
+> Arbeitskraft? Nein danke.
 
 ---
 
