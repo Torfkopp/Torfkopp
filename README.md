@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario uses /dev/null as STDIN.
-- 404 errors simply mean that Mario has been there before you.
+- Mario never has to use the -f option when deleting files.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Zum Leben muss man geboren sein.
+> Zeige mir Deine Krawatte und ich sage Dir, was Du gegessen hast.
 
 ---
 
