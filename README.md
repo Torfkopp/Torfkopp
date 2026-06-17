@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
+> Gut Kind will Keile haben. (nach M. Luther)
 
 ---
 
