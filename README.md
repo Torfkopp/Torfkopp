@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario writes code that optimizes itself.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Die Axt im Haus ist die Mutter der Porzellankiste.
+> Die größte Offenbarung ist die Galle. (G. Stein)
 
 ---
 
