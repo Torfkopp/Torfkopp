@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Den Blick in die Welt kann eine Zeitung versperren.
+> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
 
 ---
 
