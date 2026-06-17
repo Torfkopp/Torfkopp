@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario never has to use the -f option when deleting files.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Gut Kind will Keile haben. (nach M. Luther)
+> Die Axt im Haus ist die Mutter der Porzellankiste.
 
 ---
 
