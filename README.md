@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario point to NULL, Null scares.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Galle. (G. Stein)
+> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
 
 ---
 
