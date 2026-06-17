@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Alle Menschen werden [noch!] als Original geboren, die meisten sterben als Kopie.
+> Den Blick in die Welt kann eine Zeitung versperren.
 
 ---
 
