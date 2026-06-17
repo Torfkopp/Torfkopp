@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
+> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
 
 ---
 
