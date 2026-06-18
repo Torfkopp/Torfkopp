@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can't test for equality because he has no equal.
+- When Mario throws an exception it's either across the room or out the window.
+- Parent is the child of Mario.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Er war Mathematiker, sie war unberechenbar.
+> Die größte Offenbarung ist die Quelle. (Versandabhängige)
 
 ---
 
