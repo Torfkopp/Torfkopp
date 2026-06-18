@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can delete the Recycle Bin.
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
 
 ---
 
