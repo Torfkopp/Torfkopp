@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Windows 7 was Mario's idea.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
+> Er war Mathematiker, sie war unberechenbar.
 
 ---
 
