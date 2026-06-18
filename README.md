@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Parent is the child of Mario.
-- Mario exits vim by typing "exit"
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Quelle. (Versandabhängige)
+> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
 
 ---
 
