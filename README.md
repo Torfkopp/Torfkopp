@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can store the value 256 in one byte
+- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
+> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
 
 ---
 
