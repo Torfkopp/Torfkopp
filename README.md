@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
 - Parent is the child of Mario.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Freiheit für Grönland! Nieder mit dem Packeis!
+> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
 
 ---
 
