@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- 404 errors simply mean that Mario has been there before you.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario develops in prod.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Rauche jetzt, zahle später.
+> Frisch verzagt ist halb verzweifelt.
 
 ---
 
