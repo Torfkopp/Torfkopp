@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario throws exceptions, it's across the room.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
+> Auch Fliegen werfen Schatten.
 
 ---
 
