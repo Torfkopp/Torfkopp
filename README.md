@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario develops in prod.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Frisch verzagt ist halb verzweifelt.
+> Liebe deinen Nächsten wie dein Auto.
 
 ---
 
