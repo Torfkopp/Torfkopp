@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario writes code that optimizes itself.
+- Mario does not code in cycles, he codes in strikes.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Liebe deinen Nächsten wie dein Auto.
+> Der Herr zum Knecht: "Heut geht's mir schlecht!" Der Knecht zum Herrn: "Das hört man gern!"
 
 ---
 
