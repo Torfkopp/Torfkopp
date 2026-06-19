@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario drops a table it's bloody but silent.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Der Herr zum Knecht: "Heut geht's mir schlecht!" Der Knecht zum Herrn: "Das hört man gern!"
+> Freiheit für Grönland! Nieder mit dem Packeis!
 
 ---
 
