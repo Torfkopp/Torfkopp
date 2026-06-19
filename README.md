@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't make http requests. He makes http demands.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario does not code in cycles, he codes in strikes.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Auch Fliegen werfen Schatten.
+> Rauche jetzt, zahle später.
 
 ---
 
