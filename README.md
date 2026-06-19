@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can write to ROM.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario develops in prod.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
+> Dem Philosoph ist nichts zu doof.
 
 ---
 
