@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't use web standards as the web will conform to him.
-- Mario uses /dev/null as STDIN.
+- Mario can write to ROM.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pulle. (H. Juhnke)
+> Ich summe, also bien ich.
 
 ---
 
