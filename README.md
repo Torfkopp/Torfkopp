@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario develops in prod.
-- Mario writes code that optimizes itself.
+- Mario can write to ROM.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Dem Philosoph ist nichts zu doof.
+> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
 
 ---
 
