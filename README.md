@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws an exception it's either across the room or out the window.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer heute den Kopf in den Sand steckt, knirscht morgen mit den Zähnen.
+> Wo nix läuft, läuft der Fernseher [oder: Computer].
 
 ---
 
