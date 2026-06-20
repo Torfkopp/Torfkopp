@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario throws exceptions, it's across the room.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Auch Dornröschen trug kein Höschen.
+> Wer heute den Kopf in den Sand steckt, knirscht morgen mit den Zähnen.
 
 ---
 
