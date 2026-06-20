@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can delete the Recycle Bin.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
+> Hinten sind die Schweine fett.
 
 ---
 
