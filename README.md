@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario can binary search unsorted data.
-- Mario can delete the Recycle Bin.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Krieg ist, wenn es trotzdem kracht.
+> Die größte Offenbarung ist die Hölle. (Luzifer)
 
 ---
 
