@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario develops in prod.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber Null Bock als keine Ziege.
+> Ich verspreche nichts; und das halte ich auch.
 
 ---
 
