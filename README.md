@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can compile syntax errors.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hölle. (Luzifer)
+> Lieber Null Bock als keine Ziege.
 
 ---
 
