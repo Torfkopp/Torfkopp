@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can store the value 256 in one byte
-- Mario develops in prod.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can compile syntax errors.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wenn man auch überall aneckt, geht's noch lange nicht rund.
+> Die größte Offenbarung ist die Delle. (Kfz-Reparaturwerkstatt)
 
 ---
 
