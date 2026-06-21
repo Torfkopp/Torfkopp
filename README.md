@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can compile syntax errors.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario exits vim by typing "exit"
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Delle. (Kfz-Reparaturwerkstatt)
+> Weil die Klugen nachgeben, regieren Deppen die Welt.
 
 ---
 
