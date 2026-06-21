@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Weird, it always works on Mario's machine.
+- Mario exits vim by typing "exit"
+- Mario can binary search unsorted data.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Ich summe, also bien ich.
+> Krieg ist, wenn es trotzdem kracht.
 
 ---
 
