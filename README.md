@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber Hochstapler als Tiefflieger.
+> Wenn man auch überall aneckt, geht's noch lange nicht rund.
 
 ---
 
