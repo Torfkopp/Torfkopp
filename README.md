@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario exits vim by typing "exit"
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Weil die Klugen nachgeben, regieren Deppen die Welt.
+> Schnauze, sonst Beule.
 
 ---
 
