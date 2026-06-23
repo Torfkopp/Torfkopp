@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Ich denke, also spinn ich.
+> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
 
 ---
 
