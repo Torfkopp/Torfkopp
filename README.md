@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario exits vim by typing "exit"
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario CAN divide by 0.
+- Mario never has to use the -f option when deleting files.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Was Krupp in Essen sind wir im Trinken.
+> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
 
 ---
 
