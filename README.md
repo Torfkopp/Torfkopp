@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario develops in prod.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
+> Es wird nicht alles so heiß gegessen wie man sich fühlt.
 
 ---
 
