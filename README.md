@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario exits vim by typing "exit"
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
