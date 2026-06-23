@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Rauche jetzt, zahle später.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
