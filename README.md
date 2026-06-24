@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> LABELLO, und kein Kuss quietscht mehr.
+> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
 
 ---
 
