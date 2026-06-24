@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario drops a table it's bloody but silent.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- 404 errors simply mean that Mario has been there before you.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Frech gesagt ist halb gefeuert.
+> Lieber hoch zu Ross als unter aller Sau.
 
 ---
 
