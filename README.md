@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- 404 errors simply mean that Mario has been there before you.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Lieber hoch zu Ross als unter aller Sau.
+> LABELLO, und kein Kuss quietscht mehr.
 
 ---
 
