@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario programs do not accept input.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
+> Nirwana ist nirgendwo, Banana ist überall.
 
 ---
 
