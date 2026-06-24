@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario develops in prod.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- To Mario, everything contains a vulnerability.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Es wird nicht alles so heiß gegessen wie man sich fühlt.
+> Frech gesagt ist halb gefeuert.
 
 ---
 
