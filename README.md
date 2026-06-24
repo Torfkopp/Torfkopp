@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can store the value 256 in one byte
+- Mario never has to use the -f option when deleting files.
+- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Hände hoch! Ich bin Achselfetischist
+> Ein voller Kopf studiert nicht gern.
 
 ---
 
