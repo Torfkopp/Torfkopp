@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't use web standards as the web will conform to him.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
+> Hände hoch! Ich bin Achselfetischist
 
 ---
 
