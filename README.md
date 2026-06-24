@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario programs do not accept input.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Nirwana ist nirgendwo, Banana ist überall.
+> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
 
 ---
 
