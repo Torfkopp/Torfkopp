@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario point to NULL, Null scares.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Ich sage, was ich denke, damit ich höre, was ich weiß.
+> Billard ist bekannter als Billzdf.
 
 ---
 
