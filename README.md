@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can delete the Recycle Bin.
-- Mario can write to ROM.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
+> Lieber hoch zu Ross als unter aller Sau.
 
 ---
 
