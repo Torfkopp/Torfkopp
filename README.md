@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Parent is the child of Mario.
+- Mario does not code in cycles, he codes in strikes.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber hoch zu Ross als unter aller Sau.
+> Ich verspreche nichts; und das halte ich auch.
 
 ---
 
