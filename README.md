@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario programs do not accept input.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Ein voller Kopf studiert nicht gern.
+> Ich sage, was ich denke, damit ich höre, was ich weiß.
 
 ---
 
