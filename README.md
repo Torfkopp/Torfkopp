@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws exceptions, it's across the room.
 - Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
+> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
 
 ---
 
