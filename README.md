@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can't test for equality because he has no equal.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can delete the Recycle Bin.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Billard ist bekannter als Billzdf.
+> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
 
 ---
 
