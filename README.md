@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario writes code that optimizes itself.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- 404 errors simply mean that Mario has been there before you.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Nicht jeder Mann, der raucht, ist ein Vulkan.
+> Schutzhaft für alle, dann gibt's keine Krawalle.
 
 ---
 
