@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario programs do not accept input.
 - The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario throws exceptions, it's across the room.
-- Mario exits vim by typing "exit"
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
+> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
 
 ---
 
