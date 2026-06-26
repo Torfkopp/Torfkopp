@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario does not code in cycles, he codes in strikes.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't make http requests. He makes http demands.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Alter schützt nicht vor Torheit, aber Dummheit vor Intelligenz.
+> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
 
 ---
 
