@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Gib mir Deinen Ausweis, und ich sage Dir, wer Du bist.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
