@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't make http requests. He makes http demands.
-- Parent is the child of Mario.
+- Mario can't test for equality because he has no equal.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
+> Auch ein Spaßvogel kann es so weit treiben, dass er fliegt.
 
 ---
 
