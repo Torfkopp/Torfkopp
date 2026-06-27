@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario point to NULL, Null scares.
+- Mario can store the value 256 in one byte
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
+> Was nicht allzu teuer ist, das können wir erlösen.
 
 ---
 
