@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario exits vim by typing "exit"
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario drops a table it's bloody but silent.
+- Parent is the child of Mario.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Zum Leben muss man geboren sein.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
