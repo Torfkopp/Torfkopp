@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can access the DB from the UI.
-- Mario never has to use the -f option when deleting files.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario exits vim by typing "exit"
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
+> Zum Leben muss man geboren sein.
 
 ---
 
