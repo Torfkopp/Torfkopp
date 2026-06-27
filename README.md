@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario exits vim by typing "exit"
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Was nicht allzu teuer ist, das können wir erlösen.
+> Alles schreitet fort, nur der Fortschritt nicht.
 
 ---
 
