@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario does not code in cycles, he codes in strikes.
+- Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Schutzhaft für alle, dann gibt's keine Krawalle.
+> Ich sage, was ich denke, damit ich höre, was ich weiß.
 
 ---
 
