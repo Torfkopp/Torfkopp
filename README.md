@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario CAN divide by 0.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Parent is the child of Mario.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
+> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
 
 ---
 
