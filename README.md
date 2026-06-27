@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Ich sage, was ich denke, damit ich höre, was ich weiß.
+> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
 
 ---
 
