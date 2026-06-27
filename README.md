@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario exits vim by typing "exit"
-- Mario can binary search unsorted data.
+- When Mario point to NULL, Null scares.
+- Mario can access the DB from the UI.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Alles schreitet fort, nur der Fortschritt nicht.
+> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
 
 ---
 
