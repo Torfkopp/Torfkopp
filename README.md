@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Parent is the child of Mario.
-- Mario can binary search unsorted data.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
+> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
 
 ---
 
