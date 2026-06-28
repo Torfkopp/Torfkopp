@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario plugs in USB sticks perfectly the first time every time
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
+> Hände hoch! Ich bin Achselfetischist
 
 ---
 
