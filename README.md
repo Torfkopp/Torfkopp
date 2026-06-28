@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario plugs in USB sticks perfectly the first time every time
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Er war Mathematiker, sie war unberechenbar.
+> Es gibt nur zwei Menschen, denen ich vertraue. Der eine bin ich und der andere sind nicht Sie!
 
 ---
 
