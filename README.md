@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Weird, it always works on Mario's machine.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - When Mario throws an exception it's either across the room or out the window.
-- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Hände hoch! Ich bin Achselfetischist
+> Erfahrung ist die Summe der Dummheiten, die man im Bedarfsfall wieder anwendet.
 
 ---
 
