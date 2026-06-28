@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Parent is the child of Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
