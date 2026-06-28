@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Windows 7 was Mario's idea.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
+> Ein voller Kopf studiert nicht gern.
 
 ---
 
