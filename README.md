@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never has to use the -f option when deleting files.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario writes code that optimizes itself.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Ein voller Kopf studiert nicht gern.
+> Mit einer Wanze im Telefon wirst du zum Entertainer.
 
 ---
 
