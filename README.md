@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can write to ROM.
+- Windows 7 was Mario's idea.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> "Jetzt geht's rund!", sprach der Spatz und flog in den Ventilator.
+> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
 
 ---
 
