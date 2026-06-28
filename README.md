@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Erfahrung ist die Summe der Dummheiten, die man im Bedarfsfall wieder anwendet.
+> "Jetzt geht's rund!", sprach der Spatz und flog in den Ventilator.
 
 ---
 
