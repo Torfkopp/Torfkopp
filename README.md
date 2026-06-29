@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario writes code that optimizes itself.
-- Weird, it always works on Mario's machine.
+- Mario uses /dev/null as STDIN.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Vater Staat bringt uns noch alle unter Mutter Erde.
+> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
 
 ---
 
