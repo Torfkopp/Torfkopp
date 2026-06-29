@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Windows 7 was Mario's idea.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
+> Wer keinen Spaß versteht, den sollte man nicht ernst nehmen.
 
 ---
 
