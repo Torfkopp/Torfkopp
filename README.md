@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario plugs in USB sticks perfectly the first time every time
+- Weird, it always works on Mario's machine.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
+> Jetzt gehen wir der Sache auf den Grund, sprach der Bauer und sprang in die Jauchegrube.
 
 ---
 
