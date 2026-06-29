@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario writes code that optimizes itself.
 - Weird, it always works on Mario's machine.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Jetzt gehen wir der Sache auf den Grund, sprach der Bauer und sprang in die Jauchegrube.
+> Vater Staat bringt uns noch alle unter Mutter Erde.
 
 ---
 
