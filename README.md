@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario hosting is 105% uptime guaranteed.
-- Mario CAN divide by 0.
+- Mario can store the value 256 in one byte
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Die größte Offenbarung ist die Fülle. (P. P. Rubens)
 
 ---
 
