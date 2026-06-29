@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
+> Friert's im Dezember Stein und Bein, dann könnte das der Winter sein.
 
 ---
 
