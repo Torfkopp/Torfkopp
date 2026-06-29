@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario writes code that optimizes itself.
 - Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Mit einer Wanze im Telefon wirst du zum Entertainer.
+> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
 
 ---
 
