@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't use web standards as the web will conform to him.
+- Windows 7 was Mario's idea.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Der Opi der nahm Opium; bums, da fiel der Opi um.
+> Da da da - du hast die Gicht, ich hab sie nicht.
 
 ---
 
