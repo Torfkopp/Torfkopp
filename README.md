@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can store the value 256 in one byte
+- Mario CAN divide by 0.
+- Mario programs do not accept input.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Wer keinen Spaß versteht, den sollte man nicht ernst nehmen.
+> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
 
 ---
 
