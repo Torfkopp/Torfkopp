@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Windows 7 was Mario's idea.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Da da da - du hast die Gicht, ich hab sie nicht.
+> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
 
 ---
 
