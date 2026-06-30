@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario programs do not accept input.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario does not code in cycles, he codes in strikes.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
+> Lieber Null Bock als keine Ziege.
 
 ---
 
