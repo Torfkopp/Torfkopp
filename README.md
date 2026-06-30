@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario hosting is 105% uptime guaranteed.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
+> Die Basis des Fundamentalen ist das Grundlegende.
 
 ---
 
