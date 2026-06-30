@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario does not code in cycles, he codes in strikes.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario hosting is 105% uptime guaranteed.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Null Bock als keine Ziege.
+> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
 
 ---
 
