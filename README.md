@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can compile syntax errors.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Es wird nicht alles so heiß gegessen wie man sich fühlt.
+> Stille Nacht, heilige Nacht, schmeißt Bomben und Raketen, bis es kracht.
 
 ---
 
