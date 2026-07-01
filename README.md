@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario develops in prod.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Selig, wer nichts zu sagen hat und doch schweigt.
+> Es gibt Menschen, die nur in aufgeblasenem Zustand sichtbar werden.
 
 ---
 
