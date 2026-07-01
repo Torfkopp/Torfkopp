@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
+> Das höchste Glück der Pferde ist der Reiter auf der Erde.
 
 ---
 
