@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario develops in prod.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Gib immer 100 % - außer beim Blutspenden.
+> Selig, wer nichts zu sagen hat und doch schweigt.
 
 ---
 
