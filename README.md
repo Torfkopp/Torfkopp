@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario can access the DB from the UI.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Das höchste Glück der Pferde ist der Reiter auf der Erde.
+> Es wird nicht alles so heiß gegessen wie man sich fühlt.
 
 ---
 
