@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - Mario programs occupy 150% of CPU, even when they are not executing.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht, schmeißt Bomben und Raketen, bis es kracht.
+> Gib immer 100 % - außer beim Blutspenden.
 
 ---
 
