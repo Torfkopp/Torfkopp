@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can compile syntax errors.
-- Mario can write to ROM.
+- To Mario, everything contains a vulnerability.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
+> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
 
 ---
 
