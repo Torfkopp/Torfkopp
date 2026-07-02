@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario uses /dev/null as STDIN.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
+> Frech gesagt ist halb gefeuert.
 
 ---
 
