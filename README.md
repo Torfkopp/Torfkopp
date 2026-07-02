@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario CAN divide by 0.
+- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Frech gesagt ist halb gefeuert.
+> Liebe ist mir zu philosophisch; ich bleibe lieber beim Bier.
 
 ---
 
