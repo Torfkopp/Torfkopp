@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wenn der Bauer schneller rennt, hinter ihm der CASTOR brennt.
+> Treib Sport, oder du bleibst gesund.
 
 ---
 
