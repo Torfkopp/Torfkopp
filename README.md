@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Treib Sport, oder du bleibst gesund.
+> Wer den Teufel an die Wand malt, spart die Tapete.
 
 ---
 
