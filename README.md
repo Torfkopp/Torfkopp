@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario hosting is 105% uptime guaranteed.
-- Mario can delete the Recycle Bin.
+- Mario can binary search unsorted data.
+- Mario can compile syntax errors.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Der Vater rülpst, die Kinder lachen: so ist billig Freude machen.
+> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
 
 ---
 
