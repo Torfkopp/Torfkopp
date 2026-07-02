@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario programs do not accept input.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Liebe deinen Nächsten, aber lass dich nicht erwischen.
+> Wenn der Bauer schneller rennt, hinter ihm der CASTOR brennt.
 
 ---
 
