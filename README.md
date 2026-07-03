@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- 404 errors simply mean that Mario has been there before you.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
+> Wenn man gut sitzt, braucht man keinen Standpunkt.
 
 ---
 
