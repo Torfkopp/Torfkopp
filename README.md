@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Haben Sie keine Angst vor Fachbüchern. Ungelesen sind sie alle harmlos.
+> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
 
 ---
 
