@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- To Mario, everything contains a vulnerability.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Nichts ist wahr in der Seemannsbar.
+> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
 
 ---
 
