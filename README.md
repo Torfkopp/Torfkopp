@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario hosting is 105% uptime guaranteed.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never has to use the -f option when deleting files.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wenn man gut sitzt, braucht man keinen Standpunkt.
+> Lieber eine Flinte im Korn als Waffen im Weltraum.
 
 ---
 
