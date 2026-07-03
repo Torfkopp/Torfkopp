@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never has to use the -f option when deleting files.
-- When Mario throws exceptions, it's across the room.
+- Mario does not code in cycles, he codes in strikes.
+- To Mario, everything contains a vulnerability.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flinte im Korn als Waffen im Weltraum.
+> Der Mond ist nicht nur kleiner als die Erde, sondern auch weiter von ihr entfernt.
 
 ---
 
