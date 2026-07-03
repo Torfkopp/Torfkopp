@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- To Mario, everything contains a vulnerability.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can delete the Recycle Bin.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
+> Hunde, die schielen, beißen daneben.
 
 ---
 
