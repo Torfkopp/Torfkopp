@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can't test for equality because he has no equal.
 - To Mario, everything contains a vulnerability.
-- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Der Mond ist nicht nur kleiner als die Erde, sondern auch weiter von ihr entfernt.
+> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
 
 ---
 
