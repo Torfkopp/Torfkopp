@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Vater Staat bringt uns noch alle unter Mutter Erde.
+> In mir schlummert ein Genie, nur wird das Biest nicht wach.
 
 ---
 
