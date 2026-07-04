@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario can store the value 256 in one byte
-- Mario CAN divide by 0.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario writes code that optimizes itself.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Besser Sex für Geld als kein Sex und kein Geld.
+> Die Entfernung zwischen Brett und Kopf nennt man Horizont.
 
 ---
 
