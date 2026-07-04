@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can access the DB from the UI.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario programs do not accept input.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Alle angenehmen Dinge sind entweder unmoralisch, illegal oder machen dick.
+> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
 
 ---
 
