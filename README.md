@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Fährt man rückwärts an den Baum, verkleinert sich der Kofferraum.
+> Vater Staat bringt uns noch alle unter Mutter Erde.
 
 ---
 
