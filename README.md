@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario programs do not accept input.
-- Mario CAN divide by 0.
+- Mario can delete the Recycle Bin.
+- Mario can't test for equality because he has no equal.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
+> Wenn der Kuchen spricht, schweigt der Krümel.
 
 ---
 
