@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can't test for equality because he has no equal.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can store the value 256 in one byte
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wenn der Kuchen spricht, schweigt der Krümel.
+> Besser Sex für Geld als kein Sex und kein Geld.
 
 ---
 
