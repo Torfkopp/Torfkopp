@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
+> Lieber eine Flasche Bier als ne Wanne Eickel.
 
 ---
 
