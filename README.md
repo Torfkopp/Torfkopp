@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Parent is the child of Mario.
-- When Mario drops a table it's bloody but silent.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Rauche jetzt, zahle später.
+> Auch die Stimme des Gewissens hat mal Stimmbruch.
 
 ---
 
