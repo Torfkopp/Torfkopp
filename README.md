@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario throws exceptions, it's across the room.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flasche Bier als ne Wanne Eickel.
+> Nimm alles, dann brauchst du nichts.
 
 ---
 
