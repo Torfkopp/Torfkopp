@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Parent is the child of Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> In mir schlummert ein Genie, nur wird das Biest nicht wach.
+> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
 
 ---
 
