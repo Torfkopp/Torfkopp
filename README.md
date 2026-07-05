@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- When Mario point to NULL, Null scares.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Abgeordnete sind immer zu tausend Spesen aufgelegt.
+> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
 
 ---
 
