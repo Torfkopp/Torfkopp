@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
+> Rauche jetzt, zahle später.
 
 ---
 
