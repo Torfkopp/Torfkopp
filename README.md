@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
+> Wir wollen endlich alle Kanzler werden!
 
 ---
 
