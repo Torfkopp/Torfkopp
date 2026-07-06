@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can't test for equality because he has no equal.
+- When Mario point to NULL, Null scares.
+- Mario can delete the Recycle Bin.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Karneval ist Nonsens in Rheinkultur.
+> Steter Tropfen leert das Hirn.
 
 ---
 
