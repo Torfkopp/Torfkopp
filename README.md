@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Gefährlich wird es, wenn die Dummen fleißig werden.
+> Karneval ist Nonsens in Rheinkultur.
 
 ---
 
