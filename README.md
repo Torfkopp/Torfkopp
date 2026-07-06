@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can delete the Recycle Bin.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario can store the value 256 in one byte
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen leert das Hirn.
+> Dem Philosoph ist nichts zu doof.
 
 ---
 
