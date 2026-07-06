@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario can't test for equality because he has no equal.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
+> Gefährlich wird es, wenn die Dummen fleißig werden.
 
 ---
 
