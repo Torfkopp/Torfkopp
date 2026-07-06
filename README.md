@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Nimm alles, dann brauchst du nichts.
+> Liebe ist Elektrizität; in der Ehe kommt die Stromrechnung.
 
 ---
 
