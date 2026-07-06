@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can write to ROM.
+- Mario can't test for equality because he has no equal.
 - Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Liebe ist Elektrizität; in der Ehe kommt die Stromrechnung.
+> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
 
 ---
 
