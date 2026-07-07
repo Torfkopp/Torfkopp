@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario does not code in cycles, he codes in strikes.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario CAN divide by 0.
+- Mario develops in prod.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Rauche jetzt, zahle später.
+> Man soll die Gäste feuern, wie sie fallen.
 
 ---
 
