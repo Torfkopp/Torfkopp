@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can't test for equality because he has no equal.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can write to ROM.
+- Mario does not code in cycles, he codes in strikes.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Gepflegter Bart küsst weich und zart.
 
 ---
 
