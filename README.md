@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario does not code in cycles, he codes in strikes.
-- Mario develops in prod.
+- When Mario point to NULL, Null scares.
+- Parent is the child of Mario.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Gepflegter Bart küsst weich und zart.
+> Schule macht Angst, Angst macht Schule.
 
 ---
 
