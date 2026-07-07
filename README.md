@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Windows 7 was Mario's idea.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Parent is the child of Mario.
+- Mario does not code in cycles, he codes in strikes.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
+> Rauche jetzt, zahle später.
 
 ---
 
