@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Parent is the child of Mario.
-- Mario can binary search unsorted data.
+- Mario uses /dev/null as STDIN.
+- When Mario drops a table it's bloody but silent.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Schule macht Angst, Angst macht Schule.
+> Freiheit für Grönland! Nieder mit dem Packeis!
 
 ---
 
