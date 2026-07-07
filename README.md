@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- To Mario, everything contains a vulnerability.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can't test for equality because he has no equal.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
+> Auch stille Wasser sind nass.
 
 ---
 
