@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario develops in prod.
-- Mario can binary search unsorted data.
+- Mario never has to use the -f option when deleting files.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Man soll die Gäste feuern, wie sie fallen.
+> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
 
 ---
 
