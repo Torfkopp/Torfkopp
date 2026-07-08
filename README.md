@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario writes code that optimizes itself.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Kein Geld in der Tasche? Die öffentliche Hand ist dir zuvorgekommen.
+> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
 
 ---
 
