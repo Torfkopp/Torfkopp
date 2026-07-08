@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When Mario drops a table it's bloody but silent.
-- Mario programs do not accept input.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never has to use the -f option when deleting files.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Freiheit für Grönland! Nieder mit dem Packeis!
+> Rote Haare, Sommersprossen sind die besten Bettgenossen.
 
 ---
 
