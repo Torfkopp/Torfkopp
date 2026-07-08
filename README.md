@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- When Mario throws exceptions, it's across the room.
-- Mario can write to ROM.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Ein blindes Huhn findet auch mal eine lahme Ente.
+> Wenn die Erde schreien könnte, wären wir alle taub.
 
 ---
 
