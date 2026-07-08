@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Weird, it always works on Mario's machine.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario can write to ROM.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer wöchentlich nur einmal kann und möchte gerne täglich, der wende sich an Neckermann, denn Neckermann machts möglich.
+> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
 
 ---
 
