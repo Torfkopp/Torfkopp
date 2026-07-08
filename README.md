@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Weird, it always works on Mario's machine.
+- To Mario, everything contains a vulnerability.
 - Mario can write to ROM.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
+> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
 
 ---
 
