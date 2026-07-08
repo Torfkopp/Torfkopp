@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- To Mario, everything contains a vulnerability.
-- Mario can write to ROM.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Menschen mit sehr großen Ohren sind fürs Segeln wie geboren.
+> Lieber eine Flasche Bier als ne Wanne Eickel.
 
 ---
 
