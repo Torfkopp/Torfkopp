@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never has to use the -f option when deleting files.
-- Mario exits vim by typing "exit"
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Rote Haare, Sommersprossen sind die besten Bettgenossen.
+> Wer wöchentlich nur einmal kann und möchte gerne täglich, der wende sich an Neckermann, denn Neckermann machts möglich.
 
 ---
 
