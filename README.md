@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can delete the Recycle Bin.
+- When Mario point to NULL, Null scares.
+- Mario writes code that optimizes itself.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Lieber eine Flasche Bier als ne Wanne Eickel.
+> Kein Geld in der Tasche? Die öffentliche Hand ist dir zuvorgekommen.
 
 ---
 
