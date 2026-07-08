@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't make http requests. He makes http demands.
+- Mario can access the DB from the UI.
+- When Mario throws exceptions, it's across the room.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
