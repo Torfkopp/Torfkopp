@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Weird, it always works on Mario's machine.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wie man sich füttert, so wiegt man.
+> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
 
 ---
 
