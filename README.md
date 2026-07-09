@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Weird, it always works on Mario's machine.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, hat es nicht früher begriffen.
+> Ein voller Bauch fällt nicht weit vom Stamm.
 
 ---
 
