@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Manche Ehefrau lässt lieber den Ofen ausgehen als ihren Mann.
+> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
 
 ---
 
