@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario exits vim by typing "exit"
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wenn die Erde schreien könnte, wären wir alle taub.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
