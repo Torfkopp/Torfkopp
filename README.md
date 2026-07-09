@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario writes code that optimizes itself.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
+> Genieße das Leben beständig, denn du bist länger tot als lebendig.
 
 ---
 
