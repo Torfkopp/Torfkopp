@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can write to ROM.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Ein voller Bauch fällt nicht weit vom Stamm.
+> Wie man sich füttert, so wiegt man.
 
 ---
 
