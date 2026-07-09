@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
+> Und von wem haben Sie Ihre Meinung?
 
 ---
 
