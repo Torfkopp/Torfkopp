@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario CAN divide by 0.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Weird, it always works on Mario's machine.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
+> Wer rennt und lacht, kommt in Verdacht.
 
 ---
 
