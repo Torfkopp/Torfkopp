@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario CAN divide by 0.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Weird, it always works on Mario's machine.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Ich wollte die Einschulung aus Gewissensgründen verweigern.
+> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
 
 ---
 
