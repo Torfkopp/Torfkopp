@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can delete the Recycle Bin.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Er sagte 'Isabelle'. Und Isa bellte.
+> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
 
 ---
 
