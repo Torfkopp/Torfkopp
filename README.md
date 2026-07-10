@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario CAN divide by 0.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Und von wem haben Sie Ihre Meinung?
+> Wo gedoubelt wird, da fallen Zähne (Stuntman-Weisheit).
 
 ---
 
