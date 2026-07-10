@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The compiler fixes its own mistakes and never warns Mario about anything.
 - Mario CAN divide by 0.
-- Mario writes code that optimizes itself.
-- Mario can access the DB from the UI.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Sommersprossen sind auch Gesichtspunkte.
+> Wer abnehmen möchte, sollte den Mund nicht so voll nehmen.
 
 ---
 
