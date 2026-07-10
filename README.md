@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Parent is the child of Mario.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wo gedoubelt wird, da fallen Zähne (Stuntman-Weisheit).
+> Ich wollte die Einschulung aus Gewissensgründen verweigern.
 
 ---
 
