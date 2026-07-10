@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Weird, it always works on Mario's machine.
-- Mario can binary search unsorted data.
+- Mario CAN divide by 0.
+- Mario writes code that optimizes itself.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
+> Sommersprossen sind auch Gesichtspunkte.
 
 ---
 
