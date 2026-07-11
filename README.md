@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Parent is the child of Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Wer Glauben schenkt, ist ihn los.
+> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
 
 ---
 
