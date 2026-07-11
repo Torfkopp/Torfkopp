@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario uses /dev/null as STDIN.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Nimms leicht, sonst nimmts ein anderer.
+> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
 
 ---
 
