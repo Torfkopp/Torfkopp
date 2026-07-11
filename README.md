@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario CAN divide by 0.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Parent is the child of Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wir schießen die Politiker auf den Mond, damit sich Raumfahrt wieder lohnt.
+> Wer Glauben schenkt, ist ihn los.
 
 ---
 
