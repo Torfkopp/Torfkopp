@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario does not code in cycles, he codes in strikes.
-- When Mario throws exceptions, it's across the room.
+- Mario can compile syntax errors.
+- Mario can access the DB from the UI.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Mischt der Bauer Gift zur Butter, ist sie für die Schwiegermutter.
+> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
 
 ---
 
