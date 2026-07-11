@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can access the DB from the UI.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario can't test for equality because he has no equal.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
+> Lieber fernsehmüde als radioaktiv.
 
 ---
 
