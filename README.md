@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario uses /dev/null as STDIN.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Viele Köche sind des Hasen Tod.
+> Lieber Frust im Kopf als Faust aufs Auge.
 
 ---
 
