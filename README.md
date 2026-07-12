@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Parent is the child of Mario.
+- Mario can binary search unsorted data.
+- Mario can write to ROM.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Gut gemeint ist auch nicht besser.
+> Lieber aussteigen als eingehen.
 
 ---
 
