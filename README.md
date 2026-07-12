@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can store the value 256 in one byte
+- Mario programs do not accept input.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber Kies in der Tasche als Sand im Koffer.
+> Lieber spät und richtig als nie und falsch.
 
 ---
 
