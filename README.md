@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario programs do not accept input.
-- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario develops in prod.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Lieber spät und richtig als nie und falsch.
+> In der Disco ist was los, wenn ich tanze nackt und bloß.
 
 ---
 
