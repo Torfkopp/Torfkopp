@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can delete the Recycle Bin.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario uses /dev/null as STDIN.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Schnauze, sonst Beule.
+> Viele Köche sind des Hasen Tod.
 
 ---
 
