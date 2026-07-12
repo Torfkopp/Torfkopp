@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
+- Mario does not code in cycles, he codes in strikes.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can access the DB from the UI.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Frust im Kopf als Faust aufs Auge.
+> Arbeit macht Spaß; man kann stundenlang zuschauen.
 
 ---
 
