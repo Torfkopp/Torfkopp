@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario develops in prod.
-- Mario can't test for equality because he has no equal.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can delete the Recycle Bin.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> In der Disco ist was los, wenn ich tanze nackt und bloß.
+> Mein Bauch ist voll, mein Kopf ist hohl, ich glaub', ich bin der Kanzler Kohl.
 
 ---
 
