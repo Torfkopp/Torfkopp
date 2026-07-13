@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can write to ROM.
+- Mario develops in prod.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wer rennt und lacht, kommt in Verdacht.
+> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
 
 ---
 
