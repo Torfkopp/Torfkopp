@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Jeder ist seines Glückes Störenfried.
+> Wer rennt und lacht, kommt in Verdacht.
 
 ---
 
