@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario can delete the Recycle Bin.
-- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Lieber einmal Sydne Rome als zweimal Paris-Dakar.
+> Wer Hamburger nachmacht oder verfälscht, wird mit Donalds nicht unter fünf Mac bestraft.
 
 ---
 
