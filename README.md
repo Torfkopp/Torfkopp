@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can delete the Recycle Bin.
-- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Mein Bauch ist voll, mein Kopf ist hohl, ich glaub', ich bin der Kanzler Kohl.
+> Jeder ist seines Glückes Störenfried.
 
 ---
 
