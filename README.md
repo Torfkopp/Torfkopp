@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario uses /dev/null as STDIN.
+- Mario can delete the Recycle Bin.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
+> Lieber einmal Sydne Rome als zweimal Paris-Dakar.
 
 ---
 
