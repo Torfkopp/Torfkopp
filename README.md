@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
+> Ich bin ein Vampir: wasch dir den Hals!
 
 ---
 
