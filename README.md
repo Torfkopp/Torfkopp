@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can delete the Recycle Bin.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Wer Hamburger nachmacht oder verfälscht, wird mit Donalds nicht unter fünf Mac bestraft.
+> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
 
 ---
 
