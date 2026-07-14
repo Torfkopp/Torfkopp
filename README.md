@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario does not code in cycles, he codes in strikes.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Keiner ist unnütz: Er kann immer noch als schlechtes Beispiel dienen.
+> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
 
 ---
 
