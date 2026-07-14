@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can store the value 256 in one byte
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
+> Wer keinen Spaß versteht, den sollte man nicht ernst nehmen.
 
 ---
 
