@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario uses /dev/null as STDIN.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can binary search unsorted data.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
 
 ---
 
