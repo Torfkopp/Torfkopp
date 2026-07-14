@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't make http requests. He makes http demands.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario hosting is 105% uptime guaranteed.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Zwischen Leber und Milz ist noch Platz für ein Pils.
+> Kein Geld in der Tasche? Die öffentliche Hand ist dir zuvorgekommen.
 
 ---
 
