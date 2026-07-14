@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario CAN divide by 0.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
+> Zwischen Leber und Milz ist noch Platz für ein Pils.
 
 ---
 
