@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario hosting is 105% uptime guaranteed.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario point to NULL, Null scares.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Kein Geld in der Tasche? Die öffentliche Hand ist dir zuvorgekommen.
+> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
 
 ---
 
