@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario does not code in cycles, he codes in strikes.
-- Mario can access the DB from the UI.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can't test for equality because he has no equal.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> To be is to do (Kant). To do is to be (Sartre). Do be do be do (Sinatra).
+> Hier spraye ich und kann nicht anders.
 
 ---
 
