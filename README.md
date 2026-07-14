@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't make http requests. He makes http demands.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer keinen Spaß versteht, den sollte man nicht ernst nehmen.
+> Keiner ist unnütz: Er kann immer noch als schlechtes Beispiel dienen.
 
 ---
 
