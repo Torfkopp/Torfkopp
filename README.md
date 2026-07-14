@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wenn es stimmt, dass Lügen kurze Beine haben, dann kann die ganze Regierung unter dem Teppich Fallschirm springen.
+> Sie war "von und zu", er "auf und davon".
 
 ---
 
