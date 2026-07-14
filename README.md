@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can store the value 256 in one byte
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Ich bin ein Vampir: wasch dir den Hals!
+> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
 
 ---
 
