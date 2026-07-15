@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can binary search unsorted data.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Mit leerem Kopf nickt es sich leichter.
+> Ich bin tolerant; wem das nicht passt, dem hau ich eine.
 
 ---
 
