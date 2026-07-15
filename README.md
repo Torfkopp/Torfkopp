@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can't test for equality because he has no equal.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario programs do not accept input.
+- To Mario, everything contains a vulnerability.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Hier spraye ich und kann nicht anders.
+> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
 
 ---
 
