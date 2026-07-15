@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can binary search unsorted data.
-- Windows 7 was Mario's idea.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Ich bin tolerant; wem das nicht passt, dem hau ich eine.
+> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
 
 ---
 
