@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario CAN divide by 0.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber Arm ab als arm dran.
+> Lügen haben kurze Beine, aber tausend Füße.
 
 ---
 
