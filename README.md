@@ -6,13 +6,13 @@
 
 ### About Mario
 - The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Parent is the child of Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario drops a table it's bloody but silent.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Wer sich nicht wehrt, endet am Herd.
+> Niemand hat die Absicht eine Mauer zu bauen.
 
 ---
 
