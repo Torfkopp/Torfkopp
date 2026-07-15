@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- To Mario, everything contains a vulnerability.
-- Mario can write to ROM.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Parent is the child of Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Denken ist Arbeit, Arbeit ist Energie, und Energie soll man sparen.
+> Wer sich nicht wehrt, endet am Herd.
 
 ---
 
