@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
+- 404 errors simply mean that Mario has been there before you.
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Schwimmen die Fische mit dem Bauch nach oben, hat der Chef vom AKW gelogen.
+> Lieber Arm ab als arm dran.
 
 ---
 
