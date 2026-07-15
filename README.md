@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario invented binary by performing a roundhouse on the number 10.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
+> Kurze Röcke, lange Stielaugen.
 
 ---
 
