@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario CAN divide by 0.
-- Mario can compile syntax errors.
+- To Mario, everything contains a vulnerability.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lügen haben kurze Beine, aber tausend Füße.
+> Mit leerem Kopf nickt es sich leichter.
 
 ---
 
