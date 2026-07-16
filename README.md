@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can binary search unsorted data.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario hosting is 105% uptime guaranteed.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Das Fleisch war billig, und der Geist war willig.
+> Wer stirbt, ist nur zu faul zum Leben.
 
 ---
 
