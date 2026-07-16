@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario uses /dev/null as STDIN.
+- Mario can binary search unsorted data.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Legal - Illegal - Ikearegal
+> Wenn eine Schraube locker ist, hat das Leben etwas mehr Spiel.
 
 ---
 
