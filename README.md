@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- 404 errors simply mean that Mario has been there before you.
-- Mario can store the value 256 in one byte
+- Mario uses /dev/null as STDIN.
+- When Mario drops a table it's bloody but silent.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Tausche betonierte Zukunft gegen blühende Vergangenheit.
 
 ---
 
