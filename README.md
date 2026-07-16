@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When Mario throws an exception it's either across the room or out the window.
 - Mario can binary search unsorted data.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Er hat Haare auf der Brust. Na und? Lassie etwa nicht?
+> Das Fleisch war billig, und der Geist war willig.
 
 ---
 
