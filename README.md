@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can compile syntax errors.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wenn eine Schraube locker ist, hat das Leben etwas mehr Spiel.
+> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
 
 ---
 
