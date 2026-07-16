@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When Mario drops a table it's bloody but silent.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario writes code that optimizes itself.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Tausche betonierte Zukunft gegen blühende Vergangenheit.
+> Mein Geist verfolgt mich, aber ich bin schneller.
 
 ---
 
