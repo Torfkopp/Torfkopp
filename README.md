@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can't test for equality because he has no equal.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Bei diesem Neeklischee und Parföng ward's dem Alten zu eng.
+> Er hat Haare auf der Brust. Na und? Lassie etwa nicht?
 
 ---
 
