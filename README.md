@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario writes code that optimizes itself.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Mein Geist verfolgt mich, aber ich bin schneller.
+> Legal - Illegal - Ikearegal
 
 ---
 
