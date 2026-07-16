@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario does not code in cycles, he codes in strikes.
+- Mario develops in prod.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Kurze Röcke, lange Stielaugen.
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
