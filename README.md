@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Windows 7 was Mario's idea.
+- Mario can delete the Recycle Bin.
+- Mario develops in prod.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Lieber Ouzo als Juso.
 
 ---
 
