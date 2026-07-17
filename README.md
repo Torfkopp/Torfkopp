@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario plugs in USB sticks perfectly the first time every time
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Alle wollen zurück zur Natur; aber keiner zu Fuß.
+> Wer dem Chef in den Hintern kriecht, muss damit rechnen, dass er ihm eines Tages zum Hals heraushängt.
 
 ---
 
