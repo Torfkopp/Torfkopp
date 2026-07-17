@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can't test for equality because he has no equal.
+- Windows 7 was Mario's idea.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Warum sachlich werden, wenn es auch persönlich geht.
+> Alle wollen zurück zur Natur; aber keiner zu Fuß.
 
 ---
 
