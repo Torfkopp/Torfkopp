@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario does not code in cycles, he codes in strikes.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Je tiefer das Loch, desto plumps.
+> Warum sachlich werden, wenn es auch persönlich geht.
 
 ---
 
