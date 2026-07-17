@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario plugs in USB sticks perfectly the first time every time
-- When Mario throws an exception it's either across the room or out the window.
+- Parent is the child of Mario.
+- Mario can't test for equality because he has no equal.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wer dem Chef in den Hintern kriecht, muss damit rechnen, dass er ihm eines Tages zum Hals heraushängt.
+> Nicht jeder, der aus dem Rahmen fällt, war vorher im Bilde.
 
 ---
 
