@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario point to NULL, Null scares.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not code in cycles, he codes in strikes.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Aller Mannfang ist schwer.
+> Was dem einen sein Beat, ist dem anderen seine Beate.
 
 ---
 
