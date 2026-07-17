@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario can't test for equality because he has no equal.
-- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Nicht jeder, der aus dem Rahmen fällt, war vorher im Bilde.
+> Aller Mannfang ist schwer.
 
 ---
 
