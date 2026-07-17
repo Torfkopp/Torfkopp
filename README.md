@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario develops in prod.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Parent is the child of Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Lieber Ouzo als Juso.
+> Je tiefer das Loch, desto plumps.
 
 ---
 
