@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario exits vim by typing "exit"
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Man düngt keinen Garten, indem man durch den Zaun furzt.
+> Was keiner kann, das kann ich auch.
 
 ---
 
