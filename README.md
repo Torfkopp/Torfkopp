@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario hosting is 105% uptime guaranteed.
+- Mario writes code that optimizes itself.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
+> Wozu noch recht schreiben, wenn man links denkt?
 
 ---
 
