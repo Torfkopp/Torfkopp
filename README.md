@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
+> Rote Haare, Sommersprossen sind die besten Bettgenossen.
 
 ---
 
