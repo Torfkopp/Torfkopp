@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can access the DB from the UI.
-- Mario programs do not accept input.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wie man sich fettet, so riecht man.
+> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
 
 ---
 
