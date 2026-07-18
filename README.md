@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can binary search unsorted data.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario point to NULL, Null scares.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hülle. (Christo, Berlin, Reichstag)
+> Man düngt keinen Garten, indem man durch den Zaun furzt.
 
 ---
 
