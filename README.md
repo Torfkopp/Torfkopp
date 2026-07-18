@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Parent is the child of Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Was keiner kann, das kann ich auch.
+> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
 
 ---
 
