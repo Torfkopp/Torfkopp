@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can access the DB from the UI.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
+> Wie man sich fettet, so riecht man.
 
 ---
 
