@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario CAN divide by 0.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Was Krupp in Essen sind wir im Trinken.
+> Woher soll ich wissen, was ich denke, bevor ich gehört habe, was ich sage?
 
 ---
 
