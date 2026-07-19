@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't use web standards as the web will conform to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario exits vim by typing "exit"
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Ist Silvester hell und klar, ist am andern Tag Neujahr.
+> Keiner redet dümmer als er ist.
 
 ---
 
