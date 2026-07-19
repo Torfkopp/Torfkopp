@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario never has to use the -f option when deleting files.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, stirbt wenigstens fröhlich.
+> Ist Silvester hell und klar, ist am andern Tag Neujahr.
 
 ---
 
