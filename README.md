@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Weird, it always works on Mario's machine.
-- Mario can binary search unsorted data.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Will der Mensch die Eier eckig, gehts den Hühnern ganz schön dreckig.
+> Der Mond ist nicht nur kleiner als die Erde, sondern auch weiter von ihr entfernt.
 
 ---
 
