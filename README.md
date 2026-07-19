@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Weird, it always works on Mario's machine.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Erst schließen wir die Augen; dann sehen wir weiter.
+> Will der Mensch die Eier eckig, gehts den Hühnern ganz schön dreckig.
 
 ---
 
