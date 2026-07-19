@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber FKK als FDP.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
