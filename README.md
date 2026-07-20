@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't use web standards as the web will conform to him.
-- Windows 7 was Mario's idea.
+- When Mario drops a table it's bloody but silent.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Lieber ein Bund fürs Leben als ein Leben für den Bund.
+> Am Ende kackt die Ente.
 
 ---
 
