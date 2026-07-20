@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can access the DB from the UI.
+- Mario can binary search unsorted data.
+- Weird, it always works on Mario's machine.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> Lieber kleckern als kotzen.
 
 ---
 
