@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can store the value 256 in one byte
+- Mario can't test for equality because he has no equal.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
+> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
 
 ---
 
