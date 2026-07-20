@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
+> Coeo, ergo sum.
 
 ---
 
