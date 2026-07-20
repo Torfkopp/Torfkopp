@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Weird, it always works on Mario's machine.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't use web standards as the web will conform to him.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber kleckern als kotzen.
+> Lieber ein Bund fürs Leben als ein Leben für den Bund.
 
 ---
 
