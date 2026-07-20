@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can't test for equality because he has no equal.
+- When Mario throws exceptions, it's across the room.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Am Ende kackt die Ente.
+> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
 
 ---
 
