@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can't test for equality because he has no equal.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Coeo, ergo sum.
+> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
 
 ---
 
