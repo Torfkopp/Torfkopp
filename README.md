@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario uses /dev/null as STDIN.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can access the DB from the UI.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Lieber Arm ab als arm dran.
+> Ich geh kaputt, gehst du mit?
 
 ---
 
