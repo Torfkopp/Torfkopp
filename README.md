@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
+> Frisch verzagt ist halb verzweifelt.
 
 ---
 
