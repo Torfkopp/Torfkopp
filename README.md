@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario invented binary by performing a roundhouse on the number 10.
 - The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Was Hänschen nicht lernt, werden ihm die Mädchen beibringen.
+> Die größte Offenbarung ist die Quelle. (Versandabhängige)
 
 ---
 
