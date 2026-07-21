@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario invented binary by performing a roundhouse on the number 10.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
+> Lieber Arm ab als arm dran.
 
 ---
 
