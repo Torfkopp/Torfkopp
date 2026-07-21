@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can access the DB from the UI.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Ich geh kaputt, gehst du mit?
+> Was Hänschen nicht lernt, werden ihm die Mädchen beibringen.
 
 ---
 
