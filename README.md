@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario invented binary by performing a roundhouse on the number 10.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Quelle. (Versandabhängige)
+> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
 
 ---
 
