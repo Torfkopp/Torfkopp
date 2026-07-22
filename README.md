@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario writes code that optimizes itself.
-- Windows 7 was Mario's idea.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
+> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
 
 ---
 
