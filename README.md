@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario writes code that optimizes itself.
-- When Mario point to NULL, Null scares.
+- Mario can write to ROM.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
+> Gepflegter Bart küsst weich und zart.
 
 ---
 
