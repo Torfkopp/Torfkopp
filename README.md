@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can write to ROM.
+- Mario writes code that optimizes itself.
+- Windows 7 was Mario's idea.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Das einzig Echte an manchen Menschen ist ihre Falschheit.
+> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
 
 ---
 
