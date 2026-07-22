@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario can write to ROM.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Gepflegter Bart küsst weich und zart.
+> Wenn man gut sitzt, braucht man keinen Standpunkt.
 
 ---
 
