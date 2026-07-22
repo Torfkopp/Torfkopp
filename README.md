@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can delete the Recycle Bin.
+- Mario programs do not accept input.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Kräht der Hahn auf dem Mist, ändert sich das Wetter oder bleibt, wie es ist.
+> Ihr habt das Land, doch wir haben die Wand.
 
 ---
 
