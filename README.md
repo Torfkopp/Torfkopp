@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario develops in prod.
-- Mario never has to use the -f option when deleting files.
+- Mario can store the value 256 in one byte
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Kleine Bosheiten erhalten die Feindschaft.
+> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
 
 ---
 
