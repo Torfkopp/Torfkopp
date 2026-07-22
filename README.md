@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario develops in prod.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
+> Kleine Bosheiten erhalten die Feindschaft.
 
 ---
 
