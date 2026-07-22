@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can write to ROM.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Die Elbe ist ein Jungbrunnen: ein Schluck, und du wirst nicht alt.
+> Das einzig Echte an manchen Menschen ist ihre Falschheit.
 
 ---
 
