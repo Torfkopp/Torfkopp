@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario programs do not accept input.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Windows 7 was Mario's idea.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Ihr habt das Land, doch wir haben die Wand.
+> Ärgere dich nicht, wenn dir ein Vogel auf den Kopf kackt. Freu dich lieber, dass Elefanten nicht fliegen können
 
 ---
 
