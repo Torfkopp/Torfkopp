@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario point to NULL, Null scares.
+- Mario doesn't make http requests. He makes http demands.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Manche sind wie die Erde: immer auf Achse und trotzdem rund.
+> Er aß die Milch und trank das Brot, doch als er starb, da war er tot.
 
 ---
 
