@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Weird, it always works on Mario's machine.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Eine Blume geht über die Wiese, sieht einen wunderschönen Menschen und reißt ihm den Kopf ab.
+> Manche sind wie die Erde: immer auf Achse und trotzdem rund.
 
 ---
 
