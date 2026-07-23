@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario can binary search unsorted data.
-- Mario can access the DB from the UI.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
+> Es nützt nichts zu fliehen, Schulen gibt es überall.
 
 ---
 
