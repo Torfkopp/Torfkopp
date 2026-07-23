@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Lieber 'n Altbier als 'ne Neurose.
+> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
 
 ---
 
