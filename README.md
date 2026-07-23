@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can delete the Recycle Bin.
+- Mario doesn't use web standards as the web will conform to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Tu was fürs Vaterland: wandre aus.
+> Lieber 'n Altbier als 'ne Neurose.
 
 ---
 
