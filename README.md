@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can write to ROM.
+- Mario can store the value 256 in one byte
+- Mario can binary search unsorted data.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wenn man gut sitzt, braucht man keinen Standpunkt.
+> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
 
 ---
 
