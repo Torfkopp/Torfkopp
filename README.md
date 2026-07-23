@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Es nützt nichts zu fliehen, Schulen gibt es überall.
+> Tu was fürs Vaterland: wandre aus.
 
 ---
 
