@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can access the DB from the UI.
+- Weird, it always works on Mario's machine.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Gibt es intelligentes Leben auf der Erde? Ja, aber ich bin nur zu Besuch hier.
+> Eine Blume geht über die Wiese, sieht einen wunderschönen Menschen und reißt ihm den Kopf ab.
 
 ---
 
