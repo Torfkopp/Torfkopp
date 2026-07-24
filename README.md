@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Parent is the child of Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Zu viel Eisbein schadet dem Steißbein.
+> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
 
 ---
 
