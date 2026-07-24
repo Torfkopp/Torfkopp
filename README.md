@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- 404 errors simply mean that Mario has been there before you.
-- Mario can binary search unsorted data.
+- Mario can store the value 256 in one byte
+- Mario develops in prod.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Je leerer die Versprechungen, desto voller die Absicht.
+> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
 
 ---
 
