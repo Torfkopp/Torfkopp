@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Alle wollen zurück zur Natur; aber keiner zu Fuß.
+> Haben Krawattenträger nicht schon genug am Halse?
 
 ---
 
