@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can store the value 256 in one byte
-- Parent is the child of Mario.
+- Mario hosting is 105% uptime guaranteed.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Stille. (Lao'tse)
+> Je leerer die Versprechungen, desto voller die Absicht.
 
 ---
 
