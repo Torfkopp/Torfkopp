@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario programs do not accept input.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Er aß die Milch und trank das Brot, doch als er starb, da war er tot.
+> Zu viel Eisbein schadet dem Steißbein.
 
 ---
 
