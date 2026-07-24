@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Parent is the child of Mario.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't make http requests. He makes http demands.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
+> Alle wollen zurück zur Natur; aber keiner zu Fuß.
 
 ---
 
