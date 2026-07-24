@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can store the value 256 in one byte
-- Windows 7 was Mario's idea.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Sei schlau, bleib dumm.
 
 ---
 
