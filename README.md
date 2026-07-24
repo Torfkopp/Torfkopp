@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- The compiler fixes its own mistakes and never warns Mario about anything.
 - Mario can store the value 256 in one byte
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can access the DB from the UI.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
+> Die größte Offenbarung ist die Stille. (Lao'tse)
 
 ---
 
