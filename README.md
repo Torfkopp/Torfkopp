@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario programs do not accept input.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Drum prüfe, wer sich ewig schindet ...
+> Wer Wind sät, scheut das Feuer.
 
 ---
 
