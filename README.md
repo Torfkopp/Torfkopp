@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario develops in prod.
 - Mario doesn't use web standards as the web will conform to him.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Mercedes, Villa, Swimming Pool - von Stoa reden ist so cool.
+> Stille Nacht, heilige Nacht; alles zahlt, ALDI lacht.
 
 ---
 
