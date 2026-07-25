@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Er aß die Milch und trank das Brot, doch als er starb, da war er tot.
+> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
 
 ---
 
