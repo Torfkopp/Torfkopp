@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario can access the DB from the UI.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
+> Es nützt nichts zu fliehen, Schulen gibt es überall.
 
 ---
 
