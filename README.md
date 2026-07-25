@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario uses /dev/null as STDIN.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wer nicht hören will, muss fernsehen.
+> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
 
 ---
 
