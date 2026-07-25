@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario does not code in cycles, he codes in strikes.
-- Mario CAN divide by 0.
+- Mario can't test for equality because he has no equal.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
+> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
 
 ---
 
