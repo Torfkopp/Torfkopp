@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario programs do not accept input.
-- When Mario drops a table it's bloody but silent.
+- Mario can compile syntax errors.
+- Mario uses /dev/null as STDIN.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Wer Wind sät, scheut das Feuer.
+> Wer nicht hören will, muss fernsehen.
 
 ---
 
