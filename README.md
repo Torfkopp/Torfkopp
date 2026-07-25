@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never has to use the -f option when deleting files.
-- Mario writes code that optimizes itself.
+- Mario exits vim by typing "exit"
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Die nächste Steinzeit kommt bestimmt.
+> Er aß die Milch und trank das Brot, doch als er starb, da war er tot.
 
 ---
 
