@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't use web standards as the web will conform to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never has to use the -f option when deleting files.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Es nützt nichts zu fliehen, Schulen gibt es überall.
+> Die nächste Steinzeit kommt bestimmt.
 
 ---
 
