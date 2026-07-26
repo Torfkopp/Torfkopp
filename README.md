@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't use web standards as the web will conform to him.
 - Windows 7 was Mario's idea.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can access the DB from the UI.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen schützt vor Torheit nicht.
+> Der Klügere gibt vor, nachzugeben.
 
 ---
 
