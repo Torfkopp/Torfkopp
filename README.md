@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can store the value 256 in one byte
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Lieber Kies in der Tasche als Sand im Koffer.
+> Wer Ordnung hält, ist nur zu faul zum Suchen.
 
 ---
 
