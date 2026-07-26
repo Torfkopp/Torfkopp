@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can access the DB from the UI.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
+> Steter Tropfen leert das Hirn.
 
 ---
 
