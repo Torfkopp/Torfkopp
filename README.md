@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario CAN divide by 0.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can store the value 256 in one byte
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
+> Arbeitskraft? Nein danke.
 
 ---
 
