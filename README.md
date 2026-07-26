@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Windows 7 was Mario's idea.
-- Mario can delete the Recycle Bin.
+- When Mario point to NULL, Null scares.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Der Klügere gibt vor, nachzugeben.
+> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
 
 ---
 
