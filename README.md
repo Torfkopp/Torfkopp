@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario writes code that optimizes itself.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can access the DB from the UI.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Steter Tropfen leert das Hirn.
+> Lieber Kies in der Tasche als Sand im Koffer.
 
 ---
 
