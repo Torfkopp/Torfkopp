@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario exits vim by typing "exit"
+- Windows 7 was Mario's idea.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer Ordnung hält, ist nur zu faul zum Suchen.
+> Steter Tropfen schützt vor Torheit nicht.
 
 ---
 
