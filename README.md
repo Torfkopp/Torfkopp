@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can store the value 256 in one byte
-- Mario does not code in cycles, he codes in strikes.
+- Mario can't test for equality because he has no equal.
+- Mario can compile syntax errors.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Arbeitskraft? Nein danke.
+> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
 
 ---
 
