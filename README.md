@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- When Mario point to NULL, Null scares.
-- Windows 7 was Mario's idea.
+- When Mario throws an exception it's either across the room or out the window.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
+> Mit leerem Kopf nickt es sich leichter.
 
 ---
 
