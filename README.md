@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario uses /dev/null as STDIN.
+- To Mario, everything contains a vulnerability.
+- Mario can't test for equality because he has no equal.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Lieber Kies in der Tasche als Sand im Koffer.
+> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
 
 ---
 
