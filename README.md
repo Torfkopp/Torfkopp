@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never has to use the -f option when deleting files.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Abgeordnete sind immer zu tausend Spesen aufgelegt.
+> Das höchste Glück der Pferde ist der Reiter auf der Erde.
 
 ---
 
