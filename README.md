@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Mit leerem Kopf nickt es sich leichter.
+> Abgeordnete sind immer zu tausend Spesen aufgelegt.
 
 ---
 
