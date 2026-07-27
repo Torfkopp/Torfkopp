@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario can binary search unsorted data.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario drops a table it's bloody but silent.
+- When Mario point to NULL, Null scares.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Tarzan auf dem Klosterdach: da wurden selbst die Nonnen wach.
+> Brennt dem Bauern mal der Kittel, liegts am scharfen Düngemittel.
 
 ---
 
