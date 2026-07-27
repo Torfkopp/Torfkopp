@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 - Mario can't test for equality because he has no equal.
-- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
+> Man kann sich an allem gewöhnen, auch am Dativ.
 
 ---
 
