@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Weird, it always works on Mario's machine.
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
