@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- To Mario, everything contains a vulnerability.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws exceptions, it's across the room.
+- Mario can access the DB from the UI.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Das Fleisch war billig, und der Geist war willig.
+> Alles ist so, wie es ist, nur schlechter.
 
 ---
 
