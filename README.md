@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario can store the value 256 in one byte
-- When Mario throws exceptions, it's across the room.
+- Mario does not code in cycles, he codes in strikes.
+- 404 errors simply mean that Mario has been there before you.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Schönheitschirurgen können auch ein langes Gesicht machen.
+> Gäste, die voll kommen, sind nicht vollkommen.
 
 ---
 
