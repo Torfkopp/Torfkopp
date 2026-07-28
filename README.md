@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never has to use the -f option when deleting files.
+- Mario can store the value 256 in one byte
 - When Mario throws exceptions, it's across the room.
-- Mario can access the DB from the UI.
-- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Alles ist so, wie es ist, nur schlechter.
+> Schönheitschirurgen können auch ein langes Gesicht machen.
 
 ---
 
