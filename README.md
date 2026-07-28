@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never has to use the -f option when deleting files.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Das höchste Glück der Pferde ist der Reiter auf der Erde.
+> Auch Arme haben Beine.
 
 ---
 
