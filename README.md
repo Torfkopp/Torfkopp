@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can compile syntax errors.
+- Mario can delete the Recycle Bin.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Professorenglatze ist Waldsterben auf höherer Ebene.
+> Lieber zusammen aus- als allein eingehen.
 
 ---
 
