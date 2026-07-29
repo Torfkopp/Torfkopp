@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- 404 errors simply mean that Mario has been there before you.
-- Mario writes code that optimizes itself.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario develops in prod.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Gäste, die voll kommen, sind nicht vollkommen.
+> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
 
 ---
 
