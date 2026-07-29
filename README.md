@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can delete the Recycle Bin.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario drops a table it's bloody but silent.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Lieber zusammen aus- als allein eingehen.
+> Was Krupp in Essen sind wir im Trinken.
 
 ---
 
