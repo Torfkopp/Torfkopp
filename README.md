@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario develops in prod.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wo ein Zwerg-Staat, da auch ein Mini-Sterium.
+> Professorenglatze ist Waldsterben auf höherer Ebene.
 
 ---
 
