@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can write to ROM.
-- Mario can access the DB from the UI.
+- Windows 7 was Mario's idea.
+- Mario CAN divide by 0.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Lieber Gold in der Kehle als Silber im Blick.
+> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
 
 ---
 
