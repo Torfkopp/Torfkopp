@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario develops in prod.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- 404 errors simply mean that Mario has been there before you.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Mein Bauch ist voll, mein Kopf ist hohl, ich glaub', ich bin der Kanzler Kohl.
+> Und draußen in dem dunklen Forst erwacht die Gans im Adlerhorst. Sie sieht sich um und spricht betroffen: "Mein lieber Schwan, war ich besoffen!"
 
 ---
 
