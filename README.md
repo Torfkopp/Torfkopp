@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario CAN divide by 0.
-- Mario can binary search unsorted data.
+- Mario uses /dev/null as STDIN.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
+> Mein Bauch ist voll, mein Kopf ist hohl, ich glaub', ich bin der Kanzler Kohl.
 
 ---
 
