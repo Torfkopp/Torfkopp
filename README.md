@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario programs do not accept input.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Die Basis des Fundamentalen ist das Grundlegende.
+> Wir wollen Männer, keine Ersatzteile.
 
 ---
 
