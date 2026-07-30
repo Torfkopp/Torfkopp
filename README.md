@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can store the value 256 in one byte
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- To Mario, everything contains a vulnerability.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Die Pflicht ruft? Wir rufen zurück.
+> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
 
 ---
 
