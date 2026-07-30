@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario point to NULL, Null scares.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wir wollen Männer, keine Ersatzteile.
+> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
 
 ---
 
