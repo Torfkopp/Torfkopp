@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- To Mario, everything contains a vulnerability.
-- Mario can delete the Recycle Bin.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario programs do not accept input.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Männer suchen das gewisse Etwas, Frauen etwas Gewisses.
+> Die Basis des Fundamentalen ist das Grundlegende.
 
 ---
 
