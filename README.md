@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- To Mario, everything contains a vulnerability.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Mancher fasst sich an den Kopf - und greift ins Leere.
+> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
 
 ---
 
