@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When Mario point to NULL, Null scares.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can compile syntax errors.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Der Hektiker rast bei Gelb über die Ampel. Der Besonnene wartet, bis Rot ist.
+> Mancher fasst sich an den Kopf - und greift ins Leere.
 
 ---
 
