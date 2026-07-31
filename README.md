@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never has to use the -f option when deleting files.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario programs do not accept input.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wenn die Dunstglocke läutet, hat das Sterbeglöckchen Hochkonjunktur.
+> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
 
 ---
 
