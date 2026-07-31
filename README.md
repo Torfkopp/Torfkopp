@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can binary search unsorted data.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can't test for equality because he has no equal.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Input - Output - ganz putt.
+> Wozu noch recht schreiben, wenn man links denkt?
 
 ---
 
