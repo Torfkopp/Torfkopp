@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario CAN divide by 0.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario programs do not accept input.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wozu noch recht schreiben, wenn man links denkt?
+> Vorsicht: der Schütze schützt nicht, er schießt!
 
 ---
 
