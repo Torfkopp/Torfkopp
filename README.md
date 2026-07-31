@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario programs do not accept input.
-- Mario doesn't make http requests. He makes http demands.
+- Mario develops in prod.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Vorsicht: der Schütze schützt nicht, er schießt!
+> Legal - Illegal - Scheißegal!
 
 ---
 
