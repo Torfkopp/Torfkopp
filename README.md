@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario CAN divide by 0.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wenn Albert ruht, albert Ruth. Und wenn Albert albert, ruht Ruth.
+> Magerquark macht uns stark; Haferbrei macht uns frei.
 
 ---
 
