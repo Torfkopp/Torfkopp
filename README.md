@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not code in cycles, he codes in strikes.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Legal - Illegal - Scheißegal!
+> Dem Philosoph ist nichts zu doof.
 
 ---
 
