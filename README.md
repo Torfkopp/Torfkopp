@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario does not code in cycles, he codes in strikes.
-- Windows 7 was Mario's idea.
+- Mario exits vim by typing "exit"
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Dem Philosoph ist nichts zu doof.
+> Der Student studiert, der Arbeiter arbeitet, der Chef scheffelt.
 
 ---
 
