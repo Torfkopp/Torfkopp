@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't make http requests. He makes http demands.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario does not code in cycles, he codes in strikes.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Lehrer sind Menschen, die nach der Schule in Pension gehen.
+> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
 
 ---
 
