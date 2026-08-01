@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario writes code that optimizes itself.
+- Mario can write to ROM.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Was du nicht willst, das man dir tu, das tu auch nicht - was willst du denn?
+> Der Mohr hat seine Schuldigkeit getan, der Mohr kann kaum noch gehn.
 
 ---
 
