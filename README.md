@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
 
 ---
 
