@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can binary search unsorted data.
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Chirurgen tragen Gummihandschuhe, um keine Fingerabdrücke zu hinterlassen.
+> Computer lösen die Probleme, die wir ohne sie nicht hätten.
 
 ---
 
