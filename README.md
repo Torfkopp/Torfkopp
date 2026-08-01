@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario does not code in cycles, he codes in strikes.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario uses /dev/null as STDIN.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
+> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
 
 ---
 
