@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can delete the Recycle Bin.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Komm zurück, Godot; es ist alles verziehen.
+> Die größte Offenbarung ist die Pulle. (H. Juhnke)
 
 ---
 
