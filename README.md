@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario develops in prod.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can't test for equality because he has no equal.
+- Mario uses /dev/null as STDIN.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Unrecht Gut gedeiht, nicht?
+> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
 
 ---
 
