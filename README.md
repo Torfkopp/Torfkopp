@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario uses /dev/null as STDIN.
-- Mario hosting is 105% uptime guaranteed.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
+> Lieber Hochstapler als Tiefflieger.
 
 ---
 
