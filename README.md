@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario CAN divide by 0.
 - To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Wenn man gut sitzt, braucht man keinen Standpunkt.
+> Wer A sagt, kann auch gleich Halstabletten nehmen.
 
 ---
 
