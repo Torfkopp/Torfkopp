@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can delete the Recycle Bin.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Hochstapler als Tiefflieger.
+> Komm zurück, Godot; es ist alles verziehen.
 
 ---
 
