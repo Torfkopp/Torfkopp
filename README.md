@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario CAN divide by 0.
-- To Mario, everything contains a vulnerability.
+- Mario programs do not accept input.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer A sagt, kann auch gleich Halstabletten nehmen.
+> Wer zuletzt lacht, hat es nicht früher begriffen.
 
 ---
 
