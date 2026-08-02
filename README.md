@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can write to ROM.
+- Mario can access the DB from the UI.
+- Mario develops in prod.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Frisch gewagt ist halb verschrottet.
+> Unrecht Gut gedeiht, nicht?
 
 ---
 
