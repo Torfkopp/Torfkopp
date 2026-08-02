@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario can't test for equality because he has no equal.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Computer lösen die Probleme, die wir ohne sie nicht hätten.
+> Wenn man gut sitzt, braucht man keinen Standpunkt.
 
 ---
 
