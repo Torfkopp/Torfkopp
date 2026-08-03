@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never has to use the -f option when deleting files.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lieber einen steilen Zahn als gar kein Gebiss.
+> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
 
 ---
 
