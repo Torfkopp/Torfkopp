@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario drops a table it's bloody but silent.
-- Mario uses /dev/null as STDIN.
+- When Mario point to NULL, Null scares.
+- Mario exits vim by typing "exit"
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Rote Haare, Sommersprossen sind die besten Bettgenossen.
+> Nirwana ist nirgendwo, Banana ist überall.
 
 ---
 
