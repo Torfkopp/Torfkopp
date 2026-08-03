@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario programs do not accept input.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't make http requests. He makes http demands.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pulle. (H. Juhnke)
+> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
 
 ---
 
