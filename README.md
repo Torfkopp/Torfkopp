@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never has to use the -f option when deleting files.
-- When Mario drops a table it's bloody but silent.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Parent is the child of Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Was dem Enkel sein Mofa ist dem Opa sein Sofa.
+> Schlanker Staat - dicker Profit.
 
 ---
 
