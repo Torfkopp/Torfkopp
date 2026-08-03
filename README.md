@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Parent is the child of Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario drops a table it's bloody but silent.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Schlanker Staat - dicker Profit.
+> Rote Haare, Sommersprossen sind die besten Bettgenossen.
 
 ---
 
