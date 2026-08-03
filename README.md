@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never has to use the -f option when deleting files.
 - Mario invented binary by performing a roundhouse on the number 10.
-- Mario can binary search unsorted data.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
+> Bist du einsam und allein, sprüh dich mit Kontaktspray ein.
 
 ---
 
