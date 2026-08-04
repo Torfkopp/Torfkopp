@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario exits vim by typing "exit"
-- Windows 7 was Mario's idea.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Lieber locker vom Hocker als hektisch übern Ecktisch.
+> Wer den Teufel an die Wand malt, spart die Tapete.
 
 ---
 
