@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Parent is the child of Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Auch die Stimme des Gewissens hat mal Stimmbruch.
+> Früher haben wir uns vor der Arbeit gedrückt, heute schauen wir stundenlang zu.
 
 ---
 
