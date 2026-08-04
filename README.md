@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario throws exceptions, it's across the room.
+- Mario writes code that optimizes itself.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wer den Teufel an die Wand malt, spart die Tapete.
+> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
 
 ---
 
