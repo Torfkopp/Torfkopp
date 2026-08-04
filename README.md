@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't make http requests. He makes http demands.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario exits vim by typing "exit"
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
+> Lieber locker vom Hocker als hektisch übern Ecktisch.
 
 ---
 
