@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Weird, it always works on Mario's machine.
-- Mario hosting is 105% uptime guaranteed.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
+> Auch die Stimme des Gewissens hat mal Stimmbruch.
 
 ---
 
