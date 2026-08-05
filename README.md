@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can store the value 256 in one byte
-- Mario can write to ROM.
+- Mario plugs in USB sticks perfectly the first time every time
+- When Mario throws an exception it's either across the room or out the window.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Vorsicht: der Schütze schützt nicht, er schießt!
+> Und draußen in dem dunklen Forst erwacht die Gans im Adlerhorst. Sie sieht sich um und spricht betroffen: "Mein lieber Schwan, war ich besoffen!"
 
 ---
 
