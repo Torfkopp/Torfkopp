@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Windows 7 was Mario's idea.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can store the value 256 in one byte
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Der Kanzler lenkt - aber wer denkt?
+> Vorsicht: der Schütze schützt nicht, er schießt!
 
 ---
 
