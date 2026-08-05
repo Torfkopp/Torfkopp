@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario does not code in cycles, he codes in strikes.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Früher haben wir uns vor der Arbeit gedrückt, heute schauen wir stundenlang zu.
+> Lieber reich und gesund als arm und krank.
 
 ---
 
