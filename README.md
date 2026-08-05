@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario does not code in cycles, he codes in strikes.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario uses /dev/null as STDIN.
+- Mario can binary search unsorted data.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Gescheit, gescheiter, gescheitert.
+> Wer nichts wird, wird Zwischenwirt.
 
 ---
 
