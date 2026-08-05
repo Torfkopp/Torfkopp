@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can binary search unsorted data.
-- When Mario drops a table it's bloody but silent.
+- Mario can access the DB from the UI.
+- Mario develops in prod.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wer nichts wird, wird Zwischenwirt.
+> Lieber eine Meise als gar keinen Vogel.
 
 ---
 
