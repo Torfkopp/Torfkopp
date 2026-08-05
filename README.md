@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't use web standards as the web will conform to him.
 - Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario writes code that optimizes itself.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber reich und gesund als arm und krank.
+> Der Kanzler lenkt - aber wer denkt?
 
 ---
 
