@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can store the value 256 in one byte
+- Mario programs do not accept input.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Eine Blume geht über die Wiese, sieht einen wunderschönen Menschen und reißt ihm den Kopf ab.
+> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
 
 ---
 
