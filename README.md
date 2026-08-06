@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario programs do not accept input.
-- Mario can binary search unsorted data.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Steht das Schwein auf einem Bein, ist der Schweinestall zu klein.
+> Gut Kind will Keile haben. (nach M. Luther)
 
 ---
 
