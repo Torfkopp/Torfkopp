@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wer dem Chef in den Hintern kriecht, muss damit rechnen, dass er ihm eines Tages zum Hals heraushängt.
+> Mich kennen heißt mich lieben.
 
 ---
 
