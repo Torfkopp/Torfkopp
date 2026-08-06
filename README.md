@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws exceptions, it's across the room.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Mich kennen heißt mich lieben.
+> Eine Blume geht über die Wiese, sieht einen wunderschönen Menschen und reißt ihm den Kopf ab.
 
 ---
 
