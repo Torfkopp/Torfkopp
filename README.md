@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario writes code that optimizes itself.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
+> Fettflecke werden wie neu, wenn man sie regelmäßig mit Butter bestreicht.
 
 ---
 
