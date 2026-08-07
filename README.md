@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario can delete the Recycle Bin.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
+> Lieber abends später ins Bett als morgens früher aufstehen.
 
 ---
 
