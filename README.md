@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- When Mario drops a table it's bloody but silent.
-- Mario can delete the Recycle Bin.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
+> Faulheit ist: sich ausruhen, bevor man müde wird.
 
 ---
 
