@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario drops a table it's bloody but silent.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
+> Ein Taucher, der nicht taucht, taucht nix.
 
 ---
 
