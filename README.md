@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Hat der Bauer kalte Hände, flieht die Kuh in das Gelände.
+> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
 
 ---
 
