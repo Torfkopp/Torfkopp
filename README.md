@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario develops in prod.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario writes code that optimizes itself.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> In mir schlummert ein Genie, nur wird das Biest nicht wach.
+> Kräht der Maulwurf auf dem Dach, liegt der Hahn vor Lachen flach.
 
 ---
 
