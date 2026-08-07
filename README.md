@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Gut Kind will Keile haben. (nach M. Luther)
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
