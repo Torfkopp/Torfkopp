@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can't test for equality because he has no equal.
 - Mario can delete the Recycle Bin.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never has to use the -f option when deleting files.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Teigwaren heißen Teigwaren, weil sie mal Teig waren.
 
 ---
 
