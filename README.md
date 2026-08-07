@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario drops a table it's bloody but silent.
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Schwitzt der Bauer unterm Arm, wird der Sommer wieder warm.
+> Was Du heute hältst geborgen, wird auch morgen Dich versorgen.
 
 ---
 
