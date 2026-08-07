@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can access the DB from the UI.
+- Mario programs do not accept input.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Lieber abends später ins Bett als morgens früher aufstehen.
+> Hat der Bauer kalte Hände, flieht die Kuh in das Gelände.
 
 ---
 
