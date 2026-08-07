@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can't test for equality because he has no equal.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Ein Taucher, der nicht taucht, taucht nix.
+> In mir schlummert ein Genie, nur wird das Biest nicht wach.
 
 ---
 
