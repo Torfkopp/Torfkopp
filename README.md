@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can access the DB from the UI.
+- When Mario drops a table it's bloody but silent.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Fettflecke werden wie neu, wenn man sie regelmäßig mit Butter bestreicht.
+> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
 
 ---
 
