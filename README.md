@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Lehrer sind Menschen, die nach der Schule in Pension gehen.
+> Wer über Humor streitet, hat keinen.
 
 ---
 
