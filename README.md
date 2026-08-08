@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario develops in prod.
+- Mario can access the DB from the UI.
+- To Mario, everything contains a vulnerability.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Faulheit ist: sich ausruhen, bevor man müde wird.
+> Gute Mädchen kommen in den Himmel; böse überallhin.
 
 ---
 
