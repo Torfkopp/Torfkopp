@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Parent is the child of Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario exits vim by typing "exit"
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Wer nichts weiß, muss alles glauben.
+> Eine Kuh macht muh; viele Kühe machen Mühe.
 
 ---
 
