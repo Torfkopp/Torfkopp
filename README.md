@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario point to NULL, Null scares.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Ist kein Frostschutz mehr im Wein, tun sie halt was andres rein.
+> Er aß die Milch und trank das Brot, doch als er starb, da war er tot.
 
 ---
 
