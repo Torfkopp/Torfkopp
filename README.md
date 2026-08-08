@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario uses /dev/null as STDIN.
+- To Mario, everything contains a vulnerability.
+- Parent is the child of Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Er aß die Milch und trank das Brot, doch als er starb, da war er tot.
+> Wer nichts weiß, muss alles glauben.
 
 ---
 
