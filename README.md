@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- When Mario point to NULL, Null scares.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario programs do not accept input.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
+> Kinder unter fünf Jahren sind mit Klebeband oder Vorhängeschloss zu sichern.
 
 ---
 
