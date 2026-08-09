@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario develops in prod.
+- When Mario point to NULL, Null scares.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Warum sachlich werden, wenn es auch persönlich geht.
+> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
 
 ---
 
