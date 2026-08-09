@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Parent is the child of Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Lieber kleckern als kotzen.
+> Frauenpower macht uns sauer.
 
 ---
 
