@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When Mario point to NULL, Null scares.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can access the DB from the UI.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Computer lösen die Probleme, die wir ohne sie nicht hätten.
 
 ---
 
