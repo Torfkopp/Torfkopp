@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Weird, it always works on Mario's machine.
+- Parent is the child of Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Eine Kuh macht muh; viele Kühe machen Mühe.
+> Lieber kleckern als kotzen.
 
 ---
 
