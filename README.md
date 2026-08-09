@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Frauenpower macht uns sauer.
+> Gute Mädchen kommen in den Himmel; böse überallhin.
 
 ---
 
