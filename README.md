@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't use web standards as the web will conform to him.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Haben Krawattenträger nicht schon genug am Halse?
+> Eine Kuh macht muh; viele Kühe machen Mühe.
 
 ---
 
