@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario exits vim by typing "exit"
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Der Baum hat Äste, das ist das beste, denn wär' er kahl, dann wär's ein Pfahl.
+> Warum sachlich werden, wenn es auch persönlich geht.
 
 ---
 
