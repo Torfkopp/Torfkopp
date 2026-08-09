@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Unfug und Unrecht werden mit Fug und Recht bestraft.
+> Haben Krawattenträger nicht schon genug am Halse?
 
 ---
 
