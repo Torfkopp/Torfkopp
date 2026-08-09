@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can binary search unsorted data.
+- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Computer lösen die Probleme, die wir ohne sie nicht hätten.
+> Unfug und Unrecht werden mit Fug und Recht bestraft.
 
 ---
 
