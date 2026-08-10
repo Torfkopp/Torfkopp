@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Parent is the child of Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario point to NULL, Null scares.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
+> Wer stirbt, ist nur zu faul zum Leben.
 
 ---
 
