@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can access the DB from the UI.
+- Parent is the child of Mario.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario exits vim by typing "exit"
-- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer finden will, der muss verlieren können.
+> Heiliger Sankt Benedikt, ich bin schon wieder eingenickt.
 
 ---
 
