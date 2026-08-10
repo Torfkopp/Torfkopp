@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can delete the Recycle Bin.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
+> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
 
 ---
 
