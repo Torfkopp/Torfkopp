@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't make http requests. He makes http demands.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Gute Mädchen kommen in den Himmel; böse überallhin.
+> Gott sei Punk.
 
 ---
 
