@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can store the value 256 in one byte
+- Mario programs do not accept input.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
 
 ---
 
