@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can delete the Recycle Bin.
-- Mario can access the DB from the UI.
+- Mario exits vim by typing "exit"
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
+> Wer finden will, der muss verlieren können.
 
 ---
 
