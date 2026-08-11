@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can write to ROM.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Hat der Bauer kalte Hände, flieht die Kuh in das Gelände.
+> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
 
 ---
 
