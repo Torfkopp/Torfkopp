@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
+> Rache ist süß: Jede Süßigkeit rächt sich.
 
 ---
 
