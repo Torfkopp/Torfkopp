@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario hosting is 105% uptime guaranteed.
-- Mario can't test for equality because he has no equal.
+- Parent is the child of Mario.
+- Mario CAN divide by 0.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Der Papst zu Thomas Gottschalk: Wetten, dass ich 200 Flughäfen am Geschmack erkenne?
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
