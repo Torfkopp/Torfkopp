@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can write to ROM.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs do not accept input.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
+> Die Luft ist Schein, und der trügt.
 
 ---
 
