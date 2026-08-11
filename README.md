@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario throws an exception it's either across the room or out the window.
-- To Mario, everything contains a vulnerability.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario CAN divide by 0.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
 
 ---
 
