@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can access the DB from the UI.
-- Mario doesn't make http requests. He makes http demands.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
+> Hat der Bauer kalte Hände, flieht die Kuh in das Gelände.
 
 ---
 
