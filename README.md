@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario programs do not accept input.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Schlanker Staat - dicker Profit.
+> Lieber fröhlich im Bett als traurig bei der Arbeit.
 
 ---
 
