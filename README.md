@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
 - Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario uses /dev/null as STDIN.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Die Luft ist Schein, und der trügt.
+> Schlanker Staat - dicker Profit.
 
 ---
 
