@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario CAN divide by 0.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario throws an exception it's either across the room or out the window.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
