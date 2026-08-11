@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario CAN divide by 0.
-- Mario doesn't use web standards as the web will conform to him.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
+> Wer mit seinem Latein am Ende ist, sollte Spanisch lernen.
 
 ---
 
