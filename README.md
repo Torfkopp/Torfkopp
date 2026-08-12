@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario CAN divide by 0.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Langweilige Frauen haben blitzsaubere Küchen.
+> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
 
 ---
 
