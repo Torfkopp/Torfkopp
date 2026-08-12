@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Weird, it always works on Mario's machine.
 - Mario can access the DB from the UI.
+- Mario can compile syntax errors.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Es gibt viel zu tun, nix wie weg.
+> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
 
 ---
 
