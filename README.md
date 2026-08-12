@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- 404 errors simply mean that Mario has been there before you.
-- Mario develops in prod.
+- Mario programs do not accept input.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Lieber ein Zebra streifen als einen Bullen anfahren.
+> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
 
 ---
 
