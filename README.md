@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can delete the Recycle Bin.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Liebe ist, wenn man trotzdem lacht.
+> Viele Köche sind des Hasen Tod.
 
 ---
 
