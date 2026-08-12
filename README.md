@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario exits vim by typing "exit"
+- Weird, it always works on Mario's machine.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Rot denken, grün wählen, blau machen, schwarz schaffen.
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
