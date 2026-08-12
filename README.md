@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
+- Mario plugs in USB sticks perfectly the first time every time
 - Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
+> Alles hat Grenzen, nur die Dummheit ist unendlich.
 
 ---
 
