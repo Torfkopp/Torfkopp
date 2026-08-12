@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Parent is the child of Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Alles hat Grenzen, nur die Dummheit ist unendlich.
+> Rot denken, grün wählen, blau machen, schwarz schaffen.
 
 ---
 
