@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Weird, it always works on Mario's machine.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Auch Dornröschen trug kein Höschen.
+> Es gibt viel zu tun, nix wie weg.
 
 ---
 
