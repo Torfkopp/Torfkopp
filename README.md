@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
+> Liebe ist, wenn man trotzdem lacht.
 
 ---
 
