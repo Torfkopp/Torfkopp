@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can compile syntax errors.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- 404 errors simply mean that Mario has been there before you.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
+> Lieber ein Zebra streifen als einen Bullen anfahren.
 
 ---
 
