@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can binary search unsorted data.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario does not code in cycles, he codes in strikes.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> High sein, frei sein, bloß in keiner Partei sein.
+> Kinder unter fünf Jahren sind mit Klebeband oder Vorhängeschloss zu sichern.
 
 ---
 
