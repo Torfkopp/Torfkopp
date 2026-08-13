@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario does not code in cycles, he codes in strikes.
-- Weird, it always works on Mario's machine.
+- Mario CAN divide by 0.
+- Mario writes code that optimizes itself.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Kinder unter fünf Jahren sind mit Klebeband oder Vorhängeschloss zu sichern.
+> Faulenzen schafft Arbeitsplätze.
 
 ---
 
