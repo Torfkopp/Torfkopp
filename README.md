@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When Mario throws exceptions, it's across the room.
-- Mario never has to use the -f option when deleting files.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Coeo, ergo sum.
+> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
 
 ---
 
