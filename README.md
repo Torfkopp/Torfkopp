@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario uses /dev/null as STDIN.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Viele Köche sind des Hasen Tod.
+> Es ist noch kein Kleister vom Himmel gefallen.
 
 ---
 
