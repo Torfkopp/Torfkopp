@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Weird, it always works on Mario's machine.
-- Windows 7 was Mario's idea.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario does not code in cycles, he codes in strikes.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Der Herr zum Knecht: "Heut geht's mir schlecht!" Der Knecht zum Herrn: "Das hört man gern!"
+> Alles wird besser, nichts wird gut.
 
 ---
 
