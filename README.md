@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario hosting is 105% uptime guaranteed.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can access the DB from the UI.
+- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer stirbt, ist nur zu faul zum Leben.
+> Der Herr zum Knecht: "Heut geht's mir schlecht!" Der Knecht zum Herrn: "Das hört man gern!"
 
 ---
 
