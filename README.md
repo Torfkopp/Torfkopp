@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario does not code in cycles, he codes in strikes.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can binary search unsorted data.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Alles wird besser, nichts wird gut.
+> High sein, frei sein, bloß in keiner Partei sein.
 
 ---
 
