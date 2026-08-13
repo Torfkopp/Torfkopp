@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario writes code that optimizes itself.
-- Parent is the child of Mario.
+- Weird, it always works on Mario's machine.
+- When Mario throws exceptions, it's across the room.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Faulenzen schafft Arbeitsplätze.
+> Coeo, ergo sum.
 
 ---
 
