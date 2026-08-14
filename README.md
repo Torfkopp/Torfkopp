@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario hosting is 105% uptime guaranteed.
+- Mario develops in prod.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Snobs sind Leute, die sich ihre Petersilie mit FLEUROP ins Haus schicken lassen.
+> Sie war "von und zu", er "auf und davon".
 
 ---
 
