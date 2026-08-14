@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario CAN divide by 0.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Die Schlankheitskur verliert den Schrecken, lässt du dir alles weiter schmecken.
+> Hau niemals ab - hau einfach zu!
 
 ---
 
