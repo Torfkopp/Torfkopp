@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't make http requests. He makes http demands.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Das größte Maul und kleinste Hirn, die haben meist dieselbe Stirn.
+> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
 
 ---
 
