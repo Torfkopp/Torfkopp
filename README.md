@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Parent is the child of Mario.
+- Mario can binary search unsorted data.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Das Leben gibt's gratis, der Rest ist käuflich.
+> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
 
 ---
 
