@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- When Mario point to NULL, Null scares.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
+> Die Schlankheitskur verliert den Schrecken, lässt du dir alles weiter schmecken.
 
 ---
 
