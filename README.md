@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario exits vim by typing "exit"
+- When Mario throws exceptions, it's across the room.
 - Mario doesn't use web standards as the web will conform to him.
-- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Biss demnächst, sagte der Vampir.
+> Was tut das Volk? Es folgt!
 
 ---
 
