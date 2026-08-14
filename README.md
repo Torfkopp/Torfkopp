@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario develops in prod.
-- Parent is the child of Mario.
+- 404 errors simply mean that Mario has been there before you.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Sie war "von und zu", er "auf und davon".
+> Das Leben gibt's gratis, der Rest ist käuflich.
 
 ---
 
