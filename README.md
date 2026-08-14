@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario CAN divide by 0.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Hau niemals ab - hau einfach zu!
+> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
 
 ---
 
