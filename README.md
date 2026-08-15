@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- When Mario throws an exception it's either across the room or out the window.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Spare in der Not, dann hast du Zeit dazu.
+> Riech ich dein Aroma, fall ich gleich ins Koma.
 
 ---
 
