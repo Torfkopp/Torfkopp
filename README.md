@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- To Mario, everything contains a vulnerability.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
+> Anything goes, nur nicht Albrecht Goes.
 
 ---
 
