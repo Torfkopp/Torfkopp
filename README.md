@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario throws exceptions, it's across the room.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Ein blindes Huhn findet auch mal eine lahme Ente.
+> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
 
 ---
 
