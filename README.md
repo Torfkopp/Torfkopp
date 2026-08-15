@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can write to ROM.
+- When Mario drops a table it's bloody but silent.
+- When Mario throws an exception it's either across the room or out the window.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Frisch gewagt ist halb verschrottet.
+> Spare in der Not, dann hast du Zeit dazu.
 
 ---
 
