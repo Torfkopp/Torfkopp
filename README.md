@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario invented binary by performing a roundhouse on the number 10.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario CAN divide by 0.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Fighting for peace is like fucking for virginity.
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
