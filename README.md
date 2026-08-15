@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario exits vim by typing "exit"
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Der Geist denkt, das Geld lenkt.
+> Ich muss die Nase meiner Ollen an jeder Grenze neu verzollen.
 
 ---
 
