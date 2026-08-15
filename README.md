@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Parent is the child of Mario.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can't test for equality because he has no equal.
+- Mario invented binary by performing a roundhouse on the number 10.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Die Spitzhacke im Haus ersetzt den Psychopathen.
+> Wanzen im Telefon schaffen Unterhaltung.
 
 ---
 
