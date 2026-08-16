@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario writes code that optimizes itself.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Überlegen macht überlegen.
+> Wenn eine Schraube locker ist, hat das Leben etwas mehr Spiel.
 
 ---
 
