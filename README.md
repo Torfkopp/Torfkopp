@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario hosting is 105% uptime guaranteed.
+- Windows 7 was Mario's idea.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Ich muss die Nase meiner Ollen an jeder Grenze neu verzollen.
+> Überlegen macht überlegen.
 
 ---
 
