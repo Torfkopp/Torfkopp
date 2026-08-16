@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 - Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
+> Wer heute normal ist, ist nicht mehr normal.
 
 ---
 
