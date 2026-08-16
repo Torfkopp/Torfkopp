@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Windows 7 was Mario's idea.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't use web standards as the web will conform to him.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Der Spekulant verdient sein Brot mit Hausverfall und Wohnungsnot.
+> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
 
 ---
 
