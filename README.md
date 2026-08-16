@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Weird, it always works on Mario's machine.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Windows 7 was Mario's idea.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wenn eine Schraube locker ist, hat das Leben etwas mehr Spiel.
+> Der Spekulant verdient sein Brot mit Hausverfall und Wohnungsnot.
 
 ---
 
