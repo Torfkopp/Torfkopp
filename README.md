@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario develops in prod.
-- Mario can binary search unsorted data.
+- When Mario drops a table it's bloody but silent.
+- When Mario throws exceptions, it's across the room.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Zum Leben muss man geboren sein.
+> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
 
 ---
 
