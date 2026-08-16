@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- To Mario, everything contains a vulnerability.
-- Mario can store the value 256 in one byte
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario develops in prod.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
+> Zum Leben muss man geboren sein.
 
 ---
 
