@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't make http requests. He makes http demands.
+- To Mario, everything contains a vulnerability.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Was nicht allzu teuer ist, das können wir erlösen.
+> Es ist ein geiles Feeling, wenn aus Malooche Zaster wird.
 
 ---
 
