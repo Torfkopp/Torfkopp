@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can access the DB from the UI.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario programs do not accept input.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
+> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
 
 ---
 
