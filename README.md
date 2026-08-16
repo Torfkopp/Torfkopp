@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- When Mario throws exceptions, it's across the room.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can access the DB from the UI.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Wenn Sie nichts zu tun haben, tun Sie's bitte nicht hier.
+> Lieber am Hungertuch nagen als mit Hammer und Sichel essen.
 
 ---
 
