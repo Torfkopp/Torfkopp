@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- 404 errors simply mean that Mario has been there before you.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Ich hol‘ Dir keine Sterne mehr vom Himmel, die liegen später doch nur zu Hause rum!
+> Was nicht allzu teuer ist, das können wir erlösen.
 
 ---
 
