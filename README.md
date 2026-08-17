@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario develops in prod.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Weird, it always works on Mario's machine.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Lieber oberaffengeil als unterallersau.
 
 ---
 
