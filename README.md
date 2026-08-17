@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario programs do not accept input.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can compile syntax errors.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Lieber Eis am Stiel, als Dreck am Stecken.
+> Enthaltsamkeit ist aller Laster Anfang.
 
 ---
 
