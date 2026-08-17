@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario CAN divide by 0.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Weird, it always works on Mario's machine.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Männer machen Geschichte, Frauen machen Geschichten.
+> Spontaneität will wohlüberlegt sein.
 
 ---
 
