@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario point to NULL, Null scares.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Gemeinsam sind wir unausstehlich.
+> Professorenglatze ist Waldsterben auf höherer Ebene.
 
 ---
 
