@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Weird, it always works on Mario's machine.
+- Mario writes code that optimizes itself.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Lieber oberaffengeil als unterallersau.
+> Männer machen Geschichte, Frauen machen Geschichten.
 
 ---
 
