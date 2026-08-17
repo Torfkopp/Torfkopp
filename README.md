@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario hosting is 105% uptime guaranteed.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can access the DB from the UI.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Professorenglatze ist Waldsterben auf höherer Ebene.
+> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
 
 ---
 
