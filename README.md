@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario programs do not accept input.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
+> Es gibt jetzt endlich die Pille für den Mann. Sie wird nach dem Verkehr eingenommen und verändert die Blutgruppe.
 
 ---
 
