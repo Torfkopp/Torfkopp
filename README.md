@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario plugs in USB sticks perfectly the first time every time
-- When Mario drops a table it's bloody but silent.
+- Weird, it always works on Mario's machine.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> 429: Too Many Requests
+> Gemeinsam sind wir unausstehlich.
 
 ---
 
