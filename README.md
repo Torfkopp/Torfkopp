@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Weird, it always works on Mario's machine.
-- Mario can binary search unsorted data.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario plugs in USB sticks perfectly the first time every time
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Spontaneität will wohlüberlegt sein.
+> 429: Too Many Requests
 
 ---
 
