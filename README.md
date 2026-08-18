@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- When Mario point to NULL, Null scares.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario CAN divide by 0.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Ich denke, also spinn ich.
+> Zu viel Eisbein schadet dem Steißbein.
 
 ---
 
