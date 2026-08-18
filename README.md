@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario CAN divide by 0.
-- Mario can binary search unsorted data.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Zu viel Eisbein schadet dem Steißbein.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
