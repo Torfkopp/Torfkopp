@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario CAN divide by 0.
+- Mario develops in prod.
+- Mario can binary search unsorted data.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Lieber spät und richtig als nie und falsch.
+> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
 
 ---
 
