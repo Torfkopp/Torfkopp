@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't use web standards as the web will conform to him.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
+> Faulheit ist: sich ausruhen, bevor man müde wird.
 
 ---
 
