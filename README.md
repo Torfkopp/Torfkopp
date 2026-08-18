@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can access the DB from the UI.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can write to ROM.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Faulheit ist: sich ausruhen, bevor man müde wird.
+> Die größte Offenbarung ist die Pulle. (H. Juhnke)
 
 ---
 
