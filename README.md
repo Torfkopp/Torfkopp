@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can write to ROM.
-- Mario can compile syntax errors.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pulle. (H. Juhnke)
+> Jedes Pro und Contra hat sein Für und Wider.
 
 ---
 
