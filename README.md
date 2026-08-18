@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can binary search unsorted data.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
+> Lügen haben kurze Beine, aber tausend Füße.
 
 ---
 
