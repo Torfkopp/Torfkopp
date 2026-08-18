@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario exits vim by typing "exit"
+- Mario invented binary by performing a roundhouse on the number 10.
+- When Mario point to NULL, Null scares.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Jedes Pro und Contra hat sein Für und Wider.
+> Ich denke, also spinn ich.
 
 ---
 
