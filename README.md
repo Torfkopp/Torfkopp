@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario point to NULL, Null scares.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Hinter jedem lustigen Mann steht eine Frau, die ihre Augen verdreht.
+> Der Geist denkt, das Geld lenkt.
 
 ---
 
