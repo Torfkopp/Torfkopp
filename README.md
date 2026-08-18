@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario hosting is 105% uptime guaranteed.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Ein Masochist, der zurückhaut, ist pervers.
+> Wenn dich Hass und Neid umringen, denk an Götz von Berlichingen.
 
 ---
 
