@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario point to NULL, Null scares.
+- Weird, it always works on Mario's machine.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Sogar eine halbe Portion kann ein Doppelleben führen.
+> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
 
 ---
 
