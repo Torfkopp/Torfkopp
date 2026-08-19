@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
+> Rote Haare, Sommersprossen sind die besten Bettgenossen.
 
 ---
 
