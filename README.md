@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Weird, it always works on Mario's machine.
-- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Manche tun so viel für ihre Gesundheit, dass sie ganz krank davon werden.
+> Der direkteste Weg der Listigen ist die Schlangenlinie.
 
 ---
 
