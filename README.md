@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can delete the Recycle Bin.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario programs do not accept input.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
+> Bist du einsam und allein, sprüh dich mit Kontaktspray ein.
 
 ---
 
