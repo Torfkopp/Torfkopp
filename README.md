@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Windows 7 was Mario's idea.
+- Mario develops in prod.
+- Mario can store the value 256 in one byte
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Bist du einsam und allein, sprüh dich mit Kontaktspray ein.
+> Der Herr zum Knecht: "Heut geht's mir schlecht!" Der Knecht zum Herrn: "Das hört man gern!"
 
 ---
 
