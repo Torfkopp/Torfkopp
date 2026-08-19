@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario point to NULL, Null scares.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Komm zurück, Godot; es ist alles verziehen.
+> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
 
 ---
 
