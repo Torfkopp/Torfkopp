@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can't test for equality because he has no equal.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Der direkteste Weg der Listigen ist die Schlangenlinie.
+> Wie man sich füttert, so wiegt man.
 
 ---
 
