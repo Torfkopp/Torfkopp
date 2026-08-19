@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario plugs in USB sticks perfectly the first time every time
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Rote Haare, Sommersprossen sind die besten Bettgenossen.
+> Komm zurück, Godot; es ist alles verziehen.
 
 ---
 
