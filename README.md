@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Ein blindes Huhn findet auch mal eine lahme Ente.
+> Wer sündig durch die Jugend tapst, im Alter meist nach Tugend japst.
 
 ---
 
