@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario does not code in cycles, he codes in strikes.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
+> Sogar eine halbe Portion kann ein Doppelleben führen.
 
 ---
 
