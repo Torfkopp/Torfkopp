@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Der Geist denkt, das Geld lenkt.
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
