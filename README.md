@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can store the value 256 in one byte
-- Mario exits vim by typing "exit"
+- Parent is the child of Mario.
+- Weird, it always works on Mario's machine.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Der Herr zum Knecht: "Heut geht's mir schlecht!" Der Knecht zum Herrn: "Das hört man gern!"
+> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
 
 ---
 
