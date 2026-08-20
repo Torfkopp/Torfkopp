@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can write to ROM.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
+> Große Ereignisse werfen mitunter Schatten unter die Augen.
 
 ---
 
