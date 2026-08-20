@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
 - Mario does not code in cycles, he codes in strikes.
-- Mario CAN divide by 0.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
+> Komm lieber Mai und mache den SCHILY wieder grün.
 
 ---
 
