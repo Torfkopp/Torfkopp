@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario does not code in cycles, he codes in strikes.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
+> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
 
 ---
 
