@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can delete the Recycle Bin.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Und von wem haben Sie Ihre Meinung?
+> Noch bin ich klein und schlaf allein - bald bin ich groß, und dann gehts los.
 
 ---
 
