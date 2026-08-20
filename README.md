@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario never has to use the -f option when deleting files.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario exits vim by typing "exit"
+- Mario does not code in cycles, he codes in strikes.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
+> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
 
 ---
 
