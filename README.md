@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- When Mario drops a table it's bloody but silent.
-- Mario invented binary by performing a roundhouse on the number 10.
+- 404 errors simply mean that Mario has been there before you.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wer zuletzt lacht, stirbt wenigstens fröhlich.
+> Wem du's heute kannst besorgen, den verschone nicht bis morgen.
 
 ---
 
