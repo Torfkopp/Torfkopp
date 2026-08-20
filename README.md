@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can access the DB from the UI.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can write to ROM.
-- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Große Ereignisse werfen mitunter Schatten unter die Augen.
+> Und von wem haben Sie Ihre Meinung?
 
 ---
 
