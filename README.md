@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
 - Weird, it always works on Mario's machine.
-- Mario writes code that optimizes itself.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Wer drei Eier durch vier teilt, muss mit einem Bruch rechnen.
+> Wenn die Milch nach Krypton schmeckt, hat's im AKW geleckt.
 
 ---
 
