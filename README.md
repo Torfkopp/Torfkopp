@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wem du's heute kannst besorgen, den verschone nicht bis morgen.
+> Jodelt laut die Magd im Stall, kriegt die Kuh 'nen Herzanfall.
 
 ---
 
