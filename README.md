@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario does not code in cycles, he codes in strikes.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario drops a table it's bloody but silent.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Sie gießen Wahnsinn in Beton und Unrecht in Gesetze.
+> Wer zuletzt lacht, stirbt wenigstens fröhlich.
 
 ---
 
