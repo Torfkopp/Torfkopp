@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario CAN divide by 0.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Komm lieber Mai und mache den SCHILY wieder grün.
+> Nonsens statt Konsens.
 
 ---
 
