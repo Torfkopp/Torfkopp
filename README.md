@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario hosting is 105% uptime guaranteed.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
+> Wer nicht hören will, muss fernsehen.
 
 ---
 
