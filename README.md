@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can access the DB from the UI.
+- Mario can't test for equality because he has no equal.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Wie man sich fettet, so riecht man.
+> Mein Bauch ist voll, mein Kopf ist hohl, ich glaub', ich bin der Kanzler Kohl.
 
 ---
 
