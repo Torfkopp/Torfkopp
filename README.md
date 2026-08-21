@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can compile syntax errors.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario CAN divide by 0.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wir wollen alles, und davon möglichst viel.
+> Rache ist süß: Jede Süßigkeit rächt sich.
 
 ---
 
