@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario hosting is 105% uptime guaranteed.
-- Mario writes code that optimizes itself.
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wer nicht hören will, muss fernsehen.
+> Die größte Offenbarung ist die Bulle. (Papsturkundenschreiber)
 
 ---
 
