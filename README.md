@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario uses /dev/null as STDIN.
-- When Mario throws an exception it's either across the room or out the window.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Sehn wir uns nicht in dieser Welt, dann sehn wir uns in Bielefeld.
+> Wer im Gasthaus sitzt, sollte nicht mit Scheinen werfen.
 
 ---
 
