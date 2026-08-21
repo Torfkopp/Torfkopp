@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario develops in prod.
-- Parent is the child of Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can compile syntax errors.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Du hast so schöne Zähne: gibt's die auch in Weiß?
+> Wir wollen alles, und davon möglichst viel.
 
 ---
 
