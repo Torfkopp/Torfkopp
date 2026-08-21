@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can write to ROM.
+- Mario can't test for equality because he has no equal.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Rache ist süß: Jede Süßigkeit rächt sich.
+> Polygamie ist Demokratie im Bett.
 
 ---
 
