@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario exits vim by typing "exit"
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Nonsens statt Konsens.
+> Wie man sich fettet, so riecht man.
 
 ---
 
