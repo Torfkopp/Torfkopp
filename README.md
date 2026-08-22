@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario never has to use the -f option when deleting files.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Weird, it always works on Mario's machine.
+- Mario can binary search unsorted data.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
+> Gott ist allmächtig, nur nicht auf der Erde.
 
 ---
 
