@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario invented binary by performing a roundhouse on the number 10.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario exits vim by typing "exit"
+- Mario writes code that optimizes itself.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pille. (Familienplaner)
+> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
 
 ---
 
