@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- When Mario throws an exception it's either across the room or out the window.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario throws an exception it's either across the room or out the window.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Lieber ein erregter Bekannter als ein unbekannter Erreger.
+> Es gibt Fach- und Mehrfachidioten.
 
 ---
 
