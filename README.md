@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario writes code that optimizes itself.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Dummheit, verlass ihn nicht, sonst steht er ganz allein.
+> Die Zunge ist das einzige Werkzeug, das durch ständigen Gebrauch noch schärfer wird.
 
 ---
 
