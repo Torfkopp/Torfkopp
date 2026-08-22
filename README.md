@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
 - Mario can binary search unsorted data.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Gott ist allmächtig, nur nicht auf der Erde.
+> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
 
 ---
 
