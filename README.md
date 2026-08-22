@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario writes code that optimizes itself.
+- Mario never has to use the -f option when deleting files.
 - The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Ein Playboy hat immer was in Petting.
+> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
 
 ---
 
