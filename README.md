@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can store the value 256 in one byte
+- Mario can't test for equality because he has no equal.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Die Zunge ist das einzige Werkzeug, das durch ständigen Gebrauch noch schärfer wird.
+> Lieber Eis am Stiel, als Dreck am Stecken.
 
 ---
 
