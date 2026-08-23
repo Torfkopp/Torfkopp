@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can't test for equality because he has no equal.
+- Mario CAN divide by 0.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Biss demnächst, sagte der Vampir.
+> Besser Sex für Geld als kein Sex und kein Geld.
 
 ---
 
