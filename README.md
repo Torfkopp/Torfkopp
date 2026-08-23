@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Ein Tritt in den Hintern sagt mehr aus tausend Worte.
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
