@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never has to use the -f option when deleting files.
-- Mario uses /dev/null as STDIN.
+- Parent is the child of Mario.
+- Mario can access the DB from the UI.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
+> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
 
 ---
 
