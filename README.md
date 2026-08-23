@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario point to NULL, Null scares.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Kein Fachmann ohne Flachmann.
+> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
 
 ---
 
