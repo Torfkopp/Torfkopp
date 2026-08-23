@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- To Mario, everything contains a vulnerability.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
+> Gesunde Verdorbenheit ist besser als verdorbene Gesundheit.
 
 ---
 
