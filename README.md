@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario exits vim by typing "exit"
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Lieber einmal Sydne Rome als zweimal Paris-Dakar.
+> Biss demnächst, sagte der Vampir.
 
 ---
 
