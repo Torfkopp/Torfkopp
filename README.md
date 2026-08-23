@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Windows 7 was Mario's idea.
+- Mario exits vim by typing "exit"
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Im Falle eines Falles ist richtig fallen alles. (Fußballer-Maxime)
+> Lieber einmal Sydne Rome als zweimal Paris-Dakar.
 
 ---
 
