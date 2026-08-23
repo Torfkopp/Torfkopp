@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can write to ROM.
+- Mario hosting is 105% uptime guaranteed.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Besser Sex für Geld als kein Sex und kein Geld.
+> Ich bin klein, mein Herz ist schmutzig, ist das nicht putzig?
 
 ---
 
