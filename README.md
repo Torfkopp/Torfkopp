@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never has to use the -f option when deleting files.
 - Mario uses /dev/null as STDIN.
 
 ---
 
 ### German Wisdom
-> Gesunde Verdorbenheit ist besser als verdorbene Gesundheit.
+> Ohne Lärm und viel Gebrüll macht das Blatt sein Chlorophyll.
 
 ---
 
