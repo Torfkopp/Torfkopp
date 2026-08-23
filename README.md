@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario point to NULL, Null scares.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- 404 errors simply mean that Mario has been there before you.
+- To Mario, everything contains a vulnerability.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Fällt die Bäuerin in den Dünger, wird sie dadurch auch nicht jünger.
+> Mit Haaren bunt so wie ein Smartie ist man der Hit auf jeder Party.
 
 ---
 
