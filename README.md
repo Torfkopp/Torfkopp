@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can't test for equality because he has no equal.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario uses /dev/null as STDIN.
+- Mario can delete the Recycle Bin.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Cave Caplanem.
+> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
 
 ---
 
