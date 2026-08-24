@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario can access the DB from the UI.
-- 404 errors simply mean that Mario has been there before you.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
+> Das jüngste Gericht wird sich vertagen müssen, weil sich die Frauen verspäten.
 
 ---
 
