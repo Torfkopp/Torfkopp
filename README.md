@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario programs do not accept input.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws exceptions, it's across the room.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Auch Fliegen werfen Schatten.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
