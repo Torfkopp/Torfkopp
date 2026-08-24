@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario CAN divide by 0.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Sommersprossen sind auch Gesichtspunkte.
+> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
 
 ---
 
