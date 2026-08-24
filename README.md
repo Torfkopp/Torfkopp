@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can delete the Recycle Bin.
-- Parent is the child of Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
+> Sommersprossen sind auch Gesichtspunkte.
 
 ---
 
