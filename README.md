@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- 404 errors simply mean that Mario has been there before you.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> "So nehmen Sie doch Vernunft an!" - "Ich darf nichts annehmen, ich bin Beamtin."
+> Wenn man gut sitzt, braucht man keinen Standpunkt.
 
 ---
 
