@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario develops in prod.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Das jüngste Gericht wird sich vertagen müssen, weil sich die Frauen verspäten.
+> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
 
 ---
 
