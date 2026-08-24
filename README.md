@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Windows 7 was Mario's idea.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario writes code that optimizes itself.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Wir wollen keine Entsorgung; laßt uns wenigstens unsere Sorgen.
+> Lieber Rosinen im Kopf als Haare im Kuchen.
 
 ---
 
