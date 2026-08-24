@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario throws exceptions, it's across the room.
-- Mario writes code that optimizes itself.
+- When Mario throws an exception it's either across the room or out the window.
+- Windows 7 was Mario's idea.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
+> Wir wollen keine Entsorgung; laßt uns wenigstens unsere Sorgen.
 
 ---
 
