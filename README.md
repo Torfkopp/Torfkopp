@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 - Mario develops in prod.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario programs do not accept input.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Arbeit macht Spaß; aber wer kann schon Spaß vertragen?
+> Auch Fliegen werfen Schatten.
 
 ---
 
