@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario programs do not accept input.
+- Mario can't test for equality because he has no equal.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Lieber Rosinen im Kopf als Haare im Kuchen.
+> Cave Caplanem.
 
 ---
 
