@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario programs do not accept input.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Warum sachlich werden, wenn es auch persönlich geht.
+> Wenn sich zwei streiten, freut sich der Anwalt.
 
 ---
 
