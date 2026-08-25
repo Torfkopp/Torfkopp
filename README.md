@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Lieber spät und richtig als nie und falsch.
+> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
 
 ---
 
