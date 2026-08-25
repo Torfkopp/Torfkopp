@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Verblühen die Frauen, verduften die Männer.
+> Wenn der Kuchen spricht, schweigt der Krümel.
 
 ---
 
