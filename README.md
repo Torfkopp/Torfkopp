@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario does not code in cycles, he codes in strikes.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
