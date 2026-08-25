@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario programs do not accept input.
-- Mario develops in prod.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
+> Warum sachlich werden, wenn es auch persönlich geht.
 
 ---
 
