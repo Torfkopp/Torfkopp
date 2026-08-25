@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario doesn't make http requests. He makes http demands.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
+> Lieber spät und richtig als nie und falsch.
 
 ---
 
