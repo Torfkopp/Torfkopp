@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario programs do not accept input.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Hölle. (Luzifer)
+> Verblühen die Frauen, verduften die Männer.
 
 ---
 
