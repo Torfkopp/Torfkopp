@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario uses /dev/null as STDIN.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't make http requests. He makes http demands.
+- Mario programs do not accept input.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
+> Die größte Offenbarung ist die Hölle. (Luzifer)
 
 ---
 
