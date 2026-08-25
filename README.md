@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can't test for equality because he has no equal.
-- Mario hosting is 105% uptime guaranteed.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't make http requests. He makes http demands.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Der Plebs trinkt Schweppes.
+> Hängst du im Sommer auf der Schüssel, kam das Hähnchen wohl aus Brüssel.
 
 ---
 
