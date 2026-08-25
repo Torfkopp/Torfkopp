@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario invented binary by performing a roundhouse on the number 10.
 - Mario programs do not accept input.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
+> Eine spitze Zunge ist in vielen Ländern schon unerlaubter Waffenbesitz.
 
 ---
 
