@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- 404 errors simply mean that Mario has been there before you.
 - Mario programs occupy 150% of CPU, even when they are not executing.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- To Mario, everything contains a vulnerability.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wenn der Kuchen spricht, schweigt der Krümel.
+> Wir haben schwach angefangen, aber dafür lassen wir stark nach.
 
 ---
 
