@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- 404 errors simply mean that Mario has been there before you.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Der Bauer macht ein Bäuerlein, es muss nicht mit der Bäuerin sein.
+> Jedes Mal, wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
