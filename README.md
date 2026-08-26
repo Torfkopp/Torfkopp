@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - Mario writes code that optimizes itself.
-- When Mario point to NULL, Null scares.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
+> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
 
 ---
 
