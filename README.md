@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario never has to use the -f option when deleting files.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Rolle. (Starlet)
+> Der Student geht so lange zur Mensa bis er bricht.
 
 ---
 
