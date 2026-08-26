@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario programs do not accept input.
+- Mario exits vim by typing "exit"
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Jedes Mal, wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
