@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario writes code that optimizes itself.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can access the DB from the UI.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
+> Große Ereignisse werfen mitunter Schatten unter die Augen.
 
 ---
 
