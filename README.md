@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario CAN divide by 0.
-- When Mario throws exceptions, it's across the room.
+- Mario can access the DB from the UI.
+- Mario writes code that optimizes itself.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
+> Setz dich ruhig in die Nesseln; wer weiß, wie lange es die noch gibt.
 
 ---
 
