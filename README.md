@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario never has to use the -f option when deleting files.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can delete the Recycle Bin.
+- Mario CAN divide by 0.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Der Student geht so lange zur Mensa bis er bricht.
+> Färbt der Patient sich plötzlich lila, desinfiziert man mit Tequila.
 
 ---
 
