@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario exits vim by typing "exit"
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can't test for equality because he has no equal.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
+> Der Klügere gibt so lange nach, bis er der Dumme ist.
 
 ---
 
