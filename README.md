@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can't test for equality because he has no equal.
-- Mario can delete the Recycle Bin.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario exits vim by typing "exit"
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Der Klügere gibt so lange nach, bis er der Dumme ist.
+> Lieber eine dunkle Kneipe als ein lichter Arbeitsplatz.
 
 ---
 
