@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario exits vim by typing "exit"
-- Mario can compile syntax errors.
+- Mario writes code that optimizes itself.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Lieber eine dunkle Kneipe als ein lichter Arbeitsplatz.
+> Ouzo statt Juso.
 
 ---
 
