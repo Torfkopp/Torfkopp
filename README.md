@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can compile syntax errors.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario uses /dev/null as STDIN.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
+> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
 
 ---
 
