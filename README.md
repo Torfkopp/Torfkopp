@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can compile syntax errors.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Ouzo statt Juso.
+> Ich bin dick und du bist doof. Ich kann abnehmen und was kannst du?
 
 ---
 
