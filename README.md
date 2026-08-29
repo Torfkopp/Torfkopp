@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can access the DB from the UI.
+- Mario CAN divide by 0.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wir schießen die Politiker auf den Mond, damit sich Raumfahrt wieder lohnt.
+> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
 
 ---
 
