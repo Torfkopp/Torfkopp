@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario develops in prod.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Nicht Güte zählt, sondern Bonität.
+> Ouzo statt Juso.
 
 ---
 
