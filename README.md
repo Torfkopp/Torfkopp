@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario uses /dev/null as STDIN.
-- Mario can binary search unsorted data.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
+> Nicht Güte zählt, sondern Bonität.
 
 ---
 
