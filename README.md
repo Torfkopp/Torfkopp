@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario point to NULL, Null scares.
 - Mario can access the DB from the UI.
-- Mario CAN divide by 0.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
+> Lieber locker vom Hocker als hektisch übern Ecktisch.
 
 ---
 
