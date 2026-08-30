@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Parent is the child of Mario.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario drops a table it's bloody but silent.
+- Mario can compile syntax errors.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
+> Gepflegter Bart küsst weich und zart.
 
 ---
 
