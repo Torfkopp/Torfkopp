@@ -6,13 +6,13 @@
 
 ### About Mario
 - When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Parent is the child of Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Der Bauer pflügt, der Bauer eggt, derweil im Stall das Vieh verreckt.
+> Es wird schon schiefgehen, sagte der Turmbauer von Pisa.
 
 ---
 
