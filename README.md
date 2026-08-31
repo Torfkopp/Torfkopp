@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Parent is the child of Mario.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Für Geld tue ich alles, sogar arbeiten.
+> Wer rennt und lacht, kommt in Verdacht.
 
 ---
 
