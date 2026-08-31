@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario does not code in cycles, he codes in strikes.
-- Weird, it always works on Mario's machine.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario exits vim by typing "exit"
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Es gibt Fach- und Mehrfachidioten.
+> Lerne lachen ohne zu weinen.
 
 ---
 
