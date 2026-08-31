@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario can binary search unsorted data.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
+> Es gibt Fach- und Mehrfachidioten.
 
 ---
 
