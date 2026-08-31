@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Parent is the child of Mario.
-- When Mario throws exceptions, it's across the room.
+- Mario exits vim by typing "exit"
+- Mario can binary search unsorted data.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wer rennt und lacht, kommt in Verdacht.
+> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
 
 ---
 
