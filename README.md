@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can write to ROM.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
+> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
 
 ---
 
