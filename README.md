@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can't test for equality because he has no equal.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Die Pflicht ruft? Wir rufen zurück.
+> Damit wir andere Sterne sehen, muss unsere Sonne untergehen.
 
 ---
 
