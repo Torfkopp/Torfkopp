@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario exits vim by typing "exit"
-- Mario never has to use the -f option when deleting files.
+- Mario can binary search unsorted data.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Lerne lachen ohne zu weinen.
+> Die Pflicht ruft? Wir rufen zurück.
 
 ---
 
