@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can compile syntax errors.
+- Mario can't test for equality because he has no equal.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Lieber spät und richtig als nie und falsch.
+> Legt die Nordsee trocken, wir wollen nach England.
 
 ---
 
