@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can't test for equality because he has no equal.
+- Mario exits vim by typing "exit"
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Legt die Nordsee trocken, wir wollen nach England.
+> Mancher fasst sich an den Kopf - und greift ins Leere.
 
 ---
 
