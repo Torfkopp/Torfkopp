@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario never has to use the -f option when deleting files.
-- Mario does not code in cycles, he codes in strikes.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- To Mario, everything contains a vulnerability.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Heiratest du aus Liebe, hast du schöne Nächte und schlechte Tage.
+> Liebe beginnt mit Fieber und endet mit Gähnen.
 
 ---
 
