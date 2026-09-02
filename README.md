@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- To Mario, everything contains a vulnerability.
-- Mario writes code that optimizes itself.
+- Mario uses /dev/null as STDIN.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Liebe beginnt mit Fieber und endet mit Gähnen.
+> Ende gut, alles putt.
 
 ---
 
