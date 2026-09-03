@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Weird, it always works on Mario's machine.
-- When Mario point to NULL, Null scares.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Drinnen ist es wie draußen: bloß anders.
+> Tu was fürs Vaterland: wandre aus.
 
 ---
 
