@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario uses /dev/null as STDIN.
+- Mario can compile syntax errors.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber ein Bund fürs Leben als ein Leben für den Bund.
+> Der Mensch sollte nicht gesünder leben als ihm guttut.
 
 ---
 
