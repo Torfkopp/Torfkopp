@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario can compile syntax errors.
-- Mario can access the DB from the UI.
+- Mario hosting is 105% uptime guaranteed.
+- Weird, it always works on Mario's machine.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Der Mensch sollte nicht gesünder leben als ihm guttut.
+> Drinnen ist es wie draußen: bloß anders.
 
 ---
 
