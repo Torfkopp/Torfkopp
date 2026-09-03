@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Ende gut, alles putt.
+> Lieber ein Bund fürs Leben als ein Leben für den Bund.
 
 ---
 
