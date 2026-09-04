@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Alles ist schlechter geworden. Nur eins ist besser geworden: Die Moral ist schlechter geworden.
+> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
 
 ---
 
