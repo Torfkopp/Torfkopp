@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't make http requests. He makes http demands.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Keine Angst: wir kommen nicht in die Hölle. Wir leben schon drin.
+> Die Luft ist Schein, und der trügt.
 
 ---
 
