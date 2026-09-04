@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wird das Leben dir zu viel, trink doch rasch 'ne Flasche Pril.
+> Auf neuen Stühlen denkt sich's besser, sofern man mit dem Hintern denkt.
 
 ---
 
