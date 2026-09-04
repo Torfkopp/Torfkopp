@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario hosting is 105% uptime guaranteed.
-- When Mario drops a table it's bloody but silent.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wer ATA braucht, ist noch lange nicht bescheuert.
+> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
 
 ---
 
