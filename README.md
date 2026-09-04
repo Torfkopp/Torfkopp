@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario exits vim by typing "exit"
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Wirst du des Lebens nicht mehr froh, dann stürze dich in H-2-O.
+> Keine Angst: wir kommen nicht in die Hölle. Wir leben schon drin.
 
 ---
 
