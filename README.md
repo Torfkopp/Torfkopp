@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can't test for equality because he has no equal.
+- Mario hosting is 105% uptime guaranteed.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Auf neuen Stühlen denkt sich's besser, sofern man mit dem Hintern denkt.
+> Wer ATA braucht, ist noch lange nicht bescheuert.
 
 ---
 
