@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario develops in prod.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
+> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
 
 ---
 
