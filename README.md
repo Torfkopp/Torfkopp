@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Weird, it always works on Mario's machine.
-- Mario can store the value 256 in one byte
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can compile syntax errors.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wenn sich zwei streiten, freut sich der Anwalt.
+> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
 
 ---
 
