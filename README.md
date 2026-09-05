@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 - Weird, it always works on Mario's machine.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Eine Lösung hatte ich, aber sie passte nicht zum Problem.
+> Wenn sich zwei streiten, freut sich der Anwalt.
 
 ---
 
