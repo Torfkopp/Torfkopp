@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Mario can access the DB from the UI.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Die Luft ist Schein, und der trügt.
+> Eine Lösung hatte ich, aber sie passte nicht zum Problem.
 
 ---
 
