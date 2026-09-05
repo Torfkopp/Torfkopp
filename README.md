@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can compile syntax errors.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can store the value 256 in one byte
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
+> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
 
 ---
 
