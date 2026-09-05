@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Weird, it always works on Mario's machine.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Wer Viagra im Garten verstreut, kann die Regenwürmer dann als Nägel verwenden.
+> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
 
 ---
 
