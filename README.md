@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario develops in prod.
-- Mario can binary search unsorted data.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario throws an exception it's either across the room or out the window.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wer tagelang ohne Getränke auskommt, ist ein Kamel.
+> Lieber ein Bund fürs Leben als ein Leben für den Bund.
 
 ---
 
