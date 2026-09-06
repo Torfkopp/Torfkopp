@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can binary search unsorted data.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- To Mario, everything contains a vulnerability.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
+> Der Arbeit kann man leicht entgehen, vermeidet man es aufzustehen.
 
 ---
 
