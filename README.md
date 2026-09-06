@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario throws an exception it's either across the room or out the window.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can store the value 256 in one byte
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber ein Bund fürs Leben als ein Leben für den Bund.
+> Dem Alltagsstress kann man entgehen, vermeidet man es aufzustehen.
 
 ---
 
