@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can't test for equality because he has no equal.
-- When Mario throws exceptions, it's across the room.
+- Mario can compile syntax errors.
+- Mario can binary search unsorted data.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Hic Rhodos, hic Malta.
+> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
 
 ---
 
