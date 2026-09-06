@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't use web standards as the web will conform to him.
+- Mario does not code in cycles, he codes in strikes.
+- Mario writes code that optimizes itself.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Der Arbeit kann man leicht entgehen, vermeidet man es aufzustehen.
+> Montagmorgen 10 nach 8, und die Woche nimmt kein Ende.
 
 ---
 
