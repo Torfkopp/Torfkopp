@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario writes code that optimizes itself.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Montagmorgen 10 nach 8, und die Woche nimmt kein Ende.
+> Wer am Fleischwolf steht, sollte nicht gleich durchdrehen.
 
 ---
 
