@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario hosting is 105% uptime guaranteed.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wer am Fleischwolf steht, sollte nicht gleich durchdrehen.
+> Sterben muss man sowieso, schneller gehts mit Marlboro.
 
 ---
 
