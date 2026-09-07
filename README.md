@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Erst grübeln, dann dübeln.
+> Wir wollen Männer, keine Ersatzteile.
 
 ---
 
