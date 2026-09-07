@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario hosting is 105% uptime guaranteed.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario CAN divide by 0.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Sterben muss man sowieso, schneller gehts mit Marlboro.
+> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
 
 ---
 
