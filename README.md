@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
 - Mario does not code in cycles, he codes in strikes.
-- Mario can delete the Recycle Bin.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Wer Glauben schenkt, ist ihn los.
+> Überlegen macht überlegen.
 
 ---
 
