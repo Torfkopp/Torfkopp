@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Weird, it always works on Mario's machine.
+- When Mario drops a table it's bloody but silent.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Wir wollen Männer, keine Ersatzteile.
+> Volkstrauertag: das ist das Erntedankfest der Rüstungsindustrie.
 
 ---
 
