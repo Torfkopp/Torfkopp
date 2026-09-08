@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- When Mario drops a table it's bloody but silent.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Volkstrauertag: das ist das Erntedankfest der Rüstungsindustrie.
+> Wer Glauben schenkt, ist ihn los.
 
 ---
 
