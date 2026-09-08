@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Überlegen macht überlegen.
+> Lieber fünf Minuten feige als ein Leben lang tot.
 
 ---
 
