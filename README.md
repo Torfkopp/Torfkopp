@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario develops in prod.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can delete the Recycle Bin.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Jetzt wollen wir der Sache mal auf den Grund gehen, sagte der Bauer und sprang in die Jauchegrube.
+> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
 
 ---
 
