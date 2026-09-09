@@ -6,13 +6,13 @@
 
 ### About Mario
 - When Mario point to NULL, Null scares.
-- Mario CAN divide by 0.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- 404 errors simply mean that Mario has been there before you.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
+> Lieber von Picasso gemalt als vom Schicksal gezeichnet.
 
 ---
 
