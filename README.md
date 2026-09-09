@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario develops in prod.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Lieber fünf Minuten feige als ein Leben lang tot.
+> Jetzt wollen wir der Sache mal auf den Grund gehen, sagte der Bauer und sprang in die Jauchegrube.
 
 ---
 
