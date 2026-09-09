@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario point to NULL, Null scares.
+- Mario CAN divide by 0.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
+> Wer in sich geht, darf sich nicht wundern, wenn er dort niemanden antrifft.
 
 ---
 
