@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
 - Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
+> Wer morgens zerknittert ist, hat den Tag über viel mehr Entfaltungsmöglichkeiten.
 
 ---
 
