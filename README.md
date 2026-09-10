@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario does not code in cycles, he codes in strikes.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can store the value 256 in one byte
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Frisch gewagt ist halb verschrottet.
+> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
 
 ---
 
