@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Windows 7 was Mario's idea.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can write to ROM.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Sprach Abraham zu Bebraham: "Kann ich mal dein Zebra ham?"
+> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
 
 ---
 
