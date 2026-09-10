@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- 404 errors simply mean that Mario has been there before you.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Lieber von Picasso gemalt als vom Schicksal gezeichnet.
+> Wer finden will, der muss verlieren können.
 
 ---
 
