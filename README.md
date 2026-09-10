@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Windows 7 was Mario's idea.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario does not code in cycles, he codes in strikes.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer finden will, der muss verlieren können.
+> Frisch gewagt ist halb verschrottet.
 
 ---
 
