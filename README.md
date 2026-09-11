@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario can compile syntax errors.
-- Mario can delete the Recycle Bin.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Schutzhaft für alle, dann gibt's keine Krawalle.
+> Nirwana ist nirgendwo, Banana ist überall.
 
 ---
 
