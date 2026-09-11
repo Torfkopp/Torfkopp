@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wozu Flüsse und Seen? Bei uns kommt das Wasser aus der Leitung.
+> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
 
 ---
 
