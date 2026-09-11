@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can store the value 256 in one byte
-- When Mario throws exceptions, it's across the room.
+- Mario develops in prod.
+- Mario can compile syntax errors.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Müde und satt, wie schön is dat.
+> Schutzhaft für alle, dann gibt's keine Krawalle.
 
 ---
 
