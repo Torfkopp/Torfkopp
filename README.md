@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario does not code in cycles, he codes in strikes.
+- Mario develops in prod.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Ein Arbeitstag beginnt um sieben, doch nicht, wenn du im Bett geblieben.
+> Genitiv ins Wasser, weil es Dativ ist.
 
 ---
 
