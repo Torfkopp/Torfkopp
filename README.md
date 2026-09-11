@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- To Mario, everything contains a vulnerability.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can store the value 256 in one byte
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Genitiv ins Wasser, weil es Dativ ist.
+> Müde und satt, wie schön is dat.
 
 ---
 
