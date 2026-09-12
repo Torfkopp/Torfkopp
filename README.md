@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Windows 7 was Mario's idea.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
+> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
 
 ---
 
