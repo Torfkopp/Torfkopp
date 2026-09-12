@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario CAN divide by 0.
+- 404 errors simply mean that Mario has been there before you.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Nirwana ist nirgendwo, Banana ist überall.
+> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
 
 ---
 
