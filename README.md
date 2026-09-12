@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Windows 7 was Mario's idea.
-- Mario never has to use the -f option when deleting files.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can binary search unsorted data.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Ich hab' im Traum dein Bild gesehn, da blieb vor Schreck mein Wecker stehn.
+> Fährt man rückwärts an den Baum, verkleinert sich der Kofferraum.
 
 ---
 
