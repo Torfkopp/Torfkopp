@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Weird, it always works on Mario's machine.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Besser Video als gar kein Deo.
+> Wer im Schlachthaus sitzt, sollte nicht mit Schweinen werfen.
 
 ---
 
