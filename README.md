@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- 404 errors simply mean that Mario has been there before you.
-- When Mario point to NULL, Null scares.
+- Mario does not code in cycles, he codes in strikes.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Waschen allein genügt nicht, man muss auch ab und zu das Wasser wechseln.
+> Erfahrung ist die Summe der Dummheiten, die man im Bedarfsfall wieder anwendet.
 
 ---
 
