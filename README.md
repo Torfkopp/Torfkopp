@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario does not code in cycles, he codes in strikes.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Erfahrung ist die Summe der Dummheiten, die man im Bedarfsfall wieder anwendet.
+> Besser Video als gar kein Deo.
 
 ---
 
