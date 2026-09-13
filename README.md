@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario develops in prod.
-- Mario can't test for equality because he has no equal.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can write to ROM.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wenn man den Garten düngen möchte, dann genügt es nicht, durch den Zaun zu furzen.
+> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
 
 ---
 
