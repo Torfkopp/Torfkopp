@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can binary search unsorted data.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Fährt man rückwärts an den Baum, verkleinert sich der Kofferraum.
+> Lieber Himbeergeist als Männerverstand.
 
 ---
 
