@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can binary search unsorted data.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Lieber Himbeergeist als Männerverstand.
+> Mens sana in Campari Soda.
 
 ---
 
