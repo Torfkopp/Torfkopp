@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can binary search unsorted data.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Mens sana in Campari Soda.
+> Die größte Offenbarung ist die Delle. (Kfz-Reparaturwerkstatt)
 
 ---
 
