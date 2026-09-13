@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can delete the Recycle Bin.
+- Mario can't test for equality because he has no equal.
+- When Mario point to NULL, Null scares.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Delle. (Kfz-Reparaturwerkstatt)
+> Eine Öko-Mähne ist eine Perücke aus Echthaar.
 
 ---
 
