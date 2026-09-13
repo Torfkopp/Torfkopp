@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario develops in prod.
 - Mario can't test for equality because he has no equal.
-- When Mario point to NULL, Null scares.
-- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Eine Öko-Mähne ist eine Perücke aus Echthaar.
+> Wenn man den Garten düngen möchte, dann genügt es nicht, durch den Zaun zu furzen.
 
 ---
 
