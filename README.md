@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can store the value 256 in one byte
-- When Mario throws exceptions, it's across the room.
+- Mario writes code that optimizes itself.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Praxis ist, wenn alles funktioniert und keiner weiß warum.
+> Wenn Dummheit Klingeln würde, dann bräuchtest Du gar kein Handy mehr.
 
 ---
 
