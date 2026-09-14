@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario invented binary by performing a roundhouse on the number 10.
+- Mario writes code that optimizes itself.
+- When Mario drops a table it's bloody but silent.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
+> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
 
 ---
 
