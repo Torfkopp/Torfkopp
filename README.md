@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario can write to ROM.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Sommersprossen sind auch Gesichtspunkte.
+> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
 
 ---
 
