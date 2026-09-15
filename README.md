@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- When Mario drops a table it's bloody but silent.
-- Mario plugs in USB sticks perfectly the first time every time
+- When Mario throws an exception it's either across the room or out the window.
+- Mario can store the value 256 in one byte
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Ulmer Monster, ist dem anderen sein Kölner Gnom.
+> Mit den Händen in den Taschen kann man keine Fliegen haschen.
 
 ---
 
