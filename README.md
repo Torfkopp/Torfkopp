@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pulle. (H. Juhnke)
+> Hunde, die schielen, beißen daneben.
 
 ---
 
