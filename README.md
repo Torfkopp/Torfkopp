@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario can store the value 256 in one byte
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Mit den Händen in den Taschen kann man keine Fliegen haschen.
+> Die größte Offenbarung ist die Pulle. (H. Juhnke)
 
 ---
 
