@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario exits vim by typing "exit"
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can store the value 256 in one byte
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Eine Lösung hatte ich, aber sie passte nicht zum Problem.
+> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
 
 ---
 
