@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- When Mario point to NULL, Null scares.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Löwenmaul und Leumund haben nur wenig gemeinsam.
+> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
 
 ---
 
