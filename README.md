@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can store the value 256 in one byte
-- When Mario point to NULL, Null scares.
+- Mario develops in prod.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Die Welt erstickt in Plastiktüten; die Einkaufstasche kann's verhüten.
+> In der Not legt der Teufel Fliesen.
 
 ---
 
