@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario writes code that optimizes itself.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 - Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Der deutsche Humor ist seiner Seltenheit wegen besonders wertvoll.
+> Eine Lösung hatte ich, aber sie passte nicht zum Problem.
 
 ---
 
