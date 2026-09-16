@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- When Mario point to NULL, Null scares.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario uses /dev/null as STDIN.
+- Mario writes code that optimizes itself.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Will der Bauer schneller pflügen, tät ein Porsche schon genügen.
+> Der deutsche Humor ist seiner Seltenheit wegen besonders wertvoll.
 
 ---
 
