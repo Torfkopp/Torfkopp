@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> In der Not legt der Teufel Fliesen.
+> Wer sich nicht wehrt, endet am Herd.
 
 ---
 
