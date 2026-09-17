@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario plugs in USB sticks perfectly the first time every time
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can access the DB from the UI.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Treib Sport, oder du bleibst gesund.
+> Wir wollen Männer, keine Ersatzteile.
 
 ---
 
