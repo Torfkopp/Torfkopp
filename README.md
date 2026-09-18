@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't make http requests. He makes http demands.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Volkstrauertag: das ist das Erntedankfest der Rüstungsindustrie.
+> Wer Klinken putzt, wird schneller krank.
 
 ---
 
