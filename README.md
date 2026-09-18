@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario exits vim by typing "exit"
+- Weird, it always works on Mario's machine.
+- Mario can store the value 256 in one byte
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Der Dschingis Khan, wenn er nur will.
+> Ich bin zutiefst gerührt, sprach der Teig.
 
 ---
 
