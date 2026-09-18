@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario can store the value 256 in one byte
-- Mario does not code in cycles, he codes in strikes.
+- Mario can compile syntax errors.
+- Mario doesn't make http requests. He makes http demands.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Ich bin zutiefst gerührt, sprach der Teig.
+> Volkstrauertag: das ist das Erntedankfest der Rüstungsindustrie.
 
 ---
 
