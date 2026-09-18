@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
+- Mario can binary search unsorted data.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Parent is the child of Mario.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wer ein langes Gesicht macht, hat mehr zu rasieren.
+> Der Dschingis Khan, wenn er nur will.
 
 ---
 
