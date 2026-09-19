@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wer Klinken putzt, wird schneller krank.
+> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
 
 ---
 
