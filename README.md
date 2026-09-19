@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario uses /dev/null as STDIN.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Wer mit vierzig noch ein -aner, ist ein geistiger Sextaner.
 
 ---
 
