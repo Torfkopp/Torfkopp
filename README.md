@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario can access the DB from the UI.
-- Mario can binary search unsorted data.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario programs do not accept input.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Ein blindes Huhn findet auch mal eine lahme Ente.
+> Lieber Hosenträger als gar keinen Halt.
 
 ---
 
