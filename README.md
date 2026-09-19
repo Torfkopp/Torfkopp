@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario hosting is 105% uptime guaranteed.
+- Mario can access the DB from the UI.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Die Publikationen des Dozenten sind so gut wie die Seminararbeiten seiner Studenten.
+> Ein blindes Huhn findet auch mal eine lahme Ente.
 
 ---
 
