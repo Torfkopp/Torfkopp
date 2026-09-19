@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario programs do not accept input.
-- Mario can compile syntax errors.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario uses /dev/null as STDIN.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Hosenträger als gar keinen Halt.
+> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
 
 ---
 
