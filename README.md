@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario does not code in cycles, he codes in strikes.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
