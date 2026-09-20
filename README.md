@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can access the DB from the UI.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario point to NULL, Null scares.
+- 404 errors simply mean that Mario has been there before you.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Tolle. (Friseur)
+> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
 
 ---
 
