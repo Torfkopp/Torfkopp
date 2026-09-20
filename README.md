@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario programs do not accept input.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario uses /dev/null as STDIN.
-- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
+> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
 
 ---
 
