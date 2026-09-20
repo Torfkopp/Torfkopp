@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario can binary search unsorted data.
-- 404 errors simply mean that Mario has been there before you.
+- Windows 7 was Mario's idea.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Alles wird besser, nichts wird gut.
+> Bei mir herrscht Ordnung: ein Griff, und die Sucherei beginnt.
 
 ---
 
