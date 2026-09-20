@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario uses /dev/null as STDIN.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can access the DB from the UI.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Was dem Nessie sein Nessessär, ist der Kuhlen ihr Fridschidär.
+> Die größte Offenbarung ist die Tolle. (Friseur)
 
 ---
 
