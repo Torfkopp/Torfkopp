@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can compile syntax errors.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Vendi laus amoris, paxe, trixe, caputisse.
+> Drum prüfe, wer sich ewig schindet ...
 
 ---
 
