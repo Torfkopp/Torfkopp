@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Weird, it always works on Mario's machine.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Immer wenn du denkst, blöder geht's nicht, kommen die Amerikaner mit was noch Schwachsinnigerem.
+> Vendi laus amoris, paxe, trixe, caputisse.
 
 ---
 
