@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario can compile syntax errors.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- 404 errors simply mean that Mario has been there before you.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Drum prüfe, wer sich ewig schindet ...
+> Anything goes, nur nicht Albrecht Goes.
 
 ---
 
