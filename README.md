@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Weird, it always works on Mario's machine.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Politik bedeutet Steuern zu erheben, die man selbst nicht zahlt.
+> Frisch verzagt ist halb verzweifelt.
 
 ---
 
