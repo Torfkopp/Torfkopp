@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario can delete the Recycle Bin.
+- Mario can write to ROM.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Frisch verzagt ist halb verzweifelt.
+> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
 
 ---
 
