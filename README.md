@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario can write to ROM.
-- 404 errors simply mean that Mario has been there before you.
+- Windows 7 was Mario's idea.
+- Mario can binary search unsorted data.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
+> Arbeit ist eine lustvolle Variante des Schwachsinns.
 
 ---
 
