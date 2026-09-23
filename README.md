@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Auch stille Wasser sind nass.
+> Hinten sind die Schweine fett.
 
 ---
 
