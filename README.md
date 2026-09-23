@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Parent is the child of Mario.
+- Mario can binary search unsorted data.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Hinten sind die Schweine fett.
+> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
 
 ---
 
