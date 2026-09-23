@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 - Mario doesn't need to use AJAX because pages are too afraid to postback.
 
 ---
 
 ### German Wisdom
-> Gott ist nicht tot; nur beim Wort zum Sonntag eingeschlafen.
+> Auch stille Wasser sind nass.
 
 ---
 
