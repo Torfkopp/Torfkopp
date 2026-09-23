@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can binary search unsorted data.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Arbeit ist eine lustvolle Variante des Schwachsinns.
+> Bei Dreckfuhlern muss man aufpassen wie ein Lachs.
 
 ---
 
