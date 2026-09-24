@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Parent is the child of Mario.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Wem nicht zu helfen ist, dem ist vielleicht zu schaden.
+> Lieber fröhlich im Bett als traurig bei der Arbeit.
 
 ---
 
