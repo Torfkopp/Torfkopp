@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can access the DB from the UI.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Raritäten, die in Massen auftreten, sind besonders selten.
+> Was Vatikan, kann Mutti schon lange.
 
 ---
 
