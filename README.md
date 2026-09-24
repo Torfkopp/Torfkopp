@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario never has to use the -f option when deleting files.
+- Mario can write to ROM.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Lieber fröhlich im Bett als traurig bei der Arbeit.
+> Raritäten, die in Massen auftreten, sind besonders selten.
 
 ---
 
