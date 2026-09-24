@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario programs do not accept input.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Mein Kopf sagt "Steh auf und sei aktiv!" Aber mein Körper grinst nur.
+> Was du heute kannst besorgen, brauchst du morgen nicht zu borgen.
 
 ---
 
