@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario writes code that optimizes itself.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
+> Die größte Offenbarung ist die Pupille. (Optiker)
 
 ---
 
