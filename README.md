@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario writes code that optimizes itself.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario does not code in cycles, he codes in strikes.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Pupille. (Optiker)
+> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
