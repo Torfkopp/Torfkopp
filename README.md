@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario does not code in cycles, he codes in strikes.
-- Weird, it always works on Mario's machine.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
+> Früher fuhren wir jedes Wochenende in den Wald. Heute haben wir die Müllabfuhr.
 
 ---
 
