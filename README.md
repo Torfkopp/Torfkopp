@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- When Mario throws an exception it's either across the room or out the window.
+- Mario can't test for equality because he has no equal.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> An die Waffeln, Bürger!
+> Hast du im Bett dich heißgewühlt, trink Coca-Cola eisgekühlt.
 
 ---
 
