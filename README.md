@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario exits vim by typing "exit"
+- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Was Vatikan, kann Mutti schon lange.
+> An die Waffeln, Bürger!
 
 ---
 
