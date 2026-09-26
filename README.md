@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario hosting is 105% uptime guaranteed.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario never has to use the -f option when deleting files.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Denen habe ich's gegeben, sagte der Steuerzahler, als er das Finanzamt verließ.
+> Willst du dir den Tag versauen, musst du in den Spiegel schauen.
 
 ---
 
