@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- To Mario, everything contains a vulnerability.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Ein Taucher, der nicht taucht, taucht nix.
+> Jetzt gehen wir der Sache auf den Grund, sprach der Bauer und sprang in die Jauchegrube.
 
 ---
 
