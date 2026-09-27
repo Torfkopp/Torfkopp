@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can compile syntax errors.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
+> Wer wird denn gleich in den Puff gehen!
 
 ---
 
