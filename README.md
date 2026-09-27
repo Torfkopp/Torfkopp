@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- 404 errors simply mean that Mario has been there before you.
-- Mario exits vim by typing "exit"
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Windows 7 was Mario's idea.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Babypille fauler Zauber, Ajax macht das Becken sauber.
+> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
 
 ---
 
