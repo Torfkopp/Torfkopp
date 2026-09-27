@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can binary search unsorted data.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer wird denn gleich in den Puff gehen!
+> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
 
 ---
 
