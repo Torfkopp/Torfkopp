@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- 404 errors simply mean that Mario has been there before you.
+- Mario exits vim by typing "exit"
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Ein tobender Mann ist dynamisch, eine tobende Frau hysterisch.
+> Babypille fauler Zauber, Ajax macht das Becken sauber.
 
 ---
 
