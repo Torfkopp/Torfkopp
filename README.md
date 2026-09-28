@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can access the DB from the UI.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario can delete the Recycle Bin.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
+> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
 
 ---
 
