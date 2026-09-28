@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
+- Mario can binary search unsorted data.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Früher wusste ich nicht, was Liebe ist; dann entdeckte ich den Computer.
+> Was liegt bei Reisen näher als die Ferne?
 
 ---
 
