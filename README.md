@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can compile syntax errors.
+- Mario can access the DB from the UI.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
+> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
 
 ---
 
