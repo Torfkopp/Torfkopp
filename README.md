@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario point to NULL, Null scares.
 - Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
+> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
 
 ---
 
