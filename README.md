@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can't test for equality because he has no equal.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wer dauernd auf die Pauke haut, geht eines Tages flöten.
+> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
 
 ---
 
