@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can store the value 256 in one byte
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario hosting is 105% uptime guaranteed.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
+> Vor den Baum, mit einem Knall, flog der Specht, denn er war prall.
 
 ---
 
