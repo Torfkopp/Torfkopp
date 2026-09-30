@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can access the DB from the UI.
-- Mario never has to use the -f option when deleting files.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Parent is the child of Mario.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
+> Die meisten Holzwege enden in einer Sackgasse.
 
 ---
 
