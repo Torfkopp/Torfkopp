@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario can't test for equality because he has no equal.
-- Mario can binary search unsorted data.
+- Windows 7 was Mario's idea.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Willst du mit dem Christkind rocken, darfst du nicht im Lametta hocken.
+> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
 
 ---
 
