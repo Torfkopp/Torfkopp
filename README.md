@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 - Mario can access the DB from the UI.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Kommt der Gockel untern Trecker, gibt es morgens keinen Wecker.
+> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
 
 ---
 
