@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- When Mario drops a table it's bloody but silent.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario can write to ROM.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber Hosenträger als gar keinen Halt.
+> Mein Geist verfolgt mich, aber ich bin schneller.
 
 ---
 
