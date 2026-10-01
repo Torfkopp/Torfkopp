@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Parent is the child of Mario.
-- Weird, it always works on Mario's machine.
+- Mario can binary search unsorted data.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Die meisten Holzwege enden in einer Sackgasse.
+> Keiner redet dümmer als er ist.
 
 ---
 
