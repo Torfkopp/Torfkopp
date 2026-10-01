@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario can write to ROM.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Mein Geist verfolgt mich, aber ich bin schneller.
+> Rückgrat bitte beim Chef abgeben.
 
 ---
 
