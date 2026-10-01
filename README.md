@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario never has to use the -f option when deleting files.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Keiner redet dümmer als er ist.
+> Lieber Hosenträger als gar keinen Halt.
 
 ---
 
