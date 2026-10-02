@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Rückgrat bitte beim Chef abgeben.
+> Mens sana in Campari Soda.
 
 ---
 
