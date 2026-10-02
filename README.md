@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- The compiler fixes its own mistakes and never warns Mario about anything.
 - If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Mens sana in Campari Soda.
+> Literatur - Sekundärliteratur - Tertiärliteratur - Makulatur.
 
 ---
 
