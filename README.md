@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can binary search unsorted data.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- To Mario, everything contains a vulnerability.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Am Ende kackt die Ente.
+> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
 
 ---
 
