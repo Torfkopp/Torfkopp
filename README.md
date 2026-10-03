@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- To Mario, everything contains a vulnerability.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer im Museum sitzt, sollte nicht mit Schreinen werfen.
+> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
 
 ---
 
