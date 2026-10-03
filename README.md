@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario uses /dev/null as STDIN.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Einstein ist tot, Newton ist tot, und mir ist auch schon schlecht.
+> Alle können denken; nur bleibt es den meisten erspart.
 
 ---
 
