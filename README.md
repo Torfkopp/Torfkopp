@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- When Mario point to NULL, Null scares.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not code in cycles, he codes in strikes.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
+> Am Ende kackt die Ente.
 
 ---
 
