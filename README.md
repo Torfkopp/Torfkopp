@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can delete the Recycle Bin.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Lieber träumen unter Bäumen als schaffen unter Affen.
+> Volkstrauertag: das ist das Erntedankfest der Rüstungsindustrie.
 
 ---
 
