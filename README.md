@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario CAN divide by 0.
-- Mario never has to use the -f option when deleting files.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Lieber von Picasso gemalt als vom Schicksal gezeichnet.
+> Lieber träumen unter Bäumen als schaffen unter Affen.
 
 ---
 
