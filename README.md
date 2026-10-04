@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can binary search unsorted data.
+- To Mario, everything contains a vulnerability.
+- Mario can delete the Recycle Bin.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Alle können denken; nur bleibt es den meisten erspart.
+> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
 
 ---
 
