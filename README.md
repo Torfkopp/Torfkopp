@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can delete the Recycle Bin.
-- Mario doesn't make http requests. He makes http demands.
+- When Mario throws exceptions, it's across the room.
+- Mario CAN divide by 0.
+- Mario never has to use the -f option when deleting files.
 
 ---
 
 ### German Wisdom
-> Rülpst im Schweinestall der Knecht, wird's sogar den Schweinen schlecht.
+> Lieber von Picasso gemalt als vom Schicksal gezeichnet.
 
 ---
 
