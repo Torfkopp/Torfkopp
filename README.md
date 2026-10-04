@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can access the DB from the UI.
+- When Mario point to NULL, Null scares.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Volkstrauertag: das ist das Erntedankfest der Rüstungsindustrie.
+> Homer ist, wenn man trotzdem lacht.
 
 ---
 
