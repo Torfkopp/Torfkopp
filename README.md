@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- When Mario point to NULL, Null scares.
-- Mario exits vim by typing "exit"
+- Mario develops in prod.
+- To Mario, everything contains a vulnerability.
+- Mario invented binary by performing a roundhouse on the number 10.
 
 ---
 
 ### German Wisdom
-> Homer ist, wenn man trotzdem lacht.
+> Lieber fünf vor zwölf als keine nach eins.
 
 ---
 
