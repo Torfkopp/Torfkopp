@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario doesn't make http requests. He makes http demands.
+- Mario can access the DB from the UI.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden.
+> Die größte Offenbarung ist die Rille. (Plattenspieler-Nadel)
 
 ---
 
