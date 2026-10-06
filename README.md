@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can binary search unsorted data.
-- Mario can delete the Recycle Bin.
-- When Mario point to NULL, Null scares.
+- When Mario throws an exception it's either across the room or out the window.
+- To Mario, everything contains a vulnerability.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
+> Cave Caplanem.
 
 ---
 
