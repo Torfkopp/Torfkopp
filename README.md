@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario develops in prod.
+- Mario can binary search unsorted data.
+- Mario can delete the Recycle Bin.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Rille. (Plattenspieler-Nadel)
+> Die Wahrheit hat noch keinem geschadet - außer dem, der sie ausspricht.
 
 ---
 
