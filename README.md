@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - Mario can compile syntax errors.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht; alles zahlt, ALDI lacht.
+> Wenn der Bauer schneller rennt, hinter ihm der CASTOR brennt.
 
 ---
 
