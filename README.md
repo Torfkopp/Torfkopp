@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Windows 7 was Mario's idea.
-- Mario programs do not accept input.
+- Mario can store the value 256 in one byte
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Müde und satt, wie schön is dat.
+> Gib immer 100 % - außer beim Blutspenden.
 
 ---
 
