@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- Mario can compile syntax errors.
+- When Mario drops a table it's bloody but silent.
+- Windows 7 was Mario's idea.
 - Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Wenn der Bauer schneller rennt, hinter ihm der CASTOR brennt.
+> Müde und satt, wie schön is dat.
 
 ---
 
