@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can access the DB from the UI.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Gib immer 100 % - außer beim Blutspenden.
+> Guter Staat ist teuer.
 
 ---
 
