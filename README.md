@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Parent is the child of Mario.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Gäste, die voll kommen, sind nicht vollkommen.
+> Betrachten Sie Ihr Gehalt als Anwesenheitsprämie.
 
 ---
 
