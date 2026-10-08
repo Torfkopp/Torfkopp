@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- When Mario point to NULL, Null scares.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Guter Staat ist teuer.
+> Gäste, die voll kommen, sind nicht vollkommen.
 
 ---
 
