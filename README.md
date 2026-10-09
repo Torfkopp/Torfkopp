@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't make http requests. He makes http demands.
-- Mario can compile syntax errors.
+- Windows 7 was Mario's idea.
+- Mario does not code in cycles, he codes in strikes.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
+> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
 
 ---
 
