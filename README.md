@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario can write to ROM.
+- Mario doesn't make http requests. He makes http demands.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Ich bin nicht tot, ich rieche nur komisch.
+> Die größte Offenbarung ist die Zelle. (Direktor, JVA)
 
 ---
 
