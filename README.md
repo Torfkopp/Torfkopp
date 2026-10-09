@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- To Mario, everything contains a vulnerability.
-- Mario can write to ROM.
-- Mario can't test for equality because he has no equal.
+- Mario programs do not accept input.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Lehrer sind Menschen, die nach der Schule in Pension gehen.
+> Ich bin nicht tot, ich rieche nur komisch.
 
 ---
 
