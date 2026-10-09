@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- To Mario, everything contains a vulnerability.
+- Mario can write to ROM.
 - Mario can't test for equality because he has no equal.
-- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Lieber abends später ins Bett als morgens früher aufstehen.
+> Lehrer sind Menschen, die nach der Schule in Pension gehen.
 
 ---
 
