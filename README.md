@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- When Mario point to NULL, Null scares.
-- Mario can write to ROM.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
+> Nicht Güte zählt, sondern Bonität.
 
 ---
 
