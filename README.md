@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario develops in prod.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario uses /dev/null as STDIN.
+- Mario does not code in cycles, he codes in strikes.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
+> Vater und Mutter gehn immer kaputter.
 
 ---
 
