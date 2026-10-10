@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario does not code in cycles, he codes in strikes.
-- Mario writes code that optimizes itself.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Friert's den Bauern arg am Schuh, steht er in der Tiefkühltruh'.
+> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
 
 ---
 
