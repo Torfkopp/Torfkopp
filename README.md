@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- Mario does not code in cycles, he codes in strikes.
-- Mario programs do not accept input.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- When Mario point to NULL, Null scares.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Vater und Mutter gehn immer kaputter.
+> Die größte Offenbarung ist die Zwille. (Autonomer, Hafenstraße)
 
 ---
 
