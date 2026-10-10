@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Weird, it always works on Mario's machine.
+- Mario writes code that optimizes itself.
+- Mario develops in prod.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
+> Ist des Bauern Hand so kalt, liegt sie abgehackt im Wald.
 
 ---
 
