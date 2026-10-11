@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario does not code in cycles, he codes in strikes.
+- Mario writes code that optimizes itself.
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Nicht Güte zählt, sondern Bonität.
+> Spontaneität will wohlüberlegt sein.
 
 ---
 
