@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario writes code that optimizes itself.
-- Mario can delete the Recycle Bin.
+- Mario can access the DB from the UI.
+- Mario can binary search unsorted data.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Spontaneität will wohlüberlegt sein.
+> Ein Playboy hat immer was in Petting.
 
 ---
 
