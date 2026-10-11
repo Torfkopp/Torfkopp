@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can binary search unsorted data.
-- Mario programs do not accept input.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario exits vim by typing "exit"
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Ein Playboy hat immer was in Petting.
+> Mit einer Wanze im Telefon wirst du zum Entertainer.
 
 ---
 
