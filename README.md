@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario exits vim by typing "exit"
-- Mario can delete the Recycle Bin.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Mit einer Wanze im Telefon wirst du zum Entertainer.
+> Alle wollen zurück zur Natur; aber keiner zu Fuß.
 
 ---
 
