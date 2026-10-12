@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario programs do not accept input.
-- Mario does not code in cycles, he codes in strikes.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can binary search unsorted data.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Die nächste Steinzeit kommt bestimmt.
+> Er aß die Milch und trank das Brot, doch als er starb, da war er tot.
 
 ---
 
