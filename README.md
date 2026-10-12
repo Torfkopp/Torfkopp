@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can binary search unsorted data.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario develops in prod.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Er aß die Milch und trank das Brot, doch als er starb, da war er tot.
+> Arbeitskraft? Nein danke.
 
 ---
 
