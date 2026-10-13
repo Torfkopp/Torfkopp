@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario develops in prod.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario point to NULL, Null scares.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Arbeitskraft? Nein danke.
+> Jedem Fiaker seine Viagra!
 
 ---
 
