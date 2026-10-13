@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When Mario point to NULL, Null scares.
-- Windows 7 was Mario's idea.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can store the value 256 in one byte
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
 
 ---
 
 ### German Wisdom
-> Lieber Himbeergeist als Männerverstand.
+> Gefährlich wird es, wenn die Dummen fleißig werden.
 
 ---
 
