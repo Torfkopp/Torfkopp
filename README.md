@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario programs do not accept input.
+- Mario can access the DB from the UI.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
+> Wer hat denn den Käse ins Fernsehn gerollt?
 
 ---
 
