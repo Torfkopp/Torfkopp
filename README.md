@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs do not accept input.
-- Mario can access the DB from the UI.
-- Parent is the child of Mario.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can store the value 256 in one byte
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Wer hat denn den Käse ins Fernsehn gerollt?
+> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
 
 ---
 
