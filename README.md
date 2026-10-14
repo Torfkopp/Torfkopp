@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can store the value 256 in one byte
-- Mario can delete the Recycle Bin.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can't test for equality because he has no equal.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Wenn alle täten, was sie mich könnten, käme ich nicht mehr zum Sitzen.
+> High sein, frei sein, bloß in keiner Partei sein.
 
 ---
 
