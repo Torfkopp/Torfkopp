@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario CAN divide by 0.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 
 ---
 
 ### German Wisdom
-> Blumen, die nicht wachsen, nennt man Wachsblumen.
+> Freiheit für Grönland! Nieder mit dem Packeis!
 
 ---
 
