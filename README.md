@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When Mario throws exceptions, it's across the room.
-- Mario develops in prod.
+- Mario never has to use the -f option when deleting files.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- The compiler fixes its own mistakes and never warns Mario about anything.
 
 ---
 
 ### German Wisdom
-> Wir wollen endlich alle Kanzler werden!
+> Blumen, die nicht wachsen, nennt man Wachsblumen.
 
 ---
 
