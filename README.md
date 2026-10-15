@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario can access the DB from the UI.
+- When Mario throws exceptions, it's across the room.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't need a password to access your system, the system simply gives him access.
 
 ---
 
 ### German Wisdom
-> Der Klügere gibt so lange nach, bis er der Dumme ist.
+> Kinder unter fünf Jahren sind mit Klebeband oder Vorhängeschloss zu sichern.
 
 ---
 
