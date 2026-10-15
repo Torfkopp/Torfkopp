@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario drops a table it's bloody but silent.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Freiheit für Grönland! Nieder mit dem Packeis!
+> Der Klügere gibt so lange nach, bis er der Dumme ist.
 
 ---
 
