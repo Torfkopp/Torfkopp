@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario doesn't make http requests. He makes http demands.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- When Mario throws an exception it's either across the room or out the window.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Frisch gewachst ist halb gefallen.
+> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
 
 ---
 
