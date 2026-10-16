@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can store the value 256 in one byte
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Ich stehe hier am Mittelmeer und habe keine Mittel mehr.
+> Steuern werden immer nur erhoben, nie erniedrigt.
 
 ---
 
