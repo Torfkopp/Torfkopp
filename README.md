@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario writes code that optimizes itself.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
 
 ---
 
 ### German Wisdom
-> Der Klügere gibt vor, nachzugeben.
+> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
 
 ---
 
