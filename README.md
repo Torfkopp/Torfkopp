@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Steuern werden immer nur erhoben, nie erniedrigt.
+> Der Klügere gibt vor, nachzugeben.
 
 ---
 
