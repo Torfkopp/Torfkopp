@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario can access the DB from the UI.
+- When Mario throws exceptions, it's across the room.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Praktisch denken - Särge schenken.
+> Fällt der Bauer voll vom Trecker, war der Schnaps mal wieder lecker.
 
 ---
 
