@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario CAN divide by 0.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Unter dem Pflaster liegt der Strand.
+> Was dem einen sein Beat, ist dem anderen seine Beate.
 
 ---
 
