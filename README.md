@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can write to ROM.
+- Parent is the child of Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
+> It's öde to be blöde.
 
 ---
 
