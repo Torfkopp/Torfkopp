@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario exits vim by typing "exit"
-- When Mario throws an exception it's either across the room or out the window.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Wer A sagt, kann auch gleich Halstabletten nehmen.
+> Praktisch denken - Särge schenken.
 
 ---
 
