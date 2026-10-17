@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Parent is the child of Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario hosting is 105% uptime guaranteed.
+- Mario exits vim by typing "exit"
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> It's öde to be blöde.
+> Wer A sagt, kann auch gleich Halstabletten nehmen.
 
 ---
 
