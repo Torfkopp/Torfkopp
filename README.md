@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario plugs in USB sticks perfectly the first time every time
-- Mario can delete the Recycle Bin.
-- Mario can binary search unsorted data.
+- Mario never has to use the -f option when deleting files.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Gerne der Zeiten gedenk' ich, da alle Glieder gelenkig - bis auf eins. Doch die Zeiten sind vorüber, steif geworden alle Glieder - bis auf eins.
+> Was meinen Sie als Unbeteiligter zum Thema Intelligenz?
 
 ---
 
