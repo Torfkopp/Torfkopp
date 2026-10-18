@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can't test for equality because he has no equal.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario can delete the Recycle Bin.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Gesunde Verdorbenheit ist besser als verdorbene Gesundheit.
+> Gerne der Zeiten gedenk' ich, da alle Glieder gelenkig - bis auf eins. Doch die Zeiten sind vorüber, steif geworden alle Glieder - bis auf eins.
 
 ---
 
