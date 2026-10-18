@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario does not code in cycles, he codes in strikes.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Was meinen Sie als Unbeteiligter zum Thema Intelligenz?
+> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
 
 ---
 
