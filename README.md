@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario can delete the Recycle Bin.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
+> Tausend Volt in den Armen, aber im Kopf die Birne kaputt.
 
 ---
 
