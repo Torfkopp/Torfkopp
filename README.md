@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario can delete the Recycle Bin.
 
 ---
 
 ### German Wisdom
-> Was dem einen sein Beat, ist dem anderen seine Beate.
+> Wer zu allem seinen Senf gibt, gerät in den Verdacht, ein Würstchen zu sein.
 
 ---
 
