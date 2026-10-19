@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario programs do not accept input.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Unterstützt die Wiedervereinigung der Spalttablette!
+> Lieber reich und gesund als arm und krank.
 
 ---
 
