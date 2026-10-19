@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario CAN divide by 0.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wer vom eigenen Schnarchen aufwacht, sollte das Zimmer wechseln.
+> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
 
 ---
 
