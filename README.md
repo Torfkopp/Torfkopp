@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can write to ROM.
+- To Mario, everything contains a vulnerability.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Lieber reich und gesund als arm und krank.
+> Treib Sport, oder du bleibst gesund.
 
 ---
 
