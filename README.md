@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario CAN divide by 0.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Windows 7 was Mario's idea.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Wenn du nicht willst, du dumme Kuh, dann mach auch keinem andern muh.
+> Ein Taucher, der nicht taucht, taucht nix.
 
 ---
 
