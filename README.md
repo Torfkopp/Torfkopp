@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Windows 7 was Mario's idea.
-- Mario does not code in cycles, he codes in strikes.
+- Mario uses /dev/null as STDIN.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Ein Taucher, der nicht taucht, taucht nix.
+> Unterstützt die Wiedervereinigung der Spalttablette!
 
 ---
 
