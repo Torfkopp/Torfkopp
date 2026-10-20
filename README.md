@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can write to ROM.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Ich hab' die Kantine satt, ich esse nur noch Kitekat.
+> "Jetzt geht's rund!", sprach der Spatz und flog in den Ventilator.
 
 ---
 
