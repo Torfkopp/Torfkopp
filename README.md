@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- To Mario, everything contains a vulnerability.
-- Mario hosting is 105% uptime guaranteed.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> Treib Sport, oder du bleibst gesund.
+> Ich hab' die Kantine satt, ich esse nur noch Kitekat.
 
 ---
 
