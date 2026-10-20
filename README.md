@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can write to ROM.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
 
 ---
 
 ### German Wisdom
-> "Jetzt geht's rund!", sprach der Spatz und flog in den Ventilator.
+> Bei manchen ist der Kopf eine Sicherungskopie des Hinterns.
 
 ---
 
