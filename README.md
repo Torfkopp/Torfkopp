@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Weird, it always works on Mario's machine.
-- Mario can write to ROM.
+- Mario can delete the Recycle Bin.
+- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't use web standards as the web will conform to him.
 
 ---
 
 ### German Wisdom
-> Unfug und Unrecht werden mit Fug und Recht bestraft.
+> Wo ein Wille ist, da ist auch ein Gebüsch.
 
 ---
 
