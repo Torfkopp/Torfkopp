@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario doesn't make http requests. He makes http demands.
-- Mario doesn't use web standards as the web will conform to him.
+- Mario can store the value 256 in one byte
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Wo ein Wille ist, da ist auch ein Gebüsch.
+> Es ist noch kein Kleister vom Himmel gefallen.
 
 ---
 
