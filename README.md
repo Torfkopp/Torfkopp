@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario uses /dev/null as STDIN.
-- When Mario throws exceptions, it's across the room.
-- When Mario drops a table it's bloody but silent.
+- To Mario, everything contains a vulnerability.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Riech ich dein Aroma, fall ich gleich ins Koma.
+> Pubertät ist, wenn die Eltern anfangen schwierig zu werden.
 
 ---
 
