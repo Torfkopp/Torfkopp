@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Lieber Gott, mach mich nicht groß, ich werd ja doch bloß arbeitslos.
+> Alle angenehmen Dinge sind entweder unmoralisch, illegal oder machen dick.
 
 ---
 
