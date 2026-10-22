@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario uses /dev/null as STDIN.
 - When Mario throws exceptions, it's across the room.
-- Mario can't test for equality because he has no equal.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- When Mario drops a table it's bloody but silent.
 
 ---
 
 ### German Wisdom
-> Lieber hoch zu Ross als unter aller Sau.
+> Riech ich dein Aroma, fall ich gleich ins Koma.
 
 ---
 
