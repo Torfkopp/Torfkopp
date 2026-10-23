@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Jetzt gehen wir der Sache auf den Grund, sprach der Bauer und sprang in die Jauchegrube.
+> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
 
 ---
 
