@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can store the value 256 in one byte
+- When Mario drops a table it's bloody but silent.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- To Mario, everything contains a vulnerability.
 
 ---
 
 ### German Wisdom
-> Alle angenehmen Dinge sind entweder unmoralisch, illegal oder machen dick.
+> Lieber Wein, Weib und Gesang als Bier, Mann und Gebrüll.
 
 ---
 
