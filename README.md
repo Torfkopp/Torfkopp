@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario does not code in cycles, he codes in strikes.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Wer beim Schwimmen ins Schwimmen kommt, geht beim Baden baden.
+> Fällt der Bauer tot vom Traktor, ist in der Nähe ein Reaktor.
 
 ---
 
