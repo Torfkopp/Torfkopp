@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario doesn't use web standards as the web will conform to him.
-- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario can't test for equality because he has no equal.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Tut Ench Amun, was Nofre täte?
+> Ende gut, alles putt.
 
 ---
 
