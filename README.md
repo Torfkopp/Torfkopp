@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario hosting is 105% uptime guaranteed.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario writes code that optimizes itself.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Ende gut, alles putt.
+> Kleine Bosheiten erhalten die Feindschaft.
 
 ---
 
