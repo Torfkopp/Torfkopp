@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Windows 7 was Mario's idea.
+- Mario can store the value 256 in one byte
+- Mario doesn't make http requests. He makes http demands.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Mit leerem Kopf nickt es sich leichter.
+> Hinter den Drahtziehern stehen die Stacheldrahtzieher.
 
 ---
 
