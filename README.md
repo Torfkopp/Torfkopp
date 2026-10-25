@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Mario programs do not accept input.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Flauten sind halb so schlimm, wenn man rechtzeitig von ihnen Wind bekommt.
+> Früher las ich Karl Marx, doch dann entdeckte ich Pippi Langstrumpf.
 
 ---
 
