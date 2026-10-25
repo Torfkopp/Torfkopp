@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't use web standards as the web will conform to him.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Der Geist denkt, das Geld lenkt.
+> Ich summe, also bien ich.
 
 ---
 
