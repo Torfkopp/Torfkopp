@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario uses /dev/null as STDIN.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Verblühen die Frauen, verduften die Männer.
+> Wer ken Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
