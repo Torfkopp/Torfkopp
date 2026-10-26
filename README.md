@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can compile syntax errors.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario develops in prod.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Die Pflicht ruft? Wir rufen zurück.
+> Rote Haare, Sommersprossen sind die besten Bettgenossen.
 
 ---
 
