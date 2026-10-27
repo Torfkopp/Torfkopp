@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario develops in prod.
-- Mario can access the DB from the UI.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario never has to use the -f option when deleting files.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Rote Haare, Sommersprossen sind die besten Bettgenossen.
+> Lieber fröhlich im Bett als traurig bei der Arbeit.
 
 ---
 
