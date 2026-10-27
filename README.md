@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can store the value 256 in one byte
+- Mario exits vim by typing "exit"
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Magerquark macht uns stark; Haferbrei macht uns frei.
+> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
 
 ---
 
