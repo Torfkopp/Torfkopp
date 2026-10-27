@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario does not code in cycles, he codes in strikes.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Energiesparer: heizt mit Meerwasser, das ist fast reines Öl.
+> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
 
 ---
 
