@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Windows 7 was Mario's idea.
+- Mario can access the DB from the UI.
+- Mario programs do not accept input.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
 
 ---
 
 ### German Wisdom
-> Mitleid bekommt man geschenkt; Neid muss man sich verdienen.
+> Schlanker Staat - dicker Profit.
 
 ---
 
