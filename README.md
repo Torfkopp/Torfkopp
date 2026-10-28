@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario programs do not accept input.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario does not code in cycles, he codes in strikes.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Schlanker Staat - dicker Profit.
+> Wo nix läuft, läuft der Fernseher [oder: Computer].
 
 ---
 
