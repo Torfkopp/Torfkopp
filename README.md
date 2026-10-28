@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario does not code in cycles, he codes in strikes.
-- Mario exits vim by typing "exit"
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario programs do not accept input.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wo nix läuft, läuft der Fernseher [oder: Computer].
+> Blumen, die nicht wachsen, nennt man Wachsblumen.
 
 ---
 
