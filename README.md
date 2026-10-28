@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario programs do not accept input.
-- Mario CAN divide by 0.
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- When Mario throws exceptions, it's across the room.
 
 ---
 
 ### German Wisdom
-> Blumen, die nicht wachsen, nennt man Wachsblumen.
+> Vorsicht: der Schütze schützt nicht, er schießt!
 
 ---
 
