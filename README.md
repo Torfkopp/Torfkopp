@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario can compile syntax errors.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario writes code that optimizes itself.
+- Mario can binary search unsorted data.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Wissen ist Macht, ich weiß nichts, macht nichts.
+> Frech gesagt ist halb gefeuert.
 
 ---
 
