@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- When Mario throws exceptions, it's across the room.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario can compile syntax errors.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Vorsicht: der Schütze schützt nicht, er schießt!
+> Wissen ist Macht, ich weiß nichts, macht nichts.
 
 ---
 
