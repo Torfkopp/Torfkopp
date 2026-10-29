@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario can binary search unsorted data.
-- Parent is the child of Mario.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario does not code in cycles, he codes in strikes.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Frech gesagt ist halb gefeuert.
+> Wo gedoubelt wird, da fallen Zähne (Stuntman-Weisheit).
 
 ---
 
