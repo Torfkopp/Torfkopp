@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
+> Lieber reich und gesund als arm und krank.
 
 ---
 
