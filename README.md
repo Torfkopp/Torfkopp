@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario writes code that optimizes itself.
+- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Lieber reich und gesund als arm und krank.
+> Jedes Mal, wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
