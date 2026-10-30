@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario develops in prod.
+- When Mario throws an exception it's either across the room or out the window.
 - Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
 
 ---
 
