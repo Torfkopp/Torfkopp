@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario does not code in cycles, he codes in strikes.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wo gedoubelt wird, da fallen Zähne (Stuntman-Weisheit).
+> Wir sind zu allem fähig, aber zu nichts zu gebrauchen.
 
 ---
 
