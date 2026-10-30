@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario doesn't use web standards as the web will conform to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
 - Mario writes code that optimizes itself.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Jedes Mal, wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
 
 ---
 
