@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario develops in prod.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
+> Man soll den Tag nicht vor dem Elternabend loben.
 
 ---
 
