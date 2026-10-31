@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario develops in prod.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario writes code that optimizes itself.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario exits vim by typing "exit"
+- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
 
 ---
 
 ### German Wisdom
-> Da wendet sich der hohe Gast und stürzt davon in wilder Hast.
+> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
 
 ---
 
