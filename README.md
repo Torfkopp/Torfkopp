@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario exits vim by typing "exit"
-- If Mario was such a great programmer he would come here and smash my face against my bhdhanidu #_evwvs udna bduwbw hdjaknd vsikala ivghhs bdjauyvs jfjysgva
+- Mario doesn't use web standards as the web will conform to him.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario develops in prod.
 
 ---
 
 ### German Wisdom
-> Wer mit dem Strom schwimmt, treibt irgendwann ins Meer.
+> Wer anderen eine Grube gräbt, kommt leicht ins Grübeln.
 
 ---
 
