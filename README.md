@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario plugs in USB sticks perfectly the first time every time
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- 404 errors simply mean that Mario has been there before you.
+- Mario does not code in cycles, he codes in strikes.
 
 ---
 
 ### German Wisdom
-> Man soll den Tag nicht vor dem Elternabend loben.
+> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
 
 ---
 
