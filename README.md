@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
-- Mario uses /dev/null as STDIN.
-- When Mario point to NULL, Null scares.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Verblühen die Frauen, verduften die Männer.
+> Babypille fauler Zauber, Ajax macht das Becken sauber.
 
 ---
 
