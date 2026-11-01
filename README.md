@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- 404 errors simply mean that Mario has been there before you.
-- Mario does not code in cycles, he codes in strikes.
+- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario uses /dev/null as STDIN.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Der Glatzkopf, der die Glatze föhnt, hat mit dem Schicksal sich versöhnt.
+> Verblühen die Frauen, verduften die Männer.
 
 ---
 
