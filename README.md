@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario develops in prod.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario does not code in cycles, he codes in strikes.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Am Ende kackt die Ente.
+> Die größte Offenbarung ist der Olle. (Kind eines großzügigen Vaters)
 
 ---
 
