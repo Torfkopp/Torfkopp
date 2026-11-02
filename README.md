@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- Mario can delete the Recycle Bin.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 - To Mario, everything contains a vulnerability.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
+> Alles Geschmackssache, dachte der Affe und biss in die Seife.
 
 ---
 
