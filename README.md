@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario does not code in cycles, he codes in strikes.
-- When Mario throws an exception it's either across the room or out the window.
+- To Mario, everything contains a vulnerability.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Olle. (Kind eines großzügigen Vaters)
+> Niemand ist überflüssig, er kann immer noch als schlechtes Beispiel dienen.
 
 ---
 
