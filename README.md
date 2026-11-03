@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario exits vim by typing "exit"
+- Mario can write to ROM.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Eine Frau ohne Mann ist wie ein Fisch ohne Fahrrad.
+> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
 
 ---
 
