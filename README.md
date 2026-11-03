@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario exits vim by typing "exit"
-- Mario can write to ROM.
-- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
+- To Mario, everything contains a vulnerability.
+- Mario plugs in USB sticks perfectly the first time every time
 
 ---
 
 ### German Wisdom
-> Semmelbrösel in den Socken hält den ärgsten Schweißfuß trocken.
+> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
 
 ---
 
