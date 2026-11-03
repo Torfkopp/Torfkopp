@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- To Mario, everything contains a vulnerability.
 - Mario plugs in USB sticks perfectly the first time every time
+- Parent is the child of Mario.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Wer sich verlobt zur rechten Zeit, braucht nicht zu nehmen, was übrigbleibt.
+> Wer Hundefleisch isst, darf sich nicht wundern, wenn der Magen knurrt.
 
 ---
 
