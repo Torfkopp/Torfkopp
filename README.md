@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can delete the Recycle Bin.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- To Mario, everything contains a vulnerability.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Alles Geschmackssache, dachte der Affe und biss in die Seife.
+> Eine Frau ohne Mann ist wie ein Fisch ohne Fahrrad.
 
 ---
 
