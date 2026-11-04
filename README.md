@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's favourite key combination would be Ctrl, Alt, Roundhouse.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario can store the value 256 in one byte
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Viele Ängste sind des Hasen Fuß.
+> Ein Playboy hat immer was in Petting.
 
 ---
 
