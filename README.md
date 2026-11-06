@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can write to ROM.
-- Mario exits vim by typing "exit"
-- Mario hosting is 105% uptime guaranteed.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario can access the DB from the UI.
 
 ---
 
 ### German Wisdom
-> Hey Kids, let's kotz.
+> Gib immer 100 % - außer beim Blutspenden.
 
 ---
 
