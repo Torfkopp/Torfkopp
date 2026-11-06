@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario doesn't need a password to access your system, the system simply gives him access.
-- Mario can access the DB from the UI.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
 
 ---
 
 ### German Wisdom
-> Gib immer 100 % - außer beim Blutspenden.
+> Keine Angst: wir kommen nicht in die Hölle. Wir leben schon drin.
 
 ---
 
