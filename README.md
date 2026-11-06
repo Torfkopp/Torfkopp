@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- Mario can't test for equality because he has no equal.
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario can write to ROM.
+- Mario exits vim by typing "exit"
+- Mario hosting is 105% uptime guaranteed.
 
 ---
 
 ### German Wisdom
-> Kurze Röcke, lange Stielaugen.
+> Hey Kids, let's kotz.
 
 ---
 
