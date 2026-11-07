@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario hosting is 105% uptime guaranteed.
-- Parent is the child of Mario.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can access the DB from the UI.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Multimedia ist, wenn es trotzdem klappt.
+> Unter dem Pflaster liegt der Strand.
 
 ---
 
