@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario can binary search unsorted data.
+- When Mario point to NULL, Null scares.
 
 ---
 
 ### German Wisdom
-> Keine Angst: wir kommen nicht in die Hölle. Wir leben schon drin.
+> Die größte Offenbarung ist die Stille. (Lao'tse)
 
 ---
 
