@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario writes code that optimizes itself.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- When Mario drops a table it's bloody but silent.
+- Mario hosting is 105% uptime guaranteed.
+- Parent is the child of Mario.
 
 ---
 
 ### German Wisdom
-> Ein Bild von Meister Remmebrand das wär mir lieber an der Wand.
+> Multimedia ist, wenn es trotzdem klappt.
 
 ---
 
