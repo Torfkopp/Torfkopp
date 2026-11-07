@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario can binary search unsorted data.
-- When Mario point to NULL, Null scares.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Stille. (Lao'tse)
+> Wenn die Bettwanzen beißen, beiß zurück!
 
 ---
 
