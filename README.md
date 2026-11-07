@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario programs do not accept input.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario writes code that optimizes itself.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wenn die Bettwanzen beißen, beiß zurück!
+> Ein Bild von Meister Remmebrand das wär mir lieber an der Wand.
 
 ---
 
