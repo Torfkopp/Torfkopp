@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario can access the DB from the UI.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario does not code in cycles, he codes in strikes.
+- 404 errors simply mean that Mario has been there before you.
 
 ---
 
 ### German Wisdom
-> Neulich in der Suppenküche habe ich ein rührendes Mädchen kennengelernt.
+> Coeo, ergo sum.
 
 ---
 
