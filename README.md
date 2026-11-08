@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario uses /dev/null as STDIN.
+- Mario doesn't need to use AJAX because pages are too afraid to postback.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
+> Der fette Vogel bricht den Ast.
 
 ---
 
