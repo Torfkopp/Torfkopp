@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can access the DB from the UI.
-- Mario exits vim by typing "exit"
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Unter dem Pflaster liegt der Strand.
+> Es ist ein Brauch von alters her: Die Dicken sind besonders schwer.
 
 ---
 
