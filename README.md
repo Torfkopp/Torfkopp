@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario does not code in cycles, he codes in strikes.
-- 404 errors simply mean that Mario has been there before you.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 
 ---
 
 ### German Wisdom
-> Coeo, ergo sum.
+> Der deutsche Humor ist seiner Seltenheit wegen besonders wertvoll.
 
 ---
 
