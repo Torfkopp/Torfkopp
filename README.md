@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario throws exceptions, it's across the room.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
 - Mario doesn't need a password to access your system, the system simply gives him access.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Stoppt die Luftverschmutzung, hört auf zu atmen.
+> Die Luft ist Schein, und der trügt.
 
 ---
 
