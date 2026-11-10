@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario develops in prod.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario can access the DB from the UI.
+- Mario can't test for equality because he has no equal.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Die Zeit zurückdrehen hieße Milch aus Käse zu produzieren.
+> Guter Staat ist teuer.
 
 ---
 
