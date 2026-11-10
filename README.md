@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can access the DB from the UI.
-- Mario can't test for equality because he has no equal.
-- Mario doesn't make http requests. He makes http demands.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
 
 ---
 
 ### German Wisdom
-> Guter Staat ist teuer.
+> Stoppt die Luftverschmutzung, hört auf zu atmen.
 
 ---
 
