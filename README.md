@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can write to ROM.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
 
 ---
 
 ### German Wisdom
-> Service ist Verdienst vom Kunden.
+> Frauen gemeinsam sind stark geschädigt.
 
 ---
 
