@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Die Luft ist Schein, und der trügt.
+> Service ist Verdienst vom Kunden.
 
 ---
 
