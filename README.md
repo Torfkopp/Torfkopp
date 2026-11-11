@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- When Mario point to NULL, Null scares.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Frauen gemeinsam sind stark geschädigt.
+> Die größte Offenbarung ist der Wille. (Therapeut)
 
 ---
 
