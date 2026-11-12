@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario point to NULL, Null scares.
-- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 - Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist der Wille. (Therapeut)
+> Wer den Teufel an die Wand malt, spart die Tapete.
 
 ---
 
