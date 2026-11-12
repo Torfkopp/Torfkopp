@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario hosting is 105% uptime guaranteed.
-- Mario invented binary by performing a roundhouse on the number 10.
-- Mario can write to ROM.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario doesn't need a password to access your system, the system simply gives him access.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Die Intelligenz verfolgt mich, doch ich bin schneller.
+> Jeder Bürger wird zum Wurm, sieht er eine Unifurm.
 
 ---
 
