@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't make http requests. He makes http demands.
+- Mario hosting is 105% uptime guaranteed.
+- Mario invented binary by performing a roundhouse on the number 10.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Wer den Teufel an die Wand malt, spart die Tapete.
+> Die Intelligenz verfolgt mich, doch ich bin schneller.
 
 ---
 
