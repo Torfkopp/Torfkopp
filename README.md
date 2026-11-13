@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Mario exits vim by typing "exit"
-- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- Mario uses /dev/null as STDIN.
+- When Mario throws exceptions, it's across the room.
+- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Auf dem Baum, da saß ein Specht; der Baum war hoch, dem Specht war schlecht.
+> Ruhe ist der erste Bürgerfluch.
 
 ---
 
