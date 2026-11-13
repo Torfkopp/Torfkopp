@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
+- When Mario throws an exception it's either across the room or out the window.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario uses /dev/null as STDIN.
-- When Mario throws exceptions, it's across the room.
-- Mario doesn't make http requests. He makes http demands.
 
 ---
 
 ### German Wisdom
-> Ruhe ist der erste Bürgerfluch.
+> Regnets im Mai, ist der April vorbei. (Bauernregel)
 
 ---
 
