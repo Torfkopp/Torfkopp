@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario can compile syntax errors.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
 
 ---
 
 ### German Wisdom
-> Nichts ist schwerer zu ertragen als Reißverschluss auf vollem Magen.
+> Milch trinken ist besser als Quark reden.
 
 ---
 
