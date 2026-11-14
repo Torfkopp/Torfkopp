@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario programs occupy 150% of CPU, even when they are not executing.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- When Mario drops a table it's bloody but silent.
+- Mario can read all encrypted data, because nothing can hide from Mario.
+- Mario can't test for equality because he has no equal.
 
 ---
 
 ### German Wisdom
-> Milch trinken ist besser als Quark reden.
+> Es tut NIVEA als beim ersten Mal.
 
 ---
 
