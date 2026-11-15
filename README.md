@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario drops a table it's bloody but silent.
-- Mario can read all encrypted data, because nothing can hide from Mario.
-- Mario can't test for equality because he has no equal.
+- Mario never has to use the -f option when deleting files.
+- When Mario point to NULL, Null scares.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
 
 ---
 
 ### German Wisdom
-> Es tut NIVEA als beim ersten Mal.
+> Frauenpower macht uns sauer.
 
 ---
 
