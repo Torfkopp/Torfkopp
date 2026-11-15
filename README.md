@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never has to use the -f option when deleting files.
-- When Mario point to NULL, Null scares.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Mario can binary search unsorted data.
+- Mario can write to ROM.
 
 ---
 
 ### German Wisdom
-> Frauenpower macht uns sauer.
+> Wer Ordnung hält, ist nur zu faul zum Suchen.
 
 ---
 
