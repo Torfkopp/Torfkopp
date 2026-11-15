@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Mario can binary search unsorted data.
-- Mario can write to ROM.
+- Mario can delete the Recycle Bin.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
 
 ---
 
 ### German Wisdom
-> Wer Ordnung hält, ist nur zu faul zum Suchen.
+> Alle Menschen werden [noch!] als Original geboren, die meisten sterben als Kopie.
 
 ---
 
