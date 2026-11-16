@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can compile syntax errors.
-- Mario can write to ROM.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- When Mario throws exceptions, it's across the room.
+- To Mario, everything contains a vulnerability.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Die größte Offenbarung ist die Rille. (Plattenspieler-Nadel)
+> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
 
 ---
 
