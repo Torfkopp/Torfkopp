@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can store the value 256 in one byte
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario can compile syntax errors.
+- Mario can write to ROM.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Lieber ein verwanztes Telefon als ein lausiges Fernsehprogramm!
+> Die größte Offenbarung ist die Rille. (Plattenspieler-Nadel)
 
 ---
 
