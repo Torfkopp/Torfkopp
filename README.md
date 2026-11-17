@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
-- Mario's code doesn't get bugs. The bugs become industry-defining features.
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- Weird, it always works on Mario's machine.
+- Mario can't test for equality because he has no equal.
+- Mario exits vim by typing "exit"
 
 ---
 
 ### German Wisdom
-> Wir fordern Haftpflicht für künstliche Gebisse.
+> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
 
 ---
 
