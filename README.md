@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws exceptions, it's across the room.
-- To Mario, everything contains a vulnerability.
-- Mario CAN divide by 0.
+- Mario writes code that optimizes itself.
+- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Verbietet Posaunenchöre! (Bürgerinitiative Jericho)
+> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
 
 ---
 
