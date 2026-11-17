@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario writes code that optimizes itself.
-- Mario never gets a syntax error. Instead, the language gets an DoesNotConformToMario error.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario's code doesn't get bugs. The bugs become industry-defining features.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
 
 ---
 
 ### German Wisdom
-> Die Liebe ist ein Feuer; man weiß nie, wie es ausgeht.
+> Wir fordern Haftpflicht für künstliche Gebisse.
 
 ---
 
