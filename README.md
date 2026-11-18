@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 - Mario does not need to know about class factory pattern. He can instantiate interfaces.
-- When Mario throws an exception it's either across the room or out the window.
+- Mario writes code that optimizes itself.
 
 ---
 
 ### German Wisdom
-> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
+> Wer kein Geld hat, sollte wenigstens nicht arbeiten.
 
 ---
 
