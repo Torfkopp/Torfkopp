@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Weird, it always works on Mario's machine.
-- Mario can't test for equality because he has no equal.
-- Mario exits vim by typing "exit"
+- Mario doesn't use web standards as the web will conform to him.
+- Mario can binary search unsorted data.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wenn alles schläft und einer spricht, den Zustand nennt man Unterricht.
+> Das Sterben ist nicht so schlimm, aber man fühlt sich am nächsten Tag so kaputt.
 
 ---
 
