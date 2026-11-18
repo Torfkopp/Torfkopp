@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't use web standards as the web will conform to him.
-- Mario can binary search unsorted data.
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- Mario does not need to know about class factory pattern. He can instantiate interfaces.
+- When Mario throws an exception it's either across the room or out the window.
 
 ---
 
 ### German Wisdom
-> Das Sterben ist nicht so schlimm, aber man fühlt sich am nächsten Tag so kaputt.
+> Das Denken sollte man den Pferden überlassen. Sie sind beschlagen.
 
 ---
 
