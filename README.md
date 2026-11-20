@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
-- Mario can binary search unsorted data.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario can store the value 256 in one byte
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Es ist noch kein Kleister vom Himmel gefallen.
+> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
 
 ---
 
