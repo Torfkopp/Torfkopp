@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
-- Mario doesn't have disk latency because the hard drive knows to hurry the hell up.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 - Mario doesn't program with a keyboard. He stares the computer down until it does what he wants.
+- Mario can binary search unsorted data.
 
 ---
 
 ### German Wisdom
-> Stille Nacht, heilige Nacht; alles zahlt, ALDI lacht.
+> Es ist noch kein Kleister vom Himmel gefallen.
 
 ---
 
