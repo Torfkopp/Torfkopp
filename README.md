@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario can store the value 256 in one byte
-- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
+- Mario can binary search unsorted data.
+- Mario wrote a program that counts from infinity to 0. And I ran it two times.
 
 ---
 
 ### German Wisdom
-> Wer A sagt, muss auch HOI sagen (Seemannsspruch).
+> Wie man sich fettet, so riecht man.
 
 ---
 
