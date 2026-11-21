@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
-- Mario CAN divide by 0.
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario drops a table it's bloody but silent.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
+> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
 
 ---
 
