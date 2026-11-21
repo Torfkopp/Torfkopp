@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario drops a table it's bloody but silent.
-- Mario can compile syntax errors.
+- Windows 7 was Mario's idea.
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Am Abend werden die Faulen fleißig und die Hungrigen durstig.
+> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
 
 ---
 
