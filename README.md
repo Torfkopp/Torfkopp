@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario can binary search unsorted data.
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
+- Mario doesn't need the cloud to scale his applications, he uses his laptop.
+- When Mario declares arrays, they are all of infinite size, because Mario knows no bounds.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wie man sich fettet, so riecht man.
+> Nieder mit der Schwerkraft - es lebe der Leichtsinn!
 
 ---
 
