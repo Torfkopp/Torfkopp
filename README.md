@@ -6,13 +6,13 @@
 
 ### About Mario
 - Windows 7 was Mario's idea.
+- 404 errors simply mean that Mario has been there before you.
 - There is no Esc key on Mario's keyboard, because no one escapes Mario.
-- Mario can read all encrypted data, because nothing can hide from Mario.
 
 ---
 
 ### German Wisdom
-> Echte Bankgeheimnisse gibt es nur in Parkanlagen.
+> Woran erkannt man ein Schaschlik? Es sieht so spießig aus.
 
 ---
 
