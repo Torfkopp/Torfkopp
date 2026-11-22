@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario writes code that optimizes itself.
-- Mario can store the value 256 in one byte
+- The compiler fixes its own mistakes and never warns Mario about anything.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
+- Weird, it always works on Mario's machine.
 
 ---
 
 ### German Wisdom
-> Warum nur den Lukas hauen? Markus, Matthäus und Johannes sind auch noch da!
+> Man soll die Gäste feuern, wie sie fallen.
 
 ---
 
