@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- When Mario throws an exception it's either across the room or out the window.
-- Mario invented binary by performing a roundhouse on the number 10.
-- The programs that Mario writes don't have version numbers because he only writes them once. If a user reports a bug or has a feature request, he doesn't live to see the sun set.
+- Mario never gets compiler errors, the language changes itself to accommodate Mario.
+- Mario writes code that optimizes itself.
+- Mario can store the value 256 in one byte
 
 ---
 
 ### German Wisdom
-> Immer wenn der Chef rot sieht, ärgere ich mich schwarz und mache blau.
+> Warum nur den Lukas hauen? Markus, Matthäus und Johannes sind auch noch da!
 
 ---
 
