@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- The compiler fixes its own mistakes and never warns Mario about anything.
-- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
-- Weird, it always works on Mario's machine.
+- Mario does not code in cycles, he codes in strikes.
+- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
+- Mario can compile syntax errors.
 
 ---
 
 ### German Wisdom
-> Man soll die Gäste feuern, wie sie fallen.
+> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
 
 ---
 
