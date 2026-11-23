@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario does not code in cycles, he codes in strikes.
-- Mario doesn't need a debugger, he just stares down the bug until the code confesses.
-- Mario can compile syntax errors.
+- Windows 7 was Mario's idea.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- There is no Esc key on Mario's keyboard, because no one escapes Mario.
 
 ---
 
 ### German Wisdom
-> Wer seinen Traum verwirklichen will, muss erst mal aufwachen.
+> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
 
 ---
 
