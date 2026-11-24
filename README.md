@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Windows 7 was Mario's idea.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
-- There is no Esc key on Mario's keyboard, because no one escapes Mario.
+- When Mario throws exceptions, it's across the room.
+- Mario can write to ROM.
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wer redet, was er nicht sollte, muss hören, was er nicht wollte.
+> Arbeit ist der Untergang der trinkenden Klasse.
 
 ---
 
