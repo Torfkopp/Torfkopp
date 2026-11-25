@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario never gets compiler errors, the language changes itself to accommodate Mario.
-- Mario doesn't need to use AJAX because pages are too afraid to postback.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario uses /dev/null as STDIN.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
+- Mario programs do not accept input.
 
 ---
 
 ### German Wisdom
-> Das ewig Weibliche zieht uns hinunter und hält uns frisch, gesund und munter.
+> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
 
 ---
 
