@@ -6,13 +6,13 @@
 
 ### About Mario
 - Mario uses /dev/null as STDIN.
-- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
-- Mario programs do not accept input.
+- When Mario drops a table it's bloody but silent.
+- Mario's Internet connection is faster upstream than downstream because even data has more incentive to run from him than to him.
 
 ---
 
 ### German Wisdom
-> Es trinkt der Mensch, es säuft das Pferd - in Bayern ist es umgekehrt.
+> Lieber Null Bock als keine Ziege.
 
 ---
 
