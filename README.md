@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Mario invented binary by performing a roundhouse on the number 10.
-- When chuck committed to Master, the branch pulled off his master-title and gave it to chuck.
+- Mario can't test for equality because he has no equal.
+- Weird, it always works on Mario's machine.
+- Windows 7 was Mario's idea.
 
 ---
 
 ### German Wisdom
-> Auch Dornröschen trug kein Höschen.
+> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
 
 ---
 
