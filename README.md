@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Weird, it always works on Mario's machine.
-- Windows 7 was Mario's idea.
+- Mario plugs in USB sticks perfectly the first time every time
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Mario CAN divide by 0.
 
 ---
 
 ### German Wisdom
-> Wenn es Politikern die Sprache verschlägt, halten sie eine Rede.
+> Ich bin wirklich kein Zyniker; ich habe nur Erfahrung.
 
 ---
 
