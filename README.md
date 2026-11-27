@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario wrote a program that counts from infinity to 0. And I ran it two times.
-- Mario doesn't need the cloud to scale his applications, he uses his laptop.
-- Parent is the child of Mario.
+- Mario can't test for equality because he has no equal.
+- Mario can binary search unsorted data.
+- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
 
 ---
 
 ### German Wisdom
-> Wer trinkt, schadet dem Durst.
+> Blumen, die nicht wachsen, nennt man Wachsblumen.
 
 ---
 
