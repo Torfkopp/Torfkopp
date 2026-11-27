@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Mario can't test for equality because he has no equal.
-- Mario can binary search unsorted data.
-- Mario doesn't need garbage collection because he doesn't call .Dispose(), he calls .DropKick().
+- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
+- When Mario throws an exception it's either across the room or out the window.
+- Mario programs occupy 150% of CPU, even when they are not executing.
 
 ---
 
 ### German Wisdom
-> Blumen, die nicht wachsen, nennt man Wachsblumen.
+> Lieber Hochstapler als Tiefflieger.
 
 ---
 
