@@ -5,14 +5,14 @@
 ---
 
 ### About Mario
-- Every SQL statement that Mario codes has an implicit “COMMIT” in its end.
-- When Mario throws an exception it's either across the room or out the window.
-- Mario programs occupy 150% of CPU, even when they are not executing.
+- Mario can delete the Recycle Bin.
+- Mario never gets a syntax error.  Instead, the language gets an DoesNotConformToMario error.
+- It can't be though because Mario' keyboard doesn't have a Ctrl key.  NOTHING controls Mario.
 
 ---
 
 ### German Wisdom
-> Lieber Hochstapler als Tiefflieger.
+> Krieg ist, wenn es trotzdem kracht.
 
 ---
 
